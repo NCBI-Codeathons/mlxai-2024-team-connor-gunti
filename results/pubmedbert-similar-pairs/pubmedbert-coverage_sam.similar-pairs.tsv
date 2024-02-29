@@ -1,0 +1,71 @@
+name	score	s1	s2
+coverage_sam	0.89180565	number of wild oat	number of wild oat and number of wild barley
+coverage_sam	0.96763074	number wild oat number wild barley	number of wild oat and number of wild barley
+coverage_sam	0.8793556	number wild oat number wild barley	number of wild oat
+coverage_sam	0.9046835	oat number wild barley number	number of wild oat and number of wild barley
+coverage_sam	0.94449025	oat number wild barley number	number wild oat number wild barley
+coverage_sam	0.8569939	2034.38x	1900.13x
+coverage_sam	0.8939455	2034.38x	2812.37x
+coverage_sam	0.87621325	2579.51x	2812.37x
+coverage_sam	0.8723575	2579.51x	2034.38x
+coverage_sam	0.9456549	number wild oat	number of wild oat
+coverage_sam	0.8646141	number wild oat	number wild oat number wild barley
+coverage_sam	0.8684335	2305.11x	1900.13x
+coverage_sam	0.88259906	2305.11x	2812.37x
+coverage_sam	0.8962104	2305.11x	2034.38x
+coverage_sam	0.8641022	2305.11x	2579.51x
+coverage_sam	0.8890473	2315.82x	2812.37x
+coverage_sam	0.8827274	2315.82x	2034.38x
+coverage_sam	0.92753994	2315.82x	2305.11x
+coverage_sam	0.85938025	1620.58x	2812.37x
+coverage_sam	0.8954551	1620.58x	2034.38x
+coverage_sam	0.8736884	1620.58x	2579.51x
+coverage_sam	0.85466814	1620.58x	2305.11x
+coverage_sam	0.8600802	1620.58x	2315.82x
+coverage_sam	0.86616635	2629.267x	2579.51x
+coverage_sam	0.8886428	2727.61x	2812.37x
+coverage_sam	0.8687824	2727.61x	2034.38x
+coverage_sam	0.86842155	2727.61x	2579.51x
+coverage_sam	0.86431104	2727.61x	1620.58x
+coverage_sam	0.9035151	2727.61x	2629.267x
+coverage_sam	0.87620264	2925.99x	2812.37x
+coverage_sam	0.860739	2925.99x	2034.38x
+coverage_sam	0.8631254	2925.99x	2305.11x
+coverage_sam	0.8654235	2925.99x	2315.82x
+coverage_sam	0.8585588	2925.99x	1620.58x
+coverage_sam	0.87019354	1613.81x	2812.37x
+coverage_sam	0.8818751	1613.81x	2034.38x
+coverage_sam	0.8562092	1613.81x	2579.51x
+coverage_sam	0.8606061	1613.81x	2305.11x
+coverage_sam	0.89514637	1613.81x	2315.82x
+coverage_sam	0.9218529	1613.81x	1620.58x
+coverage_sam	0.89231545	3339.30x	2812.37x
+coverage_sam	0.8849069	3339.30x	2034.38x
+coverage_sam	0.8512224	3339.30x	2579.51x
+coverage_sam	0.8831879	3339.30x	2305.11x
+coverage_sam	0.8608186	3339.30x	1620.58x
+coverage_sam	0.85544676	3339.30x	2727.61x
+coverage_sam	0.8525779	3339.30x	1613.81x
+coverage_sam	0.8782263	2568.38x	2812.37x
+coverage_sam	0.8817123	2568.38x	2034.38x
+coverage_sam	0.89978826	2568.38x	2579.51x
+coverage_sam	0.8559733	2568.38x	2305.11x
+coverage_sam	0.86292803	2568.38x	1620.58x
+coverage_sam	0.8519811	2568.38x	2727.61x
+coverage_sam	0.8715701	2568.38x	3339.30x
+coverage_sam	0.8731679	1762.84x	2812.37x
+coverage_sam	0.89088255	1762.84x	2034.38x
+coverage_sam	0.88599193	1762.84x	2315.82x
+coverage_sam	0.8525997	1762.84x	1620.58x
+coverage_sam	0.8751199	1762.84x	1613.81x
+coverage_sam	0.87479734	2340.51x	2812.37x
+coverage_sam	0.90015715	2340.51x	2034.38x
+coverage_sam	0.9020368	2340.51x	2579.51x
+coverage_sam	0.90871525	2340.51x	2305.11x
+coverage_sam	0.91203	2340.51x	2315.82x
+coverage_sam	0.8795454	2340.51x	1620.58x
+coverage_sam	0.86764467	2340.51x	2925.99x
+coverage_sam	0.8571185	2340.51x	1613.81x
+coverage_sam	0.858046	2340.51x	3339.30x
+coverage_sam	0.86086845	2340.51x	2568.38x
+coverage_sam	0.8714134	2340.51x	1762.84x

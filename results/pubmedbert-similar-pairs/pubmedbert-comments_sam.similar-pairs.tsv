@@ -1,0 +1,2266 @@
+name	score	s1	s2
+comments_sam	0.86005235	s085	s073
+comments_sam	0.8617133	s043	s073
+comments_sam	0.87691295	s043	s052
+comments_sam	0.9184233	dna59	dna58
+comments_sam	0.90257645	s058	s052
+comments_sam	0.86524755	s058	s085
+comments_sam	0.8847177	s058	s043
+comments_sam	0.9500725	still bleeding so no vaginal swabs/ph	still bleeding so no vaginal swabs
+comments_sam	0.8718718	dna87	dna89
+comments_sam	0.9116216	dna9	dna8
+comments_sam	0.8730129	s032	s043
+comments_sam	0.8553824	s032	s058
+comments_sam	0.856482	dna149	dna152
+comments_sam	0.91568726	dna57	dna58
+comments_sam	0.8795686	dna57	dna59
+comments_sam	0.85833585	dna57	dna54
+comments_sam	0.86819386	dna147	dna149
+comments_sam	0.8861197	s066	s073
+comments_sam	0.8784285	s066	s085
+comments_sam	0.8767085	s066	s058
+comments_sam	0.8642322	dna90	dna89
+comments_sam	0.9430387	control of cre/cas9/chd2 crrna/tracrrna/rad51-injected-1	control of cre/cas9/chd2 crrna/tracrrna-injected-2
+comments_sam	0.8800776	baseline-active humanised mouse sample number biological replicate number	remission-responder humanised mouse sample number biological replicate number
+comments_sam	0.88384545	s019	s085
+comments_sam	0.8500178	s019	s009
+comments_sam	0.851947	s019	s066
+comments_sam	0.8674282	s024	s085
+comments_sam	0.8586625	s024	s043
+comments_sam	0.8987483	s024	s032
+comments_sam	0.9115784	s024	s019
+comments_sam	0.9345397	relapse-non-responder humanised mouse sample number biological replicate number	remission-responder humanised mouse sample number biological replicate number
+comments_sam	0.8806062	relapse-non-responder humanised mouse sample number biological replicate number	baseline-active humanised mouse sample number biological replicate number
+comments_sam	0.8582003	relapse-non-responder humanised mouse sample number biological replicate number	relapse-non-responder sample number technical replicate number
+comments_sam	0.86657864	dna72	dna74
+comments_sam	0.8897339	s079	s073
+comments_sam	0.8504528	s079	s052
+comments_sam	0.88971907	s079	s085
+comments_sam	0.8718074	s079	s058
+comments_sam	0.85920835	s079	s032
+comments_sam	0.8613029	s079	s009
+comments_sam	0.85955167	s079	s019
+comments_sam	0.86040425	s079	s024
+comments_sam	0.85577095	dna136	dna138
+comments_sam	0.99794936	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.8517661	s038	s073
+comments_sam	0.8738528	s038	s085
+comments_sam	0.90482867	s038	s043
+comments_sam	0.8807965	s038	s058
+comments_sam	0.89155227	s038	s032
+comments_sam	0.8672251	s038	s066
+comments_sam	0.90192807	s038	s019
+comments_sam	0.8933989	s038	s024
+comments_sam	0.8616799	s038	s079
+comments_sam	0.857235	s064	s073
+comments_sam	0.8689145	s064	s085
+comments_sam	0.85618377	s064	s043
+comments_sam	0.89976066	s064	s058
+comments_sam	0.92770547	s064	s066
+comments_sam	0.8522037	s064	s024
+comments_sam	0.8669841	s064	s038
+comments_sam	0.86457765	dna169	dna164
+comments_sam	0.8660059	dna66	dna69
+comments_sam	0.8794	s065	s073
+comments_sam	0.8784132	s065	s085
+comments_sam	0.8765266	s065	s058
+comments_sam	0.9434414	s065	s066
+comments_sam	0.85685194	s065	s019
+comments_sam	0.86944044	s065	s079
+comments_sam	0.85922444	s065	s038
+comments_sam	0.9355812	s065	s064
+comments_sam	0.9264636	s076	s073
+comments_sam	0.88666433	s076	s085
+comments_sam	0.8836951	s076	s066
+comments_sam	0.8512763	s076	s024
+comments_sam	0.93523514	s076	s079
+comments_sam	0.86042935	s076	s038
+comments_sam	0.8676071	s076	s064
+comments_sam	0.8831037	s076	s065
+comments_sam	0.85969716	dna192	dna196
+comments_sam	0.8592113	dna192	dna189
+comments_sam	0.9598897	tape worm on liver	liver tape worm
+comments_sam	0.8847065	dna156	dna157
+comments_sam	0.879964	s084	s073
+comments_sam	0.94920915	s084	s085
+comments_sam	0.856377	s084	s043
+comments_sam	0.8613981	s084	s058
+comments_sam	0.85361874	s084	s032
+comments_sam	0.8660587	s084	s066
+comments_sam	0.8581911	s084	s019
+comments_sam	0.88213253	s084	s024
+comments_sam	0.90526307	s084	s079
+comments_sam	0.8538381	s084	s038
+comments_sam	0.8827832	s084	s064
+comments_sam	0.8791323	s084	s065
+comments_sam	0.8938121	s084	s076
+comments_sam	0.8576076	dna24	dna26
+comments_sam	0.86308396	dna170	dna164
+comments_sam	0.86664164	dna170	dna169
+comments_sam	0.85653234	still bleeding so unable to take vaginal swabs and ph	still bleeding so no vaginal swabs
+comments_sam	0.8826306	still bleeding so unable to take vaginal swabs and ph	still bleeding so no vaginal swabs/ph
+comments_sam	0.85329705	dna171	dna192
+comments_sam	0.88383937	dna171	dna170
+comments_sam	0.8524358	given erythromycin	given pcm and erythromycin
+comments_sam	0.85856426	worm on liver	tape worm on liver
+comments_sam	0.859036	s014	s085
+comments_sam	0.86255825	s014	s043
+comments_sam	0.85160387	s014	s058
+comments_sam	0.85513705	s014	s032
+comments_sam	0.8837199	s014	s019
+comments_sam	0.87907976	s014	s024
+comments_sam	0.8718854	s014	s038
+comments_sam	0.95917475	negative3	negative2
+comments_sam	0.98128253	worm on swim bladder	worm in swim bladder
+comments_sam	0.86098146	erythromycin	given erythromycin
+comments_sam	0.85457724	dna110	dna105
+comments_sam	0.99896276	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.9992908	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.9062623	dna39	dna40
+comments_sam	0.8596287	s062	s073
+comments_sam	0.873211	s062	s052
+comments_sam	0.8569751	s062	s043
+comments_sam	0.9109101	s062	s058
+comments_sam	0.89626205	s062	s066
+comments_sam	0.85251904	s062	s038
+comments_sam	0.93494713	s062	s064
+comments_sam	0.9130645	s062	s065
+comments_sam	0.8663332	dna97	dna99
+comments_sam	0.851887	healthy	not healthy
+comments_sam	0.9103105	dna25	dna26
+comments_sam	0.89281344	dna25	dna24
+comments_sam	0.95104563	negative1	negative2
+comments_sam	0.931461	negative1	negative3
+comments_sam	0.90060925	s049	s052
+comments_sam	0.8606635	s049	s085
+comments_sam	0.89633757	s049	s043
+comments_sam	0.9031528	s049	s058
+comments_sam	0.8648635	s049	s032
+comments_sam	0.8532251	s049	s019
+comments_sam	0.89426816	s049	s079
+comments_sam	0.85861623	s049	s038
+comments_sam	0.8569857	s049	s064
+comments_sam	0.85931456	s049	s065
+comments_sam	0.8526313	s049	s076
+comments_sam	0.86489815	s049	s084
+comments_sam	0.8549893	s049	s062
+comments_sam	0.85129243	s006	s085
+comments_sam	0.8579602	s006	s058
+comments_sam	0.8643702	s006	s032
+comments_sam	0.9148724	s006	s009
+comments_sam	0.8531514	s006	s019
+comments_sam	0.85531855	s006	s024
+comments_sam	0.86304337	s006	s079
+comments_sam	0.87392855	s006	s038
+comments_sam	0.8920281	has heavy bleeding so no vaginal swabs or ph taken	still bleeding so no vaginal swabs/ph
+comments_sam	0.87546396	has heavy bleeding so no vaginal swabs or ph taken	still bleeding so unable to take vaginal swabs and ph
+comments_sam	0.86079454	dna186	dna183
+comments_sam	0.8678788	dna186	dna189
+comments_sam	0.8564632	dna92	dna89
+comments_sam	0.8570552	dna92	dna99
+comments_sam	0.9119003	on erythromycin	erythromycin
+comments_sam	0.998963	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.99889	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.99960816	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.8841729	dna52	dna54
+comments_sam	0.88695115	s078	s073
+comments_sam	0.8640529	s078	s085
+comments_sam	0.8716601	s078	s058
+comments_sam	0.9482533	s078	s079
+comments_sam	0.86135584	s078	s038
+comments_sam	0.9254204	s078	s076
+comments_sam	0.87529856	s078	s084
+comments_sam	0.85397285	s078	s049
+comments_sam	0.86516345	s078	s006
+comments_sam	0.85923517	dna71	dna69
+comments_sam	0.8591168	dna71	dna74
+comments_sam	0.87209713	dna71	dna72
+comments_sam	0.86019963	dna159	dna164
+comments_sam	0.85198516	dna159	dna157
+comments_sam	0.8616638	dna159	dna156
+comments_sam	0.9982333	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.9990821	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.99918973	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.99920195	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.87691253	s012	s019
+comments_sam	0.8977256	s012	s024
+comments_sam	0.8680669	s012	s038
+comments_sam	0.9236956	s012	s014
+comments_sam	0.85771215	s012	s006
+comments_sam	0.8513343	dna23	dna26
+comments_sam	0.8965881	dna23	dna24
+comments_sam	0.8564416	dna23	dna25
+comments_sam	0.85276985	dna11	dna9
+comments_sam	0.90881765	dna11	dna12
+comments_sam	0.92922485	s054	s052
+comments_sam	0.86090946	s054	s085
+comments_sam	0.8987131	s054	s043
+comments_sam	0.9197334	s054	s058
+comments_sam	0.87260246	s054	s079
+comments_sam	0.8807622	s054	s064
+comments_sam	0.8672018	s054	s065
+comments_sam	0.87452734	s054	s084
+comments_sam	0.89346385	s054	s062
+comments_sam	0.91111964	s054	s049
+comments_sam	0.8679383	s054	s006
+comments_sam	0.8868282	dna51	dna50
+comments_sam	0.863439	dna51	dna54
+comments_sam	0.9268422	dna51	dna52
+comments_sam	0.87775564	s061	s052
+comments_sam	0.8635675	s061	s043
+comments_sam	0.92443633	s061	s058
+comments_sam	0.87756133	s061	s066
+comments_sam	0.8529402	s061	s079
+comments_sam	0.9153375	s061	s064
+comments_sam	0.88496864	s061	s065
+comments_sam	0.94893295	s061	s062
+comments_sam	0.87239814	s061	s049
+comments_sam	0.90645707	s061	s054
+comments_sam	0.8663675	dna15	dna19
+comments_sam	0.85164726	dna15	dna11
+comments_sam	0.85675997	dna150	dna140
+comments_sam	0.88383067	dna150	dna149
+comments_sam	0.85051155	dna176	dna170
+comments_sam	0.8511682	dna176	dna179
+comments_sam	0.9161806	dna195	dna196
+comments_sam	0.86664534	s022	s085
+comments_sam	0.8733425	s022	s043
+comments_sam	0.8978511	s022	s032
+comments_sam	0.9180455	s022	s019
+comments_sam	0.9407935	s022	s024
+comments_sam	0.9004876	s022	s038
+comments_sam	0.8509995	s022	s084
+comments_sam	0.8911059	s022	s014
+comments_sam	0.851508	s022	s006
+comments_sam	0.8808067	s022	s012
+comments_sam	0.86841667	dna38	dna40
+comments_sam	0.8940135	dna38	dna39
+comments_sam	0.979331	control of cre/cas9-injected-2	control of cre/cas9-injected-1
+comments_sam	0.88731927	s046	s052
+comments_sam	0.85246915	s046	s085
+comments_sam	0.93170726	s046	s043
+comments_sam	0.88539	s046	s058
+comments_sam	0.86721635	s046	s032
+comments_sam	0.8591566	s046	s019
+comments_sam	0.87056416	s046	s024
+comments_sam	0.86846197	s046	s079
+comments_sam	0.89479005	s046	s038
+comments_sam	0.86085236	s046	s076
+comments_sam	0.85214	s046	s062
+comments_sam	0.93302095	s046	s049
+comments_sam	0.8625617	s046	s006
+comments_sam	0.8532118	s046	s078
+comments_sam	0.9000107	s046	s054
+comments_sam	0.8861229	s046	s061
+comments_sam	0.859397	s046	s022
+comments_sam	0.85554934	dna166	dna164
+comments_sam	0.8729487	dna166	dna169
+comments_sam	0.8585048	dna79	dna80
+comments_sam	0.97972775	given erythromycin and albendazole	given albendazole and erythromycin
+comments_sam	0.8871017	s068	s073
+comments_sam	0.86992913	s068	s058
+comments_sam	0.898418	s068	s066
+comments_sam	0.8686574	s068	s079
+comments_sam	0.8800039	s068	s064
+comments_sam	0.88444227	s068	s065
+comments_sam	0.88402045	s068	s076
+comments_sam	0.88464224	s068	s078
+comments_sam	0.8657278	s068	s061
+comments_sam	0.8575858	dna188	dna164
+comments_sam	0.86273026	dna188	dna183
+comments_sam	0.9034504	dna188	dna189
+comments_sam	0.8661014	dna188	dna192
+comments_sam	0.8979745	dna188	dna186
+comments_sam	0.8727859	s033	s085
+comments_sam	0.88994277	s033	s043
+comments_sam	0.85905933	s033	s058
+comments_sam	0.9518738	s033	s032
+comments_sam	0.8617964	s033	s066
+comments_sam	0.8746588	s033	s019
+comments_sam	0.88649356	s033	s024
+comments_sam	0.921583	s033	s038
+comments_sam	0.860042	s033	s064
+comments_sam	0.86217993	s033	s065
+comments_sam	0.8620213	s033	s084
+comments_sam	0.86126494	s033	s014
+comments_sam	0.85297596	s033	s049
+comments_sam	0.86473894	s033	s006
+comments_sam	0.90988743	s033	s022
+comments_sam	0.8683523	s033	s046
+comments_sam	0.9980403	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.9995518	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.9988891	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.9987637	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.99864334	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.87012184	dna67	dna69
+comments_sam	0.90071064	dna67	dna66
+comments_sam	0.86488307	dna48	dna51
+comments_sam	0.8667011	torn_up_injury_on_left_hind_leg.open_fracture_on_right_hind_leg	injury_of_flank_on_the_right.hind_leg_broken_on_the_right
+comments_sam	0.8930857	given erythromycin and ferrous sulphate tabs	given erythromycin and ferrous sulphate
+comments_sam	0.8869884	dna76	dna74
+comments_sam	0.8530829	dna76	dna176
+comments_sam	0.86667645	dna76	dna79
+comments_sam	0.8984833	s070	s073
+comments_sam	0.86164844	s070	s085
+comments_sam	0.90042657	s070	s066
+comments_sam	0.8776537	s070	s079
+comments_sam	0.8684609	s070	s064
+comments_sam	0.896112	s070	s065
+comments_sam	0.8946011	s070	s076
+comments_sam	0.8607369	s070	s084
+comments_sam	0.85681736	s070	s078
+comments_sam	0.870872	s070	s061
+comments_sam	0.8897939	s070	s068
+comments_sam	0.857556	dna84	dna89
+comments_sam	0.87363744	dna84	dna87
+comments_sam	0.8507184	dna139	dna136
+comments_sam	0.8520077	s041	s073
+comments_sam	0.8804383	s041	s052
+comments_sam	0.8935394	s041	s085
+comments_sam	0.95174134	s041	s043
+comments_sam	0.8912664	s041	s058
+comments_sam	0.88713795	s041	s032
+comments_sam	0.86384666	s041	s019
+comments_sam	0.8683777	s041	s024
+comments_sam	0.86723566	s041	s079
+comments_sam	0.9251879	s041	s038
+comments_sam	0.88164914	s041	s064
+comments_sam	0.85378695	s041	s065
+comments_sam	0.8824056	s041	s084
+comments_sam	0.898859	s041	s014
+comments_sam	0.87984717	s041	s062
+comments_sam	0.8941927	s041	s049
+comments_sam	0.86252666	s041	s006
+comments_sam	0.8677354	s041	s012
+comments_sam	0.900048	s041	s054
+comments_sam	0.88419855	s041	s061
+comments_sam	0.8834301	s041	s022
+comments_sam	0.9026886	s041	s046
+comments_sam	0.904989	s041	s033
+comments_sam	0.8780998	s034	s085
+comments_sam	0.89509714	s034	s043
+comments_sam	0.85927033	s034	s058
+comments_sam	0.9257878	s034	s032
+comments_sam	0.8734007	s034	s019
+comments_sam	0.8859752	s034	s024
+comments_sam	0.915871	s034	s038
+comments_sam	0.8524767	s034	s065
+comments_sam	0.8629788	s034	s084
+comments_sam	0.89335686	s034	s014
+comments_sam	0.8607433	s034	s049
+comments_sam	0.86766183	s034	s006
+comments_sam	0.8639451	s034	s054
+comments_sam	0.89500237	s034	s022
+comments_sam	0.8773637	s034	s046
+comments_sam	0.95719224	s034	s033
+comments_sam	0.9082148	s034	s041
+comments_sam	0.86616564	dna45	dna40
+comments_sam	0.864028	dna45	dna48
+comments_sam	0.8530978	dna144	dna140
+comments_sam	0.864004	dna144	dna147
+comments_sam	0.8532753	dna144	dna150
+comments_sam	0.8863596	dna103	dna105
+comments_sam	0.99834085	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.9992004	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.99922097	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.9988	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.9995229	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.99898934	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.85856247	s037	s073
+comments_sam	0.85427904	s037	s085
+comments_sam	0.8928604	s037	s043
+comments_sam	0.86666167	s037	s058
+comments_sam	0.89056027	s037	s032
+comments_sam	0.8906504	s037	s019
+comments_sam	0.8851725	s037	s024
+comments_sam	0.8575322	s037	s079
+comments_sam	0.96095395	s037	s038
+comments_sam	0.85350424	s037	s064
+comments_sam	0.8580469	s037	s065
+comments_sam	0.85143507	s037	s076
+comments_sam	0.8530635	s037	s014
+comments_sam	0.8602867	s037	s049
+comments_sam	0.863205	s037	s006
+comments_sam	0.8561321	s037	s078
+comments_sam	0.887872	s037	s022
+comments_sam	0.884472	s037	s046
+comments_sam	0.90844154	s037	s033
+comments_sam	0.9000901	s037	s041
+comments_sam	0.92420745	s037	s034
+comments_sam	0.8514189	dna154	dna152
+comments_sam	0.85092485	dna154	dna157
+comments_sam	0.8686064	dna190	dna189
+comments_sam	0.8699575	dna190	dna192
+comments_sam	0.8530383	s029	s073
+comments_sam	0.85848343	s029	s085
+comments_sam	0.8842299	s029	s043
+comments_sam	0.856859	s029	s058
+comments_sam	0.9041302	s029	s032
+comments_sam	0.8900267	s029	s019
+comments_sam	0.89874125	s029	s024
+comments_sam	0.87986434	s029	s079
+comments_sam	0.9048251	s029	s038
+comments_sam	0.86374104	s029	s076
+comments_sam	0.8532185	s029	s084
+comments_sam	0.8838041	s029	s014
+comments_sam	0.86796415	s029	s049
+comments_sam	0.8575312	s029	s006
+comments_sam	0.9033507	s029	s022
+comments_sam	0.8757536	s029	s046
+comments_sam	0.91037047	s029	s033
+comments_sam	0.8865379	s029	s041
+comments_sam	0.9126245	s029	s034
+comments_sam	0.89672256	s029	s037
+comments_sam	0.90211475	no left otolith	left otolith not found
+comments_sam	0.8502964	dna130	dna129
+comments_sam	0.92747116	taking ferrous sulphate and given erythromycin	given erythromycin and ferrous sulphate
+comments_sam	0.8739779	taking ferrous sulphate and given erythromycin	given erythromycin and ferrous sulphate tabs
+comments_sam	0.87387586	dna173	dna170
+comments_sam	0.86216116	dna173	dna171
+comments_sam	0.87107617	dna173	dna176
+comments_sam	0.8585647	dna85	dna87
+comments_sam	0.9039316	dna85	dna84
+comments_sam	0.91295457	dna7	dna8
+comments_sam	0.9007346	dna7	dna9
+comments_sam	0.86358565	dna7	dna4
+comments_sam	0.92148	negativebnfs16s2	negative16s2bnf
+comments_sam	0.89696014	s082	s073
+comments_sam	0.93741107	s082	s085
+comments_sam	0.8588673	s082	s043
+comments_sam	0.8693987	s082	s058
+comments_sam	0.86215615	s082	s032
+comments_sam	0.8660321	s082	s066
+comments_sam	0.85712075	s082	s019
+comments_sam	0.86813676	s082	s024
+comments_sam	0.924378	s082	s079
+comments_sam	0.8770642	s082	s038
+comments_sam	0.87967974	s082	s064
+comments_sam	0.872434	s082	s065
+comments_sam	0.91864586	s082	s076
+comments_sam	0.9323597	s082	s084
+comments_sam	0.85181177	s082	s014
+comments_sam	0.87179327	s082	s062
+comments_sam	0.8582264	s082	s049
+comments_sam	0.89876914	s082	s078
+comments_sam	0.86369896	s082	s054
+comments_sam	0.8501768	s082	s061
+comments_sam	0.86326396	s082	s022
+comments_sam	0.8632897	s082	s033
+comments_sam	0.86958784	s082	s070
+comments_sam	0.8923975	s082	s041
+comments_sam	0.8577068	s082	s034
+comments_sam	0.85957265	s082	s037
+comments_sam	0.87799287	s082	s029
+comments_sam	0.9130354	s075	s073
+comments_sam	0.90662956	s075	s085
+comments_sam	0.8990917	s075	s066
+comments_sam	0.8534702	s075	s019
+comments_sam	0.8508743	s075	s024
+comments_sam	0.90246046	s075	s079
+comments_sam	0.8713373	s075	s064
+comments_sam	0.9098337	s075	s065
+comments_sam	0.94078565	s075	s076
+comments_sam	0.8974769	s075	s084
+comments_sam	0.86494726	s075	s062
+comments_sam	0.8932253	s075	s078
+comments_sam	0.8605398	s075	s068
+comments_sam	0.9056711	s075	s070
+comments_sam	0.895663	s075	s082
+comments_sam	0.8526801	s027	s073
+comments_sam	0.8526286	s027	s043
+comments_sam	0.8788316	s027	s032
+comments_sam	0.89300716	s027	s019
+comments_sam	0.9067383	s027	s024
+comments_sam	0.899489	s027	s038
+comments_sam	0.868593	s027	s014
+comments_sam	0.8611711	s027	s078
+comments_sam	0.9020926	s027	s022
+comments_sam	0.8629733	s027	s046
+comments_sam	0.89191705	s027	s033
+comments_sam	0.8692417	s027	s041
+comments_sam	0.87651336	s027	s034
+comments_sam	0.89281166	s027	s037
+comments_sam	0.9250041	s027	s029
+comments_sam	0.85927385	s027	s082
+comments_sam	0.9186311	s077	s073
+comments_sam	0.8761337	s077	s085
+comments_sam	0.8748951	s077	s066
+comments_sam	0.9155612	s077	s079
+comments_sam	0.8596139	s077	s064
+comments_sam	0.8748485	s077	s065
+comments_sam	0.9490261	s077	s076
+comments_sam	0.89572	s077	s084
+comments_sam	0.8511952	s077	s062
+comments_sam	0.92325425	s077	s078
+comments_sam	0.85266083	s077	s068
+comments_sam	0.8924757	s077	s070
+comments_sam	0.903589	s077	s082
+comments_sam	0.927862	s077	s075
+comments_sam	0.85979694	s077	s027
+comments_sam	0.8884219	dna88	dna89
+comments_sam	0.9039798	dna88	dna87
+comments_sam	0.86316866	dna88	dna84
+comments_sam	0.87078553	dna165	dna164
+comments_sam	0.8542417	dna116	dna114
+comments_sam	0.87704784	dna65	dna63
+comments_sam	0.85361636	dna65	dna69
+comments_sam	0.91685724	dna65	dna66
+comments_sam	0.8850441	dna65	dna67
+comments_sam	0.997967	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.9991071	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.99925756	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.9985179	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.9996222	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.99840164	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.9995885	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.85702944	s031	s043
+comments_sam	0.8543414	s031	s058
+comments_sam	0.9397242	s031	s032
+comments_sam	0.87029433	s031	s019
+comments_sam	0.8757156	s031	s024
+comments_sam	0.85756874	s031	s079
+comments_sam	0.8930897	s031	s038
+comments_sam	0.8703778	s031	s014
+comments_sam	0.8552395	s031	s006
+comments_sam	0.8839508	s031	s022
+comments_sam	0.86689335	s031	s046
+comments_sam	0.9262953	s031	s033
+comments_sam	0.886402	s031	s041
+comments_sam	0.9268937	s031	s034
+comments_sam	0.9040949	s031	s037
+comments_sam	0.9216664	s031	s029
+comments_sam	0.86650074	s031	s082
+comments_sam	0.8978268	s031	s027
+comments_sam	0.8940073	dna70	dna69
+comments_sam	0.8902174	dna70	dna71
+comments_sam	0.8954972	dna199	dna196
+comments_sam	0.8736589	dna199	dna192
+comments_sam	0.8754239	dna199	dna186
+comments_sam	0.87150955	dna199	dna195
+comments_sam	0.8643684	dna199	dna188
+comments_sam	0.94288045	s074	s073
+comments_sam	0.898144	s074	s085
+comments_sam	0.86458516	s074	s043
+comments_sam	0.8569019	s074	s058
+comments_sam	0.89442897	s074	s066
+comments_sam	0.86451364	s074	s019
+comments_sam	0.88295496	s074	s024
+comments_sam	0.90190804	s074	s079
+comments_sam	0.8650276	s074	s038
+comments_sam	0.87774134	s074	s064
+comments_sam	0.893891	s074	s065
+comments_sam	0.9406444	s074	s076
+comments_sam	0.9025092	s074	s084
+comments_sam	0.8667563	s074	s014
+comments_sam	0.86928946	s074	s062
+comments_sam	0.858447	s074	s049
+comments_sam	0.89353025	s074	s078
+comments_sam	0.8629904	s074	s054
+comments_sam	0.8531923	s074	s061
+comments_sam	0.86945283	s074	s022
+comments_sam	0.8590532	s074	s046
+comments_sam	0.88131547	s074	s068
+comments_sam	0.9196755	s074	s070
+comments_sam	0.8657404	s074	s041
+comments_sam	0.8739445	s074	s034
+comments_sam	0.86154443	s074	s037
+comments_sam	0.86526763	s074	s029
+comments_sam	0.9051399	s074	s082
+comments_sam	0.94744205	s074	s075
+comments_sam	0.85826457	s074	s027
+comments_sam	0.92546487	s074	s077
+comments_sam	0.8504182	s074	s031
+comments_sam	0.88992953	dna162	dna164
+comments_sam	0.8607992	dna162	dna157
+comments_sam	0.85230386	dna162	dna156
+comments_sam	0.8525611	dna162	dna171
+comments_sam	0.87543654	dna162	dna159
+comments_sam	0.8572213	dna162	dna166
+comments_sam	0.9989956	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.99892586	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.9995723	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.9995077	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.9986709	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.99903095	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.9992207	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.99843377	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44
+comments_sam	0.85277295	dna146	dna149
+comments_sam	0.8766805	dna146	dna147
+comments_sam	0.89639205	dna200	dna199
+comments_sam	0.90688777	dna73	dna74
+comments_sam	0.8947401	dna73	dna72
+comments_sam	0.85850036	dna73	dna71
+comments_sam	0.88255537	dna27	dna26
+comments_sam	0.8572006	dna27	dna24
+comments_sam	0.8557032	dna27	dna25
+comments_sam	0.9082898	dna27	dna28
+comments_sam	0.8806536	dna184	dna183
+comments_sam	0.86269575	dna184	dna192
+comments_sam	0.8951269	dna184	dna186
+comments_sam	0.8604223	dna184	dna179
+comments_sam	0.8740598	dna184	dna176
+comments_sam	0.86603606	dna184	dna195
+comments_sam	0.8893087	dna184	dna188
+comments_sam	0.8789516	dna184	dna199
+comments_sam	0.9989929	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.99875987	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.9995272	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.9994004	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.9986799	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.9992574	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.9989616	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.99848807	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44
+comments_sam	0.99963176	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56
+comments_sam	0.99605805	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.9974462	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.99698067	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.99626267	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.99668145	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.9970698	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.9965671	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.99692047	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44
+comments_sam	0.9961622	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56
+comments_sam	0.9966014	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58
+comments_sam	0.85235524	s005	s085
+comments_sam	0.89583695	s005	s009
+comments_sam	0.9406726	s005	s006
+comments_sam	0.8505992	s005	s054
+comments_sam	0.8533029	s005	s041
+comments_sam	0.8554777	s005	s034
+comments_sam	0.9170453	dna151	dna152
+comments_sam	0.89319205	dna151	dna149
+comments_sam	0.8620012	dna151	dna147
+comments_sam	0.85271955	dna151	dna156
+comments_sam	0.88864017	dna151	dna150
+comments_sam	0.8554094	dna151	dna154
+comments_sam	0.86637545	dna172	dna171
+comments_sam	0.8727295	dna96	dna99
+comments_sam	0.8812008	dna96	dna97
+comments_sam	0.857895	dna96	dna92
+comments_sam	0.8871063	measured with hanging scale dna samples in tubes worm on nose	measured with hanging scale dna samples in tubes
+comments_sam	0.87942874	dna163	dna164
+comments_sam	0.8604941	dna163	dna157
+comments_sam	0.851365	dna163	dna159
+comments_sam	0.90469205	dna163	dna162
+comments_sam	0.8803967	dna78	dna79
+comments_sam	0.86600447	s039	s073
+comments_sam	0.8653153	s039	s052
+comments_sam	0.87945086	s039	s085
+comments_sam	0.9244027	s039	s043
+comments_sam	0.89426345	s039	s058
+comments_sam	0.9001738	s039	s032
+comments_sam	0.8676317	s039	s009
+comments_sam	0.850944	s039	s066
+comments_sam	0.8853352	s039	s019
+comments_sam	0.89455825	s039	s024
+comments_sam	0.89860487	s039	s079
+comments_sam	0.955258	s039	s038
+comments_sam	0.8628758	s039	s064
+comments_sam	0.86612236	s039	s065
+comments_sam	0.86406314	s039	s076
+comments_sam	0.8822637	s039	s084
+comments_sam	0.8734325	s039	s014
+comments_sam	0.8651328	s039	s062
+comments_sam	0.9072602	s039	s049
+comments_sam	0.8815521	s039	s006
+comments_sam	0.864992	s039	s078
+comments_sam	0.86452734	s039	s012
+comments_sam	0.8922559	s039	s054
+comments_sam	0.8705206	s039	s061
+comments_sam	0.8728505	s039	s022
+comments_sam	0.9159138	s039	s046
+comments_sam	0.85056615	s039	s068
+comments_sam	0.91157144	s039	s033
+comments_sam	0.9449353	s039	s041
+comments_sam	0.916799	s039	s034
+comments_sam	0.9367776	s039	s037
+comments_sam	0.9167814	s039	s029
+comments_sam	0.8901641	s039	s082
+comments_sam	0.8519045	s039	s075
+comments_sam	0.8842869	s039	s027
+comments_sam	0.85057944	s039	s077
+comments_sam	0.8955264	s039	s031
+comments_sam	0.86960495	s039	s074
+comments_sam	0.8533036	s039	s005
+comments_sam	0.91262496	dna32	dna31
+comments_sam	0.87014896	s063	s073
+comments_sam	0.8786931	s063	s058
+comments_sam	0.91048485	s063	s066
+comments_sam	0.8520996	s063	s038
+comments_sam	0.9388235	s063	s064
+comments_sam	0.9205773	s063	s065
+comments_sam	0.94862634	s063	s062
+comments_sam	0.85520303	s063	s054
+comments_sam	0.9246019	s063	s061
+comments_sam	0.85007334	s063	s068
+comments_sam	0.86112475	s063	s082
+comments_sam	0.86509323	s063	s075
+comments_sam	0.8593006	s063	s074
+comments_sam	0.86303145	s063	s039
+comments_sam	0.89323986	dna86	dna87
+comments_sam	0.884587	dna86	dna85
+comments_sam	0.864643	dna86	dna88
+comments_sam	0.89446396	s081	s073
+comments_sam	0.8518028	s081	s052
+comments_sam	0.92712235	s081	s085
+comments_sam	0.8658712	s081	s043
+comments_sam	0.86852574	s081	s058
+comments_sam	0.87193286	s081	s032
+comments_sam	0.8596263	s081	s009
+comments_sam	0.855986	s081	s066
+comments_sam	0.8671193	s081	s019
+comments_sam	0.88360155	s081	s024
+comments_sam	0.936975	s081	s079
+comments_sam	0.8722995	s081	s038
+comments_sam	0.87129337	s081	s064
+comments_sam	0.870576	s081	s065
+comments_sam	0.9233016	s081	s076
+comments_sam	0.9394908	s081	s084
+comments_sam	0.85045516	s081	s014
+comments_sam	0.85900974	s081	s062
+comments_sam	0.87293255	s081	s049
+comments_sam	0.8692967	s081	s006
+comments_sam	0.9151864	s081	s078
+comments_sam	0.85222626	s081	s012
+comments_sam	0.8665371	s081	s054
+comments_sam	0.86418813	s081	s061
+comments_sam	0.8780433	s081	s022
+comments_sam	0.86228585	s081	s046
+comments_sam	0.8613451	s081	s068
+comments_sam	0.8729194	s081	s033
+comments_sam	0.88015026	s081	s070
+comments_sam	0.89996344	s081	s041
+comments_sam	0.8542856	s081	s034
+comments_sam	0.86219645	s081	s037
+comments_sam	0.88122916	s081	s029
+comments_sam	0.953161	s081	s082
+comments_sam	0.9045851	s081	s075
+comments_sam	0.8511312	s081	s027
+comments_sam	0.9185859	s081	s077
+comments_sam	0.8638711	s081	s031
+comments_sam	0.90577376	s081	s074
+comments_sam	0.85285985	s081	s005
+comments_sam	0.89171803	s081	s039
+comments_sam	0.8646754	dna181	dna183
+comments_sam	0.8840142	dna181	dna192
+comments_sam	0.8683512	dna181	dna171
+comments_sam	0.86538506	dna181	dna186
+comments_sam	0.86112297	dna181	dna179
+comments_sam	0.8923254	dna181	dna188
+comments_sam	0.9003687	dna181	dna184
+comments_sam	0.8918141	dna94	dna92
+comments_sam	0.85151756	dna94	dna84
+comments_sam	0.89181346	dna94	dna96
+comments_sam	0.8906449	s083	s073
+comments_sam	0.93148345	s083	s085
+comments_sam	0.862586	s083	s043
+comments_sam	0.867568	s083	s058
+comments_sam	0.8569242	s083	s032
+comments_sam	0.86610854	s083	s066
+comments_sam	0.86214405	s083	s024
+comments_sam	0.9119384	s083	s079
+comments_sam	0.8852354	s083	s038
+comments_sam	0.8689792	s083	s064
+comments_sam	0.858776	s083	s065
+comments_sam	0.9073036	s083	s076
+comments_sam	0.94105506	s083	s084
+comments_sam	0.85069716	s083	s014
+comments_sam	0.85191166	s083	s062
+comments_sam	0.85315824	s083	s006
+comments_sam	0.8920235	s083	s078
+comments_sam	0.8515563	s083	s054
+comments_sam	0.8570432	s083	s022
+comments_sam	0.86053276	s083	s068
+comments_sam	0.87749517	s083	s033
+comments_sam	0.88138497	s083	s041
+comments_sam	0.8643082	s083	s034
+comments_sam	0.8572266	s083	s037
+comments_sam	0.86322844	s083	s029
+comments_sam	0.9462792	s083	s082
+comments_sam	0.8774431	s083	s075
+comments_sam	0.89486074	s083	s077
+comments_sam	0.85123867	s083	s031
+comments_sam	0.8973335	s083	s074
+comments_sam	0.89166164	s083	s039
+comments_sam	0.85721934	s083	s063
+comments_sam	0.94211006	s083	s081
+comments_sam	0.8536062	dna5	dna8
+comments_sam	0.85887563	dna5	dna9
+comments_sam	0.9119109	dna5	dna4
+comments_sam	0.8585553	dna5	dna15
+comments_sam	0.88177216	dna5	dna7
+comments_sam	0.872805	s002	s009
+comments_sam	0.903906	s002	s006
+comments_sam	0.9026804	s002	s005
+comments_sam	0.86633503	dna55	dna58
+comments_sam	0.85268116	dna55	dna59
+comments_sam	0.9036811	dna55	dna54
+comments_sam	0.87319165	dna55	dna57
+comments_sam	0.89236116	dna36	dna35
+comments_sam	0.9402654	cyst on intestines	cyst on on intestine
+comments_sam	0.8751366	sick	sick and sick sampled
+comments_sam	0.9249527	dna29	dna28
+comments_sam	0.86125565	dna29	dna27
+comments_sam	0.998241	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.99892175	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.99908036	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.9985992	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.9994191	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.9991136	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.99961984	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.99952877	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44
+comments_sam	0.9987601	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56
+comments_sam	0.9992416	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58
+comments_sam	0.9968959	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74
+comments_sam	0.8511468	dna108	dna105
+comments_sam	0.86378586	s026	s085
+comments_sam	0.8643311	s026	s032
+comments_sam	0.8882104	s026	s019
+comments_sam	0.9125676	s026	s024
+comments_sam	0.8679607	s026	s038
+comments_sam	0.86162466	s026	s014
+comments_sam	0.9135205	s026	s022
+comments_sam	0.8808347	s026	s033
+comments_sam	0.86426795	s026	s041
+comments_sam	0.8604404	s026	s034
+comments_sam	0.899343	s026	s029
+comments_sam	0.92392945	s026	s027
+comments_sam	0.85336757	s026	s031
+comments_sam	0.9184668	s071	s073
+comments_sam	0.85758185	s071	s085
+comments_sam	0.86354434	s071	s058
+comments_sam	0.90402794	s071	s066
+comments_sam	0.8750547	s071	s079
+comments_sam	0.8752557	s071	s064
+comments_sam	0.8899456	s071	s065
+comments_sam	0.90386856	s071	s076
+comments_sam	0.8516805	s071	s084
+comments_sam	0.87456584	s071	s014
+comments_sam	0.85767454	s071	s062
+comments_sam	0.874403	s071	s078
+comments_sam	0.87162375	s071	s061
+comments_sam	0.8584895	s071	s022
+comments_sam	0.90563965	s071	s068
+comments_sam	0.9433921	s071	s070
+comments_sam	0.85005355	s071	s041
+comments_sam	0.85224485	s071	s037
+comments_sam	0.86976475	s071	s082
+comments_sam	0.90209913	s071	s075
+comments_sam	0.8908173	s071	s077
+comments_sam	0.93222976	s071	s074
+comments_sam	0.85132074	s071	s039
+comments_sam	0.8655888	s071	s063
+comments_sam	0.88842905	s071	s081
+comments_sam	0.8686061	s071	s083
+comments_sam	0.87887406	dna194	dna196
+comments_sam	0.86685586	dna194	dna192
+comments_sam	0.88200617	dna194	dna195
+comments_sam	0.8570012	dna194	dna188
+comments_sam	0.8707459	dna194	dna199
+comments_sam	0.8629922	dna194	dna184
+comments_sam	0.87317073	dna82	dna79
+comments_sam	0.86674416	dna82	dna76
+comments_sam	0.8819844	dna82	dna84
+comments_sam	0.87790793	dna82	dna85
+comments_sam	0.8533037	dna56	dna58
+comments_sam	0.8890508	dna56	dna57
+comments_sam	0.86937356	dna56	dna55
+comments_sam	0.87078285	dna102	dna105
+comments_sam	0.88761556	dna102	dna103
+comments_sam	0.85174906	dna100	dna99
+comments_sam	0.85317063	dna174	dna170
+comments_sam	0.8654512	dna174	dna171
+comments_sam	0.8539938	dna174	dna176
+comments_sam	0.8665402	dna174	dna173
+comments_sam	0.8525717	dna10	dna8
+comments_sam	0.9051466	dna10	dna9
+comments_sam	0.90364385	dna10	dna11
+comments_sam	0.8554021	dna10	dna7
+comments_sam	0.8557721	s028	s085
+comments_sam	0.86767805	s028	s043
+comments_sam	0.8612761	s028	s058
+comments_sam	0.8972466	s028	s032
+comments_sam	0.88919485	s028	s019
+comments_sam	0.9104879	s028	s024
+comments_sam	0.8748474	s028	s079
+comments_sam	0.901734	s028	s038
+comments_sam	0.8545813	s028	s084
+comments_sam	0.87036824	s028	s014
+comments_sam	0.852183	s028	s049
+comments_sam	0.8565975	s028	s078
+comments_sam	0.900051	s028	s022
+comments_sam	0.8626522	s028	s046
+comments_sam	0.8938712	s028	s033
+comments_sam	0.8803946	s028	s041
+comments_sam	0.89303195	s028	s034
+comments_sam	0.8980613	s028	s037
+comments_sam	0.9620856	s028	s029
+comments_sam	0.86848843	s028	s082
+comments_sam	0.94206935	s028	s027
+comments_sam	0.9056206	s028	s031
+comments_sam	0.8565146	s028	s074
+comments_sam	0.8991954	s028	s039
+comments_sam	0.87439877	s028	s081
+comments_sam	0.9077772	s028	s026
+comments_sam	0.8775972	dna17	dna19
+comments_sam	0.853407	dna17	dna11
+comments_sam	0.89796484	dna17	dna15
+comments_sam	0.8825001	dna2	dna4
+comments_sam	0.8701035	dna2	dna5
+comments_sam	0.91213727	dna1	dna2
+comments_sam	0.8989216	measured with hanging scale dna samples in tubes red spots on skin very fat fish	measured with hanging scale dna samples in tubes red spots on skin
+comments_sam	0.9735371	cyst on intestine	cyst on on intestine
+comments_sam	0.93569934	cyst on intestine	cyst on intestines
+comments_sam	0.87551606	s015	s085
+comments_sam	0.8571454	s015	s043
+comments_sam	0.8518714	s015	s058
+comments_sam	0.8597272	s015	s032
+comments_sam	0.92415607	s015	s019
+comments_sam	0.8970829	s015	s024
+comments_sam	0.8819233	s015	s038
+comments_sam	0.859311	s015	s064
+comments_sam	0.8751683	s015	s065
+comments_sam	0.85179645	s015	s084
+comments_sam	0.9432359	s015	s014
+comments_sam	0.8585954	s015	s062
+comments_sam	0.8565947	s015	s049
+comments_sam	0.8997899	s015	s012
+comments_sam	0.9009062	s015	s022
+comments_sam	0.8532819	s015	s046
+comments_sam	0.8752184	s015	s033
+comments_sam	0.85274947	s015	s070
+comments_sam	0.88953257	s015	s041
+comments_sam	0.8722142	s015	s034
+comments_sam	0.87447304	s015	s037
+comments_sam	0.88932115	s015	s029
+comments_sam	0.86261463	s015	s082
+comments_sam	0.865415	s015	s075
+comments_sam	0.8843555	s015	s027
+comments_sam	0.8689673	s015	s031
+comments_sam	0.86146355	s015	s074
+comments_sam	0.87703997	s015	s039
+comments_sam	0.8768238	s015	s081
+comments_sam	0.85082424	s015	s083
+comments_sam	0.8804383	s015	s026
+comments_sam	0.8694749	s015	s071
+comments_sam	0.87827957	s015	s028
+comments_sam	0.87148756	dna193	dna192
+comments_sam	0.8501941	dna193	dna188
+comments_sam	0.89042115	dna193	dna194
+comments_sam	0.8566154	s010	s085
+comments_sam	0.89974654	s010	s009
+comments_sam	0.883722	s010	s019
+comments_sam	0.8646115	s010	s024
+comments_sam	0.85854924	s010	s038
+comments_sam	0.89214903	s010	s014
+comments_sam	0.89929914	s010	s012
+comments_sam	0.8743417	s010	s022
+comments_sam	0.8524296	s010	s070
+comments_sam	0.8578482	s010	s041
+comments_sam	0.8522792	s010	s029
+comments_sam	0.86690414	s010	s082
+comments_sam	0.8526462	s010	s027
+comments_sam	0.8516395	s010	s031
+comments_sam	0.85639	s010	s039
+comments_sam	0.87479913	s010	s081
+comments_sam	0.85663855	s010	s026
+comments_sam	0.8512246	s010	s071
+comments_sam	0.8522944	s010	s028
+comments_sam	0.9069234	s010	s015
+comments_sam	0.8755543	dna115	dna114
+comments_sam	0.9032388	dna115	dna116
+comments_sam	0.8532862	dna95	dna99
+comments_sam	0.8661373	dna95	dna97
+comments_sam	0.85803974	dna95	dna92
+comments_sam	0.9069391	dna95	dna96
+comments_sam	0.8986894	dna95	dna94
+comments_sam	0.8746295	dna101	dna102
+comments_sam	0.9640683	cysts on stomach alimentary canal taken	cysts on stomach whole alimentary canal taken
+comments_sam	0.8506417	s036	s085
+comments_sam	0.876493	s036	s043
+comments_sam	0.89558256	s036	s032
+comments_sam	0.8774725	s036	s019
+comments_sam	0.89078367	s036	s024
+comments_sam	0.9325521	s036	s038
+comments_sam	0.85324526	s036	s014
+comments_sam	0.8754891	s036	s006
+comments_sam	0.88024604	s036	s022
+comments_sam	0.8783195	s036	s046
+comments_sam	0.92297435	s036	s033
+comments_sam	0.88326645	s036	s041
+comments_sam	0.940799	s036	s034
+comments_sam	0.9604368	s036	s037
+comments_sam	0.9019369	s036	s029
+comments_sam	0.88362336	s036	s027
+comments_sam	0.9010887	s036	s031
+comments_sam	0.8593602	s036	s074
+comments_sam	0.9276911	s036	s039
+comments_sam	0.8534867	s036	s081
+comments_sam	0.85390234	s036	s071
+comments_sam	0.8866103	s036	s028
+comments_sam	0.8715223	s036	s015
+comments_sam	0.86892503	dna175	dna170
+comments_sam	0.85939616	dna175	dna171
+comments_sam	0.8524281	dna175	dna159
+comments_sam	0.90375966	dna175	dna176
+comments_sam	0.88678443	dna175	dna173
+comments_sam	0.850657	dna175	dna199
+comments_sam	0.8656406	dna175	dna184
+comments_sam	0.8506415	dna175	dna172
+comments_sam	0.8756962	dna175	dna174
+comments_sam	0.85194755	s023	s073
+comments_sam	0.8567276	s023	s085
+comments_sam	0.8774726	s023	s043
+comments_sam	0.8851948	s023	s032
+comments_sam	0.9097233	s023	s019
+comments_sam	0.9471737	s023	s024
+comments_sam	0.9049252	s023	s038
+comments_sam	0.8866662	s023	s014
+comments_sam	0.8743424	s023	s012
+comments_sam	0.9624641	s023	s022
+comments_sam	0.8780966	s023	s046
+comments_sam	0.9032055	s023	s033
+comments_sam	0.87520397	s023	s041
+comments_sam	0.9006759	s023	s034
+comments_sam	0.8867549	s023	s037
+comments_sam	0.905339	s023	s029
+comments_sam	0.8577982	s023	s082
+comments_sam	0.9169234	s023	s027
+comments_sam	0.88707614	s023	s031
+comments_sam	0.874524	s023	s074
+comments_sam	0.8861693	s023	s039
+comments_sam	0.8570273	s023	s081
+comments_sam	0.9167448	s023	s026
+comments_sam	0.86058545	s023	s071
+comments_sam	0.9029074	s023	s028
+comments_sam	0.88938975	s023	s015
+comments_sam	0.8635081	s023	s010
+comments_sam	0.8848531	s023	s036
+comments_sam	0.9004947	dna6	dna8
+comments_sam	0.8680569	dna6	dna9
+comments_sam	0.88249815	dna6	dna4
+comments_sam	0.9205051	dna6	dna7
+comments_sam	0.89861846	dna6	dna5
+comments_sam	0.85446703	dna6	dna2
+comments_sam	0.8577521	dna182	dna184
+comments_sam	0.8732176	dna182	dna181
+comments_sam	0.85255104	worms on air bladder	tape worm on air bladder
+comments_sam	0.8551028	s004	s085
+comments_sam	0.8845259	s004	s009
+comments_sam	0.86186945	s004	s024
+comments_sam	0.8577447	s004	s038
+comments_sam	0.8524211	s004	s084
+comments_sam	0.92563736	s004	s006
+comments_sam	0.85279095	s004	s012
+comments_sam	0.8548474	s004	s022
+comments_sam	0.8551585	s004	s033
+comments_sam	0.8608914	s004	s041
+comments_sam	0.8734381	s004	s034
+comments_sam	0.8560232	s004	s037
+comments_sam	0.93325156	s004	s005
+comments_sam	0.8625715	s004	s039
+comments_sam	0.8608414	s004	s081
+comments_sam	0.90544045	s004	s002
+comments_sam	0.86833483	s004	s036
+comments_sam	0.8806956	dna135	dna138
+comments_sam	0.8527835	dna135	dna136
+comments_sam	0.89587206	dna13	dna12
+comments_sam	0.89327085	dna13	dna11
+comments_sam	0.8537605	dna13	dna15
+comments_sam	0.9095098	dna18	dna19
+comments_sam	0.9104992	dna18	dna17
+comments_sam	0.880069	dna145	dna149
+comments_sam	0.8650949	dna145	dna147
+comments_sam	0.8634001	dna145	dna150
+comments_sam	0.85291743	dna145	dna176
+comments_sam	0.9062016	dna145	dna144
+comments_sam	0.86427	dna145	dna199
+comments_sam	0.88826513	dna145	dna146
+comments_sam	0.87656724	dna145	dna151
+comments_sam	0.85422003	dna145	dna175
+comments_sam	0.8881811	dna153	dna15
+comments_sam	0.85433745	dna153	dna13
+comments_sam	0.9210473	dna16	dna15
+comments_sam	0.9321139	dna16	dna17
+comments_sam	0.8734552	dna16	dna18
+comments_sam	0.86551094	dna160	dna159
+comments_sam	0.85509396	dna160	dna150
+comments_sam	0.86719346	dna160	dna162
+comments_sam	0.8531117	dna93	dna89
+comments_sam	0.85098964	dna93	dna99
+comments_sam	0.89156616	dna93	dna92
+comments_sam	0.8512006	dna93	dna88
+comments_sam	0.89359653	dna93	dna94
+comments_sam	0.86440134	dna93	dna95
+comments_sam	0.9767312	still has bleeding so no vaginal swabs	still bleeding so no vaginal swabs
+comments_sam	0.9376537	still has bleeding so no vaginal swabs	still bleeding so no vaginal swabs/ph
+comments_sam	0.859653	still has bleeding so no vaginal swabs	still bleeding so unable to take vaginal swabs and ph
+comments_sam	0.8678129	still has bleeding so no vaginal swabs	has heavy bleeding so no vaginal swabs or ph taken
+comments_sam	0.8946322	dna20	dna19
+comments_sam	0.8759083	dna20	dna21
+comments_sam	0.86103666	dna20	dna18
+comments_sam	0.8978286	measured with hanging scale dna samples in tubes rna lite	measured with hanging scale dna samples in tubes
+comments_sam	0.86962926	s040	s073
+comments_sam	0.8684318	s040	s052
+comments_sam	0.8837358	s040	s085
+comments_sam	0.928357	s040	s043
+comments_sam	0.87542593	s040	s058
+comments_sam	0.8816623	s040	s032
+comments_sam	0.8576172	s040	s009
+comments_sam	0.87583643	s040	s019
+comments_sam	0.8898139	s040	s024
+comments_sam	0.89015096	s040	s079
+comments_sam	0.91694075	s040	s038
+comments_sam	0.8734218	s040	s064
+comments_sam	0.86434686	s040	s065
+comments_sam	0.85849285	s040	s076
+comments_sam	0.8798591	s040	s084
+comments_sam	0.8748902	s040	s014
+comments_sam	0.8636286	s040	s062
+comments_sam	0.90699995	s040	s049
+comments_sam	0.86232436	s040	s006
+comments_sam	0.8558837	s040	s078
+comments_sam	0.8657379	s040	s012
+comments_sam	0.8979702	s040	s054
+comments_sam	0.8860173	s040	s061
+comments_sam	0.8737694	s040	s022
+comments_sam	0.91335404	s040	s046
+comments_sam	0.898147	s040	s033
+comments_sam	0.87329733	s040	s070
+comments_sam	0.9615227	s040	s041
+comments_sam	0.9009289	s040	s034
+comments_sam	0.9022629	s040	s037
+comments_sam	0.8911823	s040	s029
+comments_sam	0.8928824	s040	s082
+comments_sam	0.85056424	s040	s075
+comments_sam	0.87683976	s040	s027
+comments_sam	0.8806989	s040	s031
+comments_sam	0.87261343	s040	s074
+comments_sam	0.95463717	s040	s039
+comments_sam	0.8536543	s040	s063
+comments_sam	0.89859474	s040	s081
+comments_sam	0.8761911	s040	s083
+comments_sam	0.8524078	s040	s026
+comments_sam	0.88502455	s040	s028
+comments_sam	0.88747704	s040	s015
+comments_sam	0.8792087	s040	s010
+comments_sam	0.8857863	s040	s036
+comments_sam	0.87413645	s040	s023
+comments_sam	0.85547394	s040	s004
+comments_sam	0.8528688	remission-responder sample number technical replicate number	remission-responder humanised mouse sample number biological replicate number
+comments_sam	0.9080899	remission-responder sample number technical replicate number	relapse-non-responder sample number technical replicate number
+comments_sam	0.8763062	dna49	dna50
+comments_sam	0.90696037	dna49	dna51
+comments_sam	0.91710556	dna49	dna48
+comments_sam	0.85496914	dna49	dna45
+comments_sam	0.88953066	dna107	dna105
+comments_sam	0.85017765	dna107	dna110
+comments_sam	0.8721198	dna107	dna103
+comments_sam	0.9164908	dna107	dna108
+comments_sam	0.8520076	dna107	dna102
+comments_sam	0.8516545	s001	s085
+comments_sam	0.88297564	s001	s009
+comments_sam	0.8870983	s001	s006
+comments_sam	0.896189	s001	s005
+comments_sam	0.8603419	s001	s039
+comments_sam	0.871397	s001	s081
+comments_sam	0.85354376	s001	s083
+comments_sam	0.94149005	s001	s002
+comments_sam	0.86568713	s001	s010
+comments_sam	0.89364	s001	s004
+comments_sam	0.9249985	tomato plants transformed with the vector pgwb2	tomato plants transformed with the vector pb2gw7
+comments_sam	0.85490465	s057	s073
+comments_sam	0.8874252	s057	s052
+comments_sam	0.8559407	s057	s085
+comments_sam	0.87754714	s057	s043
+comments_sam	0.9583626	s057	s058
+comments_sam	0.86256254	s057	s066
+comments_sam	0.8740233	s057	s079
+comments_sam	0.8788516	s057	s038
+comments_sam	0.8730071	s057	s064
+comments_sam	0.86831284	s057	s065
+comments_sam	0.8523516	s057	s076
+comments_sam	0.85814196	s057	s014
+comments_sam	0.89425296	s057	s062
+comments_sam	0.89706206	s057	s049
+comments_sam	0.862862	s057	s006
+comments_sam	0.8710961	s057	s078
+comments_sam	0.9166808	s057	s054
+comments_sam	0.90704465	s057	s061
+comments_sam	0.8847481	s057	s046
+comments_sam	0.86349773	s057	s068
+comments_sam	0.85413224	s057	s033
+comments_sam	0.85079825	s057	s070
+comments_sam	0.88826126	s057	s041
+comments_sam	0.8614392	s057	s034
+comments_sam	0.88313395	s057	s037
+comments_sam	0.86554086	s057	s029
+comments_sam	0.86629176	s057	s082
+comments_sam	0.86011684	s057	s027
+comments_sam	0.8515537	s057	s077
+comments_sam	0.8626094	s057	s031
+comments_sam	0.8565186	s057	s074
+comments_sam	0.8901559	s057	s039
+comments_sam	0.86446273	s057	s063
+comments_sam	0.8582026	s057	s081
+comments_sam	0.8565594	s057	s083
+comments_sam	0.86222494	s057	s071
+comments_sam	0.85781157	s057	s028
+comments_sam	0.85688645	s057	s015
+comments_sam	0.85441154	s057	s036
+comments_sam	0.8850355	s057	s040
+comments_sam	0.8839443	dna137	dna138
+comments_sam	0.87139213	dna137	dna127
+comments_sam	0.9115418	dna137	dna136
+comments_sam	0.85131025	dna137	dna150
+comments_sam	0.8528453	dna137	dna139
+comments_sam	0.8502894	dna137	dna135
+comments_sam	0.8771176	negativebnfs16s3	negative16s2bnf
+comments_sam	0.96995056	negativebnfs16s3	negativebnfs16s2
+comments_sam	0.86290693	s053	s073
+comments_sam	0.9447152	s053	s052
+comments_sam	0.8782486	s053	s043
+comments_sam	0.921855	s053	s058
+comments_sam	0.85972893	s053	s079
+comments_sam	0.86037034	s053	s065
+comments_sam	0.87988555	s053	s062
+comments_sam	0.9144249	s053	s049
+comments_sam	0.85150516	s053	s078
+comments_sam	0.94395375	s053	s054
+comments_sam	0.8973514	s053	s061
+comments_sam	0.89526963	s053	s046
+comments_sam	0.868855	s053	s041
+comments_sam	0.8798562	s053	s039
+comments_sam	0.8569989	s053	s063
+comments_sam	0.87356305	s053	s040
+comments_sam	0.91028875	s053	s057
+comments_sam	0.85229427	dna142	dna138
+comments_sam	0.8702017	dna142	dna144
+comments_sam	0.87386096	dna142	dna145
+comments_sam	0.8767743	dna34	dna31
+comments_sam	0.9165517	dna34	dna35
+comments_sam	0.877324	dna34	dna32
+comments_sam	0.8724816	dna34	dna36
+comments_sam	0.85760975	s030	s085
+comments_sam	0.8888976	s030	s032
+comments_sam	0.88757557	s030	s019
+comments_sam	0.88912284	s030	s024
+comments_sam	0.8597647	s030	s079
+comments_sam	0.87828994	s030	s038
+comments_sam	0.85310477	s030	s076
+comments_sam	0.85414565	s030	s014
+comments_sam	0.87066245	s030	s022
+comments_sam	0.8755734	s030	s046
+comments_sam	0.8891853	s030	s033
+comments_sam	0.86539805	s030	s070
+comments_sam	0.861059	s030	s041
+comments_sam	0.8825512	s030	s034
+comments_sam	0.86902416	s030	s037
+comments_sam	0.93723005	s030	s029
+comments_sam	0.8602954	s030	s082
+comments_sam	0.8539375	s030	s075
+comments_sam	0.8948109	s030	s027
+comments_sam	0.9215648	s030	s031
+comments_sam	0.8595511	s030	s074
+comments_sam	0.8976949	s030	s039
+comments_sam	0.8563334	s030	s081
+comments_sam	0.87696385	s030	s026
+comments_sam	0.92474395	s030	s028
+comments_sam	0.8825331	s030	s015
+comments_sam	0.8707619	s030	s010
+comments_sam	0.8841549	s030	s036
+comments_sam	0.87936366	s030	s023
+comments_sam	0.891453	s030	s040
+comments_sam	0.86706716	no vaginal swabs due to heavy bleeding	has heavy bleeding so no vaginal swabs or ph taken
+comments_sam	0.8602527	dna43	dna40
+comments_sam	0.8683803	dna43	dna45
+comments_sam	0.89653516	dna75	dna74
+comments_sam	0.9134203	dna75	dna76
+comments_sam	0.8803982	cyst on small intestine	cyst on on intestine
+comments_sam	0.8547653	cyst on small intestine	cyst on intestines
+comments_sam	0.91878176	cyst on small intestine	cyst on intestine
+comments_sam	0.8920878	dna197	dna196
+comments_sam	0.8824103	dna197	dna195
+comments_sam	0.85105413	dna197	dna188
+comments_sam	0.8896766	dna197	dna199
+comments_sam	0.8736442	dna197	dna194
+comments_sam	0.869936	dna148	dna152
+comments_sam	0.9052065	dna148	dna149
+comments_sam	0.9043124	dna148	dna147
+comments_sam	0.85751444	dna148	dna150
+comments_sam	0.86695504	dna148	dna144
+comments_sam	0.868019	dna148	dna146
+comments_sam	0.88113683	dna148	dna151
+comments_sam	0.88419366	dna148	dna145
+comments_sam	0.91686386	dna46	dna48
+comments_sam	0.9151925	dna46	dna45
+comments_sam	0.88570046	dna46	dna49
+comments_sam	0.8782066	dna46	dna43
+comments_sam	0.88813514	dna198	dna196
+comments_sam	0.8502863	dna198	dna192
+comments_sam	0.8527588	dna198	dna186
+comments_sam	0.86148936	dna198	dna195
+comments_sam	0.8796204	dna198	dna188
+comments_sam	0.91012406	dna198	dna199
+comments_sam	0.864061	dna198	dna184
+comments_sam	0.8679001	dna198	dna181
+comments_sam	0.8701472	dna198	dna194
+comments_sam	0.8582238	dna198	dna175
+comments_sam	0.8937268	dna198	dna197
+comments_sam	0.9113802	dna191	dna19
+comments_sam	0.8658761	dna191	dna153
+comments_sam	0.8810168	dna113	dna114
+comments_sam	0.8828719	dna167	dna164
+comments_sam	0.8585738	dna167	dna169
+comments_sam	0.85564834	dna167	dna156
+comments_sam	0.85191774	dna167	dna170
+comments_sam	0.87359184	dna167	dna171
+comments_sam	0.901549	dna167	dna166
+comments_sam	0.8581085	dna167	dna173
+comments_sam	0.85837877	dna167	dna162
+comments_sam	0.86235785	dna128	dna127
+comments_sam	0.8558644	dna128	dna129
+comments_sam	0.8869035	s045	s052
+comments_sam	0.85565084	s045	s085
+comments_sam	0.9192897	s045	s043
+comments_sam	0.8665698	s045	s058
+comments_sam	0.8740063	s045	s032
+comments_sam	0.8590343	s045	s024
+comments_sam	0.8703204	s045	s079
+comments_sam	0.86394596	s045	s038
+comments_sam	0.8513869	s045	s065
+comments_sam	0.8596775	s045	s084
+comments_sam	0.911085	s045	s049
+comments_sam	0.8590498	s045	s006
+comments_sam	0.9011842	s045	s054
+comments_sam	0.8736272	s045	s061
+comments_sam	0.9510988	s045	s046
+comments_sam	0.8711095	s045	s033
+comments_sam	0.90865004	s045	s041
+comments_sam	0.87259454	s045	s034
+comments_sam	0.85215104	s045	s037
+comments_sam	0.8589561	s045	s029
+comments_sam	0.8513508	s045	s031
+comments_sam	0.8745669	s045	s005
+comments_sam	0.9007052	s045	s039
+comments_sam	0.8596667	s045	s081
+comments_sam	0.86277854	s045	s028
+comments_sam	0.8518325	s045	s015
+comments_sam	0.86035067	s045	s036
+comments_sam	0.85399663	s045	s023
+comments_sam	0.86985946	s045	s004
+comments_sam	0.9099102	s045	s040
+comments_sam	0.8592737	s045	s057
+comments_sam	0.87770903	s045	s053
+comments_sam	0.8569418	s045	s030
+comments_sam	0.8610991	s011	s085
+comments_sam	0.8659923	s011	s032
+comments_sam	0.8878355	s011	s009
+comments_sam	0.8964058	s011	s019
+comments_sam	0.8838103	s011	s024
+comments_sam	0.85225177	s011	s079
+comments_sam	0.8857039	s011	s038
+comments_sam	0.9265071	s011	s014
+comments_sam	0.8793645	s011	s006
+comments_sam	0.95133567	s011	s012
+comments_sam	0.89499706	s011	s022
+comments_sam	0.88261485	s011	s033
+comments_sam	0.8915091	s011	s041
+comments_sam	0.86952126	s011	s034
+comments_sam	0.8567207	s011	s037
+comments_sam	0.8675718	s011	s029
+comments_sam	0.8681581	s011	s082
+comments_sam	0.8754477	s011	s027
+comments_sam	0.88778484	s011	s031
+comments_sam	0.8506241	s011	s074
+comments_sam	0.8609134	s011	s005
+comments_sam	0.8781365	s011	s039
+comments_sam	0.88190955	s011	s081
+comments_sam	0.87729484	s011	s083
+comments_sam	0.857844	s011	s002
+comments_sam	0.87401843	s011	s026
+comments_sam	0.8581654	s011	s071
+comments_sam	0.86165464	s011	s028
+comments_sam	0.9197998	s011	s015
+comments_sam	0.9437165	s011	s010
+comments_sam	0.85888064	s011	s036
+comments_sam	0.8845588	s011	s023
+comments_sam	0.8709476	s011	s004
+comments_sam	0.88284886	s011	s040
+comments_sam	0.8721465	s011	s001
+comments_sam	0.86501527	s011	s030
+comments_sam	0.8559164	dna47	dna51
+comments_sam	0.9377024	dna47	dna48
+comments_sam	0.8786491	dna47	dna45
+comments_sam	0.8936535	dna47	dna49
+comments_sam	0.92911714	dna47	dna46
+comments_sam	0.8514968	dna22	dna19
+comments_sam	0.89234626	dna22	dna24
+comments_sam	0.92748904	dna22	dna23
+comments_sam	0.89077926	dna22	dna21
+comments_sam	0.86212814	dna22	dna20
+comments_sam	0.8614369	s020	s085
+comments_sam	0.8717701	s020	s032
+comments_sam	0.94979525	s020	s019
+comments_sam	0.9186312	s020	s024
+comments_sam	0.8571893	s020	s079
+comments_sam	0.88131833	s020	s038
+comments_sam	0.8724166	s020	s014
+comments_sam	0.85513604	s020	s006
+comments_sam	0.88016456	s020	s012
+comments_sam	0.9264282	s020	s022
+comments_sam	0.8601752	s020	s033
+comments_sam	0.85331476	s020	s070
+comments_sam	0.8620516	s020	s041
+comments_sam	0.8511892	s020	s034
+comments_sam	0.8611969	s020	s037
+comments_sam	0.87606275	s020	s029
+comments_sam	0.8750849	s020	s027
+comments_sam	0.85242176	s020	s031
+comments_sam	0.8681389	s020	s039
+comments_sam	0.86169004	s020	s081
+comments_sam	0.8808353	s020	s026
+comments_sam	0.87443084	s020	s028
+comments_sam	0.9025315	s020	s015
+comments_sam	0.882141	s020	s010
+comments_sam	0.85585177	s020	s036
+comments_sam	0.89884305	s020	s023
+comments_sam	0.886482	s020	s040
+comments_sam	0.88079846	s020	s030
+comments_sam	0.8893533	s020	s011
+comments_sam	0.8617346	dna187	dna183
+comments_sam	0.8816251	dna187	dna189
+comments_sam	0.85707045	dna187	dna192
+comments_sam	0.900245	dna187	dna186
+comments_sam	0.9179075	dna187	dna188
+comments_sam	0.86696506	dna187	dna184
+comments_sam	0.87907475	dna187	dna181
+comments_sam	0.8744806	dna187	dna194
+comments_sam	0.8841901	dna187	dna193
+comments_sam	0.8639903	dna187	dna197
+comments_sam	0.85984814	dna187	dna198
+comments_sam	0.85942304	dna177	dna171
+comments_sam	0.8596699	dna177	dna179
+comments_sam	0.89252174	dna177	dna176
+comments_sam	0.86105186	dna177	dna181
+comments_sam	0.8737794	dna177	dna175
+comments_sam	0.87392455	dna177	dna187
+comments_sam	0.8505807	s060	s085
+comments_sam	0.9088626	s060	s058
+comments_sam	0.87639123	s060	s066
+comments_sam	0.8902566	s060	s064
+comments_sam	0.88904214	s060	s065
+comments_sam	0.9096871	s060	s062
+comments_sam	0.8601829	s060	s049
+comments_sam	0.87958425	s060	s054
+comments_sam	0.9345149	s060	s061
+comments_sam	0.8606395	s060	s046
+comments_sam	0.88392854	s060	s070
+comments_sam	0.8648617	s060	s041
+comments_sam	0.8633783	s060	s075
+comments_sam	0.87638456	s060	s039
+comments_sam	0.9019737	s060	s063
+comments_sam	0.8576232	s060	s015
+comments_sam	0.8808732	s060	s040
+comments_sam	0.8858576	s060	s057
+comments_sam	0.8752723	s060	s053
+comments_sam	0.8778728	s060	s030
+comments_sam	0.85112107	s060	s045
+comments_sam	0.86779237	dna125	dna124
+comments_sam	0.88437116	dna98	dna99
+comments_sam	0.9146886	dna98	dna97
+comments_sam	0.89045596	dna98	dna96
+comments_sam	0.855194	dna98	dna94
+comments_sam	0.862224	dna98	dna95
+comments_sam	0.8653349	dna98	dna93
+comments_sam	0.93374467	cysts on stomach alimentary canal collected	cysts on stomach whole alimentary canal taken
+comments_sam	0.9708201	cysts on stomach alimentary canal collected	cysts on stomach alimentary canal taken
+comments_sam	0.900649	dna60	dna59
+comments_sam	0.8513402	dna117	dna105
+comments_sam	0.8671342	dna117	dna171
+comments_sam	0.86222017	dna117	dna112
+comments_sam	0.88991183	dna117	dna116
+comments_sam	0.85416603	dna117	dna115
+comments_sam	0.86429775	dna117	dna107
+comments_sam	0.92320323	mgmt unmethylated	mgmt methylated
+comments_sam	0.8886865	s013	s019
+comments_sam	0.8711903	s013	s024
+comments_sam	0.89400476	s013	s038
+comments_sam	0.9517374	s013	s014
+comments_sam	0.862267	s013	s006
+comments_sam	0.94424605	s013	s012
+comments_sam	0.88358045	s013	s022
+comments_sam	0.87350196	s013	s033
+comments_sam	0.88513577	s013	s041
+comments_sam	0.87268066	s013	s034
+comments_sam	0.8599868	s013	s037
+comments_sam	0.8631671	s013	s029
+comments_sam	0.87398076	s013	s027
+comments_sam	0.87515	s013	s031
+comments_sam	0.8724992	s013	s039
+comments_sam	0.869351	s013	s083
+comments_sam	0.86275125	s013	s026
+comments_sam	0.92135024	s013	s015
+comments_sam	0.89660156	s013	s010
+comments_sam	0.89397717	s013	s023
+comments_sam	0.8834859	s013	s040
+comments_sam	0.85175765	s013	s057
+comments_sam	0.9458222	s013	s011
+comments_sam	0.87224114	s013	s020
+comments_sam	0.90985334	dna3	dna4
+comments_sam	0.87506944	dna3	dna5
+comments_sam	0.89591277	dna3	dna2
+comments_sam	0.8565341	dna3	dna1
+comments_sam	0.8618862	dna3	dna6
+comments_sam	0.8725537	dna155	dna164
+comments_sam	0.86682194	dna155	dna157
+comments_sam	0.87951785	dna155	dna156
+comments_sam	0.85809714	dna155	dna170
+comments_sam	0.85161155	dna155	dna159
+comments_sam	0.85104156	dna155	dna162
+comments_sam	0.8619107	dna155	dna151
+comments_sam	0.8552885	dna155	dna145
+comments_sam	0.8569429	s042	s073
+comments_sam	0.880205	s042	s052
+comments_sam	0.85379314	s042	s085
+comments_sam	0.95800436	s042	s043
+comments_sam	0.87433165	s042	s058
+comments_sam	0.88111323	s042	s032
+comments_sam	0.85388494	s042	s024
+comments_sam	0.90249693	s042	s038
+comments_sam	0.85850906	s042	s064
+comments_sam	0.85823	s042	s084
+comments_sam	0.86678594	s042	s014
+comments_sam	0.8771996	s042	s062
+comments_sam	0.8894272	s042	s049
+comments_sam	0.888585	s042	s054
+comments_sam	0.8593592	s042	s061
+comments_sam	0.8731654	s042	s022
+comments_sam	0.90417403	s042	s046
+comments_sam	0.8924886	s042	s033
+comments_sam	0.9614248	s042	s041
+comments_sam	0.89232326	s042	s034
+comments_sam	0.8849068	s042	s037
+comments_sam	0.8834289	s042	s029
+comments_sam	0.87304175	s042	s082
+comments_sam	0.87107146	s042	s027
+comments_sam	0.86243576	s042	s031
+comments_sam	0.9279339	s042	s039
+comments_sam	0.871752	s042	s081
+comments_sam	0.85283595	s042	s083
+comments_sam	0.8680706	s042	s028
+comments_sam	0.871774	s042	s015
+comments_sam	0.87842983	s042	s036
+comments_sam	0.86394596	s042	s023
+comments_sam	0.93769944	s042	s040
+comments_sam	0.877998	s042	s057
+comments_sam	0.8719026	s042	s053
+comments_sam	0.907164	s042	s045
+comments_sam	0.9979002	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.99964464	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.9989245	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.99925375	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.99910474	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.99945533	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.99880546	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.99841475	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44
+comments_sam	0.9988532	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56
+comments_sam	0.99862957	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58
+comments_sam	0.9968019	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74
+comments_sam	0.9984716	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48
+comments_sam	0.94168	lower abdominal pain	has lower abdominal pain
+comments_sam	0.8501454	dna14	dna12
+comments_sam	0.8522763	dna14	dna11
+comments_sam	0.8852959	dna14	dna15
+comments_sam	0.88777876	dna14	dna13
+comments_sam	0.8591921	dna61	dna63
+comments_sam	0.86348975	dna61	dna58
+comments_sam	0.8867899	dna61	dna59
+comments_sam	0.8873458	dna61	dna60
+comments_sam	0.8502902	s021	s085
+comments_sam	0.8520604	s021	s043
+comments_sam	0.8823637	s021	s032
+comments_sam	0.92239314	s021	s019
+comments_sam	0.91987735	s021	s024
+comments_sam	0.87307477	s021	s038
+comments_sam	0.8735665	s021	s014
+comments_sam	0.8538024	s021	s049
+comments_sam	0.8581437	s021	s006
+comments_sam	0.86789346	s021	s012
+comments_sam	0.9443828	s021	s022
+comments_sam	0.8545221	s021	s046
+comments_sam	0.87952304	s021	s033
+comments_sam	0.85093975	s021	s070
+comments_sam	0.8830123	s021	s041
+comments_sam	0.858219	s021	s034
+comments_sam	0.8608789	s021	s037
+comments_sam	0.8923905	s021	s029
+comments_sam	0.8540466	s021	s082
+comments_sam	0.89300907	s021	s027
+comments_sam	0.87174964	s021	s031
+comments_sam	0.87295854	s021	s039
+comments_sam	0.8778647	s021	s081
+comments_sam	0.89556843	s021	s026
+comments_sam	0.8533355	s021	s071
+comments_sam	0.90413773	s021	s028
+comments_sam	0.89811736	s021	s015
+comments_sam	0.88520896	s021	s010
+comments_sam	0.8501543	s021	s036
+comments_sam	0.91840625	s021	s023
+comments_sam	0.8833933	s021	s040
+comments_sam	0.85508084	s021	s001
+comments_sam	0.86816096	s021	s030
+comments_sam	0.868496	s021	s045
+comments_sam	0.89471143	s021	s011
+comments_sam	0.9425763	s021	s020
+comments_sam	0.8691819	s021	s013
+comments_sam	0.8646421	s021	s042
+comments_sam	0.99586964	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.9974789	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.99669695	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.99633956	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.99670935	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.99731743	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.996506	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.9965913	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44
+comments_sam	0.99613535	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56
+comments_sam	0.9965106	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58
+comments_sam	0.99940014	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74
+comments_sam	0.99677724	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48
+comments_sam	0.9971942	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62
+comments_sam	0.85101104	dna185	dna164
+comments_sam	0.8664557	dna185	dna183
+comments_sam	0.8570169	dna185	dna189
+comments_sam	0.9054595	dna185	dna186
+comments_sam	0.88527936	dna185	dna195
+comments_sam	0.8830268	dna185	dna188
+comments_sam	0.85307384	dna185	dna173
+comments_sam	0.86194617	dna185	dna199
+comments_sam	0.9176347	dna185	dna184
+comments_sam	0.881587	dna185	dna181
+comments_sam	0.8717246	dna185	dna194
+comments_sam	0.8504654	dna185	dna175
+comments_sam	0.8640247	dna185	dna182
+comments_sam	0.8817278	dna185	dna187
+comments_sam	0.88286304	erythromycin and candistat	given prescription for erythromycin and candistat
+comments_sam	0.8721544	dna134	dna138
+comments_sam	0.87631464	dna134	dna136
+comments_sam	0.8747972	dna134	dna133
+comments_sam	0.9054625	dna134	dna135
+comments_sam	0.8630184	dna134	dna137
+comments_sam	0.9158547	dna62	dna63
+comments_sam	0.86807036	dna62	dna59
+comments_sam	0.87310225	dna62	dna65
+comments_sam	0.90444857	dna62	dna61
+comments_sam	0.90095353	dna106	dna105
+comments_sam	0.8849547	dna106	dna103
+comments_sam	0.8585937	dna106	dna108
+comments_sam	0.8513616	dna106	dna102
+comments_sam	0.913309	dna106	dna107
+comments_sam	0.85351825	dna106	dna117
+comments_sam	0.90034056	dna37	dna38
+comments_sam	0.9078464	dna37	dna36
+comments_sam	0.87610245	dna30	dna31
+comments_sam	0.86364293	dna30	dna28
+comments_sam	0.8977767	dna30	dna29
+comments_sam	0.8587345	dna77	dna74
+comments_sam	0.9012676	dna77	dna76
+comments_sam	0.85065347	dna77	dna78
+comments_sam	0.86599576	dna77	dna75
+comments_sam	0.8587823	s017	s085
+comments_sam	0.8746202	s017	s032
+comments_sam	0.8580357	s017	s066
+comments_sam	0.9361633	s017	s019
+comments_sam	0.90009063	s017	s024
+comments_sam	0.8538125	s017	s079
+comments_sam	0.8922092	s017	s038
+comments_sam	0.8666315	s017	s064
+comments_sam	0.8870321	s017	s065
+comments_sam	0.8533989	s017	s076
+comments_sam	0.8515157	s017	s084
+comments_sam	0.9159548	s017	s014
+comments_sam	0.8521379	s017	s006
+comments_sam	0.8504268	s017	s078
+comments_sam	0.8977922	s017	s012
+comments_sam	0.9137105	s017	s022
+comments_sam	0.89061356	s017	s033
+comments_sam	0.8702278	s017	s041
+comments_sam	0.8835238	s017	s034
+comments_sam	0.89579344	s017	s037
+comments_sam	0.88311595	s017	s029
+comments_sam	0.8618152	s017	s082
+comments_sam	0.89447314	s017	s027
+comments_sam	0.8724093	s017	s077
+comments_sam	0.86848164	s017	s031
+comments_sam	0.8681717	s017	s074
+comments_sam	0.8728547	s017	s039
+comments_sam	0.8809108	s017	s081
+comments_sam	0.8621686	s017	s083
+comments_sam	0.8821342	s017	s026
+comments_sam	0.88063216	s017	s071
+comments_sam	0.87641585	s017	s028
+comments_sam	0.94865274	s017	s015
+comments_sam	0.88450176	s017	s010
+comments_sam	0.8792396	s017	s036
+comments_sam	0.8951586	s017	s023
+comments_sam	0.8647089	s017	s040
+comments_sam	0.85029656	s017	s057
+comments_sam	0.8621377	s017	s030
+comments_sam	0.9175507	s017	s011
+comments_sam	0.90789366	s017	s020
+comments_sam	0.9075253	s017	s013
+comments_sam	0.8999853	s017	s021
+comments_sam	0.8831512	dna53	dna54
+comments_sam	0.882596	dna53	dna52
+comments_sam	0.8548597	dna53	dna51
+comments_sam	0.85944736	dna132	dna131
+comments_sam	0.8718515	dna132	dna133
+comments_sam	0.86507535	s051	s073
+comments_sam	0.9573034	s051	s052
+comments_sam	0.86046517	s051	s085
+comments_sam	0.8923775	s051	s043
+comments_sam	0.9154279	s051	s058
+comments_sam	0.85729754	s051	s032
+comments_sam	0.8603817	s051	s066
+comments_sam	0.8794391	s051	s079
+comments_sam	0.8539864	s051	s038
+comments_sam	0.87215036	s051	s064
+comments_sam	0.8780718	s051	s065
+comments_sam	0.8673043	s051	s076
+comments_sam	0.8738334	s051	s084
+comments_sam	0.88441014	s051	s062
+comments_sam	0.94238025	s051	s049
+comments_sam	0.8534698	s051	s078
+comments_sam	0.93134665	s051	s054
+comments_sam	0.9055186	s051	s061
+comments_sam	0.9121052	s051	s046
+comments_sam	0.8604846	s051	s033
+comments_sam	0.87195194	s051	s070
+comments_sam	0.9064771	s051	s041
+comments_sam	0.85287905	s051	s034
+comments_sam	0.861574	s051	s082
+comments_sam	0.8627406	s051	s075
+comments_sam	0.8635745	s051	s077
+comments_sam	0.86520743	s051	s074
+comments_sam	0.8898054	s051	s039
+comments_sam	0.8909744	s051	s081
+comments_sam	0.8537022	s051	s083
+comments_sam	0.86932325	s051	s071
+comments_sam	0.8689581	s051	s015
+comments_sam	0.8981116	s051	s040
+comments_sam	0.9034432	s051	s057
+comments_sam	0.94158256	s051	s053
+comments_sam	0.90846604	s051	s045
+comments_sam	0.8630774	s051	s011
+comments_sam	0.87899846	s051	s060
+comments_sam	0.8881626	s051	s042
+comments_sam	0.8536923	s051	s021
+comments_sam	0.8558302	s051	s017
+comments_sam	0.85694575	s008	s032
+comments_sam	0.9434855	s008	s009
+comments_sam	0.86803913	s008	s079
+comments_sam	0.92354333	s008	s006
+comments_sam	0.85736644	s008	s078
+comments_sam	0.85181737	s008	s033
+comments_sam	0.9019209	s008	s005
+comments_sam	0.8565217	s008	s039
+comments_sam	0.87089014	s008	s081
+comments_sam	0.85231686	s008	s083
+comments_sam	0.8842078	s008	s002
+comments_sam	0.8750118	s008	s010
+comments_sam	0.8857155	s008	s004
+comments_sam	0.88274556	s008	s001
+comments_sam	0.877017	s008	s011
+comments_sam	0.8559456	s008	s020
+comments_sam	0.85268414	s008	s021
+comments_sam	0.8514196	s008	s017
+comments_sam	0.8651772	s016	s032
+comments_sam	0.9127717	s016	s019
+comments_sam	0.89300907	s016	s024
+comments_sam	0.8750585	s016	s038
+comments_sam	0.86252165	s016	s064
+comments_sam	0.8626294	s016	s065
+comments_sam	0.9176977	s016	s014
+comments_sam	0.89550734	s016	s012
+comments_sam	0.8915334	s016	s022
+comments_sam	0.8722776	s016	s033
+comments_sam	0.8754628	s016	s041
+comments_sam	0.8673371	s016	s034
+comments_sam	0.8730333	s016	s037
+comments_sam	0.8729558	s016	s029
+comments_sam	0.87236375	s016	s027
+comments_sam	0.86030006	s016	s031
+comments_sam	0.85975087	s016	s039
+comments_sam	0.8675399	s016	s081
+comments_sam	0.8858279	s016	s026
+comments_sam	0.8560331	s016	s071
+comments_sam	0.86852413	s016	s028
+comments_sam	0.9536927	s016	s015
+comments_sam	0.8874574	s016	s010
+comments_sam	0.859551	s016	s036
+comments_sam	0.87163174	s016	s023
+comments_sam	0.8630856	s016	s040
+comments_sam	0.85171676	s016	s030
+comments_sam	0.9080275	s016	s011
+comments_sam	0.89192456	s016	s020
+comments_sam	0.91045517	s016	s013
+comments_sam	0.89391416	s016	s021
+comments_sam	0.9654658	s016	s017
+comments_sam	0.8514832	s016	s051
+comments_sam	0.85042316	s016	s008
+comments_sam	0.943393	worms in large intestine	worm on large intestine
+comments_sam	0.96486497	negative2bnfsits	negative1bnfsits
+comments_sam	0.879635	dna118	dna117
+comments_sam	0.8911377	dna68	dna69
+comments_sam	0.8566797	dna68	dna66
+comments_sam	0.8924862	dna68	dna67
+comments_sam	0.93648666	cysts on stomach	cyst on stomach
+comments_sam	0.87768257	abdominal pain	has lower abdominal pain
+comments_sam	0.8983591	abdominal pain	lower abdominal pain
+comments_sam	0.9015851	dna42	dna40
+comments_sam	0.86846304	dna42	dna39
+comments_sam	0.87362134	dna42	dna45
+comments_sam	0.9208825	dna42	dna43
+comments_sam	0.85839915	dna42	dna46
+comments_sam	0.8946248	dna64	dna63
+comments_sam	0.8822391	dna64	dna66
+comments_sam	0.86306226	dna64	dna67
+comments_sam	0.90933514	dna64	dna65
+comments_sam	0.864535	dna64	dna61
+comments_sam	0.89363706	dna64	dna62
+comments_sam	0.87288946	dna119	dna199
+comments_sam	0.87208945	dna119	dna115
+comments_sam	0.8635951	dna119	dna117
+comments_sam	0.88740027	dna119	dna118
+comments_sam	0.97911656	negative16s1bnf	negative16s2bnf
+comments_sam	0.8855376	negative16s1bnf	negativebnfs16s2
+comments_sam	0.9357532	s072	s073
+comments_sam	0.8816859	s072	s066
+comments_sam	0.85645324	s072	s024
+comments_sam	0.8573935	s072	s079
+comments_sam	0.8747282	s072	s065
+comments_sam	0.8862795	s072	s076
+comments_sam	0.8732991	s072	s084
+comments_sam	0.8505215	s072	s062
+comments_sam	0.852996	s072	s078
+comments_sam	0.8741313	s072	s068
+comments_sam	0.9204488	s072	s070
+comments_sam	0.858921	s072	s082
+comments_sam	0.90038097	s072	s075
+comments_sam	0.89359605	s072	s077
+comments_sam	0.93113387	s072	s074
+comments_sam	0.87975943	s072	s081
+comments_sam	0.8649115	s072	s083
+comments_sam	0.93076384	s072	s071
+comments_sam	0.85073006	s072	s051
+comments_sam	0.8683833	dna44	dna40
+comments_sam	0.9160211	dna44	dna45
+comments_sam	0.90957034	dna44	dna43
+comments_sam	0.8798824	dna44	dna46
+comments_sam	0.8984083	dna44	dna42
+comments_sam	0.90096295	negativebnfs16s1	negative16s2bnf
+comments_sam	0.95636624	negativebnfs16s1	negativebnfs16s2
+comments_sam	0.9212153	negativebnfs16s1	negativebnfs16s3
+comments_sam	0.9135722	negativebnfs16s1	negative16s1bnf
+comments_sam	0.8523812	s003	s032
+comments_sam	0.89504015	s003	s009
+comments_sam	0.91421247	s003	s006
+comments_sam	0.86527574	s003	s033
+comments_sam	0.8532077	s003	s034
+comments_sam	0.9114146	s003	s005
+comments_sam	0.8634591	s003	s081
+comments_sam	0.86331403	s003	s083
+comments_sam	0.9315083	s003	s002
+comments_sam	0.85280263	s003	s010
+comments_sam	0.8621341	s003	s036
+comments_sam	0.93052125	s003	s004
+comments_sam	0.90387	s003	s001
+comments_sam	0.8678419	s003	s011
+comments_sam	0.9024565	s003	s008
+comments_sam	0.8566643	dna91	dna89
+comments_sam	0.8621117	dna91	dna87
+comments_sam	0.86859894	dna91	dna90
+comments_sam	0.8982434	dna91	dna92
+comments_sam	0.85796964	dna91	dna86
+comments_sam	0.8699797	dna91	dna94
+comments_sam	0.87573826	dna91	dna93
+comments_sam	0.9991002	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.9979936	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.99837524	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.9979971	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.99893236	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.9977554	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.99896824	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.99898714	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44
+comments_sam	0.9979734	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56
+comments_sam	0.99806815	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58
+comments_sam	0.99614245	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74
+comments_sam	0.9989449	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48
+comments_sam	0.99761164	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62
+comments_sam	0.99593306	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72
+comments_sam	0.8779918	s018	s085
+comments_sam	0.8674354	s018	s032
+comments_sam	0.8658655	s018	s066
+comments_sam	0.95624626	s018	s019
+comments_sam	0.90979314	s018	s024
+comments_sam	0.85541093	s018	s079
+comments_sam	0.90726507	s018	s038
+comments_sam	0.8635926	s018	s064
+comments_sam	0.8680837	s018	s065
+comments_sam	0.86419	s018	s076
+comments_sam	0.8688002	s018	s084
+comments_sam	0.891085	s018	s014
+comments_sam	0.86153036	s018	s006
+comments_sam	0.85869646	s018	s078
+comments_sam	0.8891622	s018	s012
+comments_sam	0.90413296	s018	s022
+comments_sam	0.8567171	s018	s068
+comments_sam	0.87900376	s018	s033
+comments_sam	0.8569096	s018	s041
+comments_sam	0.8695108	s018	s034
+comments_sam	0.88444585	s018	s037
+comments_sam	0.8781688	s018	s029
+comments_sam	0.86513036	s018	s082
+comments_sam	0.8555306	s018	s075
+comments_sam	0.8841834	s018	s027
+comments_sam	0.8559214	s018	s077
+comments_sam	0.85799587	s018	s031
+comments_sam	0.86377	s018	s074
+comments_sam	0.8790915	s018	s039
+comments_sam	0.87990105	s018	s081
+comments_sam	0.8622303	s018	s083
+comments_sam	0.86516416	s018	s026
+comments_sam	0.85175306	s018	s071
+comments_sam	0.87630737	s018	s028
+comments_sam	0.92618674	s018	s015
+comments_sam	0.8762354	s018	s010
+comments_sam	0.8785082	s018	s036
+comments_sam	0.8821926	s018	s023
+comments_sam	0.8633249	s018	s040
+comments_sam	0.87236786	s018	s030
+comments_sam	0.8962852	s018	s011
+comments_sam	0.9251092	s018	s020
+comments_sam	0.8862285	s018	s013
+comments_sam	0.9014248	s018	s021
+comments_sam	0.95284593	s018	s017
+comments_sam	0.85115874	s018	s008
+comments_sam	0.9291352	s018	s016
+comments_sam	0.8504585	dna83	dna76
+comments_sam	0.88218546	dna83	dna84
+comments_sam	0.860073	dna83	dna85
+comments_sam	0.89619094	dna83	dna82
+comments_sam	0.85971415	dna83	dna93
+comments_sam	0.8661758	prescribed erythromycin	given erythromycin
+comments_sam	0.8613612	prescribed erythromycin	erythromycin
+comments_sam	0.86670804	prescribed erythromycin	on erythromycin prescribed eryhromycin
+comments_sam	0.91811013	cyst under liver	cyst on liver
+comments_sam	0.86572313	s044	s073
+comments_sam	0.8959123	s044	s052
+comments_sam	0.8801805	s044	s085
+comments_sam	0.9644202	s044	s043
+comments_sam	0.8909884	s044	s058
+comments_sam	0.88745546	s044	s032
+comments_sam	0.8718842	s044	s066
+comments_sam	0.85487664	s044	s019
+comments_sam	0.8846334	s044	s024
+comments_sam	0.8717419	s044	s079
+comments_sam	0.90536976	s044	s038
+comments_sam	0.88786405	s044	s064
+comments_sam	0.86421907	s044	s065
+comments_sam	0.85467684	s044	s076
+comments_sam	0.88927054	s044	s084
+comments_sam	0.86495286	s044	s014
+comments_sam	0.8721987	s044	s062
+comments_sam	0.9143441	s044	s049
+comments_sam	0.9126137	s044	s054
+comments_sam	0.8835331	s044	s061
+comments_sam	0.88390076	s044	s022
+comments_sam	0.9387536	s044	s046
+comments_sam	0.8990271	s044	s033
+comments_sam	0.9438771	s044	s041
+comments_sam	0.8958146	s044	s034
+comments_sam	0.8841373	s044	s037
+comments_sam	0.88859904	s044	s029
+comments_sam	0.8766465	s044	s082
+comments_sam	0.8709651	s044	s027
+comments_sam	0.86443806	s044	s031
+comments_sam	0.8831614	s044	s074
+comments_sam	0.92717564	s044	s039
+comments_sam	0.88622296	s044	s081
+comments_sam	0.8650444	s044	s083
+comments_sam	0.8749355	s044	s028
+comments_sam	0.87604094	s044	s015
+comments_sam	0.88186455	s044	s036
+comments_sam	0.8726878	s044	s023
+comments_sam	0.8715105	s044	s004
+comments_sam	0.9332984	s044	s040
+comments_sam	0.8854338	s044	s057
+comments_sam	0.8876838	s044	s053
+comments_sam	0.86948013	s044	s030
+comments_sam	0.94801307	s044	s045
+comments_sam	0.8560885	s044	s011
+comments_sam	0.8604324	s044	s060
+comments_sam	0.9472118	s044	s042
+comments_sam	0.86084414	s044	s021
+comments_sam	0.8630152	s044	s017
+comments_sam	0.91444725	s044	s051
+comments_sam	0.86766577	s044	s018
+comments_sam	0.8718674	given alu and pcm gave birth at wanze dispensary	gave birth at wanze dispensary
+comments_sam	0.8859252	s059	s052
+comments_sam	0.8589771	s059	s085
+comments_sam	0.86302006	s059	s043
+comments_sam	0.9556217	s059	s058
+comments_sam	0.87850416	s059	s066
+comments_sam	0.86957955	s059	s079
+comments_sam	0.8746542	s059	s038
+comments_sam	0.89375126	s059	s064
+comments_sam	0.87848085	s059	s065
+comments_sam	0.856038	s059	s076
+comments_sam	0.8587824	s059	s084
+comments_sam	0.914976	s059	s062
+comments_sam	0.89443326	s059	s049
+comments_sam	0.8517699	s059	s006
+comments_sam	0.8526508	s059	s078
+comments_sam	0.9110241	s059	s054
+comments_sam	0.9286599	s059	s061
+comments_sam	0.88607645	s059	s046
+comments_sam	0.86833185	s059	s068
+comments_sam	0.85085326	s059	s033
+comments_sam	0.87949	s059	s041
+comments_sam	0.8523572	s059	s037
+comments_sam	0.85909665	s059	s029
+comments_sam	0.8615878	s059	s082
+comments_sam	0.8549246	s059	s075
+comments_sam	0.9059609	s059	s039
+comments_sam	0.89044774	s059	s063
+comments_sam	0.8651033	s059	s081
+comments_sam	0.8647076	s059	s083
+comments_sam	0.8509073	s059	s015
+comments_sam	0.88018364	s059	s040
+comments_sam	0.9351135	s059	s057
+comments_sam	0.91041446	s059	s053
+comments_sam	0.86497545	s059	s045
+comments_sam	0.9275887	s059	s060
+comments_sam	0.87739396	s059	s042
+comments_sam	0.9049479	s059	s051
+comments_sam	0.88596034	s059	s044
+comments_sam	0.91511506	s055	s052
+comments_sam	0.8913119	s055	s085
+comments_sam	0.86490285	s055	s043
+comments_sam	0.9318979	s055	s058
+comments_sam	0.878127	s055	s066
+comments_sam	0.85644555	s055	s019
+comments_sam	0.8670577	s055	s024
+comments_sam	0.87084967	s055	s079
+comments_sam	0.8642251	s055	s038
+comments_sam	0.8966197	s055	s064
+comments_sam	0.8978347	s055	s065
+comments_sam	0.8526083	s055	s076
+comments_sam	0.88009095	s055	s084
+comments_sam	0.894397	s055	s062
+comments_sam	0.8932729	s055	s049
+comments_sam	0.8673651	s055	s006
+comments_sam	0.8587997	s055	s078
+comments_sam	0.9537992	s055	s054
+comments_sam	0.910233	s055	s061
+comments_sam	0.89426965	s055	s046
+comments_sam	0.854928	s055	s068
+comments_sam	0.86528707	s055	s070
+comments_sam	0.885204	s055	s041
+comments_sam	0.85017574	s055	s034
+comments_sam	0.8514096	s055	s037
+comments_sam	0.8500017	s055	s029
+comments_sam	0.85743076	s055	s082
+comments_sam	0.8696331	s055	s075
+comments_sam	0.86549413	s055	s074
+comments_sam	0.8580637	s055	s005
+comments_sam	0.88991773	s055	s039
+comments_sam	0.8629259	s055	s063
+comments_sam	0.87402505	s055	s081
+comments_sam	0.85434306	s055	s071
+comments_sam	0.8568193	s055	s028
+comments_sam	0.87384593	s055	s015
+comments_sam	0.8527819	s055	s004
+comments_sam	0.8916501	s055	s040
+comments_sam	0.9233674	s055	s057
+comments_sam	0.9259401	s055	s053
+comments_sam	0.8594591	s055	s030
+comments_sam	0.9080683	s055	s045
+comments_sam	0.8554904	s055	s020
+comments_sam	0.9059136	s055	s060
+comments_sam	0.8711353	s055	s042
+comments_sam	0.85576797	s055	s021
+comments_sam	0.9306829	s055	s051
+comments_sam	0.86284006	s055	s018
+comments_sam	0.90839434	s055	s044
+comments_sam	0.92683756	s055	s059
+comments_sam	0.8550706	erythromycin prescribed	given erythromycin
+comments_sam	0.96541786	erythromycin prescribed	prescribed erythromycin
+comments_sam	0.86809283	dna111	dna112
+comments_sam	0.85614014	dna120	dna150
+comments_sam	0.8599185	dna120	dna119
+comments_sam	0.9991553	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.9990666	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.99859107	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.99857754	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.99849665	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.9991152	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.99867785	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.99818933	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44
+comments_sam	0.9986532	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56
+comments_sam	0.9985152	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58
+comments_sam	0.996755	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74
+comments_sam	0.9984243	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48
+comments_sam	0.9990572	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62
+comments_sam	0.996951	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72
+comments_sam	0.9989705	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40
+comments_sam	0.8771361	cysts all over stomach	cysts all over intestine
+comments_sam	0.8538536	dna121	dna124
+comments_sam	0.8933375	cysts on stomach entire alimentary tract taken	cysts on stomach whole alimentary canal taken
+comments_sam	0.86315334	cysts on stomach entire alimentary tract taken	cysts on stomach alimentary canal taken
+comments_sam	0.8515893	dna104	dna103
+comments_sam	0.9468069	control of cre/cas9/chd2 crrna/tracrrna/rad51-injected-2	control of cre/cas9/chd2 crrna/tracrrna-injected-2
+comments_sam	0.9932617	control of cre/cas9/chd2 crrna/tracrrna/rad51-injected-2	control of cre/cas9/chd2 crrna/tracrrna/rad51-injected-1
+comments_sam	0.8650625	dna161	dna164
+comments_sam	0.8773669	dna161	dna171
+comments_sam	0.85208744	dna161	dna166
+comments_sam	0.8751192	dna161	dna162
+comments_sam	0.8562522	dna161	dna151
+comments_sam	0.878387	dna161	dna163
+comments_sam	0.8570223	dna161	dna181
+comments_sam	0.8579776	dna161	dna160
+comments_sam	0.85188407	cyst on intestine tape worm on liver	liver tape worm
+comments_sam	0.8891801	cyst on intestine tape worm on liver	tape worm on liver
+comments_sam	0.8564003	cyst on intestine tape worm on liver	tape worm on intestine
+comments_sam	0.9966523	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.9971755	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.99674636	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.9962795	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.99654984	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.9970018	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.996454	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.99656194	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44
+comments_sam	0.9961869	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56
+comments_sam	0.99656165	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58
+comments_sam	0.99927115	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74
+comments_sam	0.9967183	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48
+comments_sam	0.99675167	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62
+comments_sam	0.99923986	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72
+comments_sam	0.99659926	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40
+comments_sam	0.99729323	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60
+comments_sam	0.9978775	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l50
+comments_sam	0.999566	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l64
+comments_sam	0.9987533	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l54
+comments_sam	0.99868286	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l52
+comments_sam	0.9984572	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l42
+comments_sam	0.99963784	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l68
+comments_sam	0.99909425	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l46
+comments_sam	0.99818206	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l44
+comments_sam	0.9992305	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l56
+comments_sam	0.9987377	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l58
+comments_sam	0.9964896	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l74
+comments_sam	0.9984906	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l48
+comments_sam	0.99951565	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l62
+comments_sam	0.9968155	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l72
+comments_sam	0.99750376	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l40
+comments_sam	0.9991006	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l60
+comments_sam	0.99648213	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l66	merge technical replicates following strategy https //github.com/uhkniazi/brc_blaschkoidpsoriasis_alex_pid_22/blob/d85003bc0499a1b7345f3c90b6bb559bd9f0e2ba/10_deanalysis.r l70
+comments_sam	0.9019794	dna158	dna157
+comments_sam	0.878046	dna158	dna156
+comments_sam	0.87347853	dna158	dna159
+comments_sam	0.8736975	dna158	dna162
+comments_sam	0.8802403	dna158	dna163
+comments_sam	0.86143684	dna158	dna160
+comments_sam	0.8847593	dna158	dna155
+comments_sam	0.8680757	dna158	dna161
+comments_sam	0.9009089	has heavy bleeding so no swabs taken	has heavy bleeding so no vaginal swabs or ph taken
+comments_sam	0.89872503	s050	s052
+comments_sam	0.88393307	s050	s058
+comments_sam	0.85508794	s050	s079
+comments_sam	0.8589431	s050	s065
+comments_sam	0.8529638	s050	s062
+comments_sam	0.93076694	s050	s049
+comments_sam	0.88691664	s050	s054
+comments_sam	0.87495035	s050	s061
+comments_sam	0.9036709	s050	s046
+comments_sam	0.86099243	s050	s070
+comments_sam	0.8646152	s050	s075
+comments_sam	0.85673165	s050	s039
+comments_sam	0.86751175	s050	s040
+comments_sam	0.8785992	s050	s057
+comments_sam	0.8995012	s050	s053
+comments_sam	0.8512671	s050	s030
+comments_sam	0.88375527	s050	s045
+comments_sam	0.88736284	s050	s060
+comments_sam	0.9424975	s050	s051
+comments_sam	0.873062	s050	s044
+comments_sam	0.8829528	s050	s059
+comments_sam	0.8999442	s050	s055
+comments_sam	0.8588689	dna143	dna138
+comments_sam	0.8929162	dna143	dna144
+comments_sam	0.8548013	dna143	dna162
+comments_sam	0.8589823	dna143	dna146
+comments_sam	0.8842813	dna143	dna145
+comments_sam	0.91351795	dna143	dna142
+comments_sam	0.868114	dna143	dna148
+comments_sam	0.85567796	dna143	dna155
+comments_sam	0.9255427	dna41	dna40
+comments_sam	0.86801493	dna41	dna39
+comments_sam	0.8598949	dna41	dna38
+comments_sam	0.8700025	dna41	dna45
+comments_sam	0.90502703	dna41	dna43
+comments_sam	0.9337522	dna41	dna42
+comments_sam	0.8992227	dna41	dna44
+comments_sam	0.9456283	given erythromycin ferrous sulphate pcm	given erythromycin and ferrous sulphate
+comments_sam	0.85289407	given erythromycin ferrous sulphate pcm	given erythromycin and ferrous sulphate tabs
+comments_sam	0.89585644	given erythromycin ferrous sulphate pcm	taking ferrous sulphate and given erythromycin
+comments_sam	0.8536306	car_accident.hindleg_open_fracture_on_the_right	car_accident.both_hindlegs_broken_open_fracture.cut_in_genital_area
+comments_sam	0.8710364	dna81	dna80
+comments_sam	0.85680604	dna81	dna92
+comments_sam	0.8723656	dna81	dna79
+comments_sam	0.86928594	dna81	dna76
+comments_sam	0.89408994	dna81	dna84
+comments_sam	0.8529493	dna81	dna78
+comments_sam	0.9180608	dna81	dna82
+comments_sam	0.8734	dna81	dna83
+comments_sam	0.8821356	dna141	dna138
+comments_sam	0.8588455	dna141	dna140
+comments_sam	0.8760791	dna141	dna144
+comments_sam	0.87065786	dna141	dna135
+comments_sam	0.8666439	dna141	dna145
+comments_sam	0.85444987	dna141	dna137
+comments_sam	0.90692425	dna141	dna142
+comments_sam	0.8662205	dna141	dna134
+comments_sam	0.860126	dna141	dna143
+comments_sam	0.89365196	dna33	dna31
+comments_sam	0.8550513	dna33	dna35
+comments_sam	0.9294725	dna33	dna32
+comments_sam	0.9287901	dna33	dna34
+comments_sam	0.99161327	control of cre/cas9/chd2 crrna/tracrrna-injected-1	control of cre/cas9/chd2 crrna/tracrrna-injected-2
+comments_sam	0.9457085	control of cre/cas9/chd2 crrna/tracrrna-injected-1	control of cre/cas9/chd2 crrna/tracrrna/rad51-injected-1
+comments_sam	0.9348284	control of cre/cas9/chd2 crrna/tracrrna-injected-1	control of cre/cas9/chd2 crrna/tracrrna/rad51-injected-2
+comments_sam	0.90343577	s048	s052
+comments_sam	0.9027939	s048	s043
+comments_sam	0.8921156	s048	s058
+comments_sam	0.8695461	s048	s079
+comments_sam	0.8669653	s048	s038
+comments_sam	0.94894505	s048	s049
+comments_sam	0.8630263	s048	s078
+comments_sam	0.8973786	s048	s054
+comments_sam	0.86604375	s048	s061
+comments_sam	0.9566982	s048	s046
+comments_sam	0.8705794	s048	s041
+comments_sam	0.85978806	s048	s037
+comments_sam	0.8504033	s048	s074
+comments_sam	0.8939481	s048	s039
+comments_sam	0.8541435	s048	s081
+comments_sam	0.89096	s048	s040
+comments_sam	0.8752775	s048	s057
+comments_sam	0.9022498	s048	s053
+comments_sam	0.91117406	s048	s045
+comments_sam	0.8787257	s048	s042
+comments_sam	0.9204638	s048	s051
+comments_sam	0.91903543	s048	s044
+comments_sam	0.87789273	s048	s059
+comments_sam	0.8819063	s048	s055
+comments_sam	0.9071107	s048	s050
