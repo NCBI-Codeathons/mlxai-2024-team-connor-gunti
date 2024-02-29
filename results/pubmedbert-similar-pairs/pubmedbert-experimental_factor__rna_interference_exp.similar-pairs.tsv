@@ -1,0 +1,1030 @@
+name	score	s1	s2
+experimental_factor__rna_interference_exp	0.98343176	snrnp25 sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.8551878	dhx32 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.9494859	lsm3 sirna	lsm6 sirna
+experimental_factor__rna_interference_exp	0.93649673	hnrnpul1 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.9029325	rbm17 sirna	rbmx2 sirna
+experimental_factor__rna_interference_exp	0.9467695	prpf4 sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.88931763	snrpa sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.8974589	snrpa sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.96573305	snrnp200 sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.9716226	snrnp200 sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.9046458	snrnp200 sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.9541265	ddx39b sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.85721076	ddx39b sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.8610823	snu13 sirna	snip1 sirna
+experimental_factor__rna_interference_exp	0.9645729	hnrnpab sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.9305704	hnrnpab sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.9398423	ddx24 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.95400333	ddx24 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.9499788	endogenous smarcad1 knockdown by shrna	smarcad1 knockdown by shrna
+experimental_factor__rna_interference_exp	0.9017209	luc7l3 sirna	luc sirna
+experimental_factor__rna_interference_exp	0.96654356	lsm7 sirna	lsm6 sirna
+experimental_factor__rna_interference_exp	0.9489255	lsm7 sirna	lsm3 sirna
+experimental_factor__rna_interference_exp	0.9809345	dis3l knockdown by sirna	dis3l2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.888927	ppie sirna	ppil2 sirna
+experimental_factor__rna_interference_exp	0.87533283	brca1 sirna	brca2 sirna
+experimental_factor__rna_interference_exp	0.9541625	hnrnpa3 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.91438067	hnrnpa3 sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.96405166	hnrnpa3 sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.8889015	luciferase sirna	luc sirna
+experimental_factor__rna_interference_exp	0.9453312	ddx41 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.9468363	ddx41 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.9493444	ddx41 sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.94276595	shluc7l	shluc7l3
+experimental_factor__rna_interference_exp	0.9591478	hnrnpdl sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.938192	hnrnpdl sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.951604	hnrnpdl sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9368684	hnrnpdl sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.91207296	rbm5 sirna	rbmx2 sirna
+experimental_factor__rna_interference_exp	0.9296882	rbm5 sirna	rbm17 sirna
+experimental_factor__rna_interference_exp	0.8655906	igf2bp1 knockdown by sirna	igf2bp1 targetting sirna
+experimental_factor__rna_interference_exp	0.9667338	hnrnpc sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.9269506	hnrnpc sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.95122933	hnrnpc sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.95061374	hnrnpc sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.9486673	hnrnpc sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.8557092	rnps1 sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.9355397	dhx8 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.94953185	ddx17 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.9561383	ddx17 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.96486586	ddx17 sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.95095253	ddx17 sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.94530654	prpf3 sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.95749336	prpf3 sirna	prpf4 sirna
+experimental_factor__rna_interference_exp	0.9666612	shluc7l2	shluc7l3
+experimental_factor__rna_interference_exp	0.94264245	shluc7l2	shluc7l
+experimental_factor__rna_interference_exp	0.93488926	hnrnp a1 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.90003777	hnrnp a1 sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.93915755	hnrnp a1 sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9493717	hnrnp a1 sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.9178559	hnrnp a1 sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.9249667	hnrnp a1 sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.8955856	cpsf6 sirna	cpsf6 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9320485	cpsf6 sirna	cpsf2 sirna
+experimental_factor__rna_interference_exp	0.92018247	matr3 knockdown by sirna	matr3 sirna
+experimental_factor__rna_interference_exp	0.9152125	prpf6 sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.9204805	prpf6 sirna	prpf4 sirna
+experimental_factor__rna_interference_exp	0.8999988	prpf6 sirna	prpf6 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9264953	prpf6 sirna	prpf3 sirna
+experimental_factor__rna_interference_exp	0.96591854	hnrnpd sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.9302635	hnrnpd sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.9624442	hnrnpd sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9478204	hnrnpd sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.96859306	hnrnpd sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.9664416	hnrnpd sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.9192813	hnrnpd sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.85752445	snrpa1 sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.93063843	snrpa1 sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.85801923	snrpa1 sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.9425985	ddx52 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.859913	ddx52 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.9456593	ddx52 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.95174825	ddx52 sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.8607358	ddx52 sirna	ddx54 sirna number
+experimental_factor__rna_interference_exp	0.9393419	ddx52 sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.9516191	ddx52 sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.9351549	srsf4 sirna	srsf7 sirna
+experimental_factor__rna_interference_exp	0.9747158	snrnp48 sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.97187674	snrnp48 sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.9052382	snrnp48 sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.9699845	snrnp48 sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.8664572	snrnp48 sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.96485496	hnrnph1 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.936619	hnrnph1 sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.9592447	hnrnph1 sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9605805	hnrnph1 sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.9540979	hnrnph1 sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.95751977	hnrnph1 sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.85125875	hnrnph1 sirna	rnps1 sirna
+experimental_factor__rna_interference_exp	0.9344799	hnrnph1 sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.9584824	hnrnph1 sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.85200906	control sirna	scrambled sirna
+experimental_factor__rna_interference_exp	0.91893774	ago2 sirna	ago2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.95952696	hnrnpu sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.9396061	hnrnpu sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.944396	hnrnpu sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9373693	hnrnpu sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.95117474	hnrnpu sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.96141064	hnrnpu sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.9141962	hnrnpu sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.9592516	hnrnpu sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.9556528	hnrnpu sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.90104795	snrpb2 sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.904831	snrpb2 sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.9186069	snrpb2 sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.90396	snrpb2 sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.8893223	snrpb2 sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.9043982	snrpb2 sirna	snrnp48 sirna
+experimental_factor__rna_interference_exp	0.96518433	prpf31 sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.9512249	prpf31 sirna	prpf4 sirna
+experimental_factor__rna_interference_exp	0.9763788	prpf31 sirna	prpf3 sirna
+experimental_factor__rna_interference_exp	0.9168002	prpf31 sirna	prpf6 sirna
+experimental_factor__rna_interference_exp	0.8694217	ppig sirna	ppil2 sirna
+experimental_factor__rna_interference_exp	0.91448593	ppig sirna	ppie sirna
+experimental_factor__rna_interference_exp	0.95621336	srsf11 sirna	srsf7 sirna
+experimental_factor__rna_interference_exp	0.92631024	srsf11 sirna	srsf4 sirna
+experimental_factor__rna_interference_exp	0.86848104	igf2bp3 sirna	igf2bp1 targetting sirna
+experimental_factor__rna_interference_exp	0.8909173	igf2bp3 sirna	igf2bp1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9280108	larp6 sirna-1	larp6 sirna
+experimental_factor__rna_interference_exp	0.94859385	fam50a sirna	fam32a sirna
+experimental_factor__rna_interference_exp	0.97579706	hnrnpl sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.9384556	hnrnpl sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.96541286	hnrnpl sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.95983624	hnrnpl sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.9703543	hnrnpl sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.968	hnrnpl sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.93609226	hnrnpl sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.97113067	hnrnpl sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.96968555	hnrnpl sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.9674735	hnrnpl sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.9356779	dhx9 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.98440874	dhx9 sirna	dhx8 sirna
+experimental_factor__rna_interference_exp	0.94946015	hnrnph3 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.92898655	hnrnph3 sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.9492228	hnrnph3 sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9529673	hnrnph3 sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.940536	hnrnph3 sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.940706	hnrnph3 sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.9031433	hnrnph3 sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.94439626	hnrnph3 sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.9723922	hnrnph3 sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.9382807	hnrnph3 sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.95650196	hnrnph3 sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.8536109	sf3a2 sirna	sf3b1_r1 sirna
+experimental_factor__rna_interference_exp	0.9277456	hnrnpul2 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.98793614	hnrnpul2 sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.92292523	hnrnpul2 sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9052154	hnrnpul2 sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.93276525	hnrnpul2 sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.9241537	hnrnpul2 sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.8876116	hnrnpul2 sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.92661893	hnrnpul2 sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.92413247	hnrnpul2 sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.9393095	hnrnpul2 sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.9295923	hnrnpul2 sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.9212117	hnrnpul2 sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.9629617	hnrnpk sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.9255015	hnrnpk sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.9544804	hnrnpk sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9440224	hnrnpk sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.9443793	hnrnpk sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.95847946	hnrnpk sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.9190628	hnrnpk sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.95895827	hnrnpk sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.9541011	hnrnpk sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.95680857	hnrnpk sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.96758795	hnrnpk sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.94328284	hnrnpk sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.9169776	hnrnpk sirna	hnrnpul2 sirna
+experimental_factor__rna_interference_exp	0.93489236	srsf3 sirna	srsf7 sirna
+experimental_factor__rna_interference_exp	0.9485564	srsf3 sirna	srsf4 sirna
+experimental_factor__rna_interference_exp	0.9484652	srsf3 sirna	srsf11 sirna
+experimental_factor__rna_interference_exp	0.88832307	prpf8 knockdown by sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.8646116	prpf8 knockdown by sirna	prpf4 sirna
+experimental_factor__rna_interference_exp	0.95626813	prpf8 knockdown by sirna	prpf6 knockdown by sirna
+experimental_factor__rna_interference_exp	0.86276066	prpf8 knockdown by sirna	prpf3 sirna
+experimental_factor__rna_interference_exp	0.8595456	prpf8 knockdown by sirna	prpf6 sirna
+experimental_factor__rna_interference_exp	0.8824089	prpf8 knockdown by sirna	prpf31 sirna
+experimental_factor__rna_interference_exp	0.97674346	snrnp35 sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.97633797	snrnp35 sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.91287035	snrnp35 sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.9686463	snrnp35 sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.87311304	snrnp35 sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.9719561	snrnp35 sirna	snrnp48 sirna
+experimental_factor__rna_interference_exp	0.91049397	snrnp35 sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.934976	srsf1 sirna	srsf7 sirna
+experimental_factor__rna_interference_exp	0.9332077	srsf1 sirna	srsf4 sirna
+experimental_factor__rna_interference_exp	0.98038965	srsf1 sirna	srsf11 sirna
+experimental_factor__rna_interference_exp	0.9532198	srsf1 sirna	srsf3 sirna
+experimental_factor__rna_interference_exp	0.91089237	rbm10 sirna	rbmx2 sirna
+experimental_factor__rna_interference_exp	0.9399873	rbm10 sirna	rbm17 sirna
+experimental_factor__rna_interference_exp	0.95152473	rbm10 sirna	rbm5 sirna
+experimental_factor__rna_interference_exp	0.9007529	snrpb sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.9054526	snrpb sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.9422823	snrpb sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.9111034	snrpb sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.90558547	snrpb sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.91050977	snrpb sirna	snrnp48 sirna
+experimental_factor__rna_interference_exp	0.9767045	snrpb sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.9121846	snrpb sirna	snrnp35 sirna
+experimental_factor__rna_interference_exp	0.9718307	prmt5 sirna	prmt1 sirna
+experimental_factor__rna_interference_exp	0.9305695	wbp4 sirna	wbp11 sirna
+experimental_factor__rna_interference_exp	0.90829164	ppih sirna	ppil2 sirna
+experimental_factor__rna_interference_exp	0.93163943	ppih sirna	ppie sirna
+experimental_factor__rna_interference_exp	0.91792727	ppih sirna	ppig sirna
+experimental_factor__rna_interference_exp	0.8604262	tceal1 sirna	tcerg1 sirna
+experimental_factor__rna_interference_exp	0.96067345	setd1a sirna	setd2 sirna
+experimental_factor__rna_interference_exp	0.8778807	snrpd1 sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.86211383	snrpd1 sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.89462423	snrpd1 sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.85018575	snrpd1 sirna	snrnp35 sirna
+experimental_factor__rna_interference_exp	0.87077534	snrpd1 sirna	snrpb sirna
+experimental_factor__rna_interference_exp	0.9368965	fam50b sirna	fam32a sirna
+experimental_factor__rna_interference_exp	0.98973787	fam50b sirna	fam50a sirna
+experimental_factor__rna_interference_exp	0.9867767	zrsr2 sirna	zrsr1 sirna
+experimental_factor__rna_interference_exp	0.98277384	srsf9 sirna	srsf7 sirna
+experimental_factor__rna_interference_exp	0.9298687	srsf9 sirna	srsf4 sirna
+experimental_factor__rna_interference_exp	0.9631771	srsf9 sirna	srsf11 sirna
+experimental_factor__rna_interference_exp	0.9421904	srsf9 sirna	srsf3 sirna
+experimental_factor__rna_interference_exp	0.94508886	srsf9 sirna	srsf1 sirna
+experimental_factor__rna_interference_exp	0.930143	nuak1 knockdown by sirna	nuak1 sirna
+experimental_factor__rna_interference_exp	0.9550997	hif-1a 2a_sirna	hif-2a_sirna
+experimental_factor__rna_interference_exp	0.9866705	dhx35 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.8523308	dhx35 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.93572235	dhx35 sirna	dhx8 sirna
+experimental_factor__rna_interference_exp	0.93872505	dhx35 sirna	dhx9 sirna
+experimental_factor__rna_interference_exp	0.9865809	srrm1 sirna	srrm2 sirna
+experimental_factor__rna_interference_exp	0.9553522	srpk2_r1 sirna	srpk2_r2 sirna
+experimental_factor__rna_interference_exp	0.9461056	ddx23 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.95537287	ddx23 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.99259865	ddx23 sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.94222605	ddx23 sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.9634439	ddx23 sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.947533	ddx23 sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.9040544	hnrnph1 knockdown by sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.87491804	hnrnph1 knockdown by sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.9026327	hnrnph1 knockdown by sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.91270155	hnrnph1 knockdown by sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.8888489	hnrnph1 knockdown by sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.90043634	hnrnph1 knockdown by sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.87592614	hnrnph1 knockdown by sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.8962707	hnrnph1 knockdown by sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.9368454	hnrnph1 knockdown by sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.8931802	hnrnph1 knockdown by sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.9116861	hnrnph1 knockdown by sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.9135231	hnrnph1 knockdown by sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.86283875	hnrnph1 knockdown by sirna	hnrnpul2 sirna
+experimental_factor__rna_interference_exp	0.9006851	hnrnph1 knockdown by sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.89951193	ddx39a knockdown by sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.91356146	ddx39a knockdown by sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.8788953	ddx39a knockdown by sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.8811462	ddx39a knockdown by sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.888203	ddx39a knockdown by sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.8789618	ddx39a knockdown by sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.88462585	ddx39a knockdown by sirna	ddx23 sirna
+experimental_factor__rna_interference_exp	0.879896	snrpc sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.887398	snrpc sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.94075406	snrpc sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.89421	snrpc sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.9112785	snrpc sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.9043082	snrpc sirna	snrnp48 sirna
+experimental_factor__rna_interference_exp	0.9096603	snrpc sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.90602714	snrpc sirna	snrnp35 sirna
+experimental_factor__rna_interference_exp	0.9281819	snrpc sirna	snrpb sirna
+experimental_factor__rna_interference_exp	0.8908291	snrpc sirna	snrpd1 sirna
+experimental_factor__rna_interference_exp	0.9752722	smg6 knockdown by sirna	smg7 knockdown by sirna
+experimental_factor__rna_interference_exp	0.8699059	usp22 knockdown by sirna	usp39 sirna
+experimental_factor__rna_interference_exp	0.9048854	rbm6 sirna	rbmx2 sirna
+experimental_factor__rna_interference_exp	0.9281646	rbm6 sirna	rbm17 sirna
+experimental_factor__rna_interference_exp	0.9683418	rbm6 sirna	rbm5 sirna
+experimental_factor__rna_interference_exp	0.94729155	rbm6 sirna	rbm10 sirna
+experimental_factor__rna_interference_exp	0.9921245	control construct nubbin-ac-62 from bloomington drosophila stock center stock number bl25754	control construct nubbin-ac-62 from bloomington drosophila stock center stock number bl25754 t
+experimental_factor__rna_interference_exp	0.9007503	clk1 sirna	clk4 sirna
+experimental_factor__rna_interference_exp	0.98175037	thoc3 sirna	thoc1 sirna
+experimental_factor__rna_interference_exp	0.91468775	larp6 sirna-2	larp6 sirna
+experimental_factor__rna_interference_exp	0.95230705	larp6 sirna-2	larp6 sirna-1
+experimental_factor__rna_interference_exp	0.9659678	ncbp1 sirna	ncbp2 sirna
+experimental_factor__rna_interference_exp	0.95251626	simed12 sint	simed13l sint
+experimental_factor__rna_interference_exp	0.98770547	zfp207 knockdown by shrna kd1	zfp207 knockdown by shrna kd2
+experimental_factor__rna_interference_exp	0.86647105	matr3 knock down by sirna	matr3 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9319343	non-targetting control sirna	non-targetting sirna
+experimental_factor__rna_interference_exp	0.8690326	sf3b6 sirna	sf3b1_r1 sirna
+experimental_factor__rna_interference_exp	0.933377	sf3b6 sirna	sf3a2 sirna
+experimental_factor__rna_interference_exp	0.9862745	csn8 and rluc control sirna	csn5 and rluc control sirna
+experimental_factor__rna_interference_exp	0.97099495	prpf39 sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.94393945	prpf39 sirna	prpf4 sirna
+experimental_factor__rna_interference_exp	0.97285223	prpf39 sirna	prpf3 sirna
+experimental_factor__rna_interference_exp	0.9102682	prpf39 sirna	prpf6 sirna
+experimental_factor__rna_interference_exp	0.9859276	prpf39 sirna	prpf31 sirna
+experimental_factor__rna_interference_exp	0.8756867	prpf39 sirna	prpf8 knockdown by sirna
+experimental_factor__rna_interference_exp	0.87590444	ptbp1/2 knockdown by sirna	matr3 and ptbp1/2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.97372556	mettl14 sirna	mettl3 sirna
+experimental_factor__rna_interference_exp	0.9452984	znf84 sirna	znf830 sirna
+experimental_factor__rna_interference_exp	0.8730484	nuak1 shrna	nuak1 sirna
+experimental_factor__rna_interference_exp	0.9662753	ppil3 sirna	ppil2 sirna
+experimental_factor__rna_interference_exp	0.884792	ppil3 sirna	ppie sirna
+experimental_factor__rna_interference_exp	0.8626461	ppil3 sirna	ppig sirna
+experimental_factor__rna_interference_exp	0.9116755	ppil3 sirna	ppih sirna
+experimental_factor__rna_interference_exp	0.9789268	ddx31 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.86717665	ddx31 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.9697405	ddx31 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.9537966	ddx31 sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.96809614	ddx31 sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.9586501	ddx31 sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.9548482	ddx31 sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.85559356	ddx31 sirna	dhx35 sirna
+experimental_factor__rna_interference_exp	0.961447	ddx31 sirna	ddx23 sirna
+experimental_factor__rna_interference_exp	0.91361845	ddx31 sirna	ddx39a knockdown by sirna
+experimental_factor__rna_interference_exp	0.9349737	hspa5 sirna	hspa8 sirna
+experimental_factor__rna_interference_exp	0.95449847	hnrnph2 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.93008757	hnrnph2 sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.95131254	hnrnph2 sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.94838846	hnrnph2 sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.94998837	hnrnph2 sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.94210047	hnrnph2 sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.9123354	hnrnph2 sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.95148927	hnrnph2 sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.9805628	hnrnph2 sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.9459433	hnrnph2 sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.96292853	hnrnph2 sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.97507155	hnrnph2 sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.9284713	hnrnph2 sirna	hnrnpul2 sirna
+experimental_factor__rna_interference_exp	0.94053954	hnrnph2 sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.9137187	hnrnph2 sirna	hnrnph1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9598754	ybx1 sirna	ybx3 sirna
+experimental_factor__rna_interference_exp	0.9830798	thoc2 sirna	thoc1 sirna
+experimental_factor__rna_interference_exp	0.9811158	thoc2 sirna	thoc3 sirna
+experimental_factor__rna_interference_exp	0.97389406	cwc15 sirna	cwc27 sirna
+experimental_factor__rna_interference_exp	0.96718264	smg5 knockdown by sirna	smg7 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9773692	smg5 knockdown by sirna	smg6 knockdown by sirna
+experimental_factor__rna_interference_exp	0.89791703	linc00899 knockdown by sirnai	linc00707 knockdown by sirna number
+experimental_factor__rna_interference_exp	0.9180902	sox11 sirna	sox11 knockdown by sirna
+experimental_factor__rna_interference_exp	0.97709244	prpf8 sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.9491346	prpf8 sirna	prpf4 sirna
+experimental_factor__rna_interference_exp	0.94434786	prpf8 sirna	prpf3 sirna
+experimental_factor__rna_interference_exp	0.92907894	prpf8 sirna	prpf6 sirna
+experimental_factor__rna_interference_exp	0.95830977	prpf8 sirna	prpf31 sirna
+experimental_factor__rna_interference_exp	0.899346	prpf8 sirna	prpf8 knockdown by sirna
+experimental_factor__rna_interference_exp	0.96287405	prpf8 sirna	prpf39 sirna
+experimental_factor__rna_interference_exp	0.85192126	srrm3 sirna	srsf7 sirna
+experimental_factor__rna_interference_exp	0.98374116	srrm3 sirna	srrm2 sirna
+experimental_factor__rna_interference_exp	0.9822743	srrm3 sirna	srrm1 sirna
+experimental_factor__rna_interference_exp	0.91150534	cdc5l sirna	cdc40 sirna
+experimental_factor__rna_interference_exp	0.92072654	rbm22 sirna	rbmx2 sirna
+experimental_factor__rna_interference_exp	0.95437294	rbm22 sirna	rbm17 sirna
+experimental_factor__rna_interference_exp	0.93037724	rbm22 sirna	rbm5 sirna
+experimental_factor__rna_interference_exp	0.94159096	rbm22 sirna	rbm10 sirna
+experimental_factor__rna_interference_exp	0.92726374	rbm22 sirna	rbm6 sirna
+experimental_factor__rna_interference_exp	0.94984007	ddx10 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.9444773	ddx10 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.95526373	ddx10 sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.9444794	ddx10 sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.98542345	ddx10 sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.9349113	ddx10 sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.95304716	ddx10 sirna	ddx23 sirna
+experimental_factor__rna_interference_exp	0.8782631	ddx10 sirna	ddx39a knockdown by sirna
+experimental_factor__rna_interference_exp	0.95445883	ddx10 sirna	ddx31 sirna
+experimental_factor__rna_interference_exp	0.9448571	bud23 sirna	bud13 sirna
+experimental_factor__rna_interference_exp	0.85147214	snw1 sirna	snip1 sirna
+experimental_factor__rna_interference_exp	0.89198136	snw1 sirna	snu13 sirna
+experimental_factor__rna_interference_exp	0.85430634	scrambled shrna	control shrna
+experimental_factor__rna_interference_exp	0.90247905	rbm25 sirna	rbmx2 sirna
+experimental_factor__rna_interference_exp	0.9285413	rbm25 sirna	rbm17 sirna
+experimental_factor__rna_interference_exp	0.9363688	rbm25 sirna	rbm5 sirna
+experimental_factor__rna_interference_exp	0.9321984	rbm25 sirna	rbm10 sirna
+experimental_factor__rna_interference_exp	0.91875505	rbm25 sirna	rbm6 sirna
+experimental_factor__rna_interference_exp	0.940704	rbm25 sirna	rbm22 sirna
+experimental_factor__rna_interference_exp	0.96355164	hnrnpa1 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.92775685	hnrnpa1 sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.96868956	hnrnpa1 sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9778323	hnrnpa1 sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.9416088	hnrnpa1 sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.9505174	hnrnpa1 sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.9575747	hnrnpa1 sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.9495344	hnrnpa1 sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.96940166	hnrnpa1 sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.94419503	hnrnpa1 sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.96427524	hnrnpa1 sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.95300186	hnrnpa1 sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.91401017	hnrnpa1 sirna	hnrnpul2 sirna
+experimental_factor__rna_interference_exp	0.9488808	hnrnpa1 sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.9178052	hnrnpa1 sirna	hnrnph1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9510835	hnrnpa1 sirna	hnrnph2 sirna
+experimental_factor__rna_interference_exp	0.89224565	snrpg sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.85887176	snrpg sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.85447073	snrpg sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.8753599	snrpg sirna	snrpb sirna
+experimental_factor__rna_interference_exp	0.89129424	snrpg sirna	snrpc sirna
+experimental_factor__rna_interference_exp	0.8975657	ptbp1/2 knock down by sirna	ptbp1/2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.94703364	si-cd44-2	si-cd44-1
+experimental_factor__rna_interference_exp	0.91659945	dcorest knockdown by sirna	dcorest-l knockdown by sirna
+experimental_factor__rna_interference_exp	0.9917321	prpf19 sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.9376575	prpf19 sirna	prpf4 sirna
+experimental_factor__rna_interference_exp	0.94530255	prpf19 sirna	prpf3 sirna
+experimental_factor__rna_interference_exp	0.9108983	prpf19 sirna	prpf6 sirna
+experimental_factor__rna_interference_exp	0.9674493	prpf19 sirna	prpf31 sirna
+experimental_factor__rna_interference_exp	0.8826642	prpf19 sirna	prpf8 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9781103	prpf19 sirna	prpf39 sirna
+experimental_factor__rna_interference_exp	0.9649043	prpf19 sirna	prpf8 sirna
+experimental_factor__rna_interference_exp	0.8518106	upf3b sirna	upf1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.8869717	smg6 and smg7 double knockdown by sirna	smg7 knockdown by sirna
+experimental_factor__rna_interference_exp	0.8950455	smg6 and smg7 double knockdown by sirna	smg6 knockdown by sirna
+experimental_factor__rna_interference_exp	0.87690496	smg6 and smg7 double knockdown by sirna	smg5 knockdown by sirna
+experimental_factor__rna_interference_exp	0.8554429	control scrambled sirna	scramble_sirna_control
+experimental_factor__rna_interference_exp	0.9533541	control scrambled sirna	scrambled sirna
+experimental_factor__rna_interference_exp	0.8942462	control scrambled sirna	control sirna
+experimental_factor__rna_interference_exp	0.88518906	snrpf sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.90037817	snrpf sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.91882956	snrpf sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.9011004	snrpf sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.8880484	snrpf sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.90374094	snrpf sirna	snrnp48 sirna
+experimental_factor__rna_interference_exp	0.91888225	snrpf sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.91049063	snrpf sirna	snrnp35 sirna
+experimental_factor__rna_interference_exp	0.91483307	snrpf sirna	snrpb sirna
+experimental_factor__rna_interference_exp	0.8858391	snrpf sirna	snrpd1 sirna
+experimental_factor__rna_interference_exp	0.9234346	snrpf sirna	snrpc sirna
+experimental_factor__rna_interference_exp	0.88005567	snrpf sirna	snrpg sirna
+experimental_factor__rna_interference_exp	0.8638158	sf3b3 sirna	sf3b1_r1 sirna
+experimental_factor__rna_interference_exp	0.947325	sf3b3 sirna	sf3a2 sirna
+experimental_factor__rna_interference_exp	0.98479545	sf3b3 sirna	sf3b6 sirna
+experimental_factor__rna_interference_exp	0.9638771	thoc7 sirna	thoc1 sirna
+experimental_factor__rna_interference_exp	0.9707376	thoc7 sirna	thoc3 sirna
+experimental_factor__rna_interference_exp	0.96837795	thoc7 sirna	thoc2 sirna
+experimental_factor__rna_interference_exp	0.90702116	znf207 sirna	znf830 sirna
+experimental_factor__rna_interference_exp	0.9110015	znf207 sirna	znf84 sirna
+experimental_factor__rna_interference_exp	0.92635	sf1 sirna	sf3a2 sirna
+experimental_factor__rna_interference_exp	0.9035627	sf1 sirna	sf3b6 sirna
+experimental_factor__rna_interference_exp	0.85560817	sf1 sirna	sfpq sirna
+experimental_factor__rna_interference_exp	0.89962363	sf1 sirna	sf3b3 sirna
+experimental_factor__rna_interference_exp	0.91058683	erbb2 sirna	erbb2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.8961248	rbm8a sirna	rbmx2 sirna
+experimental_factor__rna_interference_exp	0.9207334	rbm8a sirna	rbm17 sirna
+experimental_factor__rna_interference_exp	0.9194161	rbm8a sirna	rbm5 sirna
+experimental_factor__rna_interference_exp	0.92573035	rbm8a sirna	rbm10 sirna
+experimental_factor__rna_interference_exp	0.92336655	rbm8a sirna	rbm6 sirna
+experimental_factor__rna_interference_exp	0.91935337	rbm8a sirna	rbm22 sirna
+experimental_factor__rna_interference_exp	0.9063324	rbm8a sirna	rbm25 sirna
+experimental_factor__rna_interference_exp	0.9670011	cdk10 sirna	cdk12 sirna
+experimental_factor__rna_interference_exp	0.8793309	smarcd1 shrna	smarcad1 knockdown by shrna
+experimental_factor__rna_interference_exp	0.95500344	hnrnpll sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.92594886	hnrnpll sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.9555948	hnrnpll sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.95673156	hnrnpll sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.956419	hnrnpll sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.9547769	hnrnpll sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.92833364	hnrnpll sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.9541321	hnrnpll sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.9552598	hnrnpll sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.9529534	hnrnpll sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.97282535	hnrnpll sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.9453677	hnrnpll sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.92116046	hnrnpll sirna	hnrnpul2 sirna
+experimental_factor__rna_interference_exp	0.9515517	hnrnpll sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.8904875	hnrnpll sirna	hnrnph1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.94769055	hnrnpll sirna	hnrnph2 sirna
+experimental_factor__rna_interference_exp	0.9492969	hnrnpll sirna	hnrnpa1 sirna
+experimental_factor__rna_interference_exp	0.862518	dis3 sirna	dis3l2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.875618	dis3 sirna	dis3l knockdown by sirna
+experimental_factor__rna_interference_exp	0.8707664	rluc control sirna	csn5 and rluc control sirna
+experimental_factor__rna_interference_exp	0.87151587	rluc control sirna	csn8 and rluc control sirna
+experimental_factor__rna_interference_exp	0.85526675	snrpd2 sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.86343545	snrpd2 sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.893685	snrpd2 sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.86138207	snrpd2 sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.85711646	snrpd2 sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.8632753	snrpd2 sirna	snrnp48 sirna
+experimental_factor__rna_interference_exp	0.92403364	snrpd2 sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.86708415	snrpd2 sirna	snrnp35 sirna
+experimental_factor__rna_interference_exp	0.8924294	snrpd2 sirna	snrpb sirna
+experimental_factor__rna_interference_exp	0.9829826	snrpd2 sirna	snrpd1 sirna
+experimental_factor__rna_interference_exp	0.9046504	snrpd2 sirna	snrpc sirna
+experimental_factor__rna_interference_exp	0.8947413	snrpd2 sirna	snrpf sirna
+experimental_factor__rna_interference_exp	0.875613	cwc22_r1 sirna	cwc27 sirna
+experimental_factor__rna_interference_exp	0.86842644	cwc22_r1 sirna	cwc15 sirna
+experimental_factor__rna_interference_exp	0.96489656	thoc6 sirna	thoc1 sirna
+experimental_factor__rna_interference_exp	0.9741788	thoc6 sirna	thoc3 sirna
+experimental_factor__rna_interference_exp	0.96868384	thoc6 sirna	thoc2 sirna
+experimental_factor__rna_interference_exp	0.97972685	thoc6 sirna	thoc7 sirna
+experimental_factor__rna_interference_exp	0.95671475	ilf2 sirna	ilf3 sirna
+experimental_factor__rna_interference_exp	0.93461466	pabpc1 sirna	pabpn1 sirna
+experimental_factor__rna_interference_exp	0.9579067	tia1 sirna	tial1 sirna
+experimental_factor__rna_interference_exp	0.85782826	p60 sirna	p150 sirna
+experimental_factor__rna_interference_exp	0.927635	u2af2 sirna	u2af1 sirna
+experimental_factor__rna_interference_exp	0.86970806	hdac4 sirna	hdac1 sirna
+experimental_factor__rna_interference_exp	0.97353864	hnrnpm sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.93465173	hnrnpm sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.96115535	hnrnpm sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9551784	hnrnpm sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.95805687	hnrnpm sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.96971714	hnrnpm sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.9319544	hnrnpm sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.9692491	hnrnpm sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.9660121	hnrnpm sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.9685837	hnrnpm sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.9758356	hnrnpm sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.9571656	hnrnpm sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.9298324	hnrnpm sirna	hnrnpul2 sirna
+experimental_factor__rna_interference_exp	0.9672221	hnrnpm sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.8963824	hnrnpm sirna	hnrnph1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.96008134	hnrnpm sirna	hnrnph2 sirna
+experimental_factor__rna_interference_exp	0.95900285	hnrnpm sirna	hnrnpa1 sirna
+experimental_factor__rna_interference_exp	0.9663887	hnrnpm sirna	hnrnpll sirna
+experimental_factor__rna_interference_exp	0.9525397	dhx15 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.9399525	dhx15 sirna	dhx8 sirna
+experimental_factor__rna_interference_exp	0.8589206	dhx15 sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.95139384	dhx15 sirna	dhx9 sirna
+experimental_factor__rna_interference_exp	0.9641198	dhx15 sirna	dhx35 sirna
+experimental_factor__rna_interference_exp	0.85209775	dhx15 sirna	ddx10 sirna
+experimental_factor__rna_interference_exp	0.90789413	ptbp1/ptbp2 sirna	ptbp1/2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.8715011	srsf2 knockdown by sirna	srsf7 sirna
+experimental_factor__rna_interference_exp	0.8589655	srsf2 knockdown by sirna	srsf4 sirna
+experimental_factor__rna_interference_exp	0.8961566	srsf2 knockdown by sirna	srsf11 sirna
+experimental_factor__rna_interference_exp	0.8816893	srsf2 knockdown by sirna	srsf3 sirna
+experimental_factor__rna_interference_exp	0.89545184	srsf2 knockdown by sirna	srsf1 sirna
+experimental_factor__rna_interference_exp	0.8737259	srsf2 knockdown by sirna	srsf9 sirna
+experimental_factor__rna_interference_exp	0.959614	hspa1a sirna	hspa8 sirna
+experimental_factor__rna_interference_exp	0.9457936	hspa1a sirna	hspa5 sirna
+experimental_factor__rna_interference_exp	0.90553534	taz knockdown by sirna	taz-as202 knockdown by sirna
+experimental_factor__rna_interference_exp	0.974082	smarca4 sirna	smarcd1 sirna
+experimental_factor__rna_interference_exp	0.8904499	prpf8_r1 sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.8558991	prpf8_r1 sirna	prpf31 sirna
+experimental_factor__rna_interference_exp	0.85771763	prpf8_r1 sirna	prpf39 sirna
+experimental_factor__rna_interference_exp	0.88465357	prpf8_r1 sirna	prpf8 sirna
+experimental_factor__rna_interference_exp	0.8756558	prpf8_r1 sirna	prpf19 sirna
+experimental_factor__rna_interference_exp	0.89261734	scramble sirna	scramble_sirna_control
+experimental_factor__rna_interference_exp	0.9289982	scramble sirna	scrambled sirna
+experimental_factor__rna_interference_exp	0.86005664	scramble sirna	control sirna
+experimental_factor__rna_interference_exp	0.8768423	scramble sirna	control scrambled sirna
+experimental_factor__rna_interference_exp	0.861029	c19orf43 sirna	cxorf56 sirna
+experimental_factor__rna_interference_exp	0.92003393	rnpc3 sirna	rnps1 sirna
+experimental_factor__rna_interference_exp	0.8654313	prpf8_r2 sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.86654764	prpf8_r2 sirna	prpf8 sirna
+experimental_factor__rna_interference_exp	0.8539384	prpf8_r2 sirna	prpf19 sirna
+experimental_factor__rna_interference_exp	0.95231414	prpf8_r2 sirna	prpf8_r1 sirna
+experimental_factor__rna_interference_exp	0.86876315	zeb1 knock-down by sirna	vezf1 knock down by sirna
+experimental_factor__rna_interference_exp	0.8545113	upf3a sirna	upf1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9866849	upf3a sirna	upf3b sirna
+experimental_factor__rna_interference_exp	0.95458615	prpf40a sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.95046103	prpf40a sirna	prpf4 sirna
+experimental_factor__rna_interference_exp	0.9196944	prpf40a sirna	prpf3 sirna
+experimental_factor__rna_interference_exp	0.87427795	prpf40a sirna	prpf6 sirna
+experimental_factor__rna_interference_exp	0.9511632	prpf40a sirna	prpf31 sirna
+experimental_factor__rna_interference_exp	0.87169385	prpf40a sirna	prpf8 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9512179	prpf40a sirna	prpf39 sirna
+experimental_factor__rna_interference_exp	0.9478193	prpf40a sirna	prpf8 sirna
+experimental_factor__rna_interference_exp	0.9540732	prpf40a sirna	prpf19 sirna
+experimental_factor__rna_interference_exp	0.9179034	usp22 sirna	usp39 sirna
+experimental_factor__rna_interference_exp	0.9138681	usp22 sirna	usp22 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9166304	bmi1 sirna	bmi1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9301461	kat2a sirna	kat5 sirna
+experimental_factor__rna_interference_exp	0.8744257	sf3b2 sirna	sf3b1_r1 sirna
+experimental_factor__rna_interference_exp	0.95051897	sf3b2 sirna	sf3a2 sirna
+experimental_factor__rna_interference_exp	0.9826709	sf3b2 sirna	sf3b6 sirna
+experimental_factor__rna_interference_exp	0.9902352	sf3b2 sirna	sf3b3 sirna
+experimental_factor__rna_interference_exp	0.9100611	sf3b2 sirna	sf1 sirna
+experimental_factor__rna_interference_exp	0.96272326	esrp1 sirna	esrp2 sirna
+experimental_factor__rna_interference_exp	0.9170145	mfap1 knockdown by sirna	mfap1 sirna
+experimental_factor__rna_interference_exp	0.9257518	adarb1 sirna	adar sirna
+experimental_factor__rna_interference_exp	0.8651557	sf3b4 sirna	sf3b1_r1 sirna
+experimental_factor__rna_interference_exp	0.9392799	sf3b4 sirna	sf3a2 sirna
+experimental_factor__rna_interference_exp	0.98717725	sf3b4 sirna	sf3b6 sirna
+experimental_factor__rna_interference_exp	0.990881	sf3b4 sirna	sf3b3 sirna
+experimental_factor__rna_interference_exp	0.90104663	sf3b4 sirna	sf1 sirna
+experimental_factor__rna_interference_exp	0.9861908	sf3b4 sirna	sf3b2 sirna
+experimental_factor__rna_interference_exp	0.8580487	u2surp sirna	u2af2 sirna
+experimental_factor__rna_interference_exp	0.8522246	rbm42 knockdown by sirna	rbmx2 sirna
+experimental_factor__rna_interference_exp	0.8583075	rbm42 knockdown by sirna	rbm17 sirna
+experimental_factor__rna_interference_exp	0.8757858	rbm42 knockdown by sirna	rbm5 sirna
+experimental_factor__rna_interference_exp	0.8708882	rbm42 knockdown by sirna	rbm10 sirna
+experimental_factor__rna_interference_exp	0.8732563	rbm42 knockdown by sirna	rbm6 sirna
+experimental_factor__rna_interference_exp	0.8719852	rbm42 knockdown by sirna	rbm22 sirna
+experimental_factor__rna_interference_exp	0.8686857	rbm42 knockdown by sirna	rbm25 sirna
+experimental_factor__rna_interference_exp	0.86238515	rbm42 knockdown by sirna	rrbp1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9495709	lsm2 sirna	lsm6 sirna
+experimental_factor__rna_interference_exp	0.959309	lsm2 sirna	lsm3 sirna
+experimental_factor__rna_interference_exp	0.9530481	lsm2 sirna	lsm7 sirna
+experimental_factor__rna_interference_exp	0.9625089	lsm4 sirna	lsm6 sirna
+experimental_factor__rna_interference_exp	0.96571326	lsm4 sirna	lsm3 sirna
+experimental_factor__rna_interference_exp	0.956108	lsm4 sirna	lsm7 sirna
+experimental_factor__rna_interference_exp	0.9596162	lsm4 sirna	lsm2 sirna
+experimental_factor__rna_interference_exp	0.89744186	ptbp1 sirna	ptbp1/2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.94147253	ptbp1 sirna	ptbp1/ptbp2 sirna
+experimental_factor__rna_interference_exp	0.99099576	sf3a3 sirna	sf3a2 sirna
+experimental_factor__rna_interference_exp	0.9345484	sf3a3 sirna	sf3b6 sirna
+experimental_factor__rna_interference_exp	0.95484984	sf3a3 sirna	sf3b3 sirna
+experimental_factor__rna_interference_exp	0.9149262	sf3a3 sirna	sf1 sirna
+experimental_factor__rna_interference_exp	0.9400979	sf3a3 sirna	sf3b2 sirna
+experimental_factor__rna_interference_exp	0.9426027	sf3a3 sirna	sf3b4 sirna
+experimental_factor__rna_interference_exp	0.8700807	dis3l sirna	dis3l2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.89796937	dis3l sirna	dis3l knockdown by sirna
+experimental_factor__rna_interference_exp	0.96728617	dis3l sirna	dis3 sirna
+experimental_factor__rna_interference_exp	0.95274764	sf3b1_r2 sirna	sf3b1_r1 sirna
+experimental_factor__rna_interference_exp	0.85441613	sf3b1_r2 sirna	sf3b6 sirna
+experimental_factor__rna_interference_exp	0.8557576	sf3b1_r2 sirna	sf3b3 sirna
+experimental_factor__rna_interference_exp	0.87024665	sf3b1_r2 sirna	sf3b2 sirna
+experimental_factor__rna_interference_exp	0.85595965	sf3b1_r2 sirna	sf3b4 sirna
+experimental_factor__rna_interference_exp	0.8500972	dhx33 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.9885905	dhx33 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.8522662	dhx33 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.92390066	dhx33 sirna	dhx8 sirna
+experimental_factor__rna_interference_exp	0.9276377	dhx33 sirna	dhx9 sirna
+experimental_factor__rna_interference_exp	0.98818535	dhx33 sirna	dhx35 sirna
+experimental_factor__rna_interference_exp	0.86282223	dhx33 sirna	ddx31 sirna
+experimental_factor__rna_interference_exp	0.9456667	dhx33 sirna	dhx15 sirna
+experimental_factor__rna_interference_exp	0.97465944	csn8 and cdk2 sirna	csn5 and cdk2 sirna
+experimental_factor__rna_interference_exp	0.9249797	kat2b sirna	kat5 sirna
+experimental_factor__rna_interference_exp	0.96534884	kat2b sirna	kat2a sirna
+experimental_factor__rna_interference_exp	0.9449591	dhx57 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.935611	dhx57 sirna	dhx8 sirna
+experimental_factor__rna_interference_exp	0.8872069	dhx57 sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.933672	dhx57 sirna	dhx9 sirna
+experimental_factor__rna_interference_exp	0.9542645	dhx57 sirna	dhx35 sirna
+experimental_factor__rna_interference_exp	0.9458273	dhx57 sirna	dhx15 sirna
+experimental_factor__rna_interference_exp	0.9342775	dhx57 sirna	dhx33 sirna
+experimental_factor__rna_interference_exp	0.90492344	ythdc1 sirna	ythdf3 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9721036	jak3 knockdown by sirna	jak1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.91212386	clk2 sirna	clk4 sirna
+experimental_factor__rna_interference_exp	0.94657946	clk2 sirna	clk1 sirna
+experimental_factor__rna_interference_exp	0.8972524	nr5a2 sirna	nrp1 sirna
+experimental_factor__rna_interference_exp	0.8513105	nr5a2 sirna	nr2f2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.94253814	srsf6 sirna	srsf7 sirna
+experimental_factor__rna_interference_exp	0.92261434	srsf6 sirna	srsf4 sirna
+experimental_factor__rna_interference_exp	0.9308411	srsf6 sirna	srsf11 sirna
+experimental_factor__rna_interference_exp	0.92391586	srsf6 sirna	srsf3 sirna
+experimental_factor__rna_interference_exp	0.9313408	srsf6 sirna	srsf1 sirna
+experimental_factor__rna_interference_exp	0.938522	srsf6 sirna	srsf9 sirna
+experimental_factor__rna_interference_exp	0.8639293	srsf6 sirna	srsf2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9494841	xab2_r1 sirna	xab2_r2 sirna
+experimental_factor__rna_interference_exp	0.90302515	mycn and tbx2 knockdown by shrna number	tbx2 knockdown by shrna number
+experimental_factor__rna_interference_exp	0.8752428	mycn and tbx2 knockdown by shrna number	mycn knockdown by shrna
+experimental_factor__rna_interference_exp	0.8983157	plrg1 depletion by sirna	plrg1 sirna
+experimental_factor__rna_interference_exp	0.9343848	znf326 sirna	znf830 sirna
+experimental_factor__rna_interference_exp	0.9124654	znf326 sirna	znf84 sirna
+experimental_factor__rna_interference_exp	0.9050461	znf326 sirna	znf207 sirna
+experimental_factor__rna_interference_exp	0.89035136	hnrnp h knockdown by sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.85766983	hnrnp h knockdown by sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.88272566	hnrnp h knockdown by sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.8936342	hnrnp h knockdown by sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.8726187	hnrnp h knockdown by sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.8897073	hnrnp h knockdown by sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.87382674	hnrnp h knockdown by sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.8832222	hnrnp h knockdown by sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.8979126	hnrnp h knockdown by sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.8820195	hnrnp h knockdown by sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.8966751	hnrnp h knockdown by sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.89046526	hnrnp h knockdown by sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.8901912	hnrnp h knockdown by sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.9561674	hnrnp h knockdown by sirna	hnrnph1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.88901407	hnrnp h knockdown by sirna	hnrnph2 sirna
+experimental_factor__rna_interference_exp	0.8917722	hnrnp h knockdown by sirna	hnrnpa1 sirna
+experimental_factor__rna_interference_exp	0.8702804	hnrnp h knockdown by sirna	hnrnpll sirna
+experimental_factor__rna_interference_exp	0.8862475	hnrnp h knockdown by sirna	hnrnpm sirna
+experimental_factor__rna_interference_exp	0.92196506	rbm39 sirna	rbmx2 sirna
+experimental_factor__rna_interference_exp	0.92952394	rbm39 sirna	rbm17 sirna
+experimental_factor__rna_interference_exp	0.93356407	rbm39 sirna	rbm5 sirna
+experimental_factor__rna_interference_exp	0.9349797	rbm39 sirna	rbm10 sirna
+experimental_factor__rna_interference_exp	0.9288545	rbm39 sirna	rbm6 sirna
+experimental_factor__rna_interference_exp	0.930999	rbm39 sirna	rbm22 sirna
+experimental_factor__rna_interference_exp	0.93767726	rbm39 sirna	rbm25 sirna
+experimental_factor__rna_interference_exp	0.9188511	rbm39 sirna	rbm8a sirna
+experimental_factor__rna_interference_exp	0.90008837	rbm39 sirna	rbm42 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9707023	snrnp40 sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.9751699	snrnp40 sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.9048274	snrnp40 sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.97216165	snrnp40 sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.85718143	snrnp40 sirna	rnps1 sirna
+experimental_factor__rna_interference_exp	0.864081	snrnp40 sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.97810984	snrnp40 sirna	snrnp48 sirna
+experimental_factor__rna_interference_exp	0.9088423	snrnp40 sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.979511	snrnp40 sirna	snrnp35 sirna
+experimental_factor__rna_interference_exp	0.90564185	snrnp40 sirna	snrpb sirna
+experimental_factor__rna_interference_exp	0.89549327	snrnp40 sirna	snrpc sirna
+experimental_factor__rna_interference_exp	0.9120263	snrnp40 sirna	snrpf sirna
+experimental_factor__rna_interference_exp	0.8638697	snrnp40 sirna	snrpd2 sirna
+experimental_factor__rna_interference_exp	0.915424	negative control sirna	control sirna
+experimental_factor__rna_interference_exp	0.8545679	negative control sirna	control scrambled sirna
+experimental_factor__rna_interference_exp	0.93734145	srsf2 sirna	srsf7 sirna
+experimental_factor__rna_interference_exp	0.9372512	srsf2 sirna	srsf4 sirna
+experimental_factor__rna_interference_exp	0.9615658	srsf2 sirna	srsf11 sirna
+experimental_factor__rna_interference_exp	0.95788944	srsf2 sirna	srsf3 sirna
+experimental_factor__rna_interference_exp	0.9678805	srsf2 sirna	srsf1 sirna
+experimental_factor__rna_interference_exp	0.9457208	srsf2 sirna	srsf9 sirna
+experimental_factor__rna_interference_exp	0.91258216	srsf2 sirna	srsf2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9301426	srsf2 sirna	srsf6 sirna
+experimental_factor__rna_interference_exp	0.97539794	thoc5 sirna	thoc1 sirna
+experimental_factor__rna_interference_exp	0.98054385	thoc5 sirna	thoc3 sirna
+experimental_factor__rna_interference_exp	0.9769709	thoc5 sirna	thoc2 sirna
+experimental_factor__rna_interference_exp	0.97725856	thoc5 sirna	thoc7 sirna
+experimental_factor__rna_interference_exp	0.98064154	thoc5 sirna	thoc6 sirna
+experimental_factor__rna_interference_exp	0.9352598	kdm1a sirna	kdm4b sirna
+experimental_factor__rna_interference_exp	0.97296023	simed13 sint	simed13l sint
+experimental_factor__rna_interference_exp	0.97501993	simed13 sint	simed12 sint
+experimental_factor__rna_interference_exp	0.8534128	dhx38 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.9811487	dhx38 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.8634293	dhx38 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.95982045	dhx38 sirna	dhx8 sirna
+experimental_factor__rna_interference_exp	0.85114205	dhx38 sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.94783294	dhx38 sirna	dhx9 sirna
+experimental_factor__rna_interference_exp	0.98330474	dhx38 sirna	dhx35 sirna
+experimental_factor__rna_interference_exp	0.85859096	dhx38 sirna	ddx31 sirna
+experimental_factor__rna_interference_exp	0.9481435	dhx38 sirna	dhx15 sirna
+experimental_factor__rna_interference_exp	0.97793925	dhx38 sirna	dhx33 sirna
+experimental_factor__rna_interference_exp	0.95168483	dhx38 sirna	dhx57 sirna
+experimental_factor__rna_interference_exp	0.85276186	sf3a1 sirna	sf3b1_r1 sirna
+experimental_factor__rna_interference_exp	0.9907628	sf3a1 sirna	sf3a2 sirna
+experimental_factor__rna_interference_exp	0.9300664	sf3a1 sirna	sf3b6 sirna
+experimental_factor__rna_interference_exp	0.9454541	sf3a1 sirna	sf3b3 sirna
+experimental_factor__rna_interference_exp	0.93538094	sf3a1 sirna	sf1 sirna
+experimental_factor__rna_interference_exp	0.9408622	sf3a1 sirna	sf3b2 sirna
+experimental_factor__rna_interference_exp	0.9359466	sf3a1 sirna	sf3b4 sirna
+experimental_factor__rna_interference_exp	0.9901091	sf3a1 sirna	sf3a3 sirna
+experimental_factor__rna_interference_exp	0.94115984	ddx5 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.9112214	ddx5 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.9206755	ddx5 sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.85145915	ddx5 sirna	ddx54 sirna number
+experimental_factor__rna_interference_exp	0.91679776	ddx5 sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.933283	ddx5 sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.9774258	ddx5 sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.91563433	ddx5 sirna	ddx23 sirna
+experimental_factor__rna_interference_exp	0.86173356	ddx5 sirna	ddx39a knockdown by sirna
+experimental_factor__rna_interference_exp	0.93559206	ddx5 sirna	ddx31 sirna
+experimental_factor__rna_interference_exp	0.9199866	ddx5 sirna	ddx10 sirna
+experimental_factor__rna_interference_exp	0.8610846	ddx5 sirna	dhx57 sirna
+experimental_factor__rna_interference_exp	0.94074965	ddx28 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.9536803	ddx28 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.9906913	ddx28 sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.94241416	ddx28 sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.9709182	ddx28 sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.94927824	ddx28 sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.9860953	ddx28 sirna	ddx23 sirna
+experimental_factor__rna_interference_exp	0.87477696	ddx28 sirna	ddx39a knockdown by sirna
+experimental_factor__rna_interference_exp	0.9493915	ddx28 sirna	ddx31 sirna
+experimental_factor__rna_interference_exp	0.95734507	ddx28 sirna	ddx10 sirna
+experimental_factor__rna_interference_exp	0.9217782	ddx28 sirna	ddx5 sirna
+experimental_factor__rna_interference_exp	0.8848002	negative sirna	control sirna
+experimental_factor__rna_interference_exp	0.9405073	negative sirna	negative control sirna
+experimental_factor__rna_interference_exp	0.907603	clk3 sirna	clk4 sirna
+experimental_factor__rna_interference_exp	0.93297184	clk3 sirna	clk1 sirna
+experimental_factor__rna_interference_exp	0.939577	clk3 sirna	clk2 sirna
+experimental_factor__rna_interference_exp	0.9729629	smarca2 sirna	smarcd1 sirna
+experimental_factor__rna_interference_exp	0.97686815	smarca2 sirna	smarca4 sirna
+experimental_factor__rna_interference_exp	0.94543624	prpf4b sirna	prpf18 sirna
+experimental_factor__rna_interference_exp	0.9797102	prpf4b sirna	prpf4 sirna
+experimental_factor__rna_interference_exp	0.9352474	prpf4b sirna	prpf3 sirna
+experimental_factor__rna_interference_exp	0.89306676	prpf4b sirna	prpf6 sirna
+experimental_factor__rna_interference_exp	0.9535097	prpf4b sirna	prpf31 sirna
+experimental_factor__rna_interference_exp	0.87050694	prpf4b sirna	prpf8 knockdown by sirna
+experimental_factor__rna_interference_exp	0.94338346	prpf4b sirna	prpf39 sirna
+experimental_factor__rna_interference_exp	0.9447309	prpf4b sirna	prpf8 sirna
+experimental_factor__rna_interference_exp	0.94002366	prpf4b sirna	prpf19 sirna
+experimental_factor__rna_interference_exp	0.970736	prpf4b sirna	prpf40a sirna
+experimental_factor__rna_interference_exp	0.9266085	rnf40 sirna	rnf40 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9354663	bud31 sirna	bud13 sirna
+experimental_factor__rna_interference_exp	0.9328644	bud31 sirna	bud23 sirna
+experimental_factor__rna_interference_exp	0.86415786	wild type genotype	wild type
+experimental_factor__rna_interference_exp	0.9643081	tcerg1l sirna	tcerg1 sirna
+experimental_factor__rna_interference_exp	0.85534203	dhx30 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.97851205	dhx30 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.85866785	dhx30 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.93637854	dhx30 sirna	dhx8 sirna
+experimental_factor__rna_interference_exp	0.94173694	dhx30 sirna	dhx9 sirna
+experimental_factor__rna_interference_exp	0.98474884	dhx30 sirna	dhx35 sirna
+experimental_factor__rna_interference_exp	0.86261135	dhx30 sirna	ddx31 sirna
+experimental_factor__rna_interference_exp	0.95143783	dhx30 sirna	dhx15 sirna
+experimental_factor__rna_interference_exp	0.9765086	dhx30 sirna	dhx33 sirna
+experimental_factor__rna_interference_exp	0.9354123	dhx30 sirna	dhx57 sirna
+experimental_factor__rna_interference_exp	0.981079	dhx30 sirna	dhx38 sirna
+experimental_factor__rna_interference_exp	0.8630129	cwc22_r2 sirna	cwc27 sirna
+experimental_factor__rna_interference_exp	0.96418965	cwc22_r2 sirna	cwc22_r1 sirna
+experimental_factor__rna_interference_exp	0.9326211	non-targeting sirna	non-targetting sirna
+experimental_factor__rna_interference_exp	0.918834	non-targeting sirna	non-targetting control sirna
+experimental_factor__rna_interference_exp	0.94944626	hif-1a_sirna	hif-2a_sirna
+experimental_factor__rna_interference_exp	0.97997487	hif-1a_sirna	hif-1a 2a_sirna
+experimental_factor__rna_interference_exp	0.88188094	hdac2 sirna	hdac1 sirna
+experimental_factor__rna_interference_exp	0.8571358	hdac2 sirna	hdac4 sirna
+experimental_factor__rna_interference_exp	0.9298715	eif4a3 knockdown by sirna	eif4a3 sirna
+experimental_factor__rna_interference_exp	0.8522562	ddx3 sirna number	ddx3x sirna
+experimental_factor__rna_interference_exp	0.944788	ddx3 sirna number	ddx54 sirna number
+experimental_factor__rna_interference_exp	0.9433092	srsf5 sirna	srsf7 sirna
+experimental_factor__rna_interference_exp	0.9464498	srsf5 sirna	srsf4 sirna
+experimental_factor__rna_interference_exp	0.93164575	srsf5 sirna	srsf11 sirna
+experimental_factor__rna_interference_exp	0.9355799	srsf5 sirna	srsf3 sirna
+experimental_factor__rna_interference_exp	0.93906593	srsf5 sirna	srsf1 sirna
+experimental_factor__rna_interference_exp	0.934603	srsf5 sirna	srsf9 sirna
+experimental_factor__rna_interference_exp	0.85543835	srsf5 sirna	srsf2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.94111323	srsf5 sirna	srsf6 sirna
+experimental_factor__rna_interference_exp	0.9396057	srsf5 sirna	srsf2 sirna
+experimental_factor__rna_interference_exp	0.9514794	smu1_r2 sirna	smu1_r1 sirna
+experimental_factor__rna_interference_exp	0.8511328	snrpe sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.89610285	snrpe sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.8758674	snrpe sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.8669984	snrpe sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.8617885	snrpe sirna	snrnp48 sirna
+experimental_factor__rna_interference_exp	0.87351537	snrpe sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.86719465	snrpe sirna	snrnp35 sirna
+experimental_factor__rna_interference_exp	0.8926884	snrpe sirna	snrpb sirna
+experimental_factor__rna_interference_exp	0.8519499	snrpe sirna	snrpd1 sirna
+experimental_factor__rna_interference_exp	0.90198994	snrpe sirna	snrpc sirna
+experimental_factor__rna_interference_exp	0.86771786	snrpe sirna	snrpg sirna
+experimental_factor__rna_interference_exp	0.8853313	snrpe sirna	snrpf sirna
+experimental_factor__rna_interference_exp	0.8684683	snrpe sirna	snrpd2 sirna
+experimental_factor__rna_interference_exp	0.86343116	snrpe sirna	snrnp40 sirna
+experimental_factor__rna_interference_exp	0.902709	rbm15 sirna	rbmx2 sirna
+experimental_factor__rna_interference_exp	0.9601198	rbm15 sirna	rbm17 sirna
+experimental_factor__rna_interference_exp	0.95218897	rbm15 sirna	rbm5 sirna
+experimental_factor__rna_interference_exp	0.95125246	rbm15 sirna	rbm10 sirna
+experimental_factor__rna_interference_exp	0.9381645	rbm15 sirna	rbm6 sirna
+experimental_factor__rna_interference_exp	0.94188404	rbm15 sirna	rbm22 sirna
+experimental_factor__rna_interference_exp	0.9384687	rbm15 sirna	rbm25 sirna
+experimental_factor__rna_interference_exp	0.9134674	rbm15 sirna	rbm8a sirna
+experimental_factor__rna_interference_exp	0.87512624	rbm15 sirna	rbm42 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9365202	rbm15 sirna	rbm39 sirna
+experimental_factor__rna_interference_exp	0.8604623	snrpd3 sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.8701558	snrpd3 sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.8865805	snrpd3 sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.8642894	snrpd3 sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.8508302	snrpd3 sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.8654865	snrpd3 sirna	snrnp48 sirna
+experimental_factor__rna_interference_exp	0.9056543	snrpd3 sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.8704005	snrpd3 sirna	snrnp35 sirna
+experimental_factor__rna_interference_exp	0.88288033	snrpd3 sirna	snrpb sirna
+experimental_factor__rna_interference_exp	0.97878814	snrpd3 sirna	snrpd1 sirna
+experimental_factor__rna_interference_exp	0.90065765	snrpd3 sirna	snrpc sirna
+experimental_factor__rna_interference_exp	0.8929942	snrpd3 sirna	snrpf sirna
+experimental_factor__rna_interference_exp	0.9842739	snrpd3 sirna	snrpd2 sirna
+experimental_factor__rna_interference_exp	0.86646855	snrpd3 sirna	snrnp40 sirna
+experimental_factor__rna_interference_exp	0.8580809	snrpd3 sirna	snrpe sirna
+experimental_factor__rna_interference_exp	0.8615482	baz1b knockdown by sirna number	baz1b sirna
+experimental_factor__rna_interference_exp	0.92342436	ybx3 knockdown by sirna	ybx3 sirna
+experimental_factor__rna_interference_exp	0.8952954	ybx3 knockdown by sirna	ybx1 sirna
+experimental_factor__rna_interference_exp	0.86647666	sirna luciferase	luc sirna
+experimental_factor__rna_interference_exp	0.98124516	sirna luciferase	luciferase sirna
+experimental_factor__rna_interference_exp	0.9727818	hnrnpr sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.93450606	hnrnpr sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.9598391	hnrnpr sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9545408	hnrnpr sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.9599598	hnrnpr sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.96915007	hnrnpr sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.85965383	hnrnpr sirna	rnps1 sirna
+experimental_factor__rna_interference_exp	0.92991996	hnrnpr sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.9689809	hnrnpr sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.9652097	hnrnpr sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.9679246	hnrnpr sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.97893167	hnrnpr sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.9493728	hnrnpr sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.9291816	hnrnpr sirna	hnrnpul2 sirna
+experimental_factor__rna_interference_exp	0.9669901	hnrnpr sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.8991976	hnrnpr sirna	hnrnph1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.95412374	hnrnpr sirna	hnrnph2 sirna
+experimental_factor__rna_interference_exp	0.96013284	hnrnpr sirna	hnrnpa1 sirna
+experimental_factor__rna_interference_exp	0.9663444	hnrnpr sirna	hnrnpll sirna
+experimental_factor__rna_interference_exp	0.97820413	hnrnpr sirna	hnrnpm sirna
+experimental_factor__rna_interference_exp	0.877887	hnrnpr sirna	hnrnp h knockdown by sirna
+experimental_factor__rna_interference_exp	0.93781614	ptbp1/2 and matr3 knock down by sirna	matr3 and ptbp1/2 knockdown by sirna
+experimental_factor__rna_interference_exp	0.8980173	ptbp1/2 and matr3 knock down by sirna	ptbp1/2 knock down by sirna
+experimental_factor__rna_interference_exp	0.879877	hnrnpl targetting sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.8841843	hnrnpl targetting sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.87801856	hnrnpl targetting sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.8868463	hnrnpl targetting sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.89192194	hnrnpl targetting sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.8913966	hnrnpl targetting sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.89063287	hnrnpl targetting sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.8870932	hnrnpl targetting sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.90820086	hnrnpl targetting sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.87574357	hnrnpl targetting sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.89154255	hnrnpl targetting sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.86238325	hnrnpl targetting sirna	hnrnph1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.8741455	hnrnpl targetting sirna	hnrnph2 sirna
+experimental_factor__rna_interference_exp	0.88716793	hnrnpl targetting sirna	hnrnpa1 sirna
+experimental_factor__rna_interference_exp	0.88401043	hnrnpl targetting sirna	hnrnpll sirna
+experimental_factor__rna_interference_exp	0.88723904	hnrnpl targetting sirna	hnrnpm sirna
+experimental_factor__rna_interference_exp	0.8929583	hnrnpl targetting sirna	hnrnpr sirna
+experimental_factor__rna_interference_exp	0.9312155	ddx46 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.94332623	ddx46 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.94778144	ddx46 sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.9764757	ddx46 sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.94723964	ddx46 sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.93188936	ddx46 sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.9335849	ddx46 sirna	ddx23 sirna
+experimental_factor__rna_interference_exp	0.86857414	ddx46 sirna	ddx39a knockdown by sirna
+experimental_factor__rna_interference_exp	0.9391862	ddx46 sirna	ddx31 sirna
+experimental_factor__rna_interference_exp	0.9342749	ddx46 sirna	ddx10 sirna
+experimental_factor__rna_interference_exp	0.8537915	ddx46 sirna	dhx38 sirna
+experimental_factor__rna_interference_exp	0.9077967	ddx46 sirna	ddx5 sirna
+experimental_factor__rna_interference_exp	0.9460991	ddx46 sirna	ddx28 sirna
+experimental_factor__rna_interference_exp	0.9485867	ik_r1 sirna	ik_r2 sirna
+experimental_factor__rna_interference_exp	0.8568778	mat2a shrna	mata2 knockdown by shrna
+experimental_factor__rna_interference_exp	0.96479	snrnp70 sirna	snrnp27 sirna
+experimental_factor__rna_interference_exp	0.96393895	snrnp70 sirna	snrnp25 sirna
+experimental_factor__rna_interference_exp	0.913167	snrnp70 sirna	snrpa sirna
+experimental_factor__rna_interference_exp	0.9661517	snrnp70 sirna	snrnp200 sirna
+experimental_factor__rna_interference_exp	0.8803691	snrnp70 sirna	snrpa1 sirna
+experimental_factor__rna_interference_exp	0.9726187	snrnp70 sirna	snrnp48 sirna
+experimental_factor__rna_interference_exp	0.9112724	snrnp70 sirna	snrpb2 sirna
+experimental_factor__rna_interference_exp	0.97756964	snrnp70 sirna	snrnp35 sirna
+experimental_factor__rna_interference_exp	0.9194179	snrnp70 sirna	snrpb sirna
+experimental_factor__rna_interference_exp	0.9079798	snrnp70 sirna	snrpc sirna
+experimental_factor__rna_interference_exp	0.9129601	snrnp70 sirna	snrpf sirna
+experimental_factor__rna_interference_exp	0.8625547	snrnp70 sirna	snrpd2 sirna
+experimental_factor__rna_interference_exp	0.9767841	snrnp70 sirna	snrnp40 sirna
+experimental_factor__rna_interference_exp	0.87311745	snrnp70 sirna	snrpe sirna
+experimental_factor__rna_interference_exp	0.86415374	snrnp70 sirna	snrpd3 sirna
+experimental_factor__rna_interference_exp	0.8801577	cdk2 and rluc control sirna	rluc control sirna
+experimental_factor__rna_interference_exp	0.94486266	non-targeting shrna control	non-targeting shrna
+experimental_factor__rna_interference_exp	0.8806021	non-targeting shrna control	non-targeting shgfp control
+experimental_factor__rna_interference_exp	0.9589956	hnrnpa0 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.92070735	hnrnpa0 sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.9619807	hnrnpa0 sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.961203	hnrnpa0 sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.9373298	hnrnpa0 sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.9615682	hnrnpa0 sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.9320996	hnrnpa0 sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.9606328	hnrnpa0 sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.9597654	hnrnpa0 sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.9516481	hnrnpa0 sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.9627237	hnrnpa0 sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.9431999	hnrnpa0 sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.9110753	hnrnpa0 sirna	hnrnpul2 sirna
+experimental_factor__rna_interference_exp	0.9559815	hnrnpa0 sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.90360504	hnrnpa0 sirna	hnrnph1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9428666	hnrnpa0 sirna	hnrnph2 sirna
+experimental_factor__rna_interference_exp	0.9652512	hnrnpa0 sirna	hnrnpa1 sirna
+experimental_factor__rna_interference_exp	0.941105	hnrnpa0 sirna	hnrnpll sirna
+experimental_factor__rna_interference_exp	0.9608089	hnrnpa0 sirna	hnrnpm sirna
+experimental_factor__rna_interference_exp	0.8866433	hnrnpa0 sirna	hnrnp h knockdown by sirna
+experimental_factor__rna_interference_exp	0.96195996	hnrnpa0 sirna	hnrnpr sirna
+experimental_factor__rna_interference_exp	0.89151967	hnrnpa0 sirna	hnrnpl targetting sirna
+experimental_factor__rna_interference_exp	0.8728393	xrcc4 sirna	sirna xrn1
+experimental_factor__rna_interference_exp	0.9357693	ddx12p sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.9263302	ddx12p sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.9394619	ddx12p sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.93871975	ddx12p sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.9633249	ddx12p sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.9295131	ddx12p sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.9385605	ddx12p sirna	ddx23 sirna
+experimental_factor__rna_interference_exp	0.8678714	ddx12p sirna	ddx39a knockdown by sirna
+experimental_factor__rna_interference_exp	0.94377345	ddx12p sirna	ddx31 sirna
+experimental_factor__rna_interference_exp	0.9616339	ddx12p sirna	ddx10 sirna
+experimental_factor__rna_interference_exp	0.9096067	ddx12p sirna	ddx5 sirna
+experimental_factor__rna_interference_exp	0.9417987	ddx12p sirna	ddx28 sirna
+experimental_factor__rna_interference_exp	0.91603136	ddx12p sirna	ddx46 sirna
+experimental_factor__rna_interference_exp	0.95428735	ddx11 sirna	ddx3x sirna
+experimental_factor__rna_interference_exp	0.95138335	ddx11 sirna	ddx39b sirna
+experimental_factor__rna_interference_exp	0.95811737	ddx11 sirna	ddx24 sirna
+experimental_factor__rna_interference_exp	0.9631318	ddx11 sirna	ddx41 sirna
+experimental_factor__rna_interference_exp	0.98864126	ddx11 sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.950284	ddx11 sirna	ddx52 sirna
+experimental_factor__rna_interference_exp	0.96021223	ddx11 sirna	ddx23 sirna
+experimental_factor__rna_interference_exp	0.89503026	ddx11 sirna	ddx39a knockdown by sirna
+experimental_factor__rna_interference_exp	0.97295964	ddx11 sirna	ddx31 sirna
+experimental_factor__rna_interference_exp	0.98463464	ddx11 sirna	ddx10 sirna
+experimental_factor__rna_interference_exp	0.8546765	ddx11 sirna	dhx15 sirna
+experimental_factor__rna_interference_exp	0.9320098	ddx11 sirna	ddx5 sirna
+experimental_factor__rna_interference_exp	0.95776045	ddx11 sirna	ddx28 sirna
+experimental_factor__rna_interference_exp	0.9366838	ddx11 sirna	ddx46 sirna
+experimental_factor__rna_interference_exp	0.97023106	ddx11 sirna	ddx12p sirna
+experimental_factor__rna_interference_exp	0.93601906	ago2_sirna	ago2 sirna
+experimental_factor__rna_interference_exp	0.9504005	dhx16 sirna	dhx32 sirna
+experimental_factor__rna_interference_exp	0.9507443	dhx16 sirna	dhx8 sirna
+experimental_factor__rna_interference_exp	0.8661454	dhx16 sirna	ddx17 sirna
+experimental_factor__rna_interference_exp	0.95671403	dhx16 sirna	dhx9 sirna
+experimental_factor__rna_interference_exp	0.95414025	dhx16 sirna	dhx35 sirna
+experimental_factor__rna_interference_exp	0.85318506	dhx16 sirna	ddx10 sirna
+experimental_factor__rna_interference_exp	0.9908068	dhx16 sirna	dhx15 sirna
+experimental_factor__rna_interference_exp	0.94156635	dhx16 sirna	dhx33 sirna
+experimental_factor__rna_interference_exp	0.9439669	dhx16 sirna	dhx57 sirna
+experimental_factor__rna_interference_exp	0.9528503	dhx16 sirna	dhx38 sirna
+experimental_factor__rna_interference_exp	0.94692016	dhx16 sirna	dhx30 sirna
+experimental_factor__rna_interference_exp	0.85618174	dhx16 sirna	ddx46 sirna
+experimental_factor__rna_interference_exp	0.85530674	dhx16 sirna	ddx11 sirna
+experimental_factor__rna_interference_exp	0.9226405	hnrnpcl1 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.90474796	hnrnpcl1 sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.9221957	hnrnpcl1 sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.9156054	hnrnpcl1 sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.92137843	hnrnpcl1 sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.91940045	hnrnpcl1 sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.8884079	hnrnpcl1 sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.91770357	hnrnpcl1 sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.93474543	hnrnpcl1 sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.9042711	hnrnpcl1 sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.93202984	hnrnpcl1 sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.92054844	hnrnpcl1 sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.89450866	hnrnpcl1 sirna	hnrnpul2 sirna
+experimental_factor__rna_interference_exp	0.9165825	hnrnpcl1 sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.8839779	hnrnpcl1 sirna	hnrnph1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9171096	hnrnpcl1 sirna	hnrnph2 sirna
+experimental_factor__rna_interference_exp	0.92692184	hnrnpcl1 sirna	hnrnpa1 sirna
+experimental_factor__rna_interference_exp	0.9140693	hnrnpcl1 sirna	hnrnpll sirna
+experimental_factor__rna_interference_exp	0.9214867	hnrnpcl1 sirna	hnrnpm sirna
+experimental_factor__rna_interference_exp	0.92681324	hnrnpcl1 sirna	hnrnpr sirna
+experimental_factor__rna_interference_exp	0.8516893	hnrnpcl1 sirna	hnrnpl targetting sirna
+experimental_factor__rna_interference_exp	0.9252559	hnrnpcl1 sirna	hnrnpa0 sirna
+experimental_factor__rna_interference_exp	0.97322273	phc1 sirna	phc2 sirna
+experimental_factor__rna_interference_exp	0.90399057	puf60 knockdown by sirna	puf60 sirna
+experimental_factor__rna_interference_exp	0.8854817	srpk1 sirna	srpk2_r1 sirna
+experimental_factor__rna_interference_exp	0.9558073	hnrnpa2b1 sirna	hnrnpf sirna
+experimental_factor__rna_interference_exp	0.9252934	hnrnpa2b1 sirna	hnrnpul1 sirna
+experimental_factor__rna_interference_exp	0.97075236	hnrnpa2b1 sirna	hnrnpab sirna
+experimental_factor__rna_interference_exp	0.97713387	hnrnpa2b1 sirna	hnrnpa3 sirna
+experimental_factor__rna_interference_exp	0.94137573	hnrnpa2b1 sirna	hnrnpdl sirna
+experimental_factor__rna_interference_exp	0.94538784	hnrnpa2b1 sirna	hnrnpc sirna
+experimental_factor__rna_interference_exp	0.94402117	hnrnpa2b1 sirna	hnrnp a1 sirna
+experimental_factor__rna_interference_exp	0.9532887	hnrnpa2b1 sirna	hnrnpd sirna
+experimental_factor__rna_interference_exp	0.96183115	hnrnpa2b1 sirna	hnrnph1 sirna
+experimental_factor__rna_interference_exp	0.93680704	hnrnpa2b1 sirna	hnrnpu sirna
+experimental_factor__rna_interference_exp	0.9584249	hnrnpa2b1 sirna	hnrnpl sirna
+experimental_factor__rna_interference_exp	0.9474782	hnrnpa2b1 sirna	hnrnph3 sirna
+experimental_factor__rna_interference_exp	0.9180188	hnrnpa2b1 sirna	hnrnpul2 sirna
+experimental_factor__rna_interference_exp	0.942999	hnrnpa2b1 sirna	hnrnpk sirna
+experimental_factor__rna_interference_exp	0.914822	hnrnpa2b1 sirna	hnrnph1 knockdown by sirna
+experimental_factor__rna_interference_exp	0.9560047	hnrnpa2b1 sirna	hnrnph2 sirna
+experimental_factor__rna_interference_exp	0.9783908	hnrnpa2b1 sirna	hnrnpa1 sirna
+experimental_factor__rna_interference_exp	0.9437841	hnrnpa2b1 sirna	hnrnpll sirna
+experimental_factor__rna_interference_exp	0.9532272	hnrnpa2b1 sirna	hnrnpm sirna
+experimental_factor__rna_interference_exp	0.89526725	hnrnpa2b1 sirna	hnrnp h knockdown by sirna
+experimental_factor__rna_interference_exp	0.9527098	hnrnpa2b1 sirna	hnrnpr sirna
+experimental_factor__rna_interference_exp	0.87465584	hnrnpa2b1 sirna	hnrnpl targetting sirna
+experimental_factor__rna_interference_exp	0.9674136	hnrnpa2b1 sirna	hnrnpa0 sirna
+experimental_factor__rna_interference_exp	0.9166601	hnrnpa2b1 sirna	hnrnpcl1 sirna

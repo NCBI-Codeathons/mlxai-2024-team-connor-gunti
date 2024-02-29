@@ -1,0 +1,308 @@
+name	score	s1	s2
+tretment_sam	0.8568221	xylazine detomidine dipyran fluids butorphanol buscopan banamine	banamine buscopan xylazine detomidine lrs
+tretment_sam	0.9305307	xylazine buscopan banamine lrs	banamine buscopan xylazine detomidine lrs
+tretment_sam	0.9087752	omeprazole banamine	sucralfate omeprazole banamine
+tretment_sam	0.85555613	banamine k-pen gentamicin polymixin lrs xylazine	xylazine flunixin k pen metronidazole gentamicin lrs
+tretment_sam	0.87974286	dormosedan butorphanol	dormosedan banamine butorphanol
+tretment_sam	0.8829367	gastroguard banamine gentamicin k-pen lrs	banamine k-pen gentamicin
+tretment_sam	0.8752911	banamine xylazine buscopan butorphanol	xylazine detomidine dipyran fluids butorphanol buscopan banamine
+tretment_sam	0.93548506	banamine xylazine buscopan butorphanol	xylazine butorphanol buscopan
+tretment_sam	0.88649493	banamine xylazine buscopan butorphanol	banamine phenylbutazone butorphanol xylazine
+tretment_sam	0.92643595	omeprazole fluids banamine sucralfate	sucralfate omeprazole banamine
+tretment_sam	0.86897814	flunixin buscapan xylazine lrs	xylazine buscopan banamine lrs
+tretment_sam	0.9367723	banamine gentamicin k-pen ppg	banamine k-pen gentamicin
+tretment_sam	0.87860155	banamine gentamicin k-pen ppg	gastroguard banamine gentamicin k-pen lrs
+tretment_sam	0.8705999	dormesedan butorphanol detomidine	detomidine butorphanol bute
+tretment_sam	0.8634347	dormesedan butorphanol detomidine	dormosedan butorphanol
+tretment_sam	0.88863707	butylscopolamine bromide xylazine butorphanol	butylscopolamine bromide xylazine flunixin acepromazine butorphanol
+tretment_sam	0.8758006	phenylbutazone atropine voriconazole ofloxacin	atropine ofloxacin vorinconazole
+tretment_sam	0.9101027	xylazine butorphanol	xylazine butorphanol buscopan
+tretment_sam	0.99430466	banamine metronidazole ceftiofur gentamicin lidocaine polymyxin	ceftiofur gentamicin banamine metronidazole polymyxin lidocaine
+tretment_sam	0.874702	sulfamethoxazole firocoxib pergolide dormosedan ceftiofur banamine gentamicin butorphanol buscopan	sulfamethoxazole dormosedan ceftiofur banamine gentamicin omeprazole butorphanol
+tretment_sam	0.8760462	banamine buscopan xylazine	banamine buscopan xylazine detomidine lrs
+tretment_sam	0.8876671	banamine buscopan xylazine	xylazine buscopan banamine lrs
+tretment_sam	0.9031943	banamine buscopan xylazine	banamine xylazine buscopan butorphanol
+tretment_sam	0.885506	banamine buscopan xylazine	xylazine banamine
+tretment_sam	0.8684136	banamine xylazine lrs gentamicin k-pen	xylazine flunixin k pen metronidazole gentamicin lrs
+tretment_sam	0.9224538	banamine xylazine lrs gentamicin k-pen	banamine k-pen gentamicin polymixin lrs xylazine
+tretment_sam	0.9494169	xylazine flunixin butorphanol butylscopolamine bromide	butylscopolamine bromide xylazine flunixin acepromazine butorphanol
+tretment_sam	0.92809224	xylazine flunixin butorphanol butylscopolamine bromide	butylscopolamine bromide xylazine butorphanol
+tretment_sam	0.8805431	xylazine banamine tms lrs	lrs xylazine dexamethasone banamine tms
+tretment_sam	0.8894608	banamine xylazine buscopan butorphanol fluids	xylazine detomidine dipyran fluids butorphanol buscopan banamine
+tretment_sam	0.90850645	banamine xylazine buscopan butorphanol fluids	xylazine butorphanol buscopan
+tretment_sam	0.86654013	banamine xylazine buscopan butorphanol fluids	banamine phenylbutazone butorphanol xylazine
+tretment_sam	0.9706012	banamine xylazine buscopan butorphanol fluids	banamine xylazine buscopan butorphanol
+tretment_sam	0.88977724	banamine xylazine buscopan butorphanol fluids	banamine buscopan xylazine
+tretment_sam	0.90423393	fluids butorphanol xylazine	xylazine butorphanol
+tretment_sam	0.89192986	dormosedan omeprazole banamine gentamicin ceftiofur butorphanol buscopan phenylbutazone	sulfamethoxazole dormosedan ceftiofur banamine gentamicin omeprazole butorphanol
+tretment_sam	0.8525157	sulfamethoxazole banamine butorphanol detomidine	firocoxib dormosedan sulfadiazine butorphanol detomidine banamine
+tretment_sam	0.8582536	xylazine detomidine butorphanol flunixin fluids	xylazine detomidine dipyran fluids butorphanol buscopan banamine
+tretment_sam	0.9628713	xylazine detomidine butorphanol flunixin fluids	xylazine detomidine butorphanol flunixin
+tretment_sam	0.9004362	banamine gentamicin ceftiofur lidocaine calcium gluconate polymyxin ceftiofur butorphanol	caclium gluconate banamine gentamicin ceftiofur lidocaine polymyxin lidocaine
+tretment_sam	0.8653133	banamine gentamicin ceftiofur lidocaine calcium gluconate polymyxin ceftiofur butorphanol	ceftiofur gentamicin banamine metronidazole polymyxin lidocaine
+tretment_sam	0.8687217	banamine gentamicin ceftiofur lidocaine calcium gluconate polymyxin ceftiofur butorphanol	banamine metronidazole ceftiofur gentamicin lidocaine polymyxin
+tretment_sam	0.863346	xylazine butorphanol metoclopramide omeprazole lidocaine banamine gentamicin ceftiofur	banamine omeprazole lidocaine xylazine butorphanol
+tretment_sam	0.8566383	dormosedan omeprazole banamine ceftiofur lidocaine buscopan	dormosedan omeprazole banamine gentamicin ceftiofur butorphanol buscopan phenylbutazone
+tretment_sam	0.86167204	methylprednisolone penicillin gentamicin polymyxin b lidocaine banamine butorphanol dexamethasone calcium gluconate buscopan	banamine gentamicin ceftiofur lidocaine calcium gluconate polymyxin ceftiofur butorphanol
+tretment_sam	0.88569784	lrs phenylephrine detomidine xylazine banamine	banamine buscopan xylazine detomidine lrs
+tretment_sam	0.8531432	banamine xylazine butorphanol penicillin	banamine phenylbutazone butorphanol xylazine
+tretment_sam	0.8587959	banamine xylazine butorphanol penicillin	banamine xylazine buscopan butorphanol fluids
+tretment_sam	0.86135876	gentamicin xylazine plasmalyte flunixin	dormosedan gentamicin flunixin and xylazine
+tretment_sam	0.8509972	banamine butorphanol buscopan ceftiofur anesthesia	banamine xylazine buscopan butorphanol
+tretment_sam	0.9652027	phenylbutazone tms	tms phenylbutazone
+tretment_sam	0.85750234	omeprazole sucralfate banamine xylazine lrs genatmicin potassium penicillin polymyxin lidocaine metronidazole	xylazine midazolam ketamine polymyxin sucralfate omeprazole banamine gentamicin dexamethasone ceftiofur lidocaine cefazolin
+tretment_sam	0.865944	xylazine banamine tms	xylazine banamine
+tretment_sam	0.86806095	xylazine banamine tms	xylazine banamine tms lrs
+tretment_sam	0.89297235	omeprazole firocoxib	omeprazole firocoxib dormosedan
+tretment_sam	0.8546276	omeprazole banamine butorphanol	omeprazole banamine
+tretment_sam	0.8529476	sulfamethaxazole dormosedan phenylbutazone butorphanol detomidine	dormesedan butorphanol detomidine
+tretment_sam	0.8564105	butorphanol flunixin acepromazine	butylscopolamine bromide xylazine flunixin acepromazine butorphanol
+tretment_sam	0.9925469	banamine sulfamethoxazole detomidine butorphanol	sulfamethoxazole banamine butorphanol detomidine
+tretment_sam	0.9589515	lrs omeprazole enrofloxacin sucralfate misoprostol	omeprazole enrofloxacin sucralfate misoprostol
+tretment_sam	0.8518959	lrs omeprazole enrofloxacin sucralfate misoprostol	omeprazole sucralfate firocoxib misoprostol lrs
+tretment_sam	0.8582473	dormosedan banamine	dormosedan banamine butorphanol
+tretment_sam	0.87283295	dormosedan banamine	banamine dormosedan lrs
+tretment_sam	0.9061871	banamine butorphanol xylazine ceftiofur gentamicin	gentamicin ceftiofur banamine xylazine
+tretment_sam	0.86743176	banamine butorphanol xylazine ceftiofur gentamicin	xylazine butorphanol metoclopramide omeprazole lidocaine banamine gentamicin ceftiofur
+tretment_sam	0.86677665	banamine butorphanol xylazine ceftiofur gentamicin	banamine xylazine butorphanol penicillin
+tretment_sam	0.865645	xylazine sulfadiazine detomidine butorphanol phenylbutazone	sulfamethaxazole dormosedan phenylbutazone butorphanol detomidine
+tretment_sam	0.8908114	xylazine midazolam ketamine morphine detomidine phenylbutazone	xylazine detomidine phenylbutazone ketamine midazolam gentamicin ppg
+tretment_sam	0.89693916	dormosedan polymyxin omeprazole banamine gentamicin ceftiofur butorphanol	sulfamethoxazole dormosedan ceftiofur banamine gentamicin omeprazole butorphanol
+tretment_sam	0.8827909	dormosedan polymyxin omeprazole banamine gentamicin ceftiofur butorphanol	dormosedan omeprazole banamine gentamicin ceftiofur butorphanol buscopan phenylbutazone
+tretment_sam	0.8779204	phenylbutazone sulfamethoxazole detomidine butorphanol phenylbutazone	sulfamethaxazole dormosedan phenylbutazone butorphanol detomidine
+tretment_sam	0.8769141	phenylbutazone sulfamethoxazole detomidine butorphanol phenylbutazone	xylazine sulfadiazine detomidine butorphanol phenylbutazone
+tretment_sam	0.9759604	buscopan banamine	banamine buscopan
+tretment_sam	0.8679392	banamine buscopan butorphanol detomidine	banamine detodimine butorphanol buscopan lidocaine dormosedan
+tretment_sam	0.91360986	k pen naxcel banamine sucralfate meloxicam probiotic	k pen banamine naxcel sucralfate butorphanol probiotic
+tretment_sam	0.91534686	dormosedan banamine buscopan	banamine flunixin dormosedan buscopan
+tretment_sam	0.8543503	dormosedan banamine buscopan	dormosedan buscopan
+tretment_sam	0.86971116	dormosedan banamine buscopan	dormosedan banamine
+tretment_sam	0.8992341	dormosedan banamine buscopan	banamine buscopan
+tretment_sam	0.9014584	dormosedan banamine buscopan	buscopan banamine
+tretment_sam	0.8578136	detomidine buscopan butorphanol	detomidine butorphanol bute
+tretment_sam	0.86632925	detomidine buscopan butorphanol	dormesedan butorphanol detomidine
+tretment_sam	0.92490155	detomidine buscopan butorphanol	banamine buscopan butorphanol detomidine
+tretment_sam	0.8743013	dormosedan butorphanol detomidine	detomidine butorphanol bute
+tretment_sam	0.89220285	dormosedan butorphanol detomidine	dormosedan butorphanol
+tretment_sam	0.9769443	dormosedan butorphanol detomidine	dormesedan butorphanol detomidine
+tretment_sam	0.8599048	dormosedan butorphanol detomidine	sulfamethaxazole dormosedan phenylbutazone butorphanol detomidine
+tretment_sam	0.8719255	dormosedan butorphanol detomidine	detomidine buscopan butorphanol
+tretment_sam	0.90731084	fluids sucralfate omeprazole	sucralfate omeprazole
+tretment_sam	0.901294	butorphanol detomidine xylazine penicllin gentamicin colic surgery anesthesia lidocaine flunixin	xylazine butorphanoe anesthesia+colic surgery pencillin and gentamicin flunixin
+tretment_sam	0.9197619	butorphanol detomidine xylazine penicllin gentamicin colic surgery anesthesia lidocaine flunixin	butylscopolamine bromide butorphanol penicillin gentamicin flunixin anesthesia colic sx xylazine detomidine lidocaine
+tretment_sam	0.9274377	banamine xylazine ceftiofur gentamicin polymyxin	gentamicin ceftiofur banamine xylazine
+tretment_sam	0.8774861	banamine xylazine ceftiofur gentamicin polymyxin	ceftiofur gentamicin banamine metronidazole polymyxin lidocaine
+tretment_sam	0.8834683	banamine xylazine ceftiofur gentamicin polymyxin	banamine metronidazole ceftiofur gentamicin lidocaine polymyxin
+tretment_sam	0.9421608	sulfamethoxazole atropine butorphanol detomidine banamine	sulfamethoxazole banamine butorphanol detomidine
+tretment_sam	0.93798095	sulfamethoxazole atropine butorphanol detomidine banamine	banamine sulfamethoxazole detomidine butorphanol
+tretment_sam	0.8633964	buscopan detomidine butorphanol flunixin aspirin	detomidine buscopan butorphanol
+tretment_sam	0.8657601	banamine buscopan omeprazole	sucralfate omeprazole banamine
+tretment_sam	0.8854218	banamine buscopan omeprazole	omeprazole banamine
+tretment_sam	0.8657772	banamine buscopan omeprazole	omeprazole moxidectin dormosedan banamine buscopan
+tretment_sam	0.876345	xylazine buscopan banamine	banamine buscopan xylazine detomidine lrs
+tretment_sam	0.8962884	xylazine buscopan banamine	xylazine buscopan banamine lrs
+tretment_sam	0.90612537	xylazine buscopan banamine	banamine xylazine buscopan butorphanol
+tretment_sam	0.8957567	xylazine buscopan banamine	xylazine banamine
+tretment_sam	0.9864265	xylazine buscopan banamine	banamine buscopan xylazine
+tretment_sam	0.88470614	xylazine buscopan banamine	banamine xylazine buscopan butorphanol fluids
+tretment_sam	0.89070207	lrs butorphanol buscopan detomidine	detomidine buscopan butorphanol
+tretment_sam	0.860695	butylscopolamine bromide xylazine butorphanol anesthesia colic surgery flunixin detomidine penicllin gentamicin lidocaine	xylazine butorphanoe anesthesia+colic surgery pencillin and gentamicin flunixin
+tretment_sam	0.95196086	butylscopolamine bromide xylazine butorphanol anesthesia colic surgery flunixin detomidine penicllin gentamicin lidocaine	butylscopolamine bromide butorphanol penicillin gentamicin flunixin anesthesia colic sx xylazine detomidine lidocaine
+tretment_sam	0.8825606	butylscopolamine bromide xylazine butorphanol anesthesia colic surgery flunixin detomidine penicllin gentamicin lidocaine	gentamicin penicillin flunixin xylazine detomedine butylscopolamine bromide furosemide omeprazole butorphanol tracheostomy anesthesia colic surgery
+tretment_sam	0.9672334	butylscopolamine bromide xylazine butorphanol anesthesia colic surgery flunixin detomidine penicllin gentamicin lidocaine	butorphanol detomidine xylazine penicllin gentamicin colic surgery anesthesia lidocaine flunixin
+tretment_sam	0.8582128	butorphanol xylazine detomidine butylscopolamine bromide banamine	xylazine detomidine butorphanol flunixin
+tretment_sam	0.8661634	butorphanol xylazine detomidine butylscopolamine bromide banamine	butylscopolamine bromide xylazine flunixin acepromazine butorphanol
+tretment_sam	0.9044583	butorphanol xylazine detomidine butylscopolamine bromide banamine	butylscopolamine bromide xylazine butorphanol
+tretment_sam	0.8838866	butorphanol xylazine detomidine butylscopolamine bromide banamine	xylazine flunixin butorphanol butylscopolamine bromide
+tretment_sam	0.9169805	butorphanol xylazine detomidine butylscopolamine bromide banamine	xylazine detomidine butylscopolamine bromide
+tretment_sam	0.87406945	butorphanol xylazine detomidine butylscopolamine bromide banamine	banamine metronidazole butylscopolamine bromide detomedine butorphanol
+tretment_sam	0.88785267	iv sedation detomidine and butorphanol oral omeprazole and sucralfate	iv sedation detomidine oral omeprazole
+tretment_sam	0.9017165	ponazuril omeprazole phenylbutazone	omeprazole phenylbutazone
+tretment_sam	0.8637261	banamine butorphanol gentamicin polymixin b xylazine lrs	banamine k-pen gentamicin polymixin lrs xylazine
+tretment_sam	0.8521723	banamine butorphanol gentamicin polymixin b xylazine lrs	banamine butorphanol xylazine ceftiofur gentamicin
+tretment_sam	0.94272256	butylscopolammonium butorphanol xylazine	butylscopolamine bromide xylazine butorphanol
+tretment_sam	0.87110204	butylscopolammonium butorphanol xylazine	xylazine butorphanol
+tretment_sam	0.8782064	butylscopolammonium butorphanol xylazine	xylazine flunixin butorphanol butylscopolamine bromide
+tretment_sam	0.8647293	butylscopolammonium butorphanol xylazine	butorphanol xylazine detomidine butylscopolamine bromide banamine
+tretment_sam	0.860713	omeprazole sucralfate ceftiofur gentamicin banamine dexamethason lidocaine	sucralfate omeprazole banamine gentamicin ceftiofur calcium gluconate lidocaine dexamethasone polymyxin
+tretment_sam	0.86914265	lrs xylazine polymyxin banamine k pen gentamicin lidocaine omeprazole	banamine k-pen gentamicin polymixin lrs xylazine
+tretment_sam	0.8739394	lrs xylazine polymyxin banamine k pen gentamicin lidocaine omeprazole	omeprazole sucralfate banamine xylazine lrs genatmicin potassium penicillin polymyxin lidocaine metronidazole
+tretment_sam	0.8944427	fendbendazole phenylbutazone butorphanol	phenylbutazone butorphanol
+tretment_sam	0.85963345	banamine lrs naxel solumedrol lidocaine omeprazole calcium supplement polymixin b enrofloxacin biosponge	lrs lidocaine heparin banamine naxcel omeprazole polymixin b enrofloxacin biosponge sucralfate misoprostol solu-medrol plasma
+tretment_sam	0.87230295	prednisolone metronidazole ceftiofur banamine gentamicin butorphanol detomidine xylazine	gentamicin ceftiofur banamine xylazine
+tretment_sam	0.92454493	prednisolone metronidazole ceftiofur banamine gentamicin butorphanol detomidine xylazine	banamine butorphanol xylazine ceftiofur gentamicin
+tretment_sam	0.851547	banamine dormosedan xylazine lrs ceftiofur	xylazine buscopan banamine lrs
+tretment_sam	0.95747566	k pen gentamicin banamine	banamine k-pen gentamicin
+tretment_sam	0.8733978	k pen gentamicin banamine	gastroguard banamine gentamicin k-pen lrs
+tretment_sam	0.9278481	k pen gentamicin banamine	banamine gentamicin k-pen ppg
+tretment_sam	0.8715076	k pen gentamicin banamine	amikacin k pen banamine
+tretment_sam	0.8669208	butorphanol detomidine buscopan	detomidine butorphanol bute
+tretment_sam	0.8761003	butorphanol detomidine buscopan	dormesedan butorphanol detomidine
+tretment_sam	0.92905134	butorphanol detomidine buscopan	banamine buscopan butorphanol detomidine
+tretment_sam	0.98874915	butorphanol detomidine buscopan	detomidine buscopan butorphanol
+tretment_sam	0.8822117	butorphanol detomidine buscopan	dormosedan butorphanol detomidine
+tretment_sam	0.86178803	butorphanol detomidine buscopan	buscopan detomidine butorphanol flunixin aspirin
+tretment_sam	0.8918214	butorphanol detomidine buscopan	lrs butorphanol buscopan detomidine
+tretment_sam	0.9381001	banamine fluids	fluids banamine
+tretment_sam	0.96483415	banamine lrs	lrs banamine
+tretment_sam	0.863861	xylazine butorphanol penicillin gentamicin polymxin b lidocaine anesthesia surgery banamine hetastarch detomidine	butylscopolamine bromide butorphanol penicillin gentamicin flunixin anesthesia colic sx xylazine detomidine lidocaine
+tretment_sam	0.8879041	xylazine butorphanol penicillin gentamicin polymxin b lidocaine anesthesia surgery banamine hetastarch detomidine	butorphanol detomidine xylazine penicllin gentamicin colic surgery anesthesia lidocaine flunixin
+tretment_sam	0.8678615	xylazine butorphanol penicillin gentamicin polymxin b lidocaine anesthesia surgery banamine hetastarch detomidine	butylscopolamine bromide xylazine butorphanol anesthesia colic surgery flunixin detomidine penicllin gentamicin lidocaine
+tretment_sam	0.8641834	xylazine dormosedan phenylbutazone tms	xylazine dexamethasone tms phenylbutazone
+tretment_sam	0.8501929	lrs gentocin k pen banamine	gastroguard banamine gentamicin k-pen lrs
+tretment_sam	0.86840063	detomidine acepromazine xylazine	xylazine acepromazine
+tretment_sam	0.8571763	detomidine acepromazine xylazine	xylazine midazolam ketamine detomidine acepromazine ampicillin
+tretment_sam	0.86884445	detomidine banamine lrs	banamine detomidine
+tretment_sam	0.87486595	xylazine detomidine butorphanol phenylephrine lrs	lrs phenylephrine detomidine xylazine banamine
+tretment_sam	0.8574496	xylazine detomidine butorphanol lrs phenylephrine	lrs phenylephrine detomidine xylazine banamine
+tretment_sam	0.9873061	xylazine detomidine butorphanol lrs phenylephrine	xylazine detomidine butorphanol phenylephrine lrs
+tretment_sam	0.882293	banamine xylazine gentamicin k pen butorphanol ketamine midazolam	xylazine butorphanol k-pen gentamicin anesthesia lidocaine banamine lrs
+tretment_sam	0.8905119	firocoxib butorphanol detomidine omeprazole	butorphanol detomidine omeprazole
+tretment_sam	0.9851084	omeprazole sucralfate	sucralfate omeprazole
+tretment_sam	0.89812505	omeprazole sucralfate	fluids sucralfate omeprazole
+tretment_sam	0.96566874	butorphanol butyscopolamine bormide banamine penicilin gentamicin anesthesia colic surgery detomodine dss mineral oil trimethoprim sulfa	butorphanol butylscopolamine bormide banamine penicillin gentamicin anesthesia colic surgery detomodine dss mineral oil trimethoprim sulfa
+tretment_sam	0.90648127	gentamicin penicillin banamine lidocaine	banamine gentamicin penicillin
+tretment_sam	0.8701693	gentamicin penicillin banamine lidocaine	banamine butorphanol gentamicin procaine penicillin
+tretment_sam	0.98635024	banamine xylazine	xylazine banamine
+tretment_sam	0.889328	banamine xylazine	banamine buscopan xylazine
+tretment_sam	0.8505844	banamine xylazine	xylazine banamine tms
+tretment_sam	0.8809337	banamine xylazine	xylazine buscopan banamine
+tretment_sam	0.8632557	banamine k-pen gentocin omeprazole metronidazole	k-pen banamine omeprazole lidocaine gentamicin
+tretment_sam	0.9823998	banamine uniprim	uniprim banamine
+tretment_sam	0.90163314	sulfamethoxazole dormosedan gentamicin penicillin omeprazole banamine	sulfamethoxazole dormosedan ceftiofur banamine gentamicin omeprazole butorphanol
+tretment_sam	0.8651817	kpen gentamicin banamine	k pen gentamicin banamine
+tretment_sam	0.917043	omeprazole sucralfate penicillin g banamine gentamicin banamine calcium gluconate polymyxin b lidocaine	sucralfate omeprazole banamine gentamicin ceftiofur calcium gluconate lidocaine dexamethasone polymyxin
+tretment_sam	0.95382714	co-cultured with helicobacter pylori lysate for number generations	co-cultured with helicobacter pylori lysate for number generation
+tretment_sam	0.8718271	banamine domperadone oxytocin xylazine acepromazine	oxytocin dormosedan domperidone xylazine butorphanol acepromazine
+tretment_sam	0.85216343	banamine xylazine detomidine butorphanol lidocaine heparin metamucil	banamine detodimine butorphanol buscopan lidocaine dormosedan
+tretment_sam	0.8551328	lrs detomidine butylscopolamine bromide banamine	detomidine banamine lrs
+tretment_sam	0.9626442	fluids banamine butorphanol gentamicin procaine penicillin	banamine butorphanol gentamicin procaine penicillin
+tretment_sam	0.8716067	detomidine flunixin minocycline	flunixin detomidine
+tretment_sam	0.8506128	phenylbutazone k pen gentocin butorphanol omeprazole	banamine k-pen gentocin omeprazole metronidazole
+tretment_sam	0.8506775	transfection with lentiviral particles overexpressing trfp	transfection with lentiviral particles overexpressing trfp-tdp43- wt
+tretment_sam	0.86504984	lrs xylazine butylscopolamine bromide ceftiofur banamine	xylazine lrs butylscopolamine bromide polymyxin banamine
+tretment_sam	0.88228714	lrs xylazine butylscopolamine bromide ceftiofur banamine	banamine dormosedan xylazine lrs ceftiofur
+tretment_sam	0.89486223	omeprazole sucralfate metronidazole dormosedan banamine xylazine lidocaine butorphanol buscopan	banamine omeprazole lidocaine xylazine butorphanol
+tretment_sam	0.85873085	omeprazole sucralfate metronidazole dormosedan banamine xylazine lidocaine butorphanol buscopan	xylazine butorphanol metoclopramide omeprazole lidocaine banamine gentamicin ceftiofur
+tretment_sam	0.88016915	omeprazole sucralfate metronidazole dormosedan banamine xylazine lidocaine butorphanol buscopan	dormosedan omeprazole banamine ceftiofur lidocaine buscopan
+tretment_sam	0.9509765	detomidine butorphanol	detomidine butorphanol bute
+tretment_sam	0.9150109	detomidine butorphanol	dormesedan butorphanol detomidine
+tretment_sam	0.86157614	detomidine butorphanol	lidocaine butorphanol detomidine
+tretment_sam	0.8534312	detomidine butorphanol	banamine buscopan butorphanol detomidine
+tretment_sam	0.9032817	detomidine butorphanol	detomidine buscopan butorphanol
+tretment_sam	0.91561496	detomidine butorphanol	dormosedan butorphanol detomidine
+tretment_sam	0.9034611	detomidine butorphanol	butorphanol detomidine buscopan
+tretment_sam	0.8735814	k-pen banamine gentamicin gastroguard lrs	banamine k-pen gentamicin
+tretment_sam	0.9890498	k-pen banamine gentamicin gastroguard lrs	gastroguard banamine gentamicin k-pen lrs
+tretment_sam	0.86804175	k-pen banamine gentamicin gastroguard lrs	banamine gentamicin k-pen ppg
+tretment_sam	0.87173975	k-pen banamine gentamicin gastroguard lrs	k pen gentamicin banamine
+tretment_sam	0.8615303	omeprazole lrs banamine	omeprazole banamine
+tretment_sam	0.9926413	penicillin banamine gentamicin	banamine gentamicin penicillin
+tretment_sam	0.9093648	penicillin banamine gentamicin	gentamicin penicillin banamine lidocaine
+tretment_sam	0.9239132	banamine omeprazole enrofloxacin biosponge	omeprazole enrofloxacin banamine
+tretment_sam	0.9139463	banamine omeprazole enrofloxacin biosponge	omeprazole enrofloxacin biosponge
+tretment_sam	0.86942875	xylazine banamine fluids	xylazine banamine
+tretment_sam	0.8736928	xylazine banamine fluids	banamine xylazine
+tretment_sam	0.92220986	xylazine banamine fluids	banamine xylazine fluids anesthestics
+tretment_sam	0.8607435	buscopan banamine metronidazole kpen gentamicin omeprazole famotidine	buscopan flunixin gentamicin k pen metronidazole omeprazole
+tretment_sam	0.9636909	transfection with lentiviral particles overexpressing trfp-tdp43- a315t	transfection with lentiviral particles overexpressing trfp-tdp43- wt
+tretment_sam	0.868763	banamine buscopan xylazine dormosedan k pen gentamicin lrs	banamine k-pen gentamicin polymixin lrs xylazine
+tretment_sam	0.908565	banamine buscopan xylazine dormosedan k pen gentamicin lrs	banamine xylazine lrs gentamicin k-pen
+tretment_sam	0.8605098	banamine buscopan xylazine dormosedan k pen gentamicin lrs	banamine dormosedan xylazine lrs ceftiofur
+tretment_sam	0.8960974	butylscopolamine bromide flunixin xylazine	butylscopolamine bromide xylazine flunixin acepromazine butorphanol
+tretment_sam	0.9352055	butylscopolamine bromide flunixin xylazine	xylazine flunixin butorphanol butylscopolamine bromide
+tretment_sam	0.98092294	acepromazine xylazine	xylazine acepromazine
+tretment_sam	0.8765435	acepromazine xylazine	detomidine acepromazine xylazine
+tretment_sam	0.94385284	xylazine detomidine lrs buscopan butorphanol banamine	banamine buscopan xylazine detomidine lrs
+tretment_sam	0.89602894	xylazine detomidine lrs buscopan butorphanol banamine	xylazine detomidine dipyran fluids butorphanol buscopan banamine
+tretment_sam	0.8658376	xylazine detomidine lrs buscopan butorphanol banamine	xylazine buscopan banamine lrs
+tretment_sam	0.8993887	xylazine detomidine lrs buscopan butorphanol banamine	banamine xylazine buscopan butorphanol
+tretment_sam	0.8646945	xylazine detomidine lrs buscopan butorphanol banamine	banamine xylazine buscopan butorphanol fluids
+tretment_sam	0.8675637	xylazine detomidine lrs buscopan butorphanol banamine	banamine buscopan butorphanol detomidine
+tretment_sam	0.85783243	xylazine detomidine lrs buscopan butorphanol banamine	lrs butorphanol buscopan detomidine
+tretment_sam	0.859694	xylazine detomidine lrs buscopan butorphanol banamine	butorphanol xylazine detomidine butylscopolamine bromide banamine
+tretment_sam	0.8686657	xylazine detomidine lrs buscopan butorphanol banamine	xylazine detomidine butorphanol phenylephrine lrs
+tretment_sam	0.8855231	xylazine detomidine lrs buscopan butorphanol banamine	xylazine detomidine butorphanol lrs phenylephrine
+tretment_sam	0.9152874	xylazine banamine lrs	xylazine buscopan banamine lrs
+tretment_sam	0.85896814	xylazine banamine lrs	lrs xylazine dexamethasone banamine tms
+tretment_sam	0.86514825	xylazine banamine lrs	xylazine banamine tms lrs
+tretment_sam	0.86432576	xylazine banamine lrs	banamine dormosedan xylazine lrs ceftiofur
+tretment_sam	0.97388387	banamine tms	tms banamine
+tretment_sam	0.8637053	phenylbutazone ceftiofur gentamicin	penicillin gentamicin phenylbutazone
+tretment_sam	0.89038575	biosponge banamine flunixin omeprazole sucralfate	sucralfate omeprazole banamine
+tretment_sam	0.9340721	biosponge banamine flunixin omeprazole sucralfate	banamine biosponge flunixin omeprazole
+tretment_sam	0.8543911	biosponge banamine flunixin omeprazole sucralfate	omeprazole fluids banamine sucralfate
+tretment_sam	0.8609338	lrs banamine naxcel omeprazole enrofloxacin sucralfate misoprostol	omeprazole enrofloxacin sucralfate misoprostol
+tretment_sam	0.9045868	lrs banamine naxcel omeprazole enrofloxacin sucralfate misoprostol	lrs omeprazole enrofloxacin sucralfate misoprostol
+tretment_sam	0.91815406	penicillin gentamicin banamine metronidazole	banamine gentamicin penicillin
+tretment_sam	0.85235417	penicillin gentamicin banamine metronidazole	gentamicin penicillin banamine lidocaine
+tretment_sam	0.92881787	penicillin gentamicin banamine metronidazole	penicillin banamine gentamicin
+tretment_sam	0.98859906	omeprazole butorphanol detomidine	butorphanol detomidine omeprazole
+tretment_sam	0.8909607	omeprazole butorphanol detomidine	firocoxib butorphanol detomidine omeprazole
+tretment_sam	0.90019906	ceftiofur phenylbutazone dormosedan gentamicin	phenylbutazone ceftiofur gentamicin
+tretment_sam	0.88982034	phenylbutazone numeric mg/kg po q number h starting 5/16 anesthesia tetanus toxoid gentamicin numeric mg/kg pre-op 5/16 anesthesia 5/16	5/16/18 phenylubtazone numeric mg/kg iv then po 5/16 gentamicin numeric mg/kg iv penicillin number iu/kg iv pre and post op tetanus toxoid anesthesia neurectomy surgery
+tretment_sam	0.99223083	banamine gentamicin ceftiofur xylazine	gentamicin ceftiofur banamine xylazine
+tretment_sam	0.9088968	banamine gentamicin ceftiofur xylazine	banamine butorphanol xylazine ceftiofur gentamicin
+tretment_sam	0.92375493	banamine gentamicin ceftiofur xylazine	banamine xylazine ceftiofur gentamicin polymyxin
+tretment_sam	0.87097144	banamine gentamicin ceftiofur xylazine	prednisolone metronidazole ceftiofur banamine gentamicin butorphanol detomidine xylazine
+tretment_sam	0.8535985	metoclopramide xylazine buscopan lidocaine omeprazole butorphanol gentamicin penicillin polymyxin calcium gluconate	methylprednisolone penicillin gentamicin polymyxin b lidocaine banamine butorphanol dexamethasone calcium gluconate buscopan
+tretment_sam	0.85133684	omeprazole banamine butorphanol detomidine lrs	butorphanol detomidine omeprazole
+tretment_sam	0.857008	omeprazole banamine butorphanol detomidine lrs	omeprazole banamine butorphanol
+tretment_sam	0.8558831	omeprazole banamine butorphanol detomidine lrs	omeprazole butorphanol detomidine
+tretment_sam	0.87708384	glucosamine red cell supplements	glucosamine red cell supplements banamine
+tretment_sam	0.8619968	dormosedan midazolam ketamine buscopan butorphanol banamine omeprazole lidocaine ceftiofur calcium gluconate dexamethasone polymyxin	metoclopramide xylazine buscopan lidocaine omeprazole butorphanol gentamicin penicillin polymyxin calcium gluconate
+tretment_sam	0.92973346	gentamicin banamine k-pen lrs	banamine k-pen gentamicin
+tretment_sam	0.9415736	gentamicin banamine k-pen lrs	gastroguard banamine gentamicin k-pen lrs
+tretment_sam	0.8977711	gentamicin banamine k-pen lrs	banamine gentamicin k-pen ppg
+tretment_sam	0.871765	gentamicin banamine k-pen lrs	banamine xylazine lrs gentamicin k-pen
+tretment_sam	0.90432525	gentamicin banamine k-pen lrs	k pen gentamicin banamine
+tretment_sam	0.8689363	gentamicin banamine k-pen lrs	lrs gentocin k pen banamine
+tretment_sam	0.9306975	gentamicin banamine k-pen lrs	k-pen banamine gentamicin gastroguard lrs
+tretment_sam	0.8898692	sucralfate omeprazole buscopan	sucralfate omeprazole
+tretment_sam	0.8902025	sucralfate omeprazole buscopan	omeprazole sucralfate
+tretment_sam	0.8723137	gastroguard banamine lrs naxel solumedrol lidocaine omeprazole calcium supplement	gastroguard banamine lrs naxel solumedrol lidocaine
+tretment_sam	0.85164046	gastroguard banamine lrs naxel solumedrol lidocaine omeprazole calcium supplement	banamine lrs naxel solumedrol lidocaine omeprazole calcium supplement polymixin b enrofloxacin biosponge
+tretment_sam	0.8947689	yeast banamine metronidazole gentamicin k pen	banamine k pen gentacin metronidazole chloramphenicol yeast
+tretment_sam	0.8742331	xylazine midazolam ketamine	ketamine midazolam
+tretment_sam	0.9298649	xylazine midazolam ketamine	dormosedan ketamine midazolam xylazine
+tretment_sam	0.91776395	azithromycin omeprazole banamine	omeprazole banamine
+tretment_sam	0.8639834	iv fluids ~24 h flunixin meglumine numeric mg/kg iv once	6/25-6/27 iv fluids flunixin meglumine numeric mg/kg iv 6/27
+tretment_sam	0.85385597	banamine xylazine butorphanol detomidine k pen gentamicin midazolam ketamine	xylazine detomidine phenylbutazone ketamine midazolam gentamicin ppg
+tretment_sam	0.96792185	banamine xylazine butorphanol detomidine k pen gentamicin midazolam ketamine	banamine xylazine gentamicin k pen butorphanol ketamine midazolam
+tretment_sam	0.9426564	banamine k-pen gentamicin lrs	banamine k-pen gentamicin
+tretment_sam	0.9384725	banamine k-pen gentamicin lrs	gastroguard banamine gentamicin k-pen lrs
+tretment_sam	0.9033735	banamine k-pen gentamicin lrs	banamine gentamicin k-pen ppg
+tretment_sam	0.8772316	banamine k-pen gentamicin lrs	banamine xylazine lrs gentamicin k-pen
+tretment_sam	0.9200406	banamine k-pen gentamicin lrs	k pen gentamicin banamine
+tretment_sam	0.8706873	banamine k-pen gentamicin lrs	lrs gentocin k pen banamine
+tretment_sam	0.9322348	banamine k-pen gentamicin lrs	k-pen banamine gentamicin gastroguard lrs
+tretment_sam	0.9943124	banamine k-pen gentamicin lrs	gentamicin banamine k-pen lrs
+tretment_sam	0.8765546	dormosedan phenylbutazone sulfamethoxazole	sulfadiazine sulfamethoxazole dormosedan
+tretment_sam	0.8733804	dormosedan phenylbutazone sulfamethoxazole	phenylbutazone sulfamethoxazole
+tretment_sam	0.8751123	banamine xylazine buscopan	banamine buscopan xylazine detomidine lrs
+tretment_sam	0.8911326	banamine xylazine buscopan	xylazine buscopan banamine lrs
+tretment_sam	0.89555746	banamine xylazine buscopan	banamine xylazine buscopan butorphanol
+tretment_sam	0.8919258	banamine xylazine buscopan	xylazine banamine
+tretment_sam	0.9899281	banamine xylazine buscopan	banamine buscopan xylazine
+tretment_sam	0.877313	banamine xylazine buscopan	banamine xylazine buscopan butorphanol fluids
+tretment_sam	0.9902499	banamine xylazine buscopan	xylazine buscopan banamine
+tretment_sam	0.8847405	banamine xylazine buscopan	banamine xylazine
+tretment_sam	0.8564755	detomidine lrs banamine	banamine detomidine
+tretment_sam	0.98060167	detomidine lrs banamine	detomidine banamine lrs
+tretment_sam	0.8853277	detomidine lrs banamine	lrs detomidine butylscopolamine bromide banamine
+tretment_sam	0.8608825	banamine buscopan lidocaine xylazine lrs	banamine buscopan xylazine detomidine lrs
+tretment_sam	0.92743415	banamine buscopan lidocaine xylazine lrs	xylazine buscopan banamine lrs
+tretment_sam	0.85591686	banamine buscopan lidocaine xylazine lrs	banamine buscopan xylazine
+tretment_sam	0.8737348	detomidine banamine penicillin gentamicin polymyxin butorphanol lidocaine buscopan	methylprednisolone penicillin gentamicin polymyxin b lidocaine banamine butorphanol dexamethasone calcium gluconate buscopan
+tretment_sam	0.86206317	detomidine banamine penicillin gentamicin polymyxin butorphanol lidocaine buscopan	banamine butorphanol gentamicin procaine penicillin
+tretment_sam	0.8541397	detomidine banamine penicillin gentamicin polymyxin butorphanol lidocaine buscopan	xylazine butorphanol penicillin gentamicin polymxin b lidocaine anesthesia surgery banamine hetastarch detomidine
+tretment_sam	0.98944426	detomidine butorphanol k-pen gentamicin tms bute	detomidine butorphanol gentamicin k-pen bute tms
+tretment_sam	0.8592546	banamine dormosedan	dormosedan banamine butorphanol
+tretment_sam	0.8717958	banamine dormosedan	banamine dormosedan lrs
+tretment_sam	0.98083407	banamine dormosedan	dormosedan banamine
+tretment_sam	0.85698444	banamine dormosedan	dormosedan banamine buscopan
+tretment_sam	0.91494495	trimethoprim sulfamethoxazole phenylbutazone	phenylbutazone sulfamethoxazole
+tretment_sam	0.8611615	gentamicin k-pen dexamthesone flunixin meglumine lrs	lrs lidocaine flunixin meglumine gentamicin pen g
+tretment_sam	0.8738493	banamine buscopan phenylephrine lrs	banamine phenylephrine lrs
+tretment_sam	0.8508438	dormosedan sulfamethoxazole phenylbutazone and flunixin	sulfadiazine sulfamethoxazole dormosedan
+tretment_sam	0.9185199	dormosedan sulfamethoxazole phenylbutazone and flunixin	dormosedan phenylbutazone sulfamethoxazole
