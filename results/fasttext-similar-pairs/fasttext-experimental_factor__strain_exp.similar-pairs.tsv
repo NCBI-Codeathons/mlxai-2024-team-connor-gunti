@@ -1,0 +1,86 @@
+attr	score	s1	s2
+experimental_factor__strain_exp	0.99999976	lohmann brown-classic	lohmann lsl-classic
+experimental_factor__strain_exp	0.76558113	c57bl6 x balb/c	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.80552626	balb/c	c57bl6 x balb/c
+experimental_factor__strain_exp	0.74714804	vgn	vgn x dgrp number
+experimental_factor__strain_exp	0.7438575	w12 clone d2	w12 clone h
+experimental_factor__strain_exp	0.8699543	em2+end2+r2 embryo endosperm root of ki11	em3+end3+r3 embryo endosperm root of male b73x female ki11
+experimental_factor__strain_exp	0.9308024	lens culinaris subsp orientalis	lens culinaris subsp culinaris
+experimental_factor__strain_exp	1.0000001	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1∆nls1/2-flag	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1∆nls1/2-flag-6his
+experimental_factor__strain_exp	0.71148	yorkshire terrier	west highland white terrier
+experimental_factor__strain_exp	0.74196726	lens ervoides	lens culinaris subsp culinaris
+experimental_factor__strain_exp	0.8040237	lens ervoides	lens culinaris subsp orientalis
+experimental_factor__strain_exp	0.9999997	by derivative mjy1171	by derivative mjy1173
+experimental_factor__strain_exp	0.7464189	dgrp number	vgn x dgrp number
+experimental_factor__strain_exp	0.7187076	w12 clone f	w12 clone h
+experimental_factor__strain_exp	0.7195214	w12 clone f	w12 clone d2
+experimental_factor__strain_exp	1.0	accession dv92	accession g3116
+experimental_factor__strain_exp	0.7025829	line number	number
+experimental_factor__strain_exp	1.0	bn-lx/cub x shr/olaipcv f1	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.7655811	bn-lx/cub x shr/olaipcv f1	c57bl6 x balb/c
+experimental_factor__strain_exp	0.784275	f	w12 clone f
+experimental_factor__strain_exp	0.80040807	oregon junco	slate-colored junco
+experimental_factor__strain_exp	0.8699543	emd1+end1+r1 embryo endosperm root of b73	em3+end3+r3 embryo endosperm root of male b73x female ki11
+experimental_factor__strain_exp	1.0000001	emd1+end1+r1 embryo endosperm root of b73	em2+end2+r2 embryo endosperm root of ki11
+experimental_factor__strain_exp	1.0000002	hybrid s288c yjm789	hybrid s288c sk1
+experimental_factor__strain_exp	1.0000002	medaka-zebrafish hybrid	hybrid s288c sk1
+experimental_factor__strain_exp	1.0000002	medaka-zebrafish hybrid	hybrid s288c yjm789
+experimental_factor__strain_exp	0.72233737	r number	number
+experimental_factor__strain_exp	0.7469019	nkx2.2tm null suss neurog3tm1 egfp khk/mmcd	ghrltm1 cre-egfp suss nkx2-2tm5 null suss b6.cg-gt rosa 26sortm14 cag-tdtomato hze/j
+experimental_factor__strain_exp	0.7817847	wild type	wild
+experimental_factor__strain_exp	0.86119604	wild type	wild type genotype
+experimental_factor__strain_exp	0.79997265	gp1971 genotype trpc2 δcspb :cat δcspd :apha3	wild type genotype
+experimental_factor__strain_exp	0.9999999	rm gpa1-by ste20	rm gpa1-rm ste20
+experimental_factor__strain_exp	0.7438575	w12 clone g2	w12 clone h
+experimental_factor__strain_exp	1.0000005	w12 clone g2	w12 clone d2
+experimental_factor__strain_exp	0.7195214	w12 clone g2	w12 clone f
+experimental_factor__strain_exp	1.0	p53 wt	wt
+experimental_factor__strain_exp	1.0000001	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1wt-flag-6his	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1∆nls1/2-flag-6his
+experimental_factor__strain_exp	1.0000001	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1wt-flag-6his	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1∆nls1/2-flag
+experimental_factor__strain_exp	0.70066595	end1+end2+end3+end4 endosperm of all number individuals	em3+end3+r3 embryo endosperm root of male b73x female ki11
+experimental_factor__strain_exp	0.723817	end1+end2+end3+end4 endosperm of all number individuals	em2+end2+r2 embryo endosperm root of ki11
+experimental_factor__strain_exp	0.723817	end1+end2+end3+end4 endosperm of all number individuals	emd1+end1+r1 embryo endosperm root of b73
+experimental_factor__strain_exp	1.0000002	ccap 1055/1	ccap 1125/4
+experimental_factor__strain_exp	0.7438575	w12 clone a5	w12 clone h
+experimental_factor__strain_exp	1.0000005	w12 clone a5	w12 clone d2
+experimental_factor__strain_exp	0.7195214	w12 clone a5	w12 clone f
+experimental_factor__strain_exp	1.0000005	w12 clone a5	w12 clone g2
+experimental_factor__strain_exp	0.99915874	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.9772969	lens culinaris subsp odemensis	lens culinaris subsp culinaris
+experimental_factor__strain_exp	0.9538447	lens culinaris subsp odemensis	lens culinaris subsp orientalis
+experimental_factor__strain_exp	0.7991064	lens culinaris subsp odemensis	lens ervoides
+experimental_factor__strain_exp	0.9999998	specific pathogen free c57bl/6	specific pathogen free c56bl/6
+experimental_factor__strain_exp	0.7108601	lens nigricans	lens culinaris subsp culinaris
+experimental_factor__strain_exp	0.7595329	lens nigricans	lens culinaris subsp orientalis
+experimental_factor__strain_exp	0.8261292	lens nigricans	lens ervoides
+experimental_factor__strain_exp	0.7536635	lens nigricans	lens culinaris subsp odemensis
+experimental_factor__strain_exp	0.9999999	mak 98a	mak 65b
+experimental_factor__strain_exp	1.0000001	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1wt-flag	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1∆nls1/2-flag-6his
+experimental_factor__strain_exp	1.0000001	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1wt-flag	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1∆nls1/2-flag
+experimental_factor__strain_exp	1.0000001	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1wt-flag	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1wt-flag-6his
+experimental_factor__strain_exp	0.70840937	lister number	number
+experimental_factor__strain_exp	0.99999994	germ free c57bl/6	germ free c56bl/6
+experimental_factor__strain_exp	1.0000002	em4+end4+r4 embryo endosperm root of male ki11x female b73	em3+end3+r3 embryo endosperm root of male b73x female ki11
+experimental_factor__strain_exp	0.8699543	em4+end4+r4 embryo endosperm root of male ki11x female b73	em2+end2+r2 embryo endosperm root of ki11
+experimental_factor__strain_exp	0.8699543	em4+end4+r4 embryo endosperm root of male ki11x female b73	emd1+end1+r1 embryo endosperm root of b73
+experimental_factor__strain_exp	0.70066595	em4+end4+r4 embryo endosperm root of male ki11x female b73	end1+end2+end3+end4 endosperm of all number individuals
+experimental_factor__strain_exp	1.0000001	parent h99	parent
+experimental_factor__strain_exp	0.7782144	c57 x cast f1	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.7782144	c57 x cast f1	bn-lx/cub x shr/olaipcv f1
+experimental_factor__strain_exp	0.7139464	not applicable	not available
+experimental_factor__strain_exp	0.7782144	cast x c57 f1	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.7782144	cast x c57 f1	bn-lx/cub x shr/olaipcv f1
+experimental_factor__strain_exp	1.0	cast x c57 f1	c57 x cast f1
+experimental_factor__strain_exp	0.76063055	h	w12 clone h
+experimental_factor__strain_exp	0.71121407	segchr1x1 derived from f137 parent	parent
+experimental_factor__strain_exp	0.71121407	segchr1x1 derived from f137 parent	parent h99
+experimental_factor__strain_exp	0.8908107	ghrltm1 cre-egfp suss b6.cg-gt rosa 26sortm14 cag-tdtomato hze/j	ghrltm1 cre-egfp suss nkx2-2tm5 null suss b6.cg-gt rosa 26sortm14 cag-tdtomato hze/j
+experimental_factor__strain_exp	1.0	nitrofen	nitrofen afsc-evs
+experimental_factor__strain_exp	0.74559826	cast x c57 f1 and c57	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.74559826	cast x c57 f1 and c57	bn-lx/cub x shr/olaipcv f1
+experimental_factor__strain_exp	0.9697941	cast x c57 f1 and c57	c57 x cast f1
+experimental_factor__strain_exp	0.9697941	cast x c57 f1 and c57	cast x c57 f1
+experimental_factor__strain_exp	0.9999998	by gpa1-rm ste20	by gpa1-by ste20
+experimental_factor__strain_exp	0.7344153	neurog3tm1 egfp khk/mmcd	nkx2.2tm null suss neurog3tm1 egfp khk/mmcd
+experimental_factor__strain_exp	0.7475202	deletion mutant csee	deletion mutant sige
+experimental_factor__strain_exp	0.91000956	w12 parental	parental a

@@ -1,0 +1,242 @@
+attr	score	s1	s2
+isolation_site_sam	0.7238215	ta reactor_sludge	ta reactor_biofilm
+isolation_site_sam	0.7892976	sputum	human sputum
+isolation_site_sam	0.712238	hospital/northern vietnam	community/northern vietnam
+isolation_site_sam	0.70515585	rumen bovine rumen	rumen of cattle number l. ganqiu
+isolation_site_sam	0.8588033	rumen bovine rumen	cow rumen
+isolation_site_sam	0.84051186	sheep rumen	cow rumen
+isolation_site_sam	0.8290588	sheep rumen	rumen bovine rumen
+isolation_site_sam	0.7031207	northern ireland	uk
+isolation_site_sam	0.70844746	rumen of hay-fed sheep	rumen of cattle number l. ganqiu
+isolation_site_sam	0.74119675	rumen of hay-fed sheep	rumen bovine rumen
+isolation_site_sam	0.8154119	rumen of hay-fed sheep	sheep rumen
+isolation_site_sam	0.7092056	cow	cow rumen
+isolation_site_sam	0.97818923	lammermoor otago nzz	lammermoor otago nz
+isolation_site_sam	0.80976236	hot station aloha north pacific sub-tropical gyre	north pacific sub-tropical gyre hawaii ocean time-series hot station aloha
+isolation_site_sam	0.94706714	hot solfataric spring from iceland	hot solfataric spring iceland
+isolation_site_sam	0.7479353	soil from china	soil from kobe city japan
+isolation_site_sam	0.7206351	netherlands	spain
+isolation_site_sam	0.7702726	cow faeces	lamb faeces
+isolation_site_sam	0.7760999	cow faeces	human feces
+isolation_site_sam	0.711725	deer faeces	lamb faeces
+isolation_site_sam	0.7396312	deer faeces	human feces
+isolation_site_sam	0.8220352	deer faeces	cow faeces
+isolation_site_sam	0.7987885	rumen	cow rumen
+isolation_site_sam	0.7582953	rumen	rumen bovine rumen
+isolation_site_sam	0.76949453	rumen	sheep rumen
+isolation_site_sam	0.9402815	hot spring	hot springs
+isolation_site_sam	0.7736745	the acidic sphagnum peat bog bakchar in western siberia russia	sphagnum peat sampled from the bog obukhovskoe acidic wetland
+isolation_site_sam	0.7011012	sheep rumen australia	rumen bovine rumen
+isolation_site_sam	0.82932234	sheep rumen australia	sheep rumen
+isolation_site_sam	0.7787218	sheep rumen australia	rumen of hay-fed sheep
+isolation_site_sam	0.75237554	cow rumen fluid	cow rumen
+isolation_site_sam	0.72035646	offshore oil field from gulf of guinea	oil field of congo africa
+isolation_site_sam	0.8316039	sewage sludge compost	municipal waste compost
+isolation_site_sam	0.70739067	sewage sludge compost	sewage sludge canada
+isolation_site_sam	0.8365805	sewage sludge usa	sewage sludge canada
+isolation_site_sam	0.74521613	sewage sludge usa	sewage sludge compost
+isolation_site_sam	0.71558714	human tracheal aspiration	tracheal aspirate number
+isolation_site_sam	0.9902845	anaerobic lagoon of a dairy wastewater treatment plant in colombia	anaerobic lagoon of dairy wastewater treatment plant in colombia
+isolation_site_sam	0.7224839	upflow anaerobic sludge bed reactor treating brewery wastewater in bogota colombia	anaerobic granular sludge thermophilic uasb reactor
+isolation_site_sam	0.75197077	freshwater sediment owens lake california usa	soda lake sediment
+isolation_site_sam	0.75384057	terrestrial hot spring japan nagano yumata	hot spring from kanagawa ohwakudani japan on 9/1993
+isolation_site_sam	0.7561336	mediterranean seawater	seawater
+isolation_site_sam	0.7887464	freshwater mud in germany	marine mud from germany
+isolation_site_sam	0.8014538	freshwater mud	freshwater mud in germany
+isolation_site_sam	0.7259023	lake washington sediment	soda lake sediment
+isolation_site_sam	0.7714808	lake washington sediment	freshwater sediment owens lake california usa
+isolation_site_sam	0.7812295	methanogenic sludge in a mesophilic upflow anaerobic sludge blanket uasb reactor used to treat a beer brewery effluent	anaerobic granular sludge thermophilic uasb reactor
+isolation_site_sam	0.7118809	methanogenic sludge in a mesophilic upflow anaerobic sludge blanket uasb reactor used to treat a beer brewery effluent	upflow anaerobic sludge bed reactor treating brewery wastewater in bogota colombia
+isolation_site_sam	0.72214353	de lelie farm darling western cape south africa	antonio 's farm antonio rd northam western australia
+isolation_site_sam	0.80917025	soil cultivated with korean ginseng yeongju region of korea	soil of a ginseng field
+isolation_site_sam	0.7131766	interstitial water from a cyanobacteria-containing microbial mat	cyanobacterial mat from a marine salinity meromictic lake
+isolation_site_sam	0.78198874	marine sediment	deep-sea sediment sample
+isolation_site_sam	0.77553606	saline hot springs	hot springs
+isolation_site_sam	0.7406403	saline hot springs	hot spring
+isolation_site_sam	0.73476845	human throat	human mouth
+isolation_site_sam	0.7197289	deep-sea hydrothermal vent chimney sample collected from the suiyo seamount in the izu-bonin arc japan at a depth of 1,385 m	deep-sea sediments at the hatoma knoll in the mid-okinawa trough hydrothermal field in japan
+isolation_site_sam	0.70931554	great salt lake sediment	soda lake sediment
+isolation_site_sam	0.71171343	great salt lake sediment	freshwater sediment owens lake california usa
+isolation_site_sam	0.79680216	great salt lake sediment	lake washington sediment
+isolation_site_sam	0.8529668	south altlantic sub-tropical gyre station kn192-5-11	south atlantic sub-tropical gyre station kn192-5-11
+isolation_site_sam	0.7307576	south altlantic sub-tropical gyre station kn192-5-11	hot station aloha north pacific sub-tropical gyre
+isolation_site_sam	0.71315134	microbial mat from solar lake sinai	cyanobacterial mat from a marine salinity meromictic lake
+isolation_site_sam	0.7870192	marine sediment from beach	deep-sea sediment sample
+isolation_site_sam	0.85225207	marine sediment from beach	marine sediment
+isolation_site_sam	0.72691065	marine sediment from beach	sandy sediment from the south china sea
+isolation_site_sam	0.8711308	soil of a ginseng field in pocheon province south korea	soil of a ginseng field
+isolation_site_sam	0.9138049	soil of a ginseng field in pocheon province south korea	soil cultivated with korean ginseng yeongju region of korea
+isolation_site_sam	0.749562	blood human isolation date september number number	blood human jonkoping sweden isolation date number
+isolation_site_sam	0.7431893	number km north of carnarvon	number km s carnarvon
+isolation_site_sam	0.7174107	rumen of suckling lamb	rumen bovine rumen
+isolation_site_sam	0.73187935	rumen of suckling lamb	sheep rumen
+isolation_site_sam	0.756157	rumen of suckling lamb	rumen of hay-fed sheep
+isolation_site_sam	0.79401386	obsidian hot spring in yellowstone national park	obsidian pool yellowstone national park wyoming usa
+isolation_site_sam	0.84607196	oral cavity human gingival crevice of periodontally healthy patient	human gingival crevice
+isolation_site_sam	0.7037753	pig faeces	pig gut
+isolation_site_sam	0.78000975	pig faeces	lamb faeces
+isolation_site_sam	0.802251	pig faeces	human feces
+isolation_site_sam	0.8185657	pig faeces	cow faeces
+isolation_site_sam	0.7927402	pig faeces	deer faeces
+isolation_site_sam	0.8243935	municipal refuse compost samples	municipal waste compost
+isolation_site_sam	0.7010603	municipal refuse compost samples	sewage sludge compost
+isolation_site_sam	0.8355946	anaerobic sludge from a dairy wastewater treatment plant santa fe de bogota colombia	anaerobic lagoon of dairy wastewater treatment plant in colombia
+isolation_site_sam	0.8473932	anaerobic sludge from a dairy wastewater treatment plant santa fe de bogota colombia	anaerobic lagoon of a dairy wastewater treatment plant in colombia
+isolation_site_sam	0.81213266	gut of adult goldenrod soldier beetle chauliognathus pennsylvanicus maryland	gut of adult long-horned beetle grammoptera sp. maryland
+isolation_site_sam	0.76020694	periodontal pocket of an adult patient with periodontal disease in number	oral cavity human gingival crevice of periodontally healthy patient
+isolation_site_sam	0.7041886	arctic marine sediment	deep-sea sediment sample
+isolation_site_sam	0.75983703	arctic marine sediment	marine sediment
+isolation_site_sam	0.7605524	throat of dog	human throat
+isolation_site_sam	0.73524046	hot spring from obsidian pool at yellowstone natl park	obsidian pool yellowstone national park wyoming usa
+isolation_site_sam	0.8897649	hot spring from obsidian pool at yellowstone natl park	obsidian hot spring in yellowstone national park
+isolation_site_sam	0.7053745	freshwater hot spring russia kamchatka peninsula uzon caldera	marine hot spring ussr shiashkoten island
+isolation_site_sam	0.74564373	duck blood	human blood
+isolation_site_sam	0.75119686	colon of swine	intestinal contents of healthy swine
+isolation_site_sam	0.73982394	deep-sea hydrothermal vent chimney mid-atlantic ridge	marine shallow-water hydrothermal vent
+isolation_site_sam	0.7583429	deep-sea hydrothermal vent chimney mid-atlantic ridge	deep-sea hydrothermal vent chimney sample collected from the suiyo seamount in the izu-bonin arc japan at a depth of 1,385 m
+isolation_site_sam	0.80402094	hot spring biomat iceland	hot solfataric spring iceland
+isolation_site_sam	0.7821592	hot spring biomat iceland	hot solfataric spring from iceland
+isolation_site_sam	0.7676989	illinois	iowa
+isolation_site_sam	0.7318227	fresh water lake usa louisiana baton rouge	freshwater lake
+isolation_site_sam	0.785462	anaerobic sewage sludge	sewage sludge compost
+isolation_site_sam	0.71059036	anaerobic sewage sludge	sewage sludge usa
+isolation_site_sam	0.76304054	anaerobic sewage sludge	anaerobic sludge from a dairy wastewater treatment plant santa fe de bogota colombia
+isolation_site_sam	0.700529	deep-sea hydrothermal chimney wall	deep-sea hydrothermal vent chimney sample collected from the suiyo seamount in the izu-bonin arc japan at a depth of 1,385 m
+isolation_site_sam	0.80804265	deep-sea hydrothermal chimney wall	deep-sea hydrothermal vent chimney mid-atlantic ridge
+isolation_site_sam	0.96637845	experimental mesocosm filled with a mixture of water from the dead sea and the red sea israel sedom	experimental mesocosm filled with a mixture of water from the dead sea and the red sea
+isolation_site_sam	0.7022749	shallow seawater sample	deep-sea sediment sample
+isolation_site_sam	0.7387818	putrid marine shellfish	marine shellfish
+isolation_site_sam	0.8527123	sediments from a highly alkaline saline soda lake in egypt	sediment of alkaline lake in wadi el natrun egypt
+isolation_site_sam	0.8462228	soil quebec canada	soil ottawa canada
+isolation_site_sam	0.9485315	sea water	seawater
+isolation_site_sam	0.75361335	sea water	mediterranean seawater
+isolation_site_sam	0.75305194	anaerobic marine sediment	marine sediment
+isolation_site_sam	0.70902467	anaerobic marine sediment	marine sediment from beach
+isolation_site_sam	0.759424	deep-sea hydrothermal vent chimney japan iheya north hydrothermal field in the mid-okinawa trough	deep-sea sediments at the hatoma knoll in the mid-okinawa trough hydrothermal field in japan
+isolation_site_sam	0.8774016	deep-sea hydrothermal vent chimney japan iheya north hydrothermal field in the mid-okinawa trough	deep-sea hydrothermal vent chimney sample collected from the suiyo seamount in the izu-bonin arc japan at a depth of 1,385 m
+isolation_site_sam	0.801695	deep-sea hydrothermal vent chimney japan iheya north hydrothermal field in the mid-okinawa trough	deep-sea hydrothermal vent chimney mid-atlantic ridge
+isolation_site_sam	0.7171906	deep-sea hydrothermal vent chimney japan iheya north hydrothermal field in the mid-okinawa trough	deep-sea hydrothermal chimney wall
+isolation_site_sam	0.9261817	3rd stage fly larvae of the parasitic fly wohlfahrtia magnifica	l1 and l2 stage larvae of the obligate parasitic fly wohlfarthia magnifica
+isolation_site_sam	0.7737943	soil sample collected from yunnan province china	soil from a hypersaline habitat xinjiang province north-west china
+isolation_site_sam	0.73636985	soil sample collected from yunnan province china	soil from china
+isolation_site_sam	0.70788944	soil besides highway	soil
+isolation_site_sam	0.929935	high arctic permafrost soil	permafrost soil
+isolation_site_sam	0.7004595	piglet feces	lamb faeces
+isolation_site_sam	0.725822	piglet feces	human feces
+isolation_site_sam	0.8721773	piglet feces	pig faeces
+isolation_site_sam	0.74767387	sheep	sheep rumen
+isolation_site_sam	0.7101163	swine feces	lamb faeces
+isolation_site_sam	0.7878065	swine feces	human feces
+isolation_site_sam	0.77400774	swine feces	cow faeces
+isolation_site_sam	0.7246578	swine feces	deer faeces
+isolation_site_sam	0.8399869	swine feces	pig faeces
+isolation_site_sam	0.79517853	swine feces	piglet feces
+isolation_site_sam	0.7832067	rice plant residue in anoxic rice-field soil in yamagata japan	rice plant residue in flooded rice-field soil in japan
+isolation_site_sam	0.81839705	hot spring run-off in iceland	hot solfataric spring iceland
+isolation_site_sam	0.8033798	hot spring run-off in iceland	hot solfataric spring from iceland
+isolation_site_sam	0.80874443	hot spring run-off in iceland	hot spring biomat iceland
+isolation_site_sam	0.71202445	sheep rumen south africa	rumen bovine rumen
+isolation_site_sam	0.82357156	sheep rumen south africa	sheep rumen
+isolation_site_sam	0.7499373	sheep rumen south africa	rumen of hay-fed sheep
+isolation_site_sam	0.84890485	sheep rumen south africa	sheep rumen australia
+isolation_site_sam	0.7410244	hot spring ussr kamchatka	marine hot spring ussr shiashkoten island
+isolation_site_sam	0.799124	hot spring ussr kamchatka	freshwater hot spring russia kamchatka peninsula uzon caldera
+isolation_site_sam	0.7160747	sea-water sample	deep-sea sediment sample
+isolation_site_sam	0.8831327	sea-water sample	shallow seawater sample
+isolation_site_sam	0.79600304	sea-water sample	water sample
+isolation_site_sam	0.70137143	terrestrial neutral geothermal spring russia kamchatka	freshwater hot spring russia kamchatka peninsula uzon caldera
+isolation_site_sam	0.74366176	terrestrial neutral geothermal spring russia kamchatka	hot spring ussr kamchatka
+isolation_site_sam	0.7149333	marine sediment of the arctic ocean	marine sediment from the atlantic ocean near halifax harbor canada
+isolation_site_sam	0.9354329	marine sediment of the arctic ocean	arctic marine sediment
+isolation_site_sam	0.7330411	sediment sample from salt mine	deep-sea sediment sample
+isolation_site_sam	0.92636025	lake magadi in kenya	kenya lake magadi
+isolation_site_sam	0.78483355	human bronchial aspirate	human tracheal aspiration
+isolation_site_sam	0.86765194	sulfidogenic fluidized-bed reactor treating acidic metal- and sulfate-containing water finland	fluidized-bed reactor treating acidic water containing metal and sulfate
+isolation_site_sam	0.7346357	blood animal houston texas united states	blood human brighton massachusetts united states
+isolation_site_sam	0.75427747	blood animal houston texas united states	blood animal united kingdom
+isolation_site_sam	0.9303622	surface soil of a ginseng field	soil of a ginseng field
+isolation_site_sam	0.7402065	surface soil of a ginseng field	soil cultivated with korean ginseng yeongju region of korea
+isolation_site_sam	0.8103876	surface soil of a ginseng field	soil of a ginseng field in pocheon province south korea
+isolation_site_sam	0.8983079	lotus corniculatus nodule	lotus corniculatus root nodule
+isolation_site_sam	0.7056758	tissue culture	tissue animal
+isolation_site_sam	0.7590947	narugo hot spring japan	terrestrial hot spring japan nagano yumata
+isolation_site_sam	0.8267462	terrestrial neutral geothermal spring	terrestrial neutral geothermal spring russia kamchatka
+isolation_site_sam	0.8340663	insect firefly gut photinus marginalis	gut of firefly larva photuris pennsylvanica maryland
+isolation_site_sam	0.7056524	hydrothermally heated black smoker wall at the tag site at the mid atlantic ridge depth number meters	deep-sea hydrothermal vent chimney mid-atlantic ridge
+isolation_site_sam	0.735344	hydrothermally heated black smoker wall at the tag site at the mid atlantic ridge depth number meters	deep-sea hydrothermal chimney wall
+isolation_site_sam	0.70414	water sample from a hot spring runoffs on the island of sco miguel in the azores portugal	hot spring from portugal
+isolation_site_sam	0.9695678	station kn192-5-11 south atlantic sub-tropical gyre	south atlantic sub-tropical gyre station kn192-5-11
+isolation_site_sam	0.83830714	station kn192-5-11 south atlantic sub-tropical gyre	south altlantic sub-tropical gyre station kn192-5-11
+isolation_site_sam	0.75476795	feces of a healthy human male adult	human faecal specimen
+isolation_site_sam	0.79048944	tundra wetland soil	artic wetland soil
+isolation_site_sam	0.70298934	pigeon trachea	pigeon intestines
+isolation_site_sam	0.79001284	blood human houston texas united states isolation date january number number	blood human isolation date september number number
+isolation_site_sam	0.7432272	tidal flat sediment	tidal flat sediment daepo beach yellow sea south korea
+isolation_site_sam	0.716802	tidal flat sediment	marine sediment
+isolation_site_sam	0.7170708	tidal flat sediment	tidal flat
+isolation_site_sam	0.7566667	tidal flat sediment	oil-contaminated tidal flat sediment
+isolation_site_sam	0.7555219	termite intestine	hindgut of the termite neotermes castaneus cuba
+isolation_site_sam	0.75414026	forest soil from lombardia italy	soil sample collected in gerenzano italy
+isolation_site_sam	0.92775667	soil ginseng field	soil of a ginseng field
+isolation_site_sam	0.80501443	soil ginseng field	soil cultivated with korean ginseng yeongju region of korea
+isolation_site_sam	0.825544	soil ginseng field	soil of a ginseng field in pocheon province south korea
+isolation_site_sam	0.8690812	soil ginseng field	surface soil of a ginseng field
+isolation_site_sam	0.8394568	oryza sativa	oryza sativa japan
+isolation_site_sam	0.7570611	microbial mat from hot spring	microbial mat
+isolation_site_sam	0.74599266	microbial mat from hot spring	microbial mat from solar lake sinai
+isolation_site_sam	0.71109736	sediment of saline lake shangmatala in inner mongolia china	sediment of alkaline lake in wadi el natrun egypt
+isolation_site_sam	0.8870405	tidal flat sediment of the yellow sea korea	tidal flat sediment daepo beach yellow sea south korea
+isolation_site_sam	0.70756364	tidal flat sediment of the yellow sea korea	sandy sediment from the south china sea
+isolation_site_sam	0.7589581	tidal flat sediment of the yellow sea korea	tidal flat sediment
+isolation_site_sam	0.75237465	horse urine	human urine
+isolation_site_sam	0.7091175	horse urine	faeces of a thoroughbred horse
+isolation_site_sam	0.7003608	nasal cavity of pig	tonsils of apparently healthy pigs
+isolation_site_sam	0.8324089	dog feces	human feces
+isolation_site_sam	0.75774825	dog feces	cow faeces
+isolation_site_sam	0.7401483	dog feces	deer faeces
+isolation_site_sam	0.7612019	dog feces	pig faeces
+isolation_site_sam	0.70414567	dog feces	piglet feces
+isolation_site_sam	0.75772226	dog feces	swine feces
+isolation_site_sam	0.7711768	soil india	soil
+isolation_site_sam	0.7570548	canine throat beagle	throat of dog
+isolation_site_sam	0.72464234	sediments of gwangyang bay of the south sea	tidal flat sediment daepo beach yellow sea south korea
+isolation_site_sam	0.72794867	sediments of gwangyang bay of the south sea	sandy sediment from the south china sea
+isolation_site_sam	0.75230795	sediments of gwangyang bay of the south sea	tidal flat sediment of the yellow sea korea
+isolation_site_sam	0.9315115	water samples	water sample
+isolation_site_sam	0.7913463	water samples	sea-water sample
+isolation_site_sam	0.741524	greenhouse soil in yeoju region republic of korea	soil cultivated with korean ginseng yeongju region of korea
+isolation_site_sam	0.73398566	biofilm sample from a hot spring	microbial mat from hot spring
+isolation_site_sam	0.7219856	respiratory tract of chicken with chronic respiratory disease	upper respiratory tract of a fowl
+isolation_site_sam	0.73387194	yellowstone national park	obsidian pool yellowstone national park wyoming usa
+isolation_site_sam	0.7011071	yellowstone national park	obsidian hot spring in yellowstone national park
+isolation_site_sam	0.7845416	mud	freshwater mud
+isolation_site_sam	0.7293141	bovine rumen	rumen of cattle number l. ganqiu
+isolation_site_sam	0.8605927	bovine rumen	cow rumen
+isolation_site_sam	0.9145392	bovine rumen	rumen bovine rumen
+isolation_site_sam	0.8282515	bovine rumen	sheep rumen
+isolation_site_sam	0.7669427	bovine rumen	rumen of hay-fed sheep
+isolation_site_sam	0.72206944	bovine rumen	sheep rumen australia
+isolation_site_sam	0.76680624	bovine rumen	cow rumen fluid
+isolation_site_sam	0.7608501	bovine rumen	rumen of suckling lamb
+isolation_site_sam	0.7222525	bovine rumen	sheep rumen south africa
+isolation_site_sam	0.7473258	alkaline olive-oil mill wastes in the region of sitia crete	olive mill waste alkaline alpeorujo
+isolation_site_sam	0.71519935	oil-producing well	production water from an oil well norway
+isolation_site_sam	0.8042138	black smoker wall 3500m depth mid-atlantic ridge	hydrothermally heated black smoker wall at the tag site at the mid atlantic ridge depth number meters
+isolation_site_sam	0.704908	sputum of a patient with pneumonia	human sputum
+isolation_site_sam	0.88659155	human clinical specimen	clinical specimen
+isolation_site_sam	0.7066426	patient with gingivitis	oral cavity human gingival crevice of periodontally healthy patient
+isolation_site_sam	0.7218071	antarctic mosses	antarctic soil
+isolation_site_sam	0.7305384	saliva of a healthy person	saliva
+isolation_site_sam	0.7074386	well water	sea water
+isolation_site_sam	0.71190023	mediterranean grassland soil	surface soil from a grassy garden hurghada egypt
+isolation_site_sam	0.82275164	kollie 's farm nieuwoudtville south africa	de lelie farm darling western cape south africa
+isolation_site_sam	0.75225544	rat faeces	human feces
+isolation_site_sam	0.7269974	rat faeces	cow faeces
+isolation_site_sam	0.72682476	rat faeces	deer faeces
+isolation_site_sam	0.8068551	rat faeces	pig faeces
+isolation_site_sam	0.7092256	rat faeces	piglet feces
+isolation_site_sam	0.7007096	rat faeces	swine feces
+isolation_site_sam	0.74818885	rat faeces	dog feces
+isolation_site_sam	0.7048956	greenhouse soils	greenhouse soil in yeoju region republic of korea
+isolation_site_sam	0.7066696	olive mill wastewater	olive mill waste alkaline alpeorujo
+isolation_site_sam	0.725397	human urine usa north carolina	human urine

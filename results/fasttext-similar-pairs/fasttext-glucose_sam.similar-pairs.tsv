@@ -1,0 +1,11 @@
+attr	score	s1	s2
+glucose_sam	0.8969658	number mm	high number mm
+glucose_sam	0.9167934	low number mm	high number mm
+glucose_sam	0.8938392	low number mm	number mm
+glucose_sam	0.8969658	glc+ number mm	high number mm
+glucose_sam	0.9999998	glc+ number mm	number mm
+glucose_sam	0.8938392	glc+ number mm	low number mm
+glucose_sam	0.87602085	normal number mm	high number mm
+glucose_sam	0.9181546	normal number mm	number mm
+glucose_sam	0.8611553	normal number mm	low number mm
+glucose_sam	0.9181546	normal number mm	glc+ number mm

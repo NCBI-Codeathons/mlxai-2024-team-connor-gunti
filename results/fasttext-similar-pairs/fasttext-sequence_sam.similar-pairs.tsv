@@ -1,0 +1,5 @@
+attr	score	s1	s2
+sequence_sam	0.726286	forward	paired end forward
+sequence_sam	0.7141145	forward sequence	forward
+sequence_sam	1.0000005	v4 16s rrna	v9 18s rrna
+sequence_sam	0.8300476	paired end reverse	paired end forward

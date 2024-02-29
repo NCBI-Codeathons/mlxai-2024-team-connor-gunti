@@ -1,0 +1,4 @@
+attr	score	s1	s2
+single_cell_sam	0.7583414	primary sample cell number	cell line cell number
+single_cell_sam	0.7375987	primary sample control cell number	cell line cell number
+single_cell_sam	0.95468557	primary sample control cell number	primary sample cell number

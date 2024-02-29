@@ -1,0 +1,11 @@
+attr	score	s1	s2
+host_exp	0.87895566	tamarix aphylla	tamarix nilotica
+host_exp	0.8080946	tamarix tetragina	tamarix nilotica
+host_exp	0.79643095	tamarix tetragina	tamarix aphylla
+host_exp	0.81713355	tamarix tatragina	tamarix nilotica
+host_exp	0.8050394	tamarix tatragina	tamarix aphylla
+host_exp	0.9642294	tamarix tatragina	tamarix tetragina
+host_exp	0.8346378	tamarix sp	tamarix nilotica
+host_exp	0.8324955	tamarix sp	tamarix aphylla
+host_exp	0.77247167	tamarix sp	tamarix tetragina
+host_exp	0.78778183	tamarix sp	tamarix tatragina

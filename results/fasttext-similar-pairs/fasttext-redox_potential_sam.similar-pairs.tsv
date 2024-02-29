@@ -1,0 +1,19 @@
+attr	score	s1	s2
+redox_potential_sam	0.7328203	numeric	numeric mv
+redox_potential_sam	0.7965438	number mv	numeric mv
+redox_potential_sam	0.85627156	numeric mv orp	numeric mv
+redox_potential_sam	0.7361868	numeric mv orp	number mv
+redox_potential_sam	0.7783486	30-151 mv	numeric mv
+redox_potential_sam	0.85976946	30-151 mv	number mv
+redox_potential_sam	0.72156477	30-151 mv	numeric mv orp
+redox_potential_sam	0.79500806	missing	missing not provided
+redox_potential_sam	0.8194498	missing not collected	not collected
+redox_potential_sam	0.83835346	missing not collected	missing not provided
+redox_potential_sam	0.7656974	missing not collected	missing
+redox_potential_sam	0.7341577	not colected	not collected
+redox_potential_sam	0.949051	number to number	number
+redox_potential_sam	0.7609101	anoxic	oxic
+redox_potential_sam	0.7783486	48-228 mv	numeric mv
+redox_potential_sam	0.85976946	48-228 mv	number mv
+redox_potential_sam	0.72156477	48-228 mv	numeric mv orp
+redox_potential_sam	0.9999999	48-228 mv	30-151 mv

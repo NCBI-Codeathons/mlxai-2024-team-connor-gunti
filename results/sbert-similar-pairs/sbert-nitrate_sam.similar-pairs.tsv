@@ -1,0 +1,1897 @@
+attr	score	s1	s2
+nitrate_sam	0.8160348	numeric mg l-1	numeric mg/l
+nitrate_sam	0.8499608	numeric µmol/kg	numeric mg/l
+nitrate_sam	0.70935404	numeric µmol/kg	numeric mg l-1
+nitrate_sam	0.95704126	numeric mg/l number mg/l	numeric mg/l
+nitrate_sam	0.8181516	numeric mg/l number mg/l	numeric mg l-1
+nitrate_sam	0.81139064	numeric mg/l number mg/l	numeric µmol/kg
+nitrate_sam	0.8291178	numeric µmol/l	numeric mg/l
+nitrate_sam	0.87297946	numeric µmol/l	numeric µmol/kg
+nitrate_sam	0.79957736	numeric µmol/l	numeric mg/l number mg/l
+nitrate_sam	0.73502517	numeric micro molar	numeric µmol/l
+nitrate_sam	0.8933507	numeric um	numeric
+nitrate_sam	0.738918	numeric micromoles per liter	numeric mg/l
+nitrate_sam	0.7861637	numeric micromoles per liter	numeric µmol/kg
+nitrate_sam	0.8523109	numeric micromoles per liter	numeric µmol/l
+nitrate_sam	0.7127267	numeric micromoles per liter	numeric micro molar
+nitrate_sam	0.7519083	numeric umol/l	numeric ug-n/l
+nitrate_sam	0.8940866	number mg/l	numeric mg/l
+nitrate_sam	0.75980365	number mg/l	numeric mg l-1
+nitrate_sam	0.74548554	number mg/l	numeric µmol/kg
+nitrate_sam	0.90184605	number mg/l	numeric mg/l number mg/l
+nitrate_sam	0.74819595	number mg/l	numeric µmol/l
+nitrate_sam	0.7423402	number µmol/kg	numeric mg/l
+nitrate_sam	0.91036594	number µmol/kg	numeric µmol/kg
+nitrate_sam	0.73113173	number µmol/kg	numeric mg/l number mg/l
+nitrate_sam	0.7792707	number µmol/kg	numeric µmol/l
+nitrate_sam	0.72557425	number µmol/kg	numeric micromoles per liter
+nitrate_sam	0.7965746	number µmol/kg	number mg/l
+nitrate_sam	0.7630696	number µg/l	numeric mg/l
+nitrate_sam	0.7338733	number µg/l	numeric µmol/kg
+nitrate_sam	0.7612796	number µg/l	numeric mg/l number mg/l
+nitrate_sam	0.816045	number µg/l	numeric µmol/l
+nitrate_sam	0.7670392	number µg/l	numeric micromoles per liter
+nitrate_sam	0.8394172	number µg/l	number mg/l
+nitrate_sam	0.7992373	number µg/l	number µmol/kg
+nitrate_sam	0.7118244	number µm	number µmol/kg
+nitrate_sam	0.77165043	number µm	number µg/l
+nitrate_sam	0.75929064	numeric mol/l	numeric mg/l
+nitrate_sam	0.7242886	numeric mol/l	numeric µmol/kg
+nitrate_sam	0.7335958	numeric mol/l	numeric mg/l number mg/l
+nitrate_sam	0.84851146	numeric mol/l	numeric µmol/l
+nitrate_sam	0.7296837	numeric mol/l	numeric micromoles per liter
+nitrate_sam	0.73459876	numeric mol/l	numeric umol/l
+nitrate_sam	0.711028	numeric µmol/dm3	numeric mg/l
+nitrate_sam	0.8072391	numeric µmol/dm3	numeric µmol/kg
+nitrate_sam	0.83515966	numeric µmol/dm3	numeric µmol/l
+nitrate_sam	0.73685807	numeric µmol/dm3	numeric micromoles per liter
+nitrate_sam	0.7150627	numeric µmol/dm3	number µmol/kg
+nitrate_sam	0.8985213	numeric mg/kg	numeric mg/l
+nitrate_sam	0.7486236	numeric mg/kg	numeric mg l-1
+nitrate_sam	0.8594378	numeric mg/kg	numeric µmol/kg
+nitrate_sam	0.8677108	numeric mg/kg	numeric mg/l number mg/l
+nitrate_sam	0.77126634	numeric mg/kg	number mg/l
+nitrate_sam	0.7666199	numeric mg/kg	number µmol/kg
+nitrate_sam	0.7512026	numeric µm	numeric µmol/kg
+nitrate_sam	0.7971537	numeric µm	numeric µmol/l
+nitrate_sam	0.7684722	numeric µm	numeric micro molar
+nitrate_sam	0.7147156	numeric µm	numeric micromoles per liter
+nitrate_sam	0.79608905	numeric µm	numeric mm
+nitrate_sam	0.72054327	numeric µm	number µg/l
+nitrate_sam	0.8981228	numeric µm	number µm
+nitrate_sam	0.7307875	numeric µm	numeric µmol/dm3
+nitrate_sam	0.8425338	number mg n/l	numeric mg/l
+nitrate_sam	0.74381983	number mg n/l	numeric mg l-1
+nitrate_sam	0.851884	number mg n/l	numeric mg/l number mg/l
+nitrate_sam	0.91804796	number mg n/l	number mg/l
+nitrate_sam	0.7252208	number mg n/l	number µmol/kg
+nitrate_sam	0.75470835	number mg n/l	number µg/l
+nitrate_sam	0.74516964	number mg n/l	numeric mg/kg
+nitrate_sam	0.7295203	0.045mg/l	numeric mg/l
+nitrate_sam	0.70843625	0.045mg/l	number mg/l
+nitrate_sam	0.9029574	26.64mg/l	0.045mg/l
+nitrate_sam	0.7583871	numeric ± numeric	numeric
+nitrate_sam	0.7376621	numeric ± numeric	numeric um
+nitrate_sam	0.8540652	numeric mg.l-1	numeric mg/l
+nitrate_sam	0.9811557	numeric mg.l-1	numeric mg l-1
+nitrate_sam	0.72962475	numeric mg.l-1	numeric µmol/kg
+nitrate_sam	0.8520395	numeric mg.l-1	numeric mg/l number mg/l
+nitrate_sam	0.7284516	numeric mg.l-1	numeric µmol/l
+nitrate_sam	0.7919853	numeric mg.l-1	number mg/l
+nitrate_sam	0.7616463	numeric mg.l-1	numeric mg/kg
+nitrate_sam	0.7699735	numeric mg.l-1	number mg n/l
+nitrate_sam	0.9513032	numeric mg n/l	numeric mg/l
+nitrate_sam	0.8425391	numeric mg n/l	numeric mg l-1
+nitrate_sam	0.8000754	numeric mg n/l	numeric µmol/kg
+nitrate_sam	0.93205017	numeric mg n/l	numeric mg/l number mg/l
+nitrate_sam	0.7739005	numeric mg n/l	numeric µmol/l
+nitrate_sam	0.86026275	numeric mg n/l	number mg/l
+nitrate_sam	0.70475423	numeric mg n/l	number µmol/kg
+nitrate_sam	0.7139256	numeric mg n/l	number µg/l
+nitrate_sam	0.7336456	numeric mg n/l	numeric mol/l
+nitrate_sam	0.86828303	numeric mg n/l	numeric mg/kg
+nitrate_sam	0.91481996	numeric mg n/l	number mg n/l
+nitrate_sam	0.86784035	numeric mg n/l	numeric mg.l-1
+nitrate_sam	0.7958095	0,001214286	0,000357143
+nitrate_sam	0.8940866	number mg /l	numeric mg/l
+nitrate_sam	0.75980365	number mg /l	numeric mg l-1
+nitrate_sam	0.74548554	number mg /l	numeric µmol/kg
+nitrate_sam	0.90184605	number mg /l	numeric mg/l number mg/l
+nitrate_sam	0.74819595	number mg /l	numeric µmol/l
+nitrate_sam	1.0000001	number mg /l	number mg/l
+nitrate_sam	0.7965746	number mg /l	number µmol/kg
+nitrate_sam	0.8394172	number mg /l	number µg/l
+nitrate_sam	0.77126634	number mg /l	numeric mg/kg
+nitrate_sam	0.91804796	number mg /l	number mg n/l
+nitrate_sam	0.70843625	number mg /l	0.045mg/l
+nitrate_sam	0.7919853	number mg /l	numeric mg.l-1
+nitrate_sam	0.86026275	number mg /l	numeric mg n/l
+nitrate_sam	0.8659666	0,001785714	0,000357143
+nitrate_sam	0.9349944	0,001785714	0,001214286
+nitrate_sam	0.82987577	2.5mg/kg	0.045mg/l
+nitrate_sam	0.8257226	2.5mg/kg	26.64mg/l
+nitrate_sam	0.8929001	25.23mg/l	0.045mg/l
+nitrate_sam	0.97139335	25.23mg/l	26.64mg/l
+nitrate_sam	0.8438574	25.23mg/l	2.5mg/kg
+nitrate_sam	0.72101164	number ug/l	numeric ug-n/l
+nitrate_sam	0.8281373	no nitrate	low nitrate
+nitrate_sam	0.8607091	13.2micromoleperliter	9.53micromoleperliter
+nitrate_sam	0.90763646	14.68micromoleperliter	9.53micromoleperliter
+nitrate_sam	0.9213927	14.68micromoleperliter	13.2micromoleperliter
+nitrate_sam	0.7376393	numeric micromoles per l	numeric mg/l
+nitrate_sam	0.74492806	numeric micromoles per l	numeric µmol/kg
+nitrate_sam	0.70640016	numeric micromoles per l	numeric mg/l number mg/l
+nitrate_sam	0.8709973	numeric micromoles per l	numeric µmol/l
+nitrate_sam	0.77787805	numeric micromoles per l	numeric micro molar
+nitrate_sam	0.9096089	numeric micromoles per l	numeric micromoles per liter
+nitrate_sam	0.70277625	numeric micromoles per l	number mg/l
+nitrate_sam	0.70406544	numeric micromoles per l	number µmol/kg
+nitrate_sam	0.7972481	numeric micromoles per l	number µg/l
+nitrate_sam	0.76541543	numeric micromoles per l	numeric mol/l
+nitrate_sam	0.7355308	numeric micromoles per l	numeric µmol/dm3
+nitrate_sam	0.7476851	numeric micromoles per l	numeric µm
+nitrate_sam	0.7080991	numeric micromoles per l	numeric mg n/l
+nitrate_sam	0.70277625	numeric micromoles per l	number mg /l
+nitrate_sam	0.8930843	25.58mg/l	0.045mg/l
+nitrate_sam	0.9717422	25.58mg/l	26.64mg/l
+nitrate_sam	0.84046865	25.58mg/l	2.5mg/kg
+nitrate_sam	0.99411434	25.58mg/l	25.23mg/l
+nitrate_sam	0.8581568	0,001428571	0,000357143
+nitrate_sam	0.9405541	0,001428571	0,001214286
+nitrate_sam	0.9430871	0,001428571	0,001785714
+nitrate_sam	0.8690685	0.15micromoleperliter	9.53micromoleperliter
+nitrate_sam	0.8317835	0.15micromoleperliter	13.2micromoleperliter
+nitrate_sam	0.902058	0.15micromoleperliter	14.68micromoleperliter
+nitrate_sam	0.82508475	number ug-n/l	numeric ug-n/l
+nitrate_sam	0.9028015	number ug-n/l	number ug/l
+nitrate_sam	0.88352895	0.09micromoleperliter	9.53micromoleperliter
+nitrate_sam	0.810157	0.09micromoleperliter	13.2micromoleperliter
+nitrate_sam	0.8686109	0.09micromoleperliter	14.68micromoleperliter
+nitrate_sam	0.97446895	0.09micromoleperliter	0.15micromoleperliter
+nitrate_sam	0.7340094	numeric micromoleperliter	numeric micro molar
+nitrate_sam	0.73077834	0mg/kg	numeric mg/kg
+nitrate_sam	0.7601909	0mg/kg	0.045mg/l
+nitrate_sam	0.8476524	0mg/kg	2.5mg/kg
+nitrate_sam	0.71194434	0mg/kg	25.23mg/l
+nitrate_sam	0.7138288	0mg/kg	25.58mg/l
+nitrate_sam	0.8933538	25.21mg/l	0.045mg/l
+nitrate_sam	0.97270894	25.21mg/l	26.64mg/l
+nitrate_sam	0.84200096	25.21mg/l	2.5mg/kg
+nitrate_sam	0.9972578	25.21mg/l	25.23mg/l
+nitrate_sam	0.9928855	25.21mg/l	25.58mg/l
+nitrate_sam	0.7060207	25.21mg/l	0mg/kg
+nitrate_sam	0.715685	optimal nitrate	low nitrate
+nitrate_sam	0.7467319	numeric micromole per liter	numeric mg/l
+nitrate_sam	0.79002106	numeric micromole per liter	numeric µmol/kg
+nitrate_sam	0.7020405	numeric micromole per liter	numeric mg/l number mg/l
+nitrate_sam	0.8569695	numeric micromole per liter	numeric µmol/l
+nitrate_sam	0.73703575	numeric micromole per liter	numeric micro molar
+nitrate_sam	0.99088603	numeric micromole per liter	numeric micromoles per liter
+nitrate_sam	0.7320535	numeric micromole per liter	number µmol/kg
+nitrate_sam	0.7669365	numeric micromole per liter	number µg/l
+nitrate_sam	0.7438221	numeric micromole per liter	numeric mol/l
+nitrate_sam	0.75624603	numeric micromole per liter	numeric µmol/dm3
+nitrate_sam	0.7191175	numeric micromole per liter	numeric µm
+nitrate_sam	0.7004397	numeric micromole per liter	numeric mg n/l
+nitrate_sam	0.9132191	numeric micromole per liter	numeric micromoles per l
+nitrate_sam	0.8109415	number um	number
+nitrate_sam	0.8827719	29.6mg/l	0.045mg/l
+nitrate_sam	0.96229374	29.6mg/l	26.64mg/l
+nitrate_sam	0.83803034	29.6mg/l	2.5mg/kg
+nitrate_sam	0.96599555	29.6mg/l	25.23mg/l
+nitrate_sam	0.9647755	29.6mg/l	25.58mg/l
+nitrate_sam	0.70371294	29.6mg/l	0mg/kg
+nitrate_sam	0.9668956	29.6mg/l	25.21mg/l
+nitrate_sam	0.72247297	number µmol/l	numeric mg/l
+nitrate_sam	0.7650826	number µmol/l	numeric µmol/kg
+nitrate_sam	0.7191167	number µmol/l	numeric mg/l number mg/l
+nitrate_sam	0.90774494	number µmol/l	numeric µmol/l
+nitrate_sam	0.79926234	number µmol/l	numeric micromoles per liter
+nitrate_sam	0.7980401	number µmol/l	number mg/l
+nitrate_sam	0.83867	number µmol/l	number µmol/kg
+nitrate_sam	0.8948904	number µmol/l	number µg/l
+nitrate_sam	0.7851692	number µmol/l	number µm
+nitrate_sam	0.7354659	number µmol/l	numeric mol/l
+nitrate_sam	0.73554873	number µmol/l	numeric µmol/dm3
+nitrate_sam	0.7331403	number µmol/l	numeric µm
+nitrate_sam	0.72478676	number µmol/l	number mg n/l
+nitrate_sam	0.7980401	number µmol/l	number mg /l
+nitrate_sam	0.8349439	number µmol/l	numeric micromoles per l
+nitrate_sam	0.80491304	number µmol/l	numeric micromole per liter
+nitrate_sam	0.8834487	26.43mg/l	0.045mg/l
+nitrate_sam	0.9873703	26.43mg/l	26.64mg/l
+nitrate_sam	0.83270186	26.43mg/l	2.5mg/kg
+nitrate_sam	0.9780296	26.43mg/l	25.23mg/l
+nitrate_sam	0.9757937	26.43mg/l	25.58mg/l
+nitrate_sam	0.9784304	26.43mg/l	25.21mg/l
+nitrate_sam	0.96393895	26.43mg/l	29.6mg/l
+nitrate_sam	0.89814204	25.03mg/l	0.045mg/l
+nitrate_sam	0.96582407	25.03mg/l	26.64mg/l
+nitrate_sam	0.83751047	25.03mg/l	2.5mg/kg
+nitrate_sam	0.9921363	25.03mg/l	25.23mg/l
+nitrate_sam	0.9901225	25.03mg/l	25.58mg/l
+nitrate_sam	0.7248116	25.03mg/l	0mg/kg
+nitrate_sam	0.9896829	25.03mg/l	25.21mg/l
+nitrate_sam	0.95931697	25.03mg/l	29.6mg/l
+nitrate_sam	0.96841145	25.03mg/l	26.43mg/l
+nitrate_sam	0.82410485	9_days_longterm_100_1	30_days_longterm_100_1
+nitrate_sam	0.87756896	0,002857143	0,000357143
+nitrate_sam	0.87879586	0,002857143	0,001214286
+nitrate_sam	0.91119325	0,002857143	0,001785714
+nitrate_sam	0.9042394	0,002857143	0,001428571
+nitrate_sam	0.7297801	9_days_longterm_0_2	30_days_longterm_100_1
+nitrate_sam	0.92685115	9_days_longterm_0_2	9_days_longterm_100_1
+nitrate_sam	0.8556117	number mm	numeric mm
+nitrate_sam	0.73411626	number mm	number m
+nitrate_sam	0.768246	number mm	number µm
+nitrate_sam	0.83815396	200mg/l	0.045mg/l
+nitrate_sam	0.81558067	200mg/l	26.64mg/l
+nitrate_sam	0.7913927	200mg/l	2.5mg/kg
+nitrate_sam	0.83852005	200mg/l	25.23mg/l
+nitrate_sam	0.846282	200mg/l	25.58mg/l
+nitrate_sam	0.7097502	200mg/l	0mg/kg
+nitrate_sam	0.84353435	200mg/l	25.21mg/l
+nitrate_sam	0.8276819	200mg/l	29.6mg/l
+nitrate_sam	0.8125762	200mg/l	26.43mg/l
+nitrate_sam	0.85547644	200mg/l	25.03mg/l
+nitrate_sam	0.9000744	24.73mg/l	0.045mg/l
+nitrate_sam	0.9736893	24.73mg/l	26.64mg/l
+nitrate_sam	0.8329407	24.73mg/l	2.5mg/kg
+nitrate_sam	0.97596455	24.73mg/l	25.23mg/l
+nitrate_sam	0.97781885	24.73mg/l	25.58mg/l
+nitrate_sam	0.70943975	24.73mg/l	0mg/kg
+nitrate_sam	0.97632885	24.73mg/l	25.21mg/l
+nitrate_sam	0.9625538	24.73mg/l	29.6mg/l
+nitrate_sam	0.9739119	24.73mg/l	26.43mg/l
+nitrate_sam	0.96938145	24.73mg/l	25.03mg/l
+nitrate_sam	0.8314422	24.73mg/l	200mg/l
+nitrate_sam	0.95034504	under detection limit	below detection limit
+nitrate_sam	0.8804468	27.17mg/l	0.045mg/l
+nitrate_sam	0.9682325	27.17mg/l	26.64mg/l
+nitrate_sam	0.838313	27.17mg/l	2.5mg/kg
+nitrate_sam	0.9721838	27.17mg/l	25.23mg/l
+nitrate_sam	0.96885777	27.17mg/l	25.58mg/l
+nitrate_sam	0.9722997	27.17mg/l	25.21mg/l
+nitrate_sam	0.9747368	27.17mg/l	29.6mg/l
+nitrate_sam	0.975203	27.17mg/l	26.43mg/l
+nitrate_sam	0.9647901	27.17mg/l	25.03mg/l
+nitrate_sam	0.8157623	27.17mg/l	200mg/l
+nitrate_sam	0.9669671	27.17mg/l	24.73mg/l
+nitrate_sam	0.82691944	4.9mg/kg	0.045mg/l
+nitrate_sam	0.8240895	4.9mg/kg	26.64mg/l
+nitrate_sam	0.9762107	4.9mg/kg	2.5mg/kg
+nitrate_sam	0.84710306	4.9mg/kg	25.23mg/l
+nitrate_sam	0.8492743	4.9mg/kg	25.58mg/l
+nitrate_sam	0.860161	4.9mg/kg	0mg/kg
+nitrate_sam	0.84332734	4.9mg/kg	25.21mg/l
+nitrate_sam	0.84057045	4.9mg/kg	29.6mg/l
+nitrate_sam	0.8340333	4.9mg/kg	26.43mg/l
+nitrate_sam	0.841918	4.9mg/kg	25.03mg/l
+nitrate_sam	0.78555536	4.9mg/kg	200mg/l
+nitrate_sam	0.8420433	4.9mg/kg	24.73mg/l
+nitrate_sam	0.83584106	4.9mg/kg	27.17mg/l
+nitrate_sam	0.80292577	number ppm as n	numeric ppm
+nitrate_sam	0.8459483	40mg/l	0.045mg/l
+nitrate_sam	0.877523	40mg/l	26.64mg/l
+nitrate_sam	0.7947298	40mg/l	2.5mg/kg
+nitrate_sam	0.9004728	40mg/l	25.23mg/l
+nitrate_sam	0.9049082	40mg/l	25.58mg/l
+nitrate_sam	0.7098073	40mg/l	0mg/kg
+nitrate_sam	0.90228176	40mg/l	25.21mg/l
+nitrate_sam	0.8945453	40mg/l	29.6mg/l
+nitrate_sam	0.88641036	40mg/l	26.43mg/l
+nitrate_sam	0.90786374	40mg/l	25.03mg/l
+nitrate_sam	0.8884919	40mg/l	200mg/l
+nitrate_sam	0.88355565	40mg/l	24.73mg/l
+nitrate_sam	0.89153665	40mg/l	27.17mg/l
+nitrate_sam	0.8052428	40mg/l	4.9mg/kg
+nitrate_sam	0.9378458	30_days_longterm_0_2	30_days_longterm_100_1
+nitrate_sam	0.7362286	30_days_longterm_0_2	9_days_longterm_100_1
+nitrate_sam	0.762156	30_days_longterm_0_2	9_days_longterm_0_2
+nitrate_sam	0.83774906	1,62	0,62
+nitrate_sam	0.84415686	0,002071429	0,000357143
+nitrate_sam	0.86520875	0,002071429	0,001214286
+nitrate_sam	0.9068531	0,002071429	0,001785714
+nitrate_sam	0.877451	0,002071429	0,001428571
+nitrate_sam	0.9523951	0,002071429	0,002857143
+nitrate_sam	0.7672344	2,66	2,066
+nitrate_sam	0.8635248	26.17mg/l	0.045mg/l
+nitrate_sam	0.9826739	26.17mg/l	26.64mg/l
+nitrate_sam	0.8258961	26.17mg/l	2.5mg/kg
+nitrate_sam	0.97833925	26.17mg/l	25.23mg/l
+nitrate_sam	0.97270167	26.17mg/l	25.58mg/l
+nitrate_sam	0.9773898	26.17mg/l	25.21mg/l
+nitrate_sam	0.9592037	26.17mg/l	29.6mg/l
+nitrate_sam	0.9903389	26.17mg/l	26.43mg/l
+nitrate_sam	0.97032344	26.17mg/l	25.03mg/l
+nitrate_sam	0.8003836	26.17mg/l	200mg/l
+nitrate_sam	0.96296334	26.17mg/l	24.73mg/l
+nitrate_sam	0.9772267	26.17mg/l	27.17mg/l
+nitrate_sam	0.8228338	26.17mg/l	4.9mg/kg
+nitrate_sam	0.8760589	26.17mg/l	40mg/l
+nitrate_sam	0.9416756	11.21micromoleperliter	9.53micromoleperliter
+nitrate_sam	0.8897617	11.21micromoleperliter	13.2micromoleperliter
+nitrate_sam	0.9178612	11.21micromoleperliter	14.68micromoleperliter
+nitrate_sam	0.87944543	11.21micromoleperliter	0.15micromoleperliter
+nitrate_sam	0.8743792	11.21micromoleperliter	0.09micromoleperliter
+nitrate_sam	0.9830568	9_days_enrichments_50_2	9_days_enrichments_100_2
+nitrate_sam	0.9205022	0,000714286	0,000357143
+nitrate_sam	0.839857	0,000714286	0,001214286
+nitrate_sam	0.9060466	0,000714286	0,001785714
+nitrate_sam	0.88292634	0,000714286	0,001428571
+nitrate_sam	0.93811834	0,000714286	0,002857143
+nitrate_sam	0.92105114	0,000714286	0,002071429
+nitrate_sam	0.746951	7,946	3,936
+nitrate_sam	0.83532333	3,739	3,936
+nitrate_sam	0.897514	28.82mg/l	0.045mg/l
+nitrate_sam	0.965678	28.82mg/l	26.64mg/l
+nitrate_sam	0.84308827	28.82mg/l	2.5mg/kg
+nitrate_sam	0.97037375	28.82mg/l	25.23mg/l
+nitrate_sam	0.97204083	28.82mg/l	25.58mg/l
+nitrate_sam	0.71374345	28.82mg/l	0mg/kg
+nitrate_sam	0.9712757	28.82mg/l	25.21mg/l
+nitrate_sam	0.9763209	28.82mg/l	29.6mg/l
+nitrate_sam	0.97673976	28.82mg/l	26.43mg/l
+nitrate_sam	0.9629446	28.82mg/l	25.03mg/l
+nitrate_sam	0.8323698	28.82mg/l	200mg/l
+nitrate_sam	0.9709265	28.82mg/l	24.73mg/l
+nitrate_sam	0.9752027	28.82mg/l	27.17mg/l
+nitrate_sam	0.8489295	28.82mg/l	4.9mg/kg
+nitrate_sam	0.8952416	28.82mg/l	40mg/l
+nitrate_sam	0.9632337	28.82mg/l	26.17mg/l
+nitrate_sam	0.894909	0-10mg/l	0.045mg/l
+nitrate_sam	0.840865	0-10mg/l	26.64mg/l
+nitrate_sam	0.82560205	0-10mg/l	2.5mg/kg
+nitrate_sam	0.8657625	0-10mg/l	25.23mg/l
+nitrate_sam	0.8640897	0-10mg/l	25.58mg/l
+nitrate_sam	0.75618863	0-10mg/l	0mg/kg
+nitrate_sam	0.8701643	0-10mg/l	25.21mg/l
+nitrate_sam	0.85718185	0-10mg/l	29.6mg/l
+nitrate_sam	0.84636414	0-10mg/l	26.43mg/l
+nitrate_sam	0.8680912	0-10mg/l	25.03mg/l
+nitrate_sam	0.8531387	0-10mg/l	200mg/l
+nitrate_sam	0.8476066	0-10mg/l	24.73mg/l
+nitrate_sam	0.84829396	0-10mg/l	27.17mg/l
+nitrate_sam	0.8130654	0-10mg/l	4.9mg/kg
+nitrate_sam	0.8821784	0-10mg/l	40mg/l
+nitrate_sam	0.83675903	0-10mg/l	26.17mg/l
+nitrate_sam	0.8585053	0-10mg/l	28.82mg/l
+nitrate_sam	0.91502905	25.84mg/l	0.045mg/l
+nitrate_sam	0.97705036	25.84mg/l	26.64mg/l
+nitrate_sam	0.8416662	25.84mg/l	2.5mg/kg
+nitrate_sam	0.9868568	25.84mg/l	25.23mg/l
+nitrate_sam	0.98992336	25.84mg/l	25.58mg/l
+nitrate_sam	0.7239667	25.84mg/l	0mg/kg
+nitrate_sam	0.9863925	25.84mg/l	25.21mg/l
+nitrate_sam	0.96226203	25.84mg/l	29.6mg/l
+nitrate_sam	0.9744967	25.84mg/l	26.43mg/l
+nitrate_sam	0.98220944	25.84mg/l	25.03mg/l
+nitrate_sam	0.8470316	25.84mg/l	200mg/l
+nitrate_sam	0.98310864	25.84mg/l	24.73mg/l
+nitrate_sam	0.9600029	25.84mg/l	27.17mg/l
+nitrate_sam	0.8506886	25.84mg/l	4.9mg/kg
+nitrate_sam	0.8976632	25.84mg/l	40mg/l
+nitrate_sam	0.9606887	25.84mg/l	26.17mg/l
+nitrate_sam	0.97180605	25.84mg/l	28.82mg/l
+nitrate_sam	0.86375415	25.84mg/l	0-10mg/l
+nitrate_sam	0.7158698	30_days_enrichments_50_1	30_days_longterm_100_1
+nitrate_sam	0.8767776	30_days_enrichments_50_1	9_days_enrichments_100_2
+nitrate_sam	0.9056213	30_days_enrichments_50_1	9_days_enrichments_50_2
+nitrate_sam	0.81513494	9_days_longterm_50_1	30_days_longterm_100_1
+nitrate_sam	0.95014083	9_days_longterm_50_1	9_days_longterm_100_1
+nitrate_sam	0.9052526	9_days_longterm_50_1	9_days_longterm_0_2
+nitrate_sam	0.758426	9_days_longterm_50_1	30_days_longterm_0_2
+nitrate_sam	0.73917484	numeric micromolar	numeric µmol/l
+nitrate_sam	0.90772194	numeric micromolar	numeric micro molar
+nitrate_sam	0.70627606	numeric micromolar	numeric micromoles per liter
+nitrate_sam	0.72382295	numeric micromolar	number µm
+nitrate_sam	0.7258501	numeric micromolar	numeric µmol/dm3
+nitrate_sam	0.82151026	numeric micromolar	numeric µm
+nitrate_sam	0.7819547	numeric micromolar	numeric micromoles per l
+nitrate_sam	0.84137034	numeric micromolar	numeric micromoleperliter
+nitrate_sam	0.7274573	numeric micromolar	numeric micromole per liter
+nitrate_sam	0.71475357	30_days_enrichments_50_2	30_days_longterm_100_1
+nitrate_sam	0.8847971	30_days_enrichments_50_2	9_days_enrichments_100_2
+nitrate_sam	0.9125752	30_days_enrichments_50_2	9_days_enrichments_50_2
+nitrate_sam	0.99590874	30_days_enrichments_50_2	30_days_enrichments_50_1
+nitrate_sam	0.757672	missing not collected	not collected
+nitrate_sam	0.85575056	0.08micromoleperliter	9.53micromoleperliter
+nitrate_sam	0.8149948	0.08micromoleperliter	13.2micromoleperliter
+nitrate_sam	0.8670038	0.08micromoleperliter	14.68micromoleperliter
+nitrate_sam	0.9783546	0.08micromoleperliter	0.15micromoleperliter
+nitrate_sam	0.9838146	0.08micromoleperliter	0.09micromoleperliter
+nitrate_sam	0.8626913	0.08micromoleperliter	11.21micromoleperliter
+nitrate_sam	0.8561858	0.1micromoleperliter	9.53micromoleperliter
+nitrate_sam	0.80013585	0.1micromoleperliter	13.2micromoleperliter
+nitrate_sam	0.8695837	0.1micromoleperliter	14.68micromoleperliter
+nitrate_sam	0.98238635	0.1micromoleperliter	0.15micromoleperliter
+nitrate_sam	0.96230567	0.1micromoleperliter	0.09micromoleperliter
+nitrate_sam	0.86781126	0.1micromoleperliter	11.21micromoleperliter
+nitrate_sam	0.96676403	0.1micromoleperliter	0.08micromoleperliter
+nitrate_sam	0.89072263	27.43mg/l	0.045mg/l
+nitrate_sam	0.9696753	27.43mg/l	26.64mg/l
+nitrate_sam	0.8383451	27.43mg/l	2.5mg/kg
+nitrate_sam	0.9679686	27.43mg/l	25.23mg/l
+nitrate_sam	0.96682644	27.43mg/l	25.58mg/l
+nitrate_sam	0.71082973	27.43mg/l	0mg/kg
+nitrate_sam	0.96925294	27.43mg/l	25.21mg/l
+nitrate_sam	0.9731158	27.43mg/l	29.6mg/l
+nitrate_sam	0.9814968	27.43mg/l	26.43mg/l
+nitrate_sam	0.95949674	27.43mg/l	25.03mg/l
+nitrate_sam	0.8197932	27.43mg/l	200mg/l
+nitrate_sam	0.97169733	27.43mg/l	24.73mg/l
+nitrate_sam	0.9922732	27.43mg/l	27.17mg/l
+nitrate_sam	0.8400502	27.43mg/l	4.9mg/kg
+nitrate_sam	0.89354384	27.43mg/l	40mg/l
+nitrate_sam	0.9669505	27.43mg/l	26.17mg/l
+nitrate_sam	0.98212075	27.43mg/l	28.82mg/l
+nitrate_sam	0.8496722	27.43mg/l	0-10mg/l
+nitrate_sam	0.9673251	27.43mg/l	25.84mg/l
+nitrate_sam	0.72061527	6.14µmol/l	numeric µmol/l
+nitrate_sam	0.70505023	6.14µmol/l	0.045mg/l
+nitrate_sam	0.75450367	6.14µmol/l	number µmol/l
+nitrate_sam	0.9045198	25.39mg/l	0.045mg/l
+nitrate_sam	0.97247124	25.39mg/l	26.64mg/l
+nitrate_sam	0.84976	25.39mg/l	2.5mg/kg
+nitrate_sam	0.99505794	25.39mg/l	25.23mg/l
+nitrate_sam	0.99516845	25.39mg/l	25.58mg/l
+nitrate_sam	0.7287627	25.39mg/l	0mg/kg
+nitrate_sam	0.9944047	25.39mg/l	25.21mg/l
+nitrate_sam	0.96790147	25.39mg/l	29.6mg/l
+nitrate_sam	0.97867817	25.39mg/l	26.43mg/l
+nitrate_sam	0.9929501	25.39mg/l	25.03mg/l
+nitrate_sam	0.8525385	25.39mg/l	200mg/l
+nitrate_sam	0.97897094	25.39mg/l	24.73mg/l
+nitrate_sam	0.97076476	25.39mg/l	27.17mg/l
+nitrate_sam	0.8568931	25.39mg/l	4.9mg/kg
+nitrate_sam	0.9153512	25.39mg/l	40mg/l
+nitrate_sam	0.9728404	25.39mg/l	26.17mg/l
+nitrate_sam	0.9755721	25.39mg/l	28.82mg/l
+nitrate_sam	0.8744094	25.39mg/l	0-10mg/l
+nitrate_sam	0.9909954	25.39mg/l	25.84mg/l
+nitrate_sam	0.9715402	25.39mg/l	27.43mg/l
+nitrate_sam	0.9419822	0,000857143	0,000357143
+nitrate_sam	0.8594861	0,000857143	0,001214286
+nitrate_sam	0.9261868	0,000857143	0,001785714
+nitrate_sam	0.8989208	0,000857143	0,001428571
+nitrate_sam	0.94632375	0,000857143	0,002857143
+nitrate_sam	0.9281548	0,000857143	0,002071429
+nitrate_sam	0.97331524	0,000857143	0,000714286
+nitrate_sam	0.731398	0,05	0,5
+nitrate_sam	0.8529369	25mg/l	0.045mg/l
+nitrate_sam	0.9132148	25mg/l	26.64mg/l
+nitrate_sam	0.80759716	25mg/l	2.5mg/kg
+nitrate_sam	0.9462365	25mg/l	25.23mg/l
+nitrate_sam	0.9437716	25mg/l	25.58mg/l
+nitrate_sam	0.9478183	25mg/l	25.21mg/l
+nitrate_sam	0.9185945	25mg/l	29.6mg/l
+nitrate_sam	0.91889524	25mg/l	26.43mg/l
+nitrate_sam	0.95255697	25mg/l	25.03mg/l
+nitrate_sam	0.8949709	25mg/l	200mg/l
+nitrate_sam	0.9154743	25mg/l	24.73mg/l
+nitrate_sam	0.91554976	25mg/l	27.17mg/l
+nitrate_sam	0.80334926	25mg/l	4.9mg/kg
+nitrate_sam	0.9516649	25mg/l	40mg/l
+nitrate_sam	0.91926587	25mg/l	26.17mg/l
+nitrate_sam	0.91208327	25mg/l	28.82mg/l
+nitrate_sam	0.9050623	25mg/l	0-10mg/l
+nitrate_sam	0.9318564	25mg/l	25.84mg/l
+nitrate_sam	0.9108538	25mg/l	27.43mg/l
+nitrate_sam	0.9486829	25mg/l	25.39mg/l
+nitrate_sam	0.89768326	9.49mg/l	0.045mg/l
+nitrate_sam	0.8962351	9.49mg/l	26.64mg/l
+nitrate_sam	0.84357405	9.49mg/l	2.5mg/kg
+nitrate_sam	0.9121473	9.49mg/l	25.23mg/l
+nitrate_sam	0.91681236	9.49mg/l	25.58mg/l
+nitrate_sam	0.73721766	9.49mg/l	0mg/kg
+nitrate_sam	0.91104597	9.49mg/l	25.21mg/l
+nitrate_sam	0.9149896	9.49mg/l	29.6mg/l
+nitrate_sam	0.90574676	9.49mg/l	26.43mg/l
+nitrate_sam	0.9065335	9.49mg/l	25.03mg/l
+nitrate_sam	0.8146597	9.49mg/l	200mg/l
+nitrate_sam	0.9121496	9.49mg/l	24.73mg/l
+nitrate_sam	0.90784156	9.49mg/l	27.17mg/l
+nitrate_sam	0.8662428	9.49mg/l	4.9mg/kg
+nitrate_sam	0.86717045	9.49mg/l	40mg/l
+nitrate_sam	0.8909739	9.49mg/l	26.17mg/l
+nitrate_sam	0.9172311	9.49mg/l	28.82mg/l
+nitrate_sam	0.87787235	9.49mg/l	0-10mg/l
+nitrate_sam	0.9160018	9.49mg/l	25.84mg/l
+nitrate_sam	0.9140602	9.49mg/l	27.43mg/l
+nitrate_sam	0.9246333	9.49mg/l	25.39mg/l
+nitrate_sam	0.86979425	9.49mg/l	25mg/l
+nitrate_sam	0.726015	mol/l	numeric mol/l
+nitrate_sam	0.74768174	0,29	0,24
+nitrate_sam	0.7064163	3,69	3,936
+nitrate_sam	0.73691976	3,69	3,739
+nitrate_sam	0.8466319	150mg/l	0.045mg/l
+nitrate_sam	0.8378717	150mg/l	26.64mg/l
+nitrate_sam	0.8000722	150mg/l	2.5mg/kg
+nitrate_sam	0.85760295	150mg/l	25.23mg/l
+nitrate_sam	0.8669579	150mg/l	25.58mg/l
+nitrate_sam	0.7118912	150mg/l	0mg/kg
+nitrate_sam	0.86193764	150mg/l	25.21mg/l
+nitrate_sam	0.84966505	150mg/l	29.6mg/l
+nitrate_sam	0.84288085	150mg/l	26.43mg/l
+nitrate_sam	0.8703134	150mg/l	25.03mg/l
+nitrate_sam	0.95223653	150mg/l	200mg/l
+nitrate_sam	0.85164094	150mg/l	24.73mg/l
+nitrate_sam	0.8433608	150mg/l	27.17mg/l
+nitrate_sam	0.7961333	150mg/l	4.9mg/kg
+nitrate_sam	0.9061004	150mg/l	40mg/l
+nitrate_sam	0.8296556	150mg/l	26.17mg/l
+nitrate_sam	0.8560418	150mg/l	28.82mg/l
+nitrate_sam	0.87149054	150mg/l	0-10mg/l
+nitrate_sam	0.8641797	150mg/l	25.84mg/l
+nitrate_sam	0.84803414	150mg/l	27.43mg/l
+nitrate_sam	0.872002	150mg/l	25.39mg/l
+nitrate_sam	0.9133878	150mg/l	25mg/l
+nitrate_sam	0.83997446	150mg/l	9.49mg/l
+nitrate_sam	0.7030014	8.4-4.6 mg/l	numeric mg/l
+nitrate_sam	0.8435855	8.4-4.6 mg/l	0.045mg/l
+nitrate_sam	0.81806916	8.4-4.6 mg/l	26.64mg/l
+nitrate_sam	0.822157	8.4-4.6 mg/l	2.5mg/kg
+nitrate_sam	0.8205583	8.4-4.6 mg/l	25.23mg/l
+nitrate_sam	0.83254915	8.4-4.6 mg/l	25.58mg/l
+nitrate_sam	0.7004919	8.4-4.6 mg/l	0mg/kg
+nitrate_sam	0.8276833	8.4-4.6 mg/l	25.21mg/l
+nitrate_sam	0.82654136	8.4-4.6 mg/l	29.6mg/l
+nitrate_sam	0.8086065	8.4-4.6 mg/l	26.43mg/l
+nitrate_sam	0.82301617	8.4-4.6 mg/l	25.03mg/l
+nitrate_sam	0.7902299	8.4-4.6 mg/l	200mg/l
+nitrate_sam	0.8421264	8.4-4.6 mg/l	24.73mg/l
+nitrate_sam	0.80024743	8.4-4.6 mg/l	27.17mg/l
+nitrate_sam	0.82974607	8.4-4.6 mg/l	4.9mg/kg
+nitrate_sam	0.80360806	8.4-4.6 mg/l	40mg/l
+nitrate_sam	0.7900294	8.4-4.6 mg/l	26.17mg/l
+nitrate_sam	0.8300143	8.4-4.6 mg/l	28.82mg/l
+nitrate_sam	0.8492507	8.4-4.6 mg/l	0-10mg/l
+nitrate_sam	0.8479859	8.4-4.6 mg/l	25.84mg/l
+nitrate_sam	0.808143	8.4-4.6 mg/l	27.43mg/l
+nitrate_sam	0.8390423	8.4-4.6 mg/l	25.39mg/l
+nitrate_sam	0.79992366	8.4-4.6 mg/l	25mg/l
+nitrate_sam	0.86265504	8.4-4.6 mg/l	9.49mg/l
+nitrate_sam	0.8057407	8.4-4.6 mg/l	150mg/l
+nitrate_sam	0.7117381	0mm	3.0mm
+nitrate_sam	0.868695	30_days_enrichments_0_1	9_days_enrichments_100_2
+nitrate_sam	0.8786179	30_days_enrichments_0_1	9_days_enrichments_50_2
+nitrate_sam	0.9635998	30_days_enrichments_0_1	30_days_enrichments_50_1
+nitrate_sam	0.9575311	30_days_enrichments_0_1	30_days_enrichments_50_2
+nitrate_sam	0.8620916	mg/l	numeric mg/l
+nitrate_sam	0.7071836	mg/l	numeric mg l-1
+nitrate_sam	0.72306025	mg/l	numeric µmol/kg
+nitrate_sam	0.81258774	mg/l	numeric mg/l number mg/l
+nitrate_sam	0.88985884	mg/l	number mg/l
+nitrate_sam	0.7232343	mg/l	number µmol/kg
+nitrate_sam	0.7336657	mg/l	number µg/l
+nitrate_sam	0.75361013	mg/l	numeric mg/kg
+nitrate_sam	0.8245442	mg/l	number mg n/l
+nitrate_sam	0.7805832	mg/l	0.045mg/l
+nitrate_sam	0.73192096	mg/l	numeric mg.l-1
+nitrate_sam	0.819975	mg/l	numeric mg n/l
+nitrate_sam	0.88985884	mg/l	number mg /l
+nitrate_sam	0.7061098	mg/l	number µmol/l
+nitrate_sam	0.700747	mg/l	25.03mg/l
+nitrate_sam	0.71636677	mg/l	200mg/l
+nitrate_sam	0.70554966	mg/l	24.73mg/l
+nitrate_sam	0.7138972	mg/l	40mg/l
+nitrate_sam	0.71821725	mg/l	25.84mg/l
+nitrate_sam	0.7231071	mg/l	150mg/l
+nitrate_sam	0.7543889	mg/l	8.4-4.6 mg/l
+nitrate_sam	0.9451292	30_days_longterm_0_1	30_days_longterm_100_1
+nitrate_sam	0.74690163	30_days_longterm_0_1	9_days_longterm_100_1
+nitrate_sam	0.75325	30_days_longterm_0_1	9_days_longterm_0_2
+nitrate_sam	0.9845143	30_days_longterm_0_1	30_days_longterm_0_2
+nitrate_sam	0.76582944	30_days_longterm_0_1	9_days_longterm_50_1
+nitrate_sam	0.82773495	7,085	7,015
+nitrate_sam	0.7010172	7,085	7,946
+nitrate_sam	0.7108414	0,22	0,29
+nitrate_sam	0.8942145	0,02	0,05
+nitrate_sam	0.71837974	0,02	0,22
+nitrate_sam	0.9088278	53.92mg/l	0.045mg/l
+nitrate_sam	0.93470365	53.92mg/l	26.64mg/l
+nitrate_sam	0.83282757	53.92mg/l	2.5mg/kg
+nitrate_sam	0.91852516	53.92mg/l	25.23mg/l
+nitrate_sam	0.9294549	53.92mg/l	25.58mg/l
+nitrate_sam	0.7151955	53.92mg/l	0mg/kg
+nitrate_sam	0.918782	53.92mg/l	25.21mg/l
+nitrate_sam	0.9147146	53.92mg/l	29.6mg/l
+nitrate_sam	0.9343158	53.92mg/l	26.43mg/l
+nitrate_sam	0.91327316	53.92mg/l	25.03mg/l
+nitrate_sam	0.8209394	53.92mg/l	200mg/l
+nitrate_sam	0.9343324	53.92mg/l	24.73mg/l
+nitrate_sam	0.9247718	53.92mg/l	27.17mg/l
+nitrate_sam	0.8375461	53.92mg/l	4.9mg/kg
+nitrate_sam	0.87861615	53.92mg/l	40mg/l
+nitrate_sam	0.9121239	53.92mg/l	26.17mg/l
+nitrate_sam	0.93542325	53.92mg/l	28.82mg/l
+nitrate_sam	0.83466184	53.92mg/l	0-10mg/l
+nitrate_sam	0.94135845	53.92mg/l	25.84mg/l
+nitrate_sam	0.9372915	53.92mg/l	27.43mg/l
+nitrate_sam	0.93052083	53.92mg/l	25.39mg/l
+nitrate_sam	0.859514	53.92mg/l	25mg/l
+nitrate_sam	0.90937364	53.92mg/l	9.49mg/l
+nitrate_sam	0.8585788	53.92mg/l	150mg/l
+nitrate_sam	0.836954	53.92mg/l	8.4-4.6 mg/l
+nitrate_sam	0.7267091	53.92mg/l	mg/l
+nitrate_sam	0.9809492	numeric numeric mg/l	numeric mg/l
+nitrate_sam	0.8091376	numeric numeric mg/l	numeric mg l-1
+nitrate_sam	0.8465737	numeric numeric mg/l	numeric µmol/kg
+nitrate_sam	0.95255905	numeric numeric mg/l	numeric mg/l number mg/l
+nitrate_sam	0.8212588	numeric numeric mg/l	numeric µmol/l
+nitrate_sam	0.72323906	numeric numeric mg/l	numeric micromoles per liter
+nitrate_sam	0.85695094	numeric numeric mg/l	number mg/l
+nitrate_sam	0.7200333	numeric numeric mg/l	number µmol/kg
+nitrate_sam	0.7291447	numeric numeric mg/l	number µg/l
+nitrate_sam	0.7668599	numeric numeric mg/l	numeric mol/l
+nitrate_sam	0.71028364	numeric numeric mg/l	numeric µmol/dm3
+nitrate_sam	0.887115	numeric numeric mg/l	numeric mg/kg
+nitrate_sam	0.7000658	numeric numeric mg/l	numeric µm
+nitrate_sam	0.8169943	numeric numeric mg/l	number mg n/l
+nitrate_sam	0.8419486	numeric numeric mg/l	numeric mg.l-1
+nitrate_sam	0.94183993	numeric numeric mg/l	numeric mg n/l
+nitrate_sam	0.85695094	numeric numeric mg/l	number mg /l
+nitrate_sam	0.7181869	numeric numeric mg/l	numeric micromoles per l
+nitrate_sam	0.7310715	numeric numeric mg/l	numeric micromole per liter
+nitrate_sam	0.82138216	numeric numeric mg/l	mg/l
+nitrate_sam	0.8397864	2,01 mg/l	numeric mg/l
+nitrate_sam	0.7085978	2,01 mg/l	numeric µmol/kg
+nitrate_sam	0.7820009	2,01 mg/l	numeric mg/l number mg/l
+nitrate_sam	0.70080686	2,01 mg/l	numeric µmol/l
+nitrate_sam	0.8471111	2,01 mg/l	number mg/l
+nitrate_sam	0.70736444	2,01 mg/l	number µmol/kg
+nitrate_sam	0.7330244	2,01 mg/l	number µg/l
+nitrate_sam	0.7361481	2,01 mg/l	numeric mg/kg
+nitrate_sam	0.77833605	2,01 mg/l	number mg n/l
+nitrate_sam	0.8449758	2,01 mg/l	0.045mg/l
+nitrate_sam	0.7411697	2,01 mg/l	26.64mg/l
+nitrate_sam	0.7091628	2,01 mg/l	numeric mg.l-1
+nitrate_sam	0.7793	2,01 mg/l	numeric mg n/l
+nitrate_sam	0.8471111	2,01 mg/l	number mg /l
+nitrate_sam	0.72868687	2,01 mg/l	2.5mg/kg
+nitrate_sam	0.71370435	2,01 mg/l	25.23mg/l
+nitrate_sam	0.7277924	2,01 mg/l	25.58mg/l
+nitrate_sam	0.71407664	2,01 mg/l	25.21mg/l
+nitrate_sam	0.72110677	2,01 mg/l	29.6mg/l
+nitrate_sam	0.70482564	2,01 mg/l	number µmol/l
+nitrate_sam	0.7112832	2,01 mg/l	26.43mg/l
+nitrate_sam	0.72549915	2,01 mg/l	25.03mg/l
+nitrate_sam	0.74107015	2,01 mg/l	200mg/l
+nitrate_sam	0.74764717	2,01 mg/l	24.73mg/l
+nitrate_sam	0.7007747	2,01 mg/l	27.17mg/l
+nitrate_sam	0.71484077	2,01 mg/l	4.9mg/kg
+nitrate_sam	0.7058629	2,01 mg/l	40mg/l
+nitrate_sam	0.72806484	2,01 mg/l	28.82mg/l
+nitrate_sam	0.71476257	2,01 mg/l	0-10mg/l
+nitrate_sam	0.76293874	2,01 mg/l	25.84mg/l
+nitrate_sam	0.71840525	2,01 mg/l	27.43mg/l
+nitrate_sam	0.7556947	2,01 mg/l	6.14µmol/l
+nitrate_sam	0.7353363	2,01 mg/l	25.39mg/l
+nitrate_sam	0.7416364	2,01 mg/l	9.49mg/l
+nitrate_sam	0.7303919	2,01 mg/l	150mg/l
+nitrate_sam	0.8217597	2,01 mg/l	8.4-4.6 mg/l
+nitrate_sam	0.88681257	2,01 mg/l	mg/l
+nitrate_sam	0.7796375	2,01 mg/l	53.92mg/l
+nitrate_sam	0.7832813	2,01 mg/l	numeric numeric mg/l
+nitrate_sam	0.8797629	24.58mg/l	0.045mg/l
+nitrate_sam	0.9685832	24.58mg/l	26.64mg/l
+nitrate_sam	0.8298261	24.58mg/l	2.5mg/kg
+nitrate_sam	0.9812821	24.58mg/l	25.23mg/l
+nitrate_sam	0.9846089	24.58mg/l	25.58mg/l
+nitrate_sam	0.98067886	24.58mg/l	25.21mg/l
+nitrate_sam	0.9633912	24.58mg/l	29.6mg/l
+nitrate_sam	0.97232366	24.58mg/l	26.43mg/l
+nitrate_sam	0.97511137	24.58mg/l	25.03mg/l
+nitrate_sam	0.83378935	24.58mg/l	200mg/l
+nitrate_sam	0.9911466	24.58mg/l	24.73mg/l
+nitrate_sam	0.96979636	24.58mg/l	27.17mg/l
+nitrate_sam	0.83909607	24.58mg/l	4.9mg/kg
+nitrate_sam	0.88915455	24.58mg/l	40mg/l
+nitrate_sam	0.9709505	24.58mg/l	26.17mg/l
+nitrate_sam	0.96756923	24.58mg/l	28.82mg/l
+nitrate_sam	0.8513961	24.58mg/l	0-10mg/l
+nitrate_sam	0.9738525	24.58mg/l	25.84mg/l
+nitrate_sam	0.96657705	24.58mg/l	27.43mg/l
+nitrate_sam	0.9805371	24.58mg/l	25.39mg/l
+nitrate_sam	0.92859435	24.58mg/l	25mg/l
+nitrate_sam	0.908995	24.58mg/l	9.49mg/l
+nitrate_sam	0.8544438	24.58mg/l	150mg/l
+nitrate_sam	0.83103114	24.58mg/l	8.4-4.6 mg/l
+nitrate_sam	0.9163784	24.58mg/l	53.92mg/l
+nitrate_sam	0.7127897	24.58mg/l	2,01 mg/l
+nitrate_sam	0.7924229	0,23	0,24
+nitrate_sam	0.75709975	0,23	0,29
+nitrate_sam	0.8169987	0,23	0,22
+nitrate_sam	0.9771631	9_days_enrichments_50_1	9_days_enrichments_100_2
+nitrate_sam	0.99603194	9_days_enrichments_50_1	9_days_enrichments_50_2
+nitrate_sam	0.9127228	9_days_enrichments_50_1	30_days_enrichments_50_1
+nitrate_sam	0.70125306	9_days_enrichments_50_1	9_days_longterm_50_1
+nitrate_sam	0.91244066	9_days_enrichments_50_1	30_days_enrichments_50_2
+nitrate_sam	0.88811964	9_days_enrichments_50_1	30_days_enrichments_0_1
+nitrate_sam	0.94137025	30_days_longterm_50_2	30_days_longterm_100_1
+nitrate_sam	0.74704576	30_days_longterm_50_2	9_days_longterm_100_1
+nitrate_sam	0.7051121	30_days_longterm_50_2	9_days_longterm_0_2
+nitrate_sam	0.9371527	30_days_longterm_50_2	30_days_longterm_0_2
+nitrate_sam	0.8242246	30_days_longterm_50_2	9_days_longterm_50_1
+nitrate_sam	0.7048031	30_days_longterm_50_2	30_days_enrichments_50_2
+nitrate_sam	0.9167361	30_days_longterm_50_2	30_days_longterm_0_1
+nitrate_sam	0.7486354	0,32	0,37
+nitrate_sam	0.7265411	0,32	0,24
+nitrate_sam	0.7794465	0,32	0,29
+nitrate_sam	0.70870066	0,32	0,22
+nitrate_sam	0.73165333	3,419	5,449
+nitrate_sam	0.70565593	30_days_enrichments_100_1	30_days_longterm_100_1
+nitrate_sam	0.9025595	30_days_enrichments_100_1	9_days_enrichments_100_2
+nitrate_sam	0.90031064	30_days_enrichments_100_1	9_days_enrichments_50_2
+nitrate_sam	0.981622	30_days_enrichments_100_1	30_days_enrichments_50_1
+nitrate_sam	0.97913563	30_days_enrichments_100_1	30_days_enrichments_50_2
+nitrate_sam	0.96966517	30_days_enrichments_100_1	30_days_enrichments_0_1
+nitrate_sam	0.90515584	30_days_enrichments_100_1	9_days_enrichments_50_1
+nitrate_sam	0.80705464	9_days_longterm_50_2	30_days_longterm_100_1
+nitrate_sam	0.94384664	9_days_longterm_50_2	9_days_longterm_100_1
+nitrate_sam	0.9191556	9_days_longterm_50_2	9_days_longterm_0_2
+nitrate_sam	0.76976454	9_days_longterm_50_2	30_days_longterm_0_2
+nitrate_sam	0.99061257	9_days_longterm_50_2	9_days_longterm_50_1
+nitrate_sam	0.7576748	9_days_longterm_50_2	30_days_longterm_0_1
+nitrate_sam	0.8336122	9_days_longterm_50_2	30_days_longterm_50_2
+nitrate_sam	0.8874553	25.49mg/l	0.045mg/l
+nitrate_sam	0.9705237	25.49mg/l	26.64mg/l
+nitrate_sam	0.8417026	25.49mg/l	2.5mg/kg
+nitrate_sam	0.99475867	25.49mg/l	25.23mg/l
+nitrate_sam	0.99421096	25.49mg/l	25.58mg/l
+nitrate_sam	0.71576023	25.49mg/l	0mg/kg
+nitrate_sam	0.99388707	25.49mg/l	25.21mg/l
+nitrate_sam	0.96600413	25.49mg/l	29.6mg/l
+nitrate_sam	0.9762176	25.49mg/l	26.43mg/l
+nitrate_sam	0.9904862	25.49mg/l	25.03mg/l
+nitrate_sam	0.8418696	25.49mg/l	200mg/l
+nitrate_sam	0.9755067	25.49mg/l	24.73mg/l
+nitrate_sam	0.96849483	25.49mg/l	27.17mg/l
+nitrate_sam	0.8475547	25.49mg/l	4.9mg/kg
+nitrate_sam	0.90306354	25.49mg/l	40mg/l
+nitrate_sam	0.9727595	25.49mg/l	26.17mg/l
+nitrate_sam	0.97259295	25.49mg/l	28.82mg/l
+nitrate_sam	0.863263	25.49mg/l	0-10mg/l
+nitrate_sam	0.9882765	25.49mg/l	25.84mg/l
+nitrate_sam	0.96805835	25.49mg/l	27.43mg/l
+nitrate_sam	0.99550736	25.49mg/l	25.39mg/l
+nitrate_sam	0.9445529	25.49mg/l	25mg/l
+nitrate_sam	0.9162015	25.49mg/l	9.49mg/l
+nitrate_sam	0.8595946	25.49mg/l	150mg/l
+nitrate_sam	0.8286196	25.49mg/l	8.4-4.6 mg/l
+nitrate_sam	0.92061824	25.49mg/l	53.92mg/l
+nitrate_sam	0.7164501	25.49mg/l	2,01 mg/l
+nitrate_sam	0.97922385	25.49mg/l	24.58mg/l
+nitrate_sam	0.8932941	25.34mg/l	0.045mg/l
+nitrate_sam	0.9692733	25.34mg/l	26.64mg/l
+nitrate_sam	0.84698117	25.34mg/l	2.5mg/kg
+nitrate_sam	0.9955114	25.34mg/l	25.23mg/l
+nitrate_sam	0.9932825	25.34mg/l	25.58mg/l
+nitrate_sam	0.717822	25.34mg/l	0mg/kg
+nitrate_sam	0.9956714	25.34mg/l	25.21mg/l
+nitrate_sam	0.9662369	25.34mg/l	29.6mg/l
+nitrate_sam	0.97875583	25.34mg/l	26.43mg/l
+nitrate_sam	0.99242985	25.34mg/l	25.03mg/l
+nitrate_sam	0.84867644	25.34mg/l	200mg/l
+nitrate_sam	0.97505844	25.34mg/l	24.73mg/l
+nitrate_sam	0.971329	25.34mg/l	27.17mg/l
+nitrate_sam	0.85148036	25.34mg/l	4.9mg/kg
+nitrate_sam	0.91178954	25.34mg/l	40mg/l
+nitrate_sam	0.97527903	25.34mg/l	26.17mg/l
+nitrate_sam	0.9750687	25.34mg/l	28.82mg/l
+nitrate_sam	0.872792	25.34mg/l	0-10mg/l
+nitrate_sam	0.9853873	25.34mg/l	25.84mg/l
+nitrate_sam	0.97069263	25.34mg/l	27.43mg/l
+nitrate_sam	0.9970536	25.34mg/l	25.39mg/l
+nitrate_sam	0.950974	25.34mg/l	25mg/l
+nitrate_sam	0.9180745	25.34mg/l	9.49mg/l
+nitrate_sam	0.86996174	25.34mg/l	150mg/l
+nitrate_sam	0.8327397	25.34mg/l	8.4-4.6 mg/l
+nitrate_sam	0.92046463	25.34mg/l	53.92mg/l
+nitrate_sam	0.7188928	25.34mg/l	2,01 mg/l
+nitrate_sam	0.9802925	25.34mg/l	24.58mg/l
+nitrate_sam	0.995733	25.34mg/l	25.49mg/l
+nitrate_sam	0.84666234	1.5mm	3.0mm
+nitrate_sam	0.88078594	0.75mm	3.0mm
+nitrate_sam	0.73244274	0.75mm	0mm
+nitrate_sam	0.8968799	0.75mm	1.5mm
+nitrate_sam	0.740046	2,731	3,936
+nitrate_sam	0.92444766	2,731	3,739
+nitrate_sam	0.75011694	9,914	3,936
+nitrate_sam	0.76003236	9,914	7,946
+nitrate_sam	0.92627144	numeric umol l-1	numeric umol/l
+nitrate_sam	0.8089869	0,06	0,05
+nitrate_sam	0.79875636	0,06	0,02
+nitrate_sam	0.8494016	9.0mm	3.0mm
+nitrate_sam	0.7807437	9.0mm	1.5mm
+nitrate_sam	0.82457924	9.0mm	0.75mm
+nitrate_sam	0.9208559	numeric ug/l	numeric ug-n/l
+nitrate_sam	0.7042564	numeric ug/l	numeric um
+nitrate_sam	0.8088732	numeric ug/l	numeric umol/l
+nitrate_sam	0.7752746	numeric ug/l	number ug/l
+nitrate_sam	0.7556263	numeric ug/l	number ug-n/l
+nitrate_sam	0.84846413	0,94	0,91
+nitrate_sam	0.9140166	25.91mg/l	0.045mg/l
+nitrate_sam	0.97133005	25.91mg/l	26.64mg/l
+nitrate_sam	0.8412459	25.91mg/l	2.5mg/kg
+nitrate_sam	0.9850935	25.91mg/l	25.23mg/l
+nitrate_sam	0.9896214	25.91mg/l	25.58mg/l
+nitrate_sam	0.73056096	25.91mg/l	0mg/kg
+nitrate_sam	0.9836828	25.91mg/l	25.21mg/l
+nitrate_sam	0.9591042	25.91mg/l	29.6mg/l
+nitrate_sam	0.9696777	25.91mg/l	26.43mg/l
+nitrate_sam	0.98515034	25.91mg/l	25.03mg/l
+nitrate_sam	0.84582174	25.91mg/l	200mg/l
+nitrate_sam	0.98068035	25.91mg/l	24.73mg/l
+nitrate_sam	0.9590763	25.91mg/l	27.17mg/l
+nitrate_sam	0.8522485	25.91mg/l	4.9mg/kg
+nitrate_sam	0.8989947	25.91mg/l	40mg/l
+nitrate_sam	0.95957494	25.91mg/l	26.17mg/l
+nitrate_sam	0.9693264	25.91mg/l	28.82mg/l
+nitrate_sam	0.8595461	25.91mg/l	0-10mg/l
+nitrate_sam	0.9950894	25.91mg/l	25.84mg/l
+nitrate_sam	0.96278906	25.91mg/l	27.43mg/l
+nitrate_sam	0.991164	25.91mg/l	25.39mg/l
+nitrate_sam	0.9294425	25.91mg/l	25mg/l
+nitrate_sam	0.918402	25.91mg/l	9.49mg/l
+nitrate_sam	0.8620242	25.91mg/l	150mg/l
+nitrate_sam	0.8464889	25.91mg/l	8.4-4.6 mg/l
+nitrate_sam	0.7284391	25.91mg/l	mg/l
+nitrate_sam	0.94066095	25.91mg/l	53.92mg/l
+nitrate_sam	0.7664199	25.91mg/l	2,01 mg/l
+nitrate_sam	0.97300625	25.91mg/l	24.58mg/l
+nitrate_sam	0.98761225	25.91mg/l	25.49mg/l
+nitrate_sam	0.98460114	25.91mg/l	25.34mg/l
+nitrate_sam	0.73616195	numeric g/kg	numeric mg/l
+nitrate_sam	0.7493548	numeric g/kg	numeric µmol/kg
+nitrate_sam	0.71997917	numeric g/kg	numeric mg/l number mg/l
+nitrate_sam	0.81747544	numeric g/kg	numeric mg/kg
+nitrate_sam	0.70690334	numeric g/kg	numeric mg n/l
+nitrate_sam	0.75107443	numeric g/kg	numeric numeric mg/l
+nitrate_sam	0.7071605	number mol/l	numeric µmol/l
+nitrate_sam	0.75716233	number mol/l	number mg/l
+nitrate_sam	0.7029725	number mol/l	number µg/l
+nitrate_sam	0.83813184	number mol/l	numeric mol/l
+nitrate_sam	0.72209096	number mol/l	number mg n/l
+nitrate_sam	0.75716233	number mol/l	number mg /l
+nitrate_sam	0.7926979	number mol/l	number µmol/l
+nitrate_sam	0.82443887	number mol/l	mol/l
+nitrate_sam	0.75083375	13,656	14,883
+nitrate_sam	0.8218692	13,656	13,167
+nitrate_sam	0.7223109	0,61	0,51
+nitrate_sam	0.8511892	0,61	0,62
+nitrate_sam	0.80226666	0,94 mg/l	numeric mg/l
+nitrate_sam	0.73569363	0,94 mg/l	numeric mg/l number mg/l
+nitrate_sam	0.7933326	0,94 mg/l	number mg/l
+nitrate_sam	0.71286863	0,94 mg/l	numeric mg/kg
+nitrate_sam	0.7203984	0,94 mg/l	number mg n/l
+nitrate_sam	0.8095859	0,94 mg/l	0.045mg/l
+nitrate_sam	0.72053504	0,94 mg/l	26.64mg/l
+nitrate_sam	0.7392348	0,94 mg/l	numeric mg n/l
+nitrate_sam	0.7933326	0,94 mg/l	number mg /l
+nitrate_sam	0.7142152	0,94 mg/l	25.58mg/l
+nitrate_sam	0.70922285	0,94 mg/l	29.6mg/l
+nitrate_sam	0.744971	0,94 mg/l	24.73mg/l
+nitrate_sam	0.7135856	0,94 mg/l	28.82mg/l
+nitrate_sam	0.7451238	0,94 mg/l	25.84mg/l
+nitrate_sam	0.70889616	0,94 mg/l	27.43mg/l
+nitrate_sam	0.73519015	0,94 mg/l	6.14µmol/l
+nitrate_sam	0.71678424	0,94 mg/l	25.39mg/l
+nitrate_sam	0.7405369	0,94 mg/l	9.49mg/l
+nitrate_sam	0.7243633	0,94 mg/l	150mg/l
+nitrate_sam	0.8155495	0,94 mg/l	8.4-4.6 mg/l
+nitrate_sam	0.848122	0,94 mg/l	mg/l
+nitrate_sam	0.77687657	0,94 mg/l	53.92mg/l
+nitrate_sam	0.75294787	0,94 mg/l	numeric numeric mg/l
+nitrate_sam	0.9205314	0,94 mg/l	2,01 mg/l
+nitrate_sam	0.71183825	0,94 mg/l	24.58mg/l
+nitrate_sam	0.75101113	0,94 mg/l	25.91mg/l
+nitrate_sam	0.7527784	0,78	0,91
+nitrate_sam	0.9227507	25.61mg/l	0.045mg/l
+nitrate_sam	0.9725078	25.61mg/l	26.64mg/l
+nitrate_sam	0.8520383	25.61mg/l	2.5mg/kg
+nitrate_sam	0.9828737	25.61mg/l	25.23mg/l
+nitrate_sam	0.98753166	25.61mg/l	25.58mg/l
+nitrate_sam	0.73291206	25.61mg/l	0mg/kg
+nitrate_sam	0.98455507	25.61mg/l	25.21mg/l
+nitrate_sam	0.95914286	25.61mg/l	29.6mg/l
+nitrate_sam	0.9681083	25.61mg/l	26.43mg/l
+nitrate_sam	0.978487	25.61mg/l	25.03mg/l
+nitrate_sam	0.85026884	25.61mg/l	200mg/l
+nitrate_sam	0.9782771	25.61mg/l	24.73mg/l
+nitrate_sam	0.9579046	25.61mg/l	27.17mg/l
+nitrate_sam	0.8609617	25.61mg/l	4.9mg/kg
+nitrate_sam	0.9038455	25.61mg/l	40mg/l
+nitrate_sam	0.956185	25.61mg/l	26.17mg/l
+nitrate_sam	0.9670528	25.61mg/l	28.82mg/l
+nitrate_sam	0.87369657	25.61mg/l	0-10mg/l
+nitrate_sam	0.9942002	25.61mg/l	25.84mg/l
+nitrate_sam	0.9626967	25.61mg/l	27.43mg/l
+nitrate_sam	0.9897733	25.61mg/l	25.39mg/l
+nitrate_sam	0.93335676	25.61mg/l	25mg/l
+nitrate_sam	0.91858506	25.61mg/l	9.49mg/l
+nitrate_sam	0.86649865	25.61mg/l	150mg/l
+nitrate_sam	0.85593134	25.61mg/l	8.4-4.6 mg/l
+nitrate_sam	0.7261505	25.61mg/l	mg/l
+nitrate_sam	0.9407474	25.61mg/l	53.92mg/l
+nitrate_sam	0.7746156	25.61mg/l	2,01 mg/l
+nitrate_sam	0.9703908	25.61mg/l	24.58mg/l
+nitrate_sam	0.98346627	25.61mg/l	25.49mg/l
+nitrate_sam	0.9831499	25.61mg/l	25.34mg/l
+nitrate_sam	0.99334776	25.61mg/l	25.91mg/l
+nitrate_sam	0.7546371	25.61mg/l	0,94 mg/l
+nitrate_sam	0.70625114	1,07	7,015
+nitrate_sam	0.7566836	0,53	0,51
+nitrate_sam	0.8425338	number mg n /l	numeric mg/l
+nitrate_sam	0.74381983	number mg n /l	numeric mg l-1
+nitrate_sam	0.851884	number mg n /l	numeric mg/l number mg/l
+nitrate_sam	0.91804796	number mg n /l	number mg/l
+nitrate_sam	0.7252208	number mg n /l	number µmol/kg
+nitrate_sam	0.75470835	number mg n /l	number µg/l
+nitrate_sam	0.74516964	number mg n /l	numeric mg/kg
+nitrate_sam	1.0000001	number mg n /l	number mg n/l
+nitrate_sam	0.7699735	number mg n /l	numeric mg.l-1
+nitrate_sam	0.91481996	number mg n /l	numeric mg n/l
+nitrate_sam	0.91804796	number mg n /l	number mg /l
+nitrate_sam	0.72478676	number mg n /l	number µmol/l
+nitrate_sam	0.8245442	number mg n /l	mg/l
+nitrate_sam	0.8169943	number mg n /l	numeric numeric mg/l
+nitrate_sam	0.77833605	number mg n /l	2,01 mg/l
+nitrate_sam	0.72209096	number mg n /l	number mol/l
+nitrate_sam	0.7203984	number mg n /l	0,94 mg/l
+nitrate_sam	0.7260071	numeric microm	numeric µmol/l
+nitrate_sam	0.801474	numeric microm	numeric micro molar
+nitrate_sam	0.80066854	numeric microm	numeric mm
+nitrate_sam	0.8526734	numeric microm	number µm
+nitrate_sam	0.93569523	numeric microm	numeric µm
+nitrate_sam	0.73223364	numeric microm	numeric micromoles per l
+nitrate_sam	0.70394254	numeric microm	numeric micromoleperliter
+nitrate_sam	0.8883333	numeric microm	numeric micromolar
+nitrate_sam	0.96702325	9_days_enrichments_0_2	9_days_enrichments_100_2
+nitrate_sam	0.9625812	9_days_enrichments_0_2	9_days_enrichments_50_2
+nitrate_sam	0.8460082	9_days_enrichments_0_2	30_days_enrichments_50_1
+nitrate_sam	0.85156727	9_days_enrichments_0_2	30_days_enrichments_50_2
+nitrate_sam	0.88309187	9_days_enrichments_0_2	30_days_enrichments_0_1
+nitrate_sam	0.961202	9_days_enrichments_0_2	9_days_enrichments_50_1
+nitrate_sam	0.86067957	9_days_enrichments_0_2	30_days_enrichments_100_1
+nitrate_sam	0.95525163	30_days_longterm_50_1	30_days_longterm_100_1
+nitrate_sam	0.75571585	30_days_longterm_50_1	9_days_longterm_100_1
+nitrate_sam	0.9269365	30_days_longterm_50_1	30_days_longterm_0_2
+nitrate_sam	0.7143537	30_days_longterm_50_1	30_days_enrichments_50_1
+nitrate_sam	0.8318356	30_days_longterm_50_1	9_days_longterm_50_1
+nitrate_sam	0.71239567	30_days_longterm_50_1	30_days_enrichments_50_2
+nitrate_sam	0.9306376	30_days_longterm_50_1	30_days_longterm_0_1
+nitrate_sam	0.9881642	30_days_longterm_50_1	30_days_longterm_50_2
+nitrate_sam	0.82238615	30_days_longterm_50_1	9_days_longterm_50_2
+nitrate_sam	0.71570045	3,715	3,936
+nitrate_sam	0.8305822	3,715	3,739
+nitrate_sam	0.7586684	3,715	3,69
+nitrate_sam	0.7130495	3,715	7,085
+nitrate_sam	0.8181747	3,715	2,731
+nitrate_sam	0.76868963	number micromole per liter	numeric µmol/l
+nitrate_sam	0.926301	number micromole per liter	numeric micromoles per liter
+nitrate_sam	0.7149744	number micromole per liter	number mg/l
+nitrate_sam	0.74221694	number micromole per liter	number µmol/kg
+nitrate_sam	0.76955616	number micromole per liter	number µg/l
+nitrate_sam	0.7149744	number micromole per liter	number mg /l
+nitrate_sam	0.84971845	number micromole per liter	numeric micromoles per l
+nitrate_sam	0.9337522	number micromole per liter	numeric micromole per liter
+nitrate_sam	0.8230006	number micromole per liter	number µmol/l
+nitrate_sam	0.7486625	0,66	0,62
+nitrate_sam	0.803952	0,66	2,66
+nitrate_sam	0.7288723	0,66	0,06
+nitrate_sam	0.7974893	0,66	0,61
+nitrate_sam	0.73322916	0,20	0,5
+nitrate_sam	0.7791189	0,20	0,22
+nitrate_sam	0.79134715	0,03	0,05
+nitrate_sam	0.8148034	0,03	0,02
+nitrate_sam	0.81874394	0,03	0,06
+nitrate_sam	0.8963324	25.08mg/l	0.045mg/l
+nitrate_sam	0.9695081	25.08mg/l	26.64mg/l
+nitrate_sam	0.83638453	25.08mg/l	2.5mg/kg
+nitrate_sam	0.99423194	25.08mg/l	25.23mg/l
+nitrate_sam	0.99295825	25.08mg/l	25.58mg/l
+nitrate_sam	0.7151852	25.08mg/l	0mg/kg
+nitrate_sam	0.99274445	25.08mg/l	25.21mg/l
+nitrate_sam	0.9608551	25.08mg/l	29.6mg/l
+nitrate_sam	0.9740749	25.08mg/l	26.43mg/l
+nitrate_sam	0.9960333	25.08mg/l	25.03mg/l
+nitrate_sam	0.84799063	25.08mg/l	200mg/l
+nitrate_sam	0.9746717	25.08mg/l	24.73mg/l
+nitrate_sam	0.9668002	25.08mg/l	27.17mg/l
+nitrate_sam	0.84234524	25.08mg/l	4.9mg/kg
+nitrate_sam	0.90104586	25.08mg/l	40mg/l
+nitrate_sam	0.97367835	25.08mg/l	26.17mg/l
+nitrate_sam	0.9684682	25.08mg/l	28.82mg/l
+nitrate_sam	0.86144006	25.08mg/l	0-10mg/l
+nitrate_sam	0.9846687	25.08mg/l	25.84mg/l
+nitrate_sam	0.9636618	25.08mg/l	27.43mg/l
+nitrate_sam	0.9937228	25.08mg/l	25.39mg/l
+nitrate_sam	0.94616145	25.08mg/l	25mg/l
+nitrate_sam	0.9095614	25.08mg/l	9.49mg/l
+nitrate_sam	0.86561143	25.08mg/l	150mg/l
+nitrate_sam	0.8209187	25.08mg/l	8.4-4.6 mg/l
+nitrate_sam	0.91901654	25.08mg/l	53.92mg/l
+nitrate_sam	0.7224276	25.08mg/l	2,01 mg/l
+nitrate_sam	0.98015404	25.08mg/l	24.58mg/l
+nitrate_sam	0.99100816	25.08mg/l	25.49mg/l
+nitrate_sam	0.9933689	25.08mg/l	25.34mg/l
+nitrate_sam	0.98503315	25.08mg/l	25.91mg/l
+nitrate_sam	0.9800153	25.08mg/l	25.61mg/l
+nitrate_sam	0.88820124	24.98mg/l	0.045mg/l
+nitrate_sam	0.96780574	24.98mg/l	26.64mg/l
+nitrate_sam	0.8250531	24.98mg/l	2.5mg/kg
+nitrate_sam	0.9692566	24.98mg/l	25.23mg/l
+nitrate_sam	0.9731835	24.98mg/l	25.58mg/l
+nitrate_sam	0.7067435	24.98mg/l	0mg/kg
+nitrate_sam	0.96858346	24.98mg/l	25.21mg/l
+nitrate_sam	0.9559665	24.98mg/l	29.6mg/l
+nitrate_sam	0.9652995	24.98mg/l	26.43mg/l
+nitrate_sam	0.9661678	24.98mg/l	25.03mg/l
+nitrate_sam	0.82777023	24.98mg/l	200mg/l
+nitrate_sam	0.9921232	24.98mg/l	24.73mg/l
+nitrate_sam	0.9576442	24.98mg/l	27.17mg/l
+nitrate_sam	0.83474344	24.98mg/l	4.9mg/kg
+nitrate_sam	0.86871886	24.98mg/l	40mg/l
+nitrate_sam	0.9572681	24.98mg/l	26.17mg/l
+nitrate_sam	0.9627017	24.98mg/l	28.82mg/l
+nitrate_sam	0.8335661	24.98mg/l	0-10mg/l
+nitrate_sam	0.97326076	24.98mg/l	25.84mg/l
+nitrate_sam	0.96028256	24.98mg/l	27.43mg/l
+nitrate_sam	0.97118914	24.98mg/l	25.39mg/l
+nitrate_sam	0.9054681	24.98mg/l	25mg/l
+nitrate_sam	0.90234584	24.98mg/l	9.49mg/l
+nitrate_sam	0.8415693	24.98mg/l	150mg/l
+nitrate_sam	0.8366755	24.98mg/l	8.4-4.6 mg/l
+nitrate_sam	0.92142004	24.98mg/l	53.92mg/l
+nitrate_sam	0.7389546	24.98mg/l	2,01 mg/l
+nitrate_sam	0.9901923	24.98mg/l	24.58mg/l
+nitrate_sam	0.9702441	24.98mg/l	25.49mg/l
+nitrate_sam	0.9678443	24.98mg/l	25.34mg/l
+nitrate_sam	0.9739166	24.98mg/l	25.91mg/l
+nitrate_sam	0.74342227	24.98mg/l	0,94 mg/l
+nitrate_sam	0.9658849	24.98mg/l	25.61mg/l
+nitrate_sam	0.97162724	24.98mg/l	25.08mg/l
+nitrate_sam	0.74391097	below detectable level	below detection limit
+nitrate_sam	0.7185862	below detectable level	under detection limit
+nitrate_sam	0.8457434	0.375mm	3.0mm
+nitrate_sam	0.81946594	0.375mm	1.5mm
+nitrate_sam	0.9657746	0.375mm	0.75mm
+nitrate_sam	0.78537655	0.375mm	9.0mm
+nitrate_sam	0.7544879	0,074	7,015
+nitrate_sam	0.76549137	0,074	7,085
+nitrate_sam	0.7882261	0,074	1,07
+nitrate_sam	0.7023839	0,11	0,12
+nitrate_sam	0.70217824	0,11	0,22
+nitrate_sam	0.87324035	0,003857143	0,000357143
+nitrate_sam	0.84699297	0,003857143	0,001214286
+nitrate_sam	0.8677009	0,003857143	0,001785714
+nitrate_sam	0.9013547	0,003857143	0,001428571
+nitrate_sam	0.94808346	0,003857143	0,002857143
+nitrate_sam	0.90082633	0,003857143	0,002071429
+nitrate_sam	0.8880273	0,003857143	0,000714286
+nitrate_sam	0.90334255	0,003857143	0,000857143
+nitrate_sam	0.893039	1,731	3,739
+nitrate_sam	0.90291286	1,731	2,731
+nitrate_sam	0.76269406	1,731	3,715
+nitrate_sam	0.7035687	3.8mg/kg	numeric mg/kg
+nitrate_sam	0.8297696	3.8mg/kg	0.045mg/l
+nitrate_sam	0.83000636	3.8mg/kg	26.64mg/l
+nitrate_sam	0.9814046	3.8mg/kg	2.5mg/kg
+nitrate_sam	0.8442731	3.8mg/kg	25.23mg/l
+nitrate_sam	0.8442887	3.8mg/kg	25.58mg/l
+nitrate_sam	0.8470954	3.8mg/kg	0mg/kg
+nitrate_sam	0.84294814	3.8mg/kg	25.21mg/l
+nitrate_sam	0.8435972	3.8mg/kg	29.6mg/l
+nitrate_sam	0.83727634	3.8mg/kg	26.43mg/l
+nitrate_sam	0.83516634	3.8mg/kg	25.03mg/l
+nitrate_sam	0.7771008	3.8mg/kg	200mg/l
+nitrate_sam	0.84008497	3.8mg/kg	24.73mg/l
+nitrate_sam	0.8466798	3.8mg/kg	27.17mg/l
+nitrate_sam	0.9801848	3.8mg/kg	4.9mg/kg
+nitrate_sam	0.792389	3.8mg/kg	40mg/l
+nitrate_sam	0.8253823	3.8mg/kg	26.17mg/l
+nitrate_sam	0.8476119	3.8mg/kg	28.82mg/l
+nitrate_sam	0.81681824	3.8mg/kg	0-10mg/l
+nitrate_sam	0.8480275	3.8mg/kg	25.84mg/l
+nitrate_sam	0.85053027	3.8mg/kg	27.43mg/l
+nitrate_sam	0.8521259	3.8mg/kg	25.39mg/l
+nitrate_sam	0.7992044	3.8mg/kg	25mg/l
+nitrate_sam	0.86011946	3.8mg/kg	9.49mg/l
+nitrate_sam	0.8012755	3.8mg/kg	150mg/l
+nitrate_sam	0.8307742	3.8mg/kg	8.4-4.6 mg/l
+nitrate_sam	0.8489515	3.8mg/kg	53.92mg/l
+nitrate_sam	0.7210671	3.8mg/kg	2,01 mg/l
+nitrate_sam	0.83466005	3.8mg/kg	24.58mg/l
+nitrate_sam	0.8419364	3.8mg/kg	25.49mg/l
+nitrate_sam	0.8474049	3.8mg/kg	25.34mg/l
+nitrate_sam	0.8456076	3.8mg/kg	25.91mg/l
+nitrate_sam	0.70508957	3.8mg/kg	0,94 mg/l
+nitrate_sam	0.8587194	3.8mg/kg	25.61mg/l
+nitrate_sam	0.8367	3.8mg/kg	25.08mg/l
+nitrate_sam	0.8311006	3.8mg/kg	24.98mg/l
+nitrate_sam	0.8961735	24.71mg/l	0.045mg/l
+nitrate_sam	0.97157717	24.71mg/l	26.64mg/l
+nitrate_sam	0.8249048	24.71mg/l	2.5mg/kg
+nitrate_sam	0.97506547	24.71mg/l	25.23mg/l
+nitrate_sam	0.975841	24.71mg/l	25.58mg/l
+nitrate_sam	0.7025592	24.71mg/l	0mg/kg
+nitrate_sam	0.97568774	24.71mg/l	25.21mg/l
+nitrate_sam	0.9617802	24.71mg/l	29.6mg/l
+nitrate_sam	0.9740108	24.71mg/l	26.43mg/l
+nitrate_sam	0.96718395	24.71mg/l	25.03mg/l
+nitrate_sam	0.83233356	24.71mg/l	200mg/l
+nitrate_sam	0.99743235	24.71mg/l	24.73mg/l
+nitrate_sam	0.9647126	24.71mg/l	27.17mg/l
+nitrate_sam	0.83480513	24.71mg/l	4.9mg/kg
+nitrate_sam	0.88275766	24.71mg/l	40mg/l
+nitrate_sam	0.9625696	24.71mg/l	26.17mg/l
+nitrate_sam	0.97150373	24.71mg/l	28.82mg/l
+nitrate_sam	0.848488	24.71mg/l	0-10mg/l
+nitrate_sam	0.9792502	24.71mg/l	25.84mg/l
+nitrate_sam	0.9702267	24.71mg/l	27.43mg/l
+nitrate_sam	0.97625804	24.71mg/l	25.39mg/l
+nitrate_sam	0.91805553	24.71mg/l	25mg/l
+nitrate_sam	0.9097675	24.71mg/l	9.49mg/l
+nitrate_sam	0.852	24.71mg/l	150mg/l
+nitrate_sam	0.8361886	24.71mg/l	8.4-4.6 mg/l
+nitrate_sam	0.9270996	24.71mg/l	53.92mg/l
+nitrate_sam	0.73571444	24.71mg/l	2,01 mg/l
+nitrate_sam	0.9924339	24.71mg/l	24.58mg/l
+nitrate_sam	0.97344124	24.71mg/l	25.49mg/l
+nitrate_sam	0.9740038	24.71mg/l	25.34mg/l
+nitrate_sam	0.9757396	24.71mg/l	25.91mg/l
+nitrate_sam	0.7320688	24.71mg/l	0,94 mg/l
+nitrate_sam	0.97282887	24.71mg/l	25.61mg/l
+nitrate_sam	0.9739586	24.71mg/l	25.08mg/l
+nitrate_sam	0.9922472	24.71mg/l	24.98mg/l
+nitrate_sam	0.83205307	24.71mg/l	3.8mg/kg
+nitrate_sam	0.9112556	25.71mg/l	0.045mg/l
+nitrate_sam	0.9763888	25.71mg/l	26.64mg/l
+nitrate_sam	0.83822346	25.71mg/l	2.5mg/kg
+nitrate_sam	0.98964965	25.71mg/l	25.23mg/l
+nitrate_sam	0.99203634	25.71mg/l	25.58mg/l
+nitrate_sam	0.71976745	25.71mg/l	0mg/kg
+nitrate_sam	0.9895787	25.71mg/l	25.21mg/l
+nitrate_sam	0.96439284	25.71mg/l	29.6mg/l
+nitrate_sam	0.9787673	25.71mg/l	26.43mg/l
+nitrate_sam	0.9832337	25.71mg/l	25.03mg/l
+nitrate_sam	0.8454877	25.71mg/l	200mg/l
+nitrate_sam	0.9851345	25.71mg/l	24.73mg/l
+nitrate_sam	0.9651768	25.71mg/l	27.17mg/l
+nitrate_sam	0.8458978	25.71mg/l	4.9mg/kg
+nitrate_sam	0.90047646	25.71mg/l	40mg/l
+nitrate_sam	0.9657773	25.71mg/l	26.17mg/l
+nitrate_sam	0.97715473	25.71mg/l	28.82mg/l
+nitrate_sam	0.8634393	25.71mg/l	0-10mg/l
+nitrate_sam	0.99688816	25.71mg/l	25.84mg/l
+nitrate_sam	0.97174263	25.71mg/l	27.43mg/l
+nitrate_sam	0.9924094	25.71mg/l	25.39mg/l
+nitrate_sam	0.9357016	25.71mg/l	25mg/l
+nitrate_sam	0.9180313	25.71mg/l	9.49mg/l
+nitrate_sam	0.8656261	25.71mg/l	150mg/l
+nitrate_sam	0.84008646	25.71mg/l	8.4-4.6 mg/l
+nitrate_sam	0.7125036	25.71mg/l	mg/l
+nitrate_sam	0.9399463	25.71mg/l	53.92mg/l
+nitrate_sam	0.7538031	25.71mg/l	2,01 mg/l
+nitrate_sam	0.9778461	25.71mg/l	24.58mg/l
+nitrate_sam	0.9899478	25.71mg/l	25.49mg/l
+nitrate_sam	0.98874897	25.71mg/l	25.34mg/l
+nitrate_sam	0.99354136	25.71mg/l	25.91mg/l
+nitrate_sam	0.73583364	25.71mg/l	0,94 mg/l
+nitrate_sam	0.991985	25.71mg/l	25.61mg/l
+nitrate_sam	0.9877802	25.71mg/l	25.08mg/l
+nitrate_sam	0.97507524	25.71mg/l	24.98mg/l
+nitrate_sam	0.84386575	25.71mg/l	3.8mg/kg
+nitrate_sam	0.9840455	25.71mg/l	24.71mg/l
+nitrate_sam	0.8375816	0,38	0,37
+nitrate_sam	0.73708737	0,38	0,32
+nitrate_sam	0.9570036	1.46mg/l	0.045mg/l
+nitrate_sam	0.9204091	1.46mg/l	26.64mg/l
+nitrate_sam	0.84315443	1.46mg/l	2.5mg/kg
+nitrate_sam	0.91756177	1.46mg/l	25.23mg/l
+nitrate_sam	0.92346644	1.46mg/l	25.58mg/l
+nitrate_sam	0.7310825	1.46mg/l	0mg/kg
+nitrate_sam	0.92060786	1.46mg/l	25.21mg/l
+nitrate_sam	0.9106072	1.46mg/l	29.6mg/l
+nitrate_sam	0.91428816	1.46mg/l	26.43mg/l
+nitrate_sam	0.9145517	1.46mg/l	25.03mg/l
+nitrate_sam	0.8424897	1.46mg/l	200mg/l
+nitrate_sam	0.9205259	1.46mg/l	24.73mg/l
+nitrate_sam	0.91233325	1.46mg/l	27.17mg/l
+nitrate_sam	0.8444801	1.46mg/l	4.9mg/kg
+nitrate_sam	0.8818799	1.46mg/l	40mg/l
+nitrate_sam	0.8955648	1.46mg/l	26.17mg/l
+nitrate_sam	0.91861904	1.46mg/l	28.82mg/l
+nitrate_sam	0.88971746	1.46mg/l	0-10mg/l
+nitrate_sam	0.933828	1.46mg/l	25.84mg/l
+nitrate_sam	0.92176473	1.46mg/l	27.43mg/l
+nitrate_sam	0.93095374	1.46mg/l	25.39mg/l
+nitrate_sam	0.88689756	1.46mg/l	25mg/l
+nitrate_sam	0.9233254	1.46mg/l	9.49mg/l
+nitrate_sam	0.87256247	1.46mg/l	150mg/l
+nitrate_sam	0.8483387	1.46mg/l	8.4-4.6 mg/l
+nitrate_sam	0.752278	1.46mg/l	mg/l
+nitrate_sam	0.9261819	1.46mg/l	53.92mg/l
+nitrate_sam	0.8217641	1.46mg/l	2,01 mg/l
+nitrate_sam	0.90816134	1.46mg/l	24.58mg/l
+nitrate_sam	0.915131	1.46mg/l	25.49mg/l
+nitrate_sam	0.92106473	1.46mg/l	25.34mg/l
+nitrate_sam	0.9294976	1.46mg/l	25.91mg/l
+nitrate_sam	0.8028532	1.46mg/l	0,94 mg/l
+nitrate_sam	0.942811	1.46mg/l	25.61mg/l
+nitrate_sam	0.9185362	1.46mg/l	25.08mg/l
+nitrate_sam	0.90090775	1.46mg/l	24.98mg/l
+nitrate_sam	0.84892595	1.46mg/l	3.8mg/kg
+nitrate_sam	0.914812	1.46mg/l	24.71mg/l
+nitrate_sam	0.93237054	1.46mg/l	25.71mg/l
+nitrate_sam	0.7156656	4.92µmol/l	numeric µmol/l
+nitrate_sam	0.75405586	4.92µmol/l	number µmol/l
+nitrate_sam	0.97371894	4.92µmol/l	6.14µmol/l
+nitrate_sam	0.7428464	4.92µmol/l	2,01 mg/l
+nitrate_sam	0.73316556	4.92µmol/l	0,94 mg/l
+nitrate_sam	0.9362861	0,001357143	0,000357143
+nitrate_sam	0.88859415	0,001357143	0,001214286
+nitrate_sam	0.94157076	0,001357143	0,001785714
+nitrate_sam	0.9374453	0,001357143	0,001428571
+nitrate_sam	0.88910425	0,001357143	0,002857143
+nitrate_sam	0.8439151	0,001357143	0,002071429
+nitrate_sam	0.8928894	0,001357143	0,000714286
+nitrate_sam	0.9131007	0,001357143	0,000857143
+nitrate_sam	0.8755817	0,001357143	0,003857143
+nitrate_sam	0.7028419	30_days_enrichments_100_2	30_days_longterm_100_1
+nitrate_sam	0.9098805	30_days_enrichments_100_2	9_days_enrichments_100_2
+nitrate_sam	0.9058465	30_days_enrichments_100_2	9_days_enrichments_50_2
+nitrate_sam	0.97553205	30_days_enrichments_100_2	30_days_enrichments_50_1
+nitrate_sam	0.98109025	30_days_enrichments_100_2	30_days_enrichments_50_2
+nitrate_sam	0.957155	30_days_enrichments_100_2	30_days_enrichments_0_1
+nitrate_sam	0.9032613	30_days_enrichments_100_2	9_days_enrichments_50_1
+nitrate_sam	0.99533486	30_days_enrichments_100_2	30_days_enrichments_100_1
+nitrate_sam	0.8603376	30_days_enrichments_100_2	9_days_enrichments_0_2
+nitrate_sam	0.8984339	25.38mg/l	0.045mg/l
+nitrate_sam	0.9721538	25.38mg/l	26.64mg/l
+nitrate_sam	0.8421107	25.38mg/l	2.5mg/kg
+nitrate_sam	0.9953796	25.38mg/l	25.23mg/l
+nitrate_sam	0.99532866	25.38mg/l	25.58mg/l
+nitrate_sam	0.7131444	25.38mg/l	0mg/kg
+nitrate_sam	0.9949639	25.38mg/l	25.21mg/l
+nitrate_sam	0.9653303	25.38mg/l	29.6mg/l
+nitrate_sam	0.9789125	25.38mg/l	26.43mg/l
+nitrate_sam	0.9918138	25.38mg/l	25.03mg/l
+nitrate_sam	0.8478688	25.38mg/l	200mg/l
+nitrate_sam	0.9772725	25.38mg/l	24.73mg/l
+nitrate_sam	0.97135496	25.38mg/l	27.17mg/l
+nitrate_sam	0.8455354	25.38mg/l	4.9mg/kg
+nitrate_sam	0.91401124	25.38mg/l	40mg/l
+nitrate_sam	0.9758603	25.38mg/l	26.17mg/l
+nitrate_sam	0.97273946	25.38mg/l	28.82mg/l
+nitrate_sam	0.87232757	25.38mg/l	0-10mg/l
+nitrate_sam	0.9873092	25.38mg/l	25.84mg/l
+nitrate_sam	0.96961766	25.38mg/l	27.43mg/l
+nitrate_sam	0.9974288	25.38mg/l	25.39mg/l
+nitrate_sam	0.95022273	25.38mg/l	25mg/l
+nitrate_sam	0.9193519	25.38mg/l	9.49mg/l
+nitrate_sam	0.87027824	25.38mg/l	150mg/l
+nitrate_sam	0.8346571	25.38mg/l	8.4-4.6 mg/l
+nitrate_sam	0.9272436	25.38mg/l	53.92mg/l
+nitrate_sam	0.7299987	25.38mg/l	2,01 mg/l
+nitrate_sam	0.9814867	25.38mg/l	24.58mg/l
+nitrate_sam	0.9932839	25.38mg/l	25.49mg/l
+nitrate_sam	0.9968194	25.38mg/l	25.34mg/l
+nitrate_sam	0.9866352	25.38mg/l	25.91mg/l
+nitrate_sam	0.71104807	25.38mg/l	0,94 mg/l
+nitrate_sam	0.9852534	25.38mg/l	25.61mg/l
+nitrate_sam	0.9949728	25.38mg/l	25.08mg/l
+nitrate_sam	0.9699967	25.38mg/l	24.98mg/l
+nitrate_sam	0.8430729	25.38mg/l	3.8mg/kg
+nitrate_sam	0.9750926	25.38mg/l	24.71mg/l
+nitrate_sam	0.9906135	25.38mg/l	25.71mg/l
+nitrate_sam	0.9281771	25.38mg/l	1.46mg/l
+nitrate_sam	0.7062441	0,43	0,51
+nitrate_sam	0.7234977	0,43	0,37
+nitrate_sam	0.782211	0,43	0,38
+nitrate_sam	0.8133172	30.8mg/kg	0.045mg/l
+nitrate_sam	0.86819017	30.8mg/kg	26.64mg/l
+nitrate_sam	0.9392314	30.8mg/kg	2.5mg/kg
+nitrate_sam	0.88225764	30.8mg/kg	25.23mg/l
+nitrate_sam	0.8799636	30.8mg/kg	25.58mg/l
+nitrate_sam	0.82383955	30.8mg/kg	0mg/kg
+nitrate_sam	0.8810909	30.8mg/kg	25.21mg/l
+nitrate_sam	0.90375733	30.8mg/kg	29.6mg/l
+nitrate_sam	0.8731576	30.8mg/kg	26.43mg/l
+nitrate_sam	0.87531173	30.8mg/kg	25.03mg/l
+nitrate_sam	0.77470684	30.8mg/kg	200mg/l
+nitrate_sam	0.8724698	30.8mg/kg	24.73mg/l
+nitrate_sam	0.88863456	30.8mg/kg	27.17mg/l
+nitrate_sam	0.9393978	30.8mg/kg	4.9mg/kg
+nitrate_sam	0.82303	30.8mg/kg	40mg/l
+nitrate_sam	0.8645833	30.8mg/kg	26.17mg/l
+nitrate_sam	0.89397395	30.8mg/kg	28.82mg/l
+nitrate_sam	0.79453397	30.8mg/kg	0-10mg/l
+nitrate_sam	0.8805851	30.8mg/kg	25.84mg/l
+nitrate_sam	0.89063025	30.8mg/kg	27.43mg/l
+nitrate_sam	0.88625026	30.8mg/kg	25.39mg/l
+nitrate_sam	0.8311709	30.8mg/kg	25mg/l
+nitrate_sam	0.84021544	30.8mg/kg	9.49mg/l
+nitrate_sam	0.7988924	30.8mg/kg	150mg/l
+nitrate_sam	0.7995699	30.8mg/kg	8.4-4.6 mg/l
+nitrate_sam	0.8464722	30.8mg/kg	53.92mg/l
+nitrate_sam	0.87078583	30.8mg/kg	24.58mg/l
+nitrate_sam	0.88430345	30.8mg/kg	25.49mg/l
+nitrate_sam	0.88416487	30.8mg/kg	25.34mg/l
+nitrate_sam	0.8790329	30.8mg/kg	25.91mg/l
+nitrate_sam	0.88383335	30.8mg/kg	25.61mg/l
+nitrate_sam	0.87649417	30.8mg/kg	25.08mg/l
+nitrate_sam	0.8713305	30.8mg/kg	24.98mg/l
+nitrate_sam	0.9501615	30.8mg/kg	3.8mg/kg
+nitrate_sam	0.8678154	30.8mg/kg	24.71mg/l
+nitrate_sam	0.8785527	30.8mg/kg	25.71mg/l
+nitrate_sam	0.82850176	30.8mg/kg	1.46mg/l
+nitrate_sam	0.8769624	30.8mg/kg	25.38mg/l
+nitrate_sam	0.7228509	11.01µmol/l	numeric µmol/l
+nitrate_sam	0.70123	11.01µmol/l	0.045mg/l
+nitrate_sam	0.76253986	11.01µmol/l	number µmol/l
+nitrate_sam	0.94640565	11.01µmol/l	6.14µmol/l
+nitrate_sam	0.7523878	11.01µmol/l	2,01 mg/l
+nitrate_sam	0.7254379	11.01µmol/l	0,94 mg/l
+nitrate_sam	0.9310207	11.01µmol/l	4.92µmol/l
+nitrate_sam	0.9145856	25.97mg/l	0.045mg/l
+nitrate_sam	0.9736874	25.97mg/l	26.64mg/l
+nitrate_sam	0.8437995	25.97mg/l	2.5mg/kg
+nitrate_sam	0.98551005	25.97mg/l	25.23mg/l
+nitrate_sam	0.98913145	25.97mg/l	25.58mg/l
+nitrate_sam	0.7336867	25.97mg/l	0mg/kg
+nitrate_sam	0.9840688	25.97mg/l	25.21mg/l
+nitrate_sam	0.9610596	25.97mg/l	29.6mg/l
+nitrate_sam	0.96852535	25.97mg/l	26.43mg/l
+nitrate_sam	0.98716056	25.97mg/l	25.03mg/l
+nitrate_sam	0.853498	25.97mg/l	200mg/l
+nitrate_sam	0.9792439	25.97mg/l	24.73mg/l
+nitrate_sam	0.9604154	25.97mg/l	27.17mg/l
+nitrate_sam	0.85037005	25.97mg/l	4.9mg/kg
+nitrate_sam	0.89821637	25.97mg/l	40mg/l
+nitrate_sam	0.9593409	25.97mg/l	26.17mg/l
+nitrate_sam	0.9671372	25.97mg/l	28.82mg/l
+nitrate_sam	0.8603866	25.97mg/l	0-10mg/l
+nitrate_sam	0.99386334	25.97mg/l	25.84mg/l
+nitrate_sam	0.96367	25.97mg/l	27.43mg/l
+nitrate_sam	0.9897033	25.97mg/l	25.39mg/l
+nitrate_sam	0.9335774	25.97mg/l	25mg/l
+nitrate_sam	0.91445315	25.97mg/l	9.49mg/l
+nitrate_sam	0.8654411	25.97mg/l	150mg/l
+nitrate_sam	0.849728	25.97mg/l	8.4-4.6 mg/l
+nitrate_sam	0.7349578	25.97mg/l	mg/l
+nitrate_sam	0.93694055	25.97mg/l	53.92mg/l
+nitrate_sam	0.77206117	25.97mg/l	2,01 mg/l
+nitrate_sam	0.9730749	25.97mg/l	24.58mg/l
+nitrate_sam	0.98763627	25.97mg/l	25.49mg/l
+nitrate_sam	0.9844836	25.97mg/l	25.34mg/l
+nitrate_sam	0.99533653	25.97mg/l	25.91mg/l
+nitrate_sam	0.7550313	25.97mg/l	0,94 mg/l
+nitrate_sam	0.9895046	25.97mg/l	25.61mg/l
+nitrate_sam	0.98663014	25.97mg/l	25.08mg/l
+nitrate_sam	0.9776243	25.97mg/l	24.98mg/l
+nitrate_sam	0.84824514	25.97mg/l	3.8mg/kg
+nitrate_sam	0.9748857	25.97mg/l	24.71mg/l
+nitrate_sam	0.99205816	25.97mg/l	25.71mg/l
+nitrate_sam	0.9278343	25.97mg/l	1.46mg/l
+nitrate_sam	0.98669404	25.97mg/l	25.38mg/l
+nitrate_sam	0.88476956	25.97mg/l	30.8mg/kg
+nitrate_sam	0.9874147	30_days_longterm_100_2	30_days_longterm_100_1
+nitrate_sam	0.8207061	30_days_longterm_100_2	9_days_longterm_100_1
+nitrate_sam	0.7408358	30_days_longterm_100_2	9_days_longterm_0_2
+nitrate_sam	0.94337237	30_days_longterm_100_2	30_days_longterm_0_2
+nitrate_sam	0.7043327	30_days_longterm_100_2	30_days_enrichments_50_1
+nitrate_sam	0.81045353	30_days_longterm_100_2	9_days_longterm_50_1
+nitrate_sam	0.71432924	30_days_longterm_100_2	30_days_enrichments_50_2
+nitrate_sam	0.92587316	30_days_longterm_100_2	30_days_longterm_0_1
+nitrate_sam	0.95118433	30_days_longterm_100_2	30_days_longterm_50_2
+nitrate_sam	0.8208925	30_days_longterm_100_2	9_days_longterm_50_2
+nitrate_sam	0.94272935	30_days_longterm_100_2	30_days_longterm_50_1
+nitrate_sam	0.7036996	30_days_longterm_100_2	30_days_enrichments_100_2
+nitrate_sam	0.82714665	0,87	0,91
+nitrate_sam	0.8585479	0,87	0,78
+nitrate_sam	0.8554342	5,85	5,90
+nitrate_sam	0.70743316	5,85	0,87
+nitrate_sam	0.7850327	7,82	7,085
+nitrate_sam	0.7122022	7,82	0,78
+nitrate_sam	0.8646184	1,79	1,796
+nitrate_sam	0.75646496	1,79	1,81
+nitrate_sam	0.9093615	25.76mg/l	0.045mg/l
+nitrate_sam	0.97366667	25.76mg/l	26.64mg/l
+nitrate_sam	0.84327006	25.76mg/l	2.5mg/kg
+nitrate_sam	0.98917806	25.76mg/l	25.23mg/l
+nitrate_sam	0.9918953	25.76mg/l	25.58mg/l
+nitrate_sam	0.7204144	25.76mg/l	0mg/kg
+nitrate_sam	0.9891853	25.76mg/l	25.21mg/l
+nitrate_sam	0.9616953	25.76mg/l	29.6mg/l
+nitrate_sam	0.97123617	25.76mg/l	26.43mg/l
+nitrate_sam	0.98688316	25.76mg/l	25.03mg/l
+nitrate_sam	0.847901	25.76mg/l	200mg/l
+nitrate_sam	0.9812869	25.76mg/l	24.73mg/l
+nitrate_sam	0.96303767	25.76mg/l	27.17mg/l
+nitrate_sam	0.8518667	25.76mg/l	4.9mg/kg
+nitrate_sam	0.90176684	25.76mg/l	40mg/l
+nitrate_sam	0.963253	25.76mg/l	26.17mg/l
+nitrate_sam	0.9681431	25.76mg/l	28.82mg/l
+nitrate_sam	0.8679402	25.76mg/l	0-10mg/l
+nitrate_sam	0.99579155	25.76mg/l	25.84mg/l
+nitrate_sam	0.9651166	25.76mg/l	27.43mg/l
+nitrate_sam	0.9932356	25.76mg/l	25.39mg/l
+nitrate_sam	0.9400791	25.76mg/l	25mg/l
+nitrate_sam	0.91463673	25.76mg/l	9.49mg/l
+nitrate_sam	0.8655704	25.76mg/l	150mg/l
+nitrate_sam	0.8421612	25.76mg/l	8.4-4.6 mg/l
+nitrate_sam	0.7077093	25.76mg/l	mg/l
+nitrate_sam	0.93393266	25.76mg/l	53.92mg/l
+nitrate_sam	0.7457686	25.76mg/l	2,01 mg/l
+nitrate_sam	0.9757461	25.76mg/l	24.58mg/l
+nitrate_sam	0.991061	25.76mg/l	25.49mg/l
+nitrate_sam	0.98818094	25.76mg/l	25.34mg/l
+nitrate_sam	0.99535656	25.76mg/l	25.91mg/l
+nitrate_sam	0.72943735	25.76mg/l	0,94 mg/l
+nitrate_sam	0.9939573	25.76mg/l	25.61mg/l
+nitrate_sam	0.98670757	25.76mg/l	25.08mg/l
+nitrate_sam	0.9714451	25.76mg/l	24.98mg/l
+nitrate_sam	0.8473242	25.76mg/l	3.8mg/kg
+nitrate_sam	0.97602946	25.76mg/l	24.71mg/l
+nitrate_sam	0.9937949	25.76mg/l	25.71mg/l
+nitrate_sam	0.92984843	25.76mg/l	1.46mg/l
+nitrate_sam	0.98965514	25.76mg/l	25.38mg/l
+nitrate_sam	0.87998974	25.76mg/l	30.8mg/kg
+nitrate_sam	0.99317515	25.76mg/l	25.97mg/l
+nitrate_sam	0.9958074	9_days_enrichments_100_1	9_days_enrichments_100_2
+nitrate_sam	0.98153365	9_days_enrichments_100_1	9_days_enrichments_50_2
+nitrate_sam	0.8852165	9_days_enrichments_100_1	30_days_enrichments_50_1
+nitrate_sam	0.8862357	9_days_enrichments_100_1	30_days_enrichments_50_2
+nitrate_sam	0.88285184	9_days_enrichments_100_1	30_days_enrichments_0_1
+nitrate_sam	0.9832402	9_days_enrichments_100_1	9_days_enrichments_50_1
+nitrate_sam	0.90911305	9_days_enrichments_100_1	30_days_enrichments_100_1
+nitrate_sam	0.9715547	9_days_enrichments_100_1	9_days_enrichments_0_2
+nitrate_sam	0.90823114	9_days_enrichments_100_1	30_days_enrichments_100_2
+nitrate_sam	0.7437154	9,001	9,99
+nitrate_sam	0.7881858	9,001	9,914
+nitrate_sam	0.73400736	3,27	2,28
+nitrate_sam	0.86257464	1,447	5,449
+nitrate_sam	0.7352824	10,996	9,914
+nitrate_sam	0.7342977	10,996	9,001
+nitrate_sam	0.7130387	8,413	5,449
+nitrate_sam	0.82650876	8,413	3,419
+nitrate_sam	0.7950423	9,225	9,914
+nitrate_sam	0.7943362	9,225	9,001
+nitrate_sam	0.95228875	9_days_enrichments_0_1	9_days_enrichments_100_2
+nitrate_sam	0.9495686	9_days_enrichments_0_1	9_days_enrichments_50_2
+nitrate_sam	0.8437353	9_days_enrichments_0_1	30_days_enrichments_50_1
+nitrate_sam	0.84128046	9_days_enrichments_0_1	30_days_enrichments_50_2
+nitrate_sam	0.89039624	9_days_enrichments_0_1	30_days_enrichments_0_1
+nitrate_sam	0.9563918	9_days_enrichments_0_1	9_days_enrichments_50_1
+nitrate_sam	0.8568878	9_days_enrichments_0_1	30_days_enrichments_100_1
+nitrate_sam	0.99397516	9_days_enrichments_0_1	9_days_enrichments_0_2
+nitrate_sam	0.84775037	9_days_enrichments_0_1	30_days_enrichments_100_2
+nitrate_sam	0.96539503	9_days_enrichments_0_1	9_days_enrichments_100_1
+nitrate_sam	0.90009856	27.77mg/l	0.045mg/l
+nitrate_sam	0.9739281	27.77mg/l	26.64mg/l
+nitrate_sam	0.84402895	27.77mg/l	2.5mg/kg
+nitrate_sam	0.9681382	27.77mg/l	25.23mg/l
+nitrate_sam	0.97070754	27.77mg/l	25.58mg/l
+nitrate_sam	0.72128844	27.77mg/l	0mg/kg
+nitrate_sam	0.96754956	27.77mg/l	25.21mg/l
+nitrate_sam	0.97337043	27.77mg/l	29.6mg/l
+nitrate_sam	0.9736552	27.77mg/l	26.43mg/l
+nitrate_sam	0.96359956	27.77mg/l	25.03mg/l
+nitrate_sam	0.8226365	27.77mg/l	200mg/l
+nitrate_sam	0.9768635	27.77mg/l	24.73mg/l
+nitrate_sam	0.98899484	27.77mg/l	27.17mg/l
+nitrate_sam	0.84822303	27.77mg/l	4.9mg/kg
+nitrate_sam	0.8916858	27.77mg/l	40mg/l
+nitrate_sam	0.9641105	27.77mg/l	26.17mg/l
+nitrate_sam	0.9764449	27.77mg/l	28.82mg/l
+nitrate_sam	0.85043025	27.77mg/l	0-10mg/l
+nitrate_sam	0.97494245	27.77mg/l	25.84mg/l
+nitrate_sam	0.9908583	27.77mg/l	27.43mg/l
+nitrate_sam	0.9735235	27.77mg/l	25.39mg/l
+nitrate_sam	0.9094527	27.77mg/l	25mg/l
+nitrate_sam	0.91513866	27.77mg/l	9.49mg/l
+nitrate_sam	0.84904253	27.77mg/l	150mg/l
+nitrate_sam	0.8276863	27.77mg/l	8.4-4.6 mg/l
+nitrate_sam	0.7079489	27.77mg/l	mg/l
+nitrate_sam	0.9422268	27.77mg/l	53.92mg/l
+nitrate_sam	0.73951006	27.77mg/l	2,01 mg/l
+nitrate_sam	0.96828485	27.77mg/l	24.58mg/l
+nitrate_sam	0.96897113	27.77mg/l	25.49mg/l
+nitrate_sam	0.96810806	27.77mg/l	25.34mg/l
+nitrate_sam	0.97413665	27.77mg/l	25.91mg/l
+nitrate_sam	0.73364687	27.77mg/l	0,94 mg/l
+nitrate_sam	0.97253007	27.77mg/l	25.61mg/l
+nitrate_sam	0.9637959	27.77mg/l	25.08mg/l
+nitrate_sam	0.96600246	27.77mg/l	24.98mg/l
+nitrate_sam	0.85554147	27.77mg/l	3.8mg/kg
+nitrate_sam	0.97125745	27.77mg/l	24.71mg/l
+nitrate_sam	0.9749794	27.77mg/l	25.71mg/l
+nitrate_sam	0.92392075	27.77mg/l	1.46mg/l
+nitrate_sam	0.9697934	27.77mg/l	25.38mg/l
+nitrate_sam	0.8931319	27.77mg/l	30.8mg/kg
+nitrate_sam	0.973431	27.77mg/l	25.97mg/l
+nitrate_sam	0.97576934	27.77mg/l	25.76mg/l
+nitrate_sam	0.744034	7,503	7,015
+nitrate_sam	0.7833145	7,503	7,085
+nitrate_sam	0.7082021	0,17	0,37
+nitrate_sam	0.7254654	7,823	7,015
+nitrate_sam	0.848876	7,823	7,085
+nitrate_sam	0.7049973	7,823	1,771
+nitrate_sam	0.70450604	7,823	2,829
+nitrate_sam	0.8434446	7,823	7,82
+nitrate_sam	0.7985148	7,823	7,503
+nitrate_sam	0.8126029	9_days_longterm_100_2	30_days_longterm_100_1
+nitrate_sam	0.9898771	9_days_longterm_100_2	9_days_longterm_100_1
+nitrate_sam	0.9281863	9_days_longterm_100_2	9_days_longterm_0_2
+nitrate_sam	0.7379181	9_days_longterm_100_2	30_days_longterm_0_2
+nitrate_sam	0.70000386	9_days_longterm_100_2	9_days_enrichments_100_2
+nitrate_sam	0.93750495	9_days_longterm_100_2	9_days_longterm_50_1
+nitrate_sam	0.7281927	9_days_longterm_100_2	30_days_longterm_0_1
+nitrate_sam	0.75230855	9_days_longterm_100_2	30_days_longterm_50_2
+nitrate_sam	0.9488776	9_days_longterm_100_2	9_days_longterm_50_2
+nitrate_sam	0.7430588	9_days_longterm_100_2	30_days_longterm_50_1
+nitrate_sam	0.8300139	9_days_longterm_100_2	30_days_longterm_100_2
+nitrate_sam	0.8084664	11.3mg/kg	0.045mg/l
+nitrate_sam	0.8308598	11.3mg/kg	26.64mg/l
+nitrate_sam	0.94122124	11.3mg/kg	2.5mg/kg
+nitrate_sam	0.843645	11.3mg/kg	25.23mg/l
+nitrate_sam	0.84196055	11.3mg/kg	25.58mg/l
+nitrate_sam	0.8209271	11.3mg/kg	0mg/kg
+nitrate_sam	0.8429264	11.3mg/kg	25.21mg/l
+nitrate_sam	0.83898056	11.3mg/kg	29.6mg/l
+nitrate_sam	0.84815377	11.3mg/kg	26.43mg/l
+nitrate_sam	0.83490753	11.3mg/kg	25.03mg/l
+nitrate_sam	0.75040936	11.3mg/kg	200mg/l
+nitrate_sam	0.8399222	11.3mg/kg	24.73mg/l
+nitrate_sam	0.8399784	11.3mg/kg	27.17mg/l
+nitrate_sam	0.9437512	11.3mg/kg	4.9mg/kg
+nitrate_sam	0.7843342	11.3mg/kg	40mg/l
+nitrate_sam	0.83216214	11.3mg/kg	26.17mg/l
+nitrate_sam	0.848176	11.3mg/kg	28.82mg/l
+nitrate_sam	0.8022809	11.3mg/kg	0-10mg/l
+nitrate_sam	0.84610164	11.3mg/kg	25.84mg/l
+nitrate_sam	0.8495139	11.3mg/kg	27.43mg/l
+nitrate_sam	0.85085344	11.3mg/kg	25.39mg/l
+nitrate_sam	0.7936449	11.3mg/kg	25mg/l
+nitrate_sam	0.8678811	11.3mg/kg	9.49mg/l
+nitrate_sam	0.7848418	11.3mg/kg	150mg/l
+nitrate_sam	0.8135116	11.3mg/kg	8.4-4.6 mg/l
+nitrate_sam	0.84897435	11.3mg/kg	53.92mg/l
+nitrate_sam	0.832059	11.3mg/kg	24.58mg/l
+nitrate_sam	0.84274113	11.3mg/kg	25.49mg/l
+nitrate_sam	0.8490245	11.3mg/kg	25.34mg/l
+nitrate_sam	0.84290236	11.3mg/kg	25.91mg/l
+nitrate_sam	0.8502084	11.3mg/kg	25.61mg/l
+nitrate_sam	0.83860576	11.3mg/kg	25.08mg/l
+nitrate_sam	0.83080256	11.3mg/kg	24.98mg/l
+nitrate_sam	0.9499607	11.3mg/kg	3.8mg/kg
+nitrate_sam	0.83482265	11.3mg/kg	24.71mg/l
+nitrate_sam	0.8460871	11.3mg/kg	25.71mg/l
+nitrate_sam	0.8312533	11.3mg/kg	1.46mg/l
+nitrate_sam	0.84414995	11.3mg/kg	25.38mg/l
+nitrate_sam	0.9265201	11.3mg/kg	30.8mg/kg
+nitrate_sam	0.8450085	11.3mg/kg	25.97mg/l
+nitrate_sam	0.84299445	11.3mg/kg	25.76mg/l
+nitrate_sam	0.84937966	11.3mg/kg	27.77mg/l
+nitrate_sam	0.7300956	6,31	3,27
+nitrate_sam	0.8535577	100mg/l	0.045mg/l
+nitrate_sam	0.83104503	100mg/l	26.64mg/l
+nitrate_sam	0.7969729	100mg/l	2.5mg/kg
+nitrate_sam	0.8491974	100mg/l	25.23mg/l
+nitrate_sam	0.85997367	100mg/l	25.58mg/l
+nitrate_sam	0.72747993	100mg/l	0mg/kg
+nitrate_sam	0.8531631	100mg/l	25.21mg/l
+nitrate_sam	0.8422499	100mg/l	29.6mg/l
+nitrate_sam	0.83246005	100mg/l	26.43mg/l
+nitrate_sam	0.8645861	100mg/l	25.03mg/l
+nitrate_sam	0.9428438	100mg/l	200mg/l
+nitrate_sam	0.8418423	100mg/l	24.73mg/l
+nitrate_sam	0.8347863	100mg/l	27.17mg/l
+nitrate_sam	0.7918987	100mg/l	4.9mg/kg
+nitrate_sam	0.9185951	100mg/l	40mg/l
+nitrate_sam	0.82082176	100mg/l	26.17mg/l
+nitrate_sam	0.84718466	100mg/l	28.82mg/l
+nitrate_sam	0.88622576	100mg/l	0-10mg/l
+nitrate_sam	0.8567982	100mg/l	25.84mg/l
+nitrate_sam	0.8387768	100mg/l	27.43mg/l
+nitrate_sam	0.8665149	100mg/l	25.39mg/l
+nitrate_sam	0.911862	100mg/l	25mg/l
+nitrate_sam	0.8461224	100mg/l	9.49mg/l
+nitrate_sam	0.95582175	100mg/l	150mg/l
+nitrate_sam	0.8090967	100mg/l	8.4-4.6 mg/l
+nitrate_sam	0.73001117	100mg/l	mg/l
+nitrate_sam	0.8528981	100mg/l	53.92mg/l
+nitrate_sam	0.7418947	100mg/l	2,01 mg/l
+nitrate_sam	0.84594655	100mg/l	24.58mg/l
+nitrate_sam	0.85534203	100mg/l	25.49mg/l
+nitrate_sam	0.86129344	100mg/l	25.34mg/l
+nitrate_sam	0.85815376	100mg/l	25.91mg/l
+nitrate_sam	0.7240489	100mg/l	0,94 mg/l
+nitrate_sam	0.86249983	100mg/l	25.61mg/l
+nitrate_sam	0.85555017	100mg/l	25.08mg/l
+nitrate_sam	0.83394784	100mg/l	24.98mg/l
+nitrate_sam	0.7895293	100mg/l	3.8mg/kg
+nitrate_sam	0.8406315	100mg/l	24.71mg/l
+nitrate_sam	0.856395	100mg/l	25.71mg/l
+nitrate_sam	0.87554574	100mg/l	1.46mg/l
+nitrate_sam	0.86206424	100mg/l	25.38mg/l
+nitrate_sam	0.7795992	100mg/l	30.8mg/kg
+nitrate_sam	0.8612571	100mg/l	25.97mg/l
+nitrate_sam	0.8598639	100mg/l	25.76mg/l
+nitrate_sam	0.8423404	100mg/l	27.77mg/l
+nitrate_sam	0.7672601	100mg/l	11.3mg/kg
+nitrate_sam	0.75471437	11,513	11,956
+nitrate_sam	0.72417694	1.8mg/kg	numeric mg/kg
+nitrate_sam	0.8391466	1.8mg/kg	0.045mg/l
+nitrate_sam	0.81980824	1.8mg/kg	26.64mg/l
+nitrate_sam	0.9733622	1.8mg/kg	2.5mg/kg
+nitrate_sam	0.8309526	1.8mg/kg	25.23mg/l
+nitrate_sam	0.8300555	1.8mg/kg	25.58mg/l
+nitrate_sam	0.86077297	1.8mg/kg	0mg/kg
+nitrate_sam	0.8294598	1.8mg/kg	25.21mg/l
+nitrate_sam	0.82734954	1.8mg/kg	29.6mg/l
+nitrate_sam	0.82493025	1.8mg/kg	26.43mg/l
+nitrate_sam	0.8243818	1.8mg/kg	25.03mg/l
+nitrate_sam	0.77528656	1.8mg/kg	200mg/l
+nitrate_sam	0.8235338	1.8mg/kg	24.73mg/l
+nitrate_sam	0.82672536	1.8mg/kg	27.17mg/l
+nitrate_sam	0.9631454	1.8mg/kg	4.9mg/kg
+nitrate_sam	0.78378266	1.8mg/kg	40mg/l
+nitrate_sam	0.81372964	1.8mg/kg	26.17mg/l
+nitrate_sam	0.8337749	1.8mg/kg	28.82mg/l
+nitrate_sam	0.813857	1.8mg/kg	0-10mg/l
+nitrate_sam	0.8338982	1.8mg/kg	25.84mg/l
+nitrate_sam	0.8310727	1.8mg/kg	27.43mg/l
+nitrate_sam	0.8383584	1.8mg/kg	25.39mg/l
+nitrate_sam	0.79329	1.8mg/kg	25mg/l
+nitrate_sam	0.83883566	1.8mg/kg	9.49mg/l
+nitrate_sam	0.7985865	1.8mg/kg	150mg/l
+nitrate_sam	0.8135717	1.8mg/kg	8.4-4.6 mg/l
+nitrate_sam	0.8317998	1.8mg/kg	53.92mg/l
+nitrate_sam	0.7348397	1.8mg/kg	2,01 mg/l
+nitrate_sam	0.8180191	1.8mg/kg	24.58mg/l
+nitrate_sam	0.8275777	1.8mg/kg	25.49mg/l
+nitrate_sam	0.83334017	1.8mg/kg	25.34mg/l
+nitrate_sam	0.8314768	1.8mg/kg	25.91mg/l
+nitrate_sam	0.7184211	1.8mg/kg	0,94 mg/l
+nitrate_sam	0.8448359	1.8mg/kg	25.61mg/l
+nitrate_sam	0.82642543	1.8mg/kg	25.08mg/l
+nitrate_sam	0.81506586	1.8mg/kg	24.98mg/l
+nitrate_sam	0.9734033	1.8mg/kg	3.8mg/kg
+nitrate_sam	0.8170699	1.8mg/kg	24.71mg/l
+nitrate_sam	0.8316264	1.8mg/kg	25.71mg/l
+nitrate_sam	0.8669313	1.8mg/kg	1.46mg/l
+nitrate_sam	0.8303722	1.8mg/kg	25.38mg/l
+nitrate_sam	0.9363296	1.8mg/kg	30.8mg/kg
+nitrate_sam	0.835812	1.8mg/kg	25.97mg/l
+nitrate_sam	0.8313856	1.8mg/kg	25.76mg/l
+nitrate_sam	0.83489954	1.8mg/kg	27.77mg/l
+nitrate_sam	0.9451736	1.8mg/kg	11.3mg/kg
+nitrate_sam	0.79908764	1.8mg/kg	100mg/l
+nitrate_sam	0.7314217	9_days_longterm_0_1	30_days_longterm_100_1
+nitrate_sam	0.92996097	9_days_longterm_0_1	9_days_longterm_100_1
+nitrate_sam	0.98606455	9_days_longterm_0_1	9_days_longterm_0_2
+nitrate_sam	0.7458399	9_days_longterm_0_1	30_days_longterm_0_2
+nitrate_sam	0.9065014	9_days_longterm_0_1	9_days_longterm_50_1
+nitrate_sam	0.76435494	9_days_longterm_0_1	30_days_longterm_0_1
+nitrate_sam	0.9016228	9_days_longterm_0_1	9_days_longterm_50_2
+nitrate_sam	0.72084904	9_days_longterm_0_1	30_days_longterm_100_2
+nitrate_sam	0.91159153	9_days_longterm_0_1	9_days_longterm_100_2
+nitrate_sam	0.9572005	numeric mg l	numeric mg/l
+nitrate_sam	0.88026524	numeric mg l	numeric mg l-1
+nitrate_sam	0.81793624	numeric mg l	numeric µmol/kg
+nitrate_sam	0.93135244	numeric mg l	numeric mg/l number mg/l
+nitrate_sam	0.80307806	numeric mg l	numeric µmol/l
+nitrate_sam	0.8750827	numeric mg l	number mg/l
+nitrate_sam	0.7304729	numeric mg l	number µmol/kg
+nitrate_sam	0.7603837	numeric mg l	number µg/l
+nitrate_sam	0.7481011	numeric mg l	numeric mol/l
+nitrate_sam	0.8600743	numeric mg l	numeric mg/kg
+nitrate_sam	0.70956016	numeric mg l	numeric µm
+nitrate_sam	0.8397274	numeric mg l	number mg n/l
+nitrate_sam	0.90375316	numeric mg l	numeric mg.l-1
+nitrate_sam	0.9408682	numeric mg l	numeric mg n/l
+nitrate_sam	0.8750827	numeric mg l	number mg /l
+nitrate_sam	0.72365665	numeric mg l	numeric micromoles per l
+nitrate_sam	0.71742857	numeric mg l	number µmol/l
+nitrate_sam	0.832899	numeric mg l	mg/l
+nitrate_sam	0.9437015	numeric mg l	numeric numeric mg/l
+nitrate_sam	0.7922534	numeric mg l	2,01 mg/l
+nitrate_sam	0.7023124	numeric mg l	numeric g/kg
+nitrate_sam	0.75319374	numeric mg l	0,94 mg/l
+nitrate_sam	0.8397274	numeric mg l	number mg n /l
+nitrate_sam	0.72306514	0,07	0,37
+nitrate_sam	0.8209871	0,07	0,05
+nitrate_sam	0.8274451	0,07	0,02
+nitrate_sam	0.8662571	0,07	0,06
+nitrate_sam	0.72800803	0,07	0,78
+nitrate_sam	0.8109666	0,07	1,07
+nitrate_sam	0.85407656	0,07	0,03
+nitrate_sam	0.737104	0,07	0,074
+nitrate_sam	0.83201206	1,06	0,06
+nitrate_sam	0.7265928	1,06	1,07
+nitrate_sam	0.888768	27.06mg/l	0.045mg/l
+nitrate_sam	0.96702766	27.06mg/l	26.64mg/l
+nitrate_sam	0.8342524	27.06mg/l	2.5mg/kg
+nitrate_sam	0.9676467	27.06mg/l	25.23mg/l
+nitrate_sam	0.9662612	27.06mg/l	25.58mg/l
+nitrate_sam	0.7176228	27.06mg/l	0mg/kg
+nitrate_sam	0.9654242	27.06mg/l	25.21mg/l
+nitrate_sam	0.9704721	27.06mg/l	29.6mg/l
+nitrate_sam	0.9671544	27.06mg/l	26.43mg/l
+nitrate_sam	0.9721451	27.06mg/l	25.03mg/l
+nitrate_sam	0.82319397	27.06mg/l	200mg/l
+nitrate_sam	0.96355283	27.06mg/l	24.73mg/l
+nitrate_sam	0.98945326	27.06mg/l	27.17mg/l
+nitrate_sam	0.8368912	27.06mg/l	4.9mg/kg
+nitrate_sam	0.89565575	27.06mg/l	40mg/l
+nitrate_sam	0.966998	27.06mg/l	26.17mg/l
+nitrate_sam	0.967534	27.06mg/l	28.82mg/l
+nitrate_sam	0.84491885	27.06mg/l	0-10mg/l
+nitrate_sam	0.96024317	27.06mg/l	25.84mg/l
+nitrate_sam	0.9842232	27.06mg/l	27.43mg/l
+nitrate_sam	0.97100306	27.06mg/l	25.39mg/l
+nitrate_sam	0.91810703	27.06mg/l	25mg/l
+nitrate_sam	0.9059582	27.06mg/l	9.49mg/l
+nitrate_sam	0.84563535	27.06mg/l	150mg/l
+nitrate_sam	0.805181	27.06mg/l	8.4-4.6 mg/l
+nitrate_sam	0.7070143	27.06mg/l	mg/l
+nitrate_sam	0.91971844	27.06mg/l	53.92mg/l
+nitrate_sam	0.71786344	27.06mg/l	2,01 mg/l
+nitrate_sam	0.96516347	27.06mg/l	24.58mg/l
+nitrate_sam	0.9658885	27.06mg/l	25.49mg/l
+nitrate_sam	0.96834874	27.06mg/l	25.34mg/l
+nitrate_sam	0.96387136	27.06mg/l	25.91mg/l
+nitrate_sam	0.7052008	27.06mg/l	0,94 mg/l
+nitrate_sam	0.958266	27.06mg/l	25.61mg/l
+nitrate_sam	0.96995825	27.06mg/l	25.08mg/l
+nitrate_sam	0.9596537	27.06mg/l	24.98mg/l
+nitrate_sam	0.8412149	27.06mg/l	3.8mg/kg
+nitrate_sam	0.95985854	27.06mg/l	24.71mg/l
+nitrate_sam	0.9620463	27.06mg/l	25.71mg/l
+nitrate_sam	0.91017973	27.06mg/l	1.46mg/l
+nitrate_sam	0.96934056	27.06mg/l	25.38mg/l
+nitrate_sam	0.88800097	27.06mg/l	30.8mg/kg
+nitrate_sam	0.96673036	27.06mg/l	25.97mg/l
+nitrate_sam	0.96494406	27.06mg/l	25.76mg/l
+nitrate_sam	0.98861396	27.06mg/l	27.77mg/l
+nitrate_sam	0.8348881	27.06mg/l	11.3mg/kg
+nitrate_sam	0.8394035	27.06mg/l	100mg/l
+nitrate_sam	0.82186323	27.06mg/l	1.8mg/kg
+nitrate_sam	0.7039987	1,60	1,62
+nitrate_sam	0.7176409	1,60	0,61
+nitrate_sam	0.79479814	8,856	1,845
+nitrate_sam	0.7679385	0,40	0,37
+nitrate_sam	0.7734943	0,40	0,32
+nitrate_sam	0.7783773	0,40	0,20
+nitrate_sam	0.8187502	0,40	0,38
+nitrate_sam	0.75852776	0,40	0,43
+nitrate_sam	0.72251546	1,59	0,61
+nitrate_sam	0.7205777	1,59	1,60
+nitrate_sam	0.7028043	4,726	2,731
+nitrate_sam	0.7065238	4,726	3,715
+nitrate_sam	0.75361276	float m	float
+nitrate_sam	0.763101	0,172	0,166
+nitrate_sam	0.7413368	0,172	2,165
+nitrate_sam	0.8262599	0,664	2,66
+nitrate_sam	0.83819187	0,664	0,66
+nitrate_sam	0.9057957	27.1mg/l	0.045mg/l
+nitrate_sam	0.9718697	27.1mg/l	26.64mg/l
+nitrate_sam	0.8410172	27.1mg/l	2.5mg/kg
+nitrate_sam	0.9602238	27.1mg/l	25.23mg/l
+nitrate_sam	0.9604696	27.1mg/l	25.58mg/l
+nitrate_sam	0.7165463	27.1mg/l	0mg/kg
+nitrate_sam	0.96125203	27.1mg/l	25.21mg/l
+nitrate_sam	0.9717785	27.1mg/l	29.6mg/l
+nitrate_sam	0.96366525	27.1mg/l	26.43mg/l
+nitrate_sam	0.95550984	27.1mg/l	25.03mg/l
+nitrate_sam	0.8302517	27.1mg/l	200mg/l
+nitrate_sam	0.96565515	27.1mg/l	24.73mg/l
+nitrate_sam	0.98158276	27.1mg/l	27.17mg/l
+nitrate_sam	0.84239644	27.1mg/l	4.9mg/kg
+nitrate_sam	0.8959662	27.1mg/l	40mg/l
+nitrate_sam	0.95445085	27.1mg/l	26.17mg/l
+nitrate_sam	0.9647734	27.1mg/l	28.82mg/l
+nitrate_sam	0.8584788	27.1mg/l	0-10mg/l
+nitrate_sam	0.9698479	27.1mg/l	25.84mg/l
+nitrate_sam	0.9834801	27.1mg/l	27.43mg/l
+nitrate_sam	0.9647943	27.1mg/l	25.39mg/l
+nitrate_sam	0.9118925	27.1mg/l	25mg/l
+nitrate_sam	0.90544885	27.1mg/l	9.49mg/l
+nitrate_sam	0.85209036	27.1mg/l	150mg/l
+nitrate_sam	0.8307854	27.1mg/l	8.4-4.6 mg/l
+nitrate_sam	0.7242651	27.1mg/l	mg/l
+nitrate_sam	0.9336986	27.1mg/l	53.92mg/l
+nitrate_sam	0.75708944	27.1mg/l	2,01 mg/l
+nitrate_sam	0.9556979	27.1mg/l	24.58mg/l
+nitrate_sam	0.9606031	27.1mg/l	25.49mg/l
+nitrate_sam	0.9581055	27.1mg/l	25.34mg/l
+nitrate_sam	0.96412945	27.1mg/l	25.91mg/l
+nitrate_sam	0.73860073	27.1mg/l	0,94 mg/l
+nitrate_sam	0.9681694	27.1mg/l	25.61mg/l
+nitrate_sam	0.95508015	27.1mg/l	25.08mg/l
+nitrate_sam	0.95090157	27.1mg/l	24.98mg/l
+nitrate_sam	0.852793	27.1mg/l	3.8mg/kg
+nitrate_sam	0.95950115	27.1mg/l	24.71mg/l
+nitrate_sam	0.9666436	27.1mg/l	25.71mg/l
+nitrate_sam	0.9347557	27.1mg/l	1.46mg/l
+nitrate_sam	0.9606091	27.1mg/l	25.38mg/l
+nitrate_sam	0.890597	27.1mg/l	30.8mg/kg
+nitrate_sam	0.96635205	27.1mg/l	25.97mg/l
+nitrate_sam	0.9682354	27.1mg/l	25.76mg/l
+nitrate_sam	0.98975116	27.1mg/l	27.77mg/l
+nitrate_sam	0.83948755	27.1mg/l	11.3mg/kg
+nitrate_sam	0.8483641	27.1mg/l	100mg/l
+nitrate_sam	0.8373054	27.1mg/l	1.8mg/kg
+nitrate_sam	0.98029935	27.1mg/l	27.06mg/l
+nitrate_sam	0.8370037	0,39	0,37
+nitrate_sam	0.75863886	0,39	0,29
+nitrate_sam	0.71704245	0,39	0,32
+nitrate_sam	0.8817879	0,39	0,38
+nitrate_sam	0.7979711	0,39	0,43
+nitrate_sam	0.7808295	0,39	1,39
+nitrate_sam	0.8557147	0,39	0,40
+nitrate_sam	0.7263584	0,16	0,32
+nitrate_sam	0.7322257	0,16	0,17
+nitrate_sam	0.8828734	30_days_enrichments_0_2	9_days_enrichments_100_2
+nitrate_sam	0.89200884	30_days_enrichments_0_2	9_days_enrichments_50_2
+nitrate_sam	0.9671092	30_days_enrichments_0_2	30_days_enrichments_50_1
+nitrate_sam	0.9697002	30_days_enrichments_0_2	30_days_enrichments_50_2
+nitrate_sam	0.99333715	30_days_enrichments_0_2	30_days_enrichments_0_1
+nitrate_sam	0.8937149	30_days_enrichments_0_2	9_days_enrichments_50_1
+nitrate_sam	0.9748392	30_days_enrichments_0_2	30_days_enrichments_100_1
+nitrate_sam	0.8883407	30_days_enrichments_0_2	9_days_enrichments_0_2
+nitrate_sam	0.9719008	30_days_enrichments_0_2	30_days_enrichments_100_2
+nitrate_sam	0.8887058	30_days_enrichments_0_2	9_days_enrichments_100_1
+nitrate_sam	0.8839644	30_days_enrichments_0_2	9_days_enrichments_0_1
+nitrate_sam	0.70951545	12,594	12,779
+nitrate_sam	0.7993115	4mg/kg	0.045mg/l
+nitrate_sam	0.78540933	4mg/kg	26.64mg/l
+nitrate_sam	0.95361555	4mg/kg	2.5mg/kg
+nitrate_sam	0.809729	4mg/kg	25.23mg/l
+nitrate_sam	0.80650246	4mg/kg	25.58mg/l
+nitrate_sam	0.87344146	4mg/kg	0mg/kg
+nitrate_sam	0.808774	4mg/kg	25.21mg/l
+nitrate_sam	0.80426633	4mg/kg	29.6mg/l
+nitrate_sam	0.7990205	4mg/kg	26.43mg/l
+nitrate_sam	0.81125224	4mg/kg	25.03mg/l
+nitrate_sam	0.8107843	4mg/kg	200mg/l
+nitrate_sam	0.80059373	4mg/kg	24.73mg/l
+nitrate_sam	0.7965746	4mg/kg	27.17mg/l
+nitrate_sam	0.967114	4mg/kg	4.9mg/kg
+nitrate_sam	0.8201187	4mg/kg	40mg/l
+nitrate_sam	0.785491	4mg/kg	26.17mg/l
+nitrate_sam	0.80977625	4mg/kg	28.82mg/l
+nitrate_sam	0.8189592	4mg/kg	0-10mg/l
+nitrate_sam	0.80895364	4mg/kg	25.84mg/l
+nitrate_sam	0.8039658	4mg/kg	27.43mg/l
+nitrate_sam	0.82013667	4mg/kg	25.39mg/l
+nitrate_sam	0.8205855	4mg/kg	25mg/l
+nitrate_sam	0.8230014	4mg/kg	9.49mg/l
+nitrate_sam	0.81560916	4mg/kg	150mg/l
+nitrate_sam	0.79614395	4mg/kg	8.4-4.6 mg/l
+nitrate_sam	0.78888047	4mg/kg	53.92mg/l
+nitrate_sam	0.7989031	4mg/kg	24.58mg/l
+nitrate_sam	0.8077798	4mg/kg	25.49mg/l
+nitrate_sam	0.8178679	4mg/kg	25.34mg/l
+nitrate_sam	0.8072467	4mg/kg	25.91mg/l
+nitrate_sam	0.81896865	4mg/kg	25.61mg/l
+nitrate_sam	0.8084799	4mg/kg	25.08mg/l
+nitrate_sam	0.7917373	4mg/kg	24.98mg/l
+nitrate_sam	0.9491688	4mg/kg	3.8mg/kg
+nitrate_sam	0.79824424	4mg/kg	24.71mg/l
+nitrate_sam	0.8072587	4mg/kg	25.71mg/l
+nitrate_sam	0.8148	4mg/kg	1.46mg/l
+nitrate_sam	0.8101902	4mg/kg	25.38mg/l
+nitrate_sam	0.9075608	4mg/kg	30.8mg/kg
+nitrate_sam	0.81079274	4mg/kg	25.97mg/l
+nitrate_sam	0.8101965	4mg/kg	25.76mg/l
+nitrate_sam	0.80387855	4mg/kg	27.77mg/l
+nitrate_sam	0.9103677	4mg/kg	11.3mg/kg
+nitrate_sam	0.81863296	4mg/kg	100mg/l
+nitrate_sam	0.94404507	4mg/kg	1.8mg/kg
+nitrate_sam	0.8019564	4mg/kg	27.06mg/l
+nitrate_sam	0.8053092	4mg/kg	27.1mg/l
+nitrate_sam	0.71207595	5,9	0,5

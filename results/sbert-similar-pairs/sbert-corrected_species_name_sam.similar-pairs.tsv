@@ -1,0 +1,204 @@
+attr	score	s1	s2
+corrected_species_name_sam	0.71149004	halcyon albiventris	halcyon malimbica
+corrected_species_name_sam	0.95641255	saimiri boliviensis	saimiri boliviensis boliviensis
+corrected_species_name_sam	0.7562047	cercocebus chrysogaster	ceratobatrachus guentheri
+corrected_species_name_sam	0.9399086	geospiza difficilis	geospiza difficilis septentrionalis
+corrected_species_name_sam	0.85760486	tragelaphus angasii	tragelaphus strepsiceros
+corrected_species_name_sam	0.70369226	acrocephalus_arundinaceus	arctocephalus forsteri
+corrected_species_name_sam	0.71917915	myiarchus crinitus	myotis lucifugus
+corrected_species_name_sam	0.7250402	icterus spurius	ixodes ricinus
+corrected_species_name_sam	0.8133654	lagonosticta_rhodopareia	lagonosticta_rubricata
+corrected_species_name_sam	0.7075256	cercopithecus wolfi wolfi	ceratobatrachus guentheri
+corrected_species_name_sam	0.7755046	cercopithecus wolfi wolfi	cercocebus chrysogaster
+corrected_species_name_sam	0.7998022	tragelaphus oryx	tragelaphus strepsiceros
+corrected_species_name_sam	0.848325	tragelaphus oryx	tragelaphus angasii
+corrected_species_name_sam	0.73323023	cercopithecus cephus	ceratobatrachus guentheri
+corrected_species_name_sam	0.8497032	cercopithecus cephus	cercocebus chrysogaster
+corrected_species_name_sam	0.71273005	cercopithecus cephus	phyllastrephus_cerviniventris
+corrected_species_name_sam	0.8218031	cercopithecus cephus	cercopithecus wolfi wolfi
+corrected_species_name_sam	0.7687508	anthus_novaeseelandiae	anthus_lineiventris
+corrected_species_name_sam	0.77893054	gerbillurus paeba	gerbilliscus brantsii
+corrected_species_name_sam	0.7866181	bubulcus_ibis	bubo_lacteus
+corrected_species_name_sam	0.81464577	phoenicopterus ruber	phoenicopterus chilensis
+corrected_species_name_sam	0.8830695	diceros bicornis michaeli	diceros bicornis
+corrected_species_name_sam	0.7623459	mandrillus leucophaeus	menacanthus eurysternus
+corrected_species_name_sam	0.8851354	canis lupus	canis lupus signatus
+corrected_species_name_sam	0.8202838	anas aucklandica nesiotis	anas aucklandica chlorotis
+corrected_species_name_sam	0.76275	indicator_indicator	indicator_variegatus
+corrected_species_name_sam	0.73698413	eublepharis macularius	euplectes_capensis
+corrected_species_name_sam	0.79066694	eudyptula minor novaehollandiae	eudyptula minor minor
+corrected_species_name_sam	0.7338232	thryothorus ludovicianus	thryomanes bewickii
+corrected_species_name_sam	0.79613316	tragulus napu	tragulus javanicus
+corrected_species_name_sam	0.8673669	camaroptera_brevicaudata	camaroptera_brachyura
+corrected_species_name_sam	0.7980337	tragelaphus eurycerus isaaci	tragelaphus strepsiceros
+corrected_species_name_sam	0.8882599	tragelaphus eurycerus isaaci	tragelaphus angasii
+corrected_species_name_sam	0.8276613	tragelaphus eurycerus isaaci	tragelaphus oryx
+corrected_species_name_sam	0.712999	hippotragus equinus	hippotragus niger
+corrected_species_name_sam	0.7342925	dasyurus maculatus	dasypus novemcinctus
+corrected_species_name_sam	0.70310843	acrocephalus_cinnamomeus	arctocephalus forsteri
+corrected_species_name_sam	0.86892587	acrocephalus_cinnamomeus	acrocephalus_arundinaceus
+corrected_species_name_sam	0.8662883	nestor meridionalis	nestor meridionalis septentrionalis
+corrected_species_name_sam	0.7539109	vidua_funerea	vidua_paradisaea
+corrected_species_name_sam	0.8555105	leontopithecus chrysomelas	leontopithecus rosalia
+corrected_species_name_sam	0.742029	uroplatus lineatus	uroplatus fimbriatus
+corrected_species_name_sam	0.7274713	equus asinus africanus	equus zebra hartmannae
+corrected_species_name_sam	0.72299683	contopus virens	connochaetes taurinus
+corrected_species_name_sam	0.70220804	contopus sordidulus	cistothorus palustris
+corrected_species_name_sam	0.7716801	contopus sordidulus	contopus virens
+corrected_species_name_sam	0.81584436	equus burchelli chapmani	equus burchellii quagga
+corrected_species_name_sam	0.9683261	elephas maximus	elephas maximus maximus
+corrected_species_name_sam	0.7895329	colobus angolensis	colobus guereza
+corrected_species_name_sam	0.70872486	psarocolius decumanus	physignathus cocincinus
+corrected_species_name_sam	0.8731226	panthera leo krugeri	panthera leo
+corrected_species_name_sam	0.7057675	dendrobates tinctorius	dendrocygna viduata
+corrected_species_name_sam	0.79809296	ailurus fulgens refulgens	ailurus fulgens
+corrected_species_name_sam	0.8371252	acrocephalus_na	acrocephalus_arundinaceus
+corrected_species_name_sam	0.7925918	acrocephalus_na	acrocephalus_cinnamomeus
+corrected_species_name_sam	0.7232682	equus asinus somalicus	equus zebra hartmannae
+corrected_species_name_sam	0.81810313	equus asinus somalicus	equus asinus africanus
+corrected_species_name_sam	0.75226724	callosciurus prevosti	callorhinus ursinus
+corrected_species_name_sam	0.7987554	muscicapa_striata	muscicapa_adusta
+corrected_species_name_sam	0.9006865	varanus macraei	varanus albigularis
+corrected_species_name_sam	0.7301254	varanus macraei	varecia rubra
+corrected_species_name_sam	0.8765047	urocitellus richardsonii	urocitellus parryii
+corrected_species_name_sam	0.7058775	drymarchon corais couperi	dryocopus pileatus
+corrected_species_name_sam	0.87110305	tragelaphus imberbis	tragelaphus strepsiceros
+corrected_species_name_sam	0.9222292	tragelaphus imberbis	tragelaphus angasii
+corrected_species_name_sam	0.8714043	tragelaphus imberbis	tragelaphus oryx
+corrected_species_name_sam	0.8905397	tragelaphus imberbis	tragelaphus eurycerus isaaci
+corrected_species_name_sam	0.84978056	pytilia_afra	pytilia_melba
+corrected_species_name_sam	0.93920815	giraffa camelopardalis reticulata	giraffa camelopardalis
+corrected_species_name_sam	0.8518351	macaca silenus	macaca sylvanus
+corrected_species_name_sam	0.75679636	cercopithecus neglectus	cercocebus chrysogaster
+corrected_species_name_sam	0.74641234	cercopithecus neglectus	cercopithecus wolfi wolfi
+corrected_species_name_sam	0.8430606	cercopithecus neglectus	cercopithecus cephus
+corrected_species_name_sam	0.7357799	merops_boehmi	merops_pusillus
+corrected_species_name_sam	0.75292933	trachycephalus resinifictrix	tragelaphus angasii
+corrected_species_name_sam	0.72803974	trachycephalus resinifictrix	tragelaphus oryx
+corrected_species_name_sam	0.75366175	trachycephalus resinifictrix	tragelaphus eurycerus isaaci
+corrected_species_name_sam	0.7557702	trachycephalus resinifictrix	tragelaphus imberbis
+corrected_species_name_sam	0.78978884	elephas maximus indicus	elephas maximus maximus
+corrected_species_name_sam	0.84674776	elephas maximus indicus	elephas maximus
+corrected_species_name_sam	0.843861	ammodramus maritimus	ammodramus bairdii
+corrected_species_name_sam	0.8517077	plocepasser mahali	plocepasser_mahali
+corrected_species_name_sam	0.73487025	varecia variegata variegata	varecia rubra
+corrected_species_name_sam	0.90635777	varanus prasinus	varanus albigularis
+corrected_species_name_sam	0.89238846	varanus prasinus	varanus macraei
+corrected_species_name_sam	0.7551161	dendrobates azureus	dendrocygna viduata
+corrected_species_name_sam	0.81087816	dendrobates azureus	dendrobates tinctorius
+corrected_species_name_sam	0.73715043	callithrix argentata	callorhinus ursinus
+corrected_species_name_sam	0.701771	callithrix argentata	callithrix geoffroyi
+corrected_species_name_sam	0.74538195	callithrix argentata	callosciurus prevosti
+corrected_species_name_sam	0.7260496	threskiornis aethiopicus	thryomanes bewickii
+corrected_species_name_sam	0.789395	threskiornis aethiopicus	thryothorus ludovicianus
+corrected_species_name_sam	0.7735094	charadrius vociferous	charadrius obscurus
+corrected_species_name_sam	0.7611933	melursus ursinus	melaenornis infuscatus
+corrected_species_name_sam	0.7034938	pheucticus chrysogaster	cercocebus chrysogaster
+corrected_species_name_sam	0.7093748	pheucticus chrysogaster	pheucticus melanocephalus
+corrected_species_name_sam	0.74164665	pheucticus chrysogaster	physignathus cocincinus
+corrected_species_name_sam	0.70482737	pheucticus chrysogaster	phoenicopterus chilensis
+corrected_species_name_sam	0.711359	pheucticus chrysogaster	psarocolius decumanus
+corrected_species_name_sam	0.7151478	myiarchus cinerascens	myotis lucifugus
+corrected_species_name_sam	0.8482832	myiarchus cinerascens	myiarchus crinitus
+corrected_species_name_sam	0.96869874	loxodonta africana africana	loxodonta africana
+corrected_species_name_sam	0.70152414	dendroica petechia	dendrocygna viduata
+corrected_species_name_sam	0.7853459	passer_griseus	passer_domesticus
+corrected_species_name_sam	0.8001988	astrochelys radiata	astrochelys yniphora
+corrected_species_name_sam	0.718577	phascolarctos cinereus	physignathus cocincinus
+corrected_species_name_sam	0.70384157	phascolarctos cinereus	phoenicopterus chilensis
+corrected_species_name_sam	0.71406853	phascolarctos cinereus	phalacrocorax punctatus
+corrected_species_name_sam	0.8268353	cervus nippon	cervus nippon pseudaxis
+corrected_species_name_sam	0.7460083	trichoglossus haematodus	trichechus manatus latirostris
+corrected_species_name_sam	0.71603256	trichoglossus haematodus	tachyglossus aculeatus aculeatus
+corrected_species_name_sam	0.92110145	equus burchellii	equus burchellii quagga
+corrected_species_name_sam	0.7345203	equus burchellii	equus asinus africanus
+corrected_species_name_sam	0.88962317	equus burchellii	equus burchelli chapmani
+corrected_species_name_sam	0.70626235	equus burchellii	equus asinus somalicus
+corrected_species_name_sam	0.700973	boselaphus tragocamelus	tragelaphus imberbis
+corrected_species_name_sam	0.81274945	bubo lacteus	bubo_lacteus
+corrected_species_name_sam	0.8119631	panthera uncia	panthera onca
+corrected_species_name_sam	0.8317089	potos flavus megalotus	potos flavus
+corrected_species_name_sam	0.93625844	connochates taurinus	connochaetes taurinus
+corrected_species_name_sam	0.89714855	muscicapa_caerulescens	muscicapa_coerulescens
+corrected_species_name_sam	0.75328934	panthera tigris sumatrae	panthera leo krugeri
+corrected_species_name_sam	0.7410849	dasyprocta azarae	dasypus novemcinctus
+corrected_species_name_sam	0.7317113	dasyprocta azarae	dasyurus maculatus
+corrected_species_name_sam	0.73007363	laniarius_fulleborni	lanius_collurio
+corrected_species_name_sam	0.8313883	laniarius_fulleborni	laniarius_ferrugineus
+corrected_species_name_sam	0.8235196	myotis volans	myotis lucifugus
+corrected_species_name_sam	0.7012404	uromastyx aegyptia	urocitellus parryii
+corrected_species_name_sam	0.70665455	uromastyx aegyptia	uroplatus fimbriatus
+corrected_species_name_sam	0.70947057	uromastyx aegyptia	uroplatus lineatus
+corrected_species_name_sam	0.7002499	muntiacus reevesi	melaenornis infuscatus
+corrected_species_name_sam	0.7184024	muntiacus reevesi	microcebus murinus
+corrected_species_name_sam	0.721329	muntiacus reevesi	melursus ursinus
+corrected_species_name_sam	0.7458783	callosciurus prevostii	callorhinus ursinus
+corrected_species_name_sam	0.9932425	callosciurus prevostii	callosciurus prevosti
+corrected_species_name_sam	0.74614465	callosciurus prevostii	callithrix argentata
+corrected_species_name_sam	0.7548716	choloepus hoffmanni	choloepus didactylus
+corrected_species_name_sam	0.8329815	notamacropus parma	notamacropus rufogriseus
+corrected_species_name_sam	0.77450967	ploceus_velatus	ploceus_ocularis
+corrected_species_name_sam	0.8457758	corvus albus	corvus corax
+corrected_species_name_sam	0.8133694	ammotragus lervia	ammodramus bairdii
+corrected_species_name_sam	0.7939898	ammotragus lervia	ammodramus maritimus
+corrected_species_name_sam	0.7079723	oryx beisa	oryx dammah
+corrected_species_name_sam	0.88226175	arctocephalus tropicalis	arctocephalus forsteri
+corrected_species_name_sam	0.758664	alcelaphus buselaphus	aldabrachelys gigantea
+corrected_species_name_sam	0.7717695	trachypithecus auratus	trachycephalus resinifictrix
+corrected_species_name_sam	0.970852	saguinus labiatus labiatus	saguinus labiatus
+corrected_species_name_sam	0.96389616	pongo pygmaeus	pongo pygmaeus pygmaeus
+corrected_species_name_sam	0.93585306	hypogeomys antimena	hypogeomys antinena
+corrected_species_name_sam	0.8061537	anolis smallwoodi	anolis allisoni
+corrected_species_name_sam	0.82661736	tragelaphus eurycerus	tragelaphus strepsiceros
+corrected_species_name_sam	0.9056588	tragelaphus eurycerus	tragelaphus angasii
+corrected_species_name_sam	0.8587773	tragelaphus eurycerus	tragelaphus oryx
+corrected_species_name_sam	0.97426856	tragelaphus eurycerus	tragelaphus eurycerus isaaci
+corrected_species_name_sam	0.9097785	tragelaphus eurycerus	tragelaphus imberbis
+corrected_species_name_sam	0.7743091	tragelaphus eurycerus	trachycephalus resinifictrix
+corrected_species_name_sam	0.77998936	drymarchon couperi	drymarchon corais couperi
+corrected_species_name_sam	0.7530728	anolis barbatus	anolis allisoni
+corrected_species_name_sam	0.7647326	anolis barbatus	anolis smallwoodi
+corrected_species_name_sam	0.70696235	haliaeetus albicilla	aldabrachelys gigantea
+corrected_species_name_sam	0.72181296	haliaeetus albicilla	alcelaphus buselaphus
+corrected_species_name_sam	0.83668315	lampropeltis getula	lampropeltis alterna
+corrected_species_name_sam	0.73554206	urocolius macrourus	callorhinus ursinus
+corrected_species_name_sam	0.7416738	urocolius macrourus	uroplatus lineatus
+corrected_species_name_sam	0.7030943	urocolius macrourus	urocitellus richardsonii
+corrected_species_name_sam	0.7430965	urocolius macrourus	uromastyx aegyptia
+corrected_species_name_sam	0.71994567	helogale hirtula	helogale parvula
+corrected_species_name_sam	0.7236695	cercopithecus ascanius	ceratobatrachus guentheri
+corrected_species_name_sam	0.82237935	cercopithecus ascanius	cercocebus chrysogaster
+corrected_species_name_sam	0.8078972	cercopithecus ascanius	cercopithecus wolfi wolfi
+corrected_species_name_sam	0.8833339	cercopithecus ascanius	cercopithecus cephus
+corrected_species_name_sam	0.81095135	cercopithecus ascanius	cercopithecus neglectus
+corrected_species_name_sam	0.7273427	prinia flavicans	prionailurus viverrinus
+corrected_species_name_sam	0.8549456	colobus guereza kikuyensis	colobus guereza
+corrected_species_name_sam	0.7280623	colobus guereza kikuyensis	colobus angolensis
+corrected_species_name_sam	0.70721686	phyllobates terribilis	phyllastrephus_cerviniventris
+corrected_species_name_sam	0.7278924	phyllobates terribilis	phyllobates bicolor
+corrected_species_name_sam	0.7241045	bubulcus ibis	bubulcus_ibis
+corrected_species_name_sam	0.7138351	bubulcus ibis	bucorvus abyssinicus
+corrected_species_name_sam	0.7283469	bubulcus ibis	bubo lacteus
+corrected_species_name_sam	0.77112174	equus caballus	equus hemonius
+corrected_species_name_sam	0.71031904	equus caballus	equus burchellii
+corrected_species_name_sam	0.70725954	haliaeetus leucocephalus	cinnyricinclus leucogaster
+corrected_species_name_sam	0.864719	haliaeetus leucocephalus	haliaeetus albicilla
+corrected_species_name_sam	0.7433634	cephalophus silvicultor	cercocebus chrysogaster
+corrected_species_name_sam	0.7353531	cephalophus silvicultor	phyllastrephus_cerviniventris
+corrected_species_name_sam	0.7097058	cephalophus silvicultor	cercopithecus wolfi wolfi
+corrected_species_name_sam	0.8008908	cephalophus silvicultor	cercopithecus cephus
+corrected_species_name_sam	0.731401	cephalophus silvicultor	cercopithecus ascanius
+corrected_species_name_sam	0.7772403	bucorvus leadbeateri	bucorvus abyssinicus
+corrected_species_name_sam	0.72529733	bucorvus leadbeateri	bubulcus ibis
+corrected_species_name_sam	0.7048502	coua cristata cristata	crocuta crocuta
+corrected_species_name_sam	0.78979397	coua cristata cristata	pavo cristata
+corrected_species_name_sam	0.7556032	lanius ludovicianus	laniarius_ferrugineus
+corrected_species_name_sam	0.92006075	pongo pygmaeus abelii	pongo pygmaeus pygmaeus
+corrected_species_name_sam	0.91951203	pongo pygmaeus abelii	pongo pygmaeus
+corrected_species_name_sam	0.7205937	dasyprocta leporina	dasypus novemcinctus
+corrected_species_name_sam	0.8191611	dasyprocta leporina	dasyprocta azarae
+corrected_species_name_sam	0.7967144	manouria impressa	manuria impressa
+corrected_species_name_sam	0.73853517	manouria impressa	mantella aurantiaca
+corrected_species_name_sam	0.7026466	alouatta caraya	alouatta pigra
+corrected_species_name_sam	0.8909706	eurycea longicauda	eurycea bislineata
+corrected_species_name_sam	0.94313765	psittacus erithacus psittacini	psittacus erithacus
