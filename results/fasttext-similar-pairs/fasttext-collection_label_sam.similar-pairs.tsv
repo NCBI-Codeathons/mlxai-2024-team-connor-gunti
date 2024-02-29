@@ -1,0 +1,36 @@
+attr	score	s1	s2
+collection_label_sam	0.8266776	number mede number	mede042518 number
+collection_label_sam	0.7291468	bird1 fecal	bird number fecal sample
+collection_label_sam	0.8421735	emergence a wood	emergence c wood
+collection_label_sam	0.74582905	emergence a wood	emergenceb wood
+collection_label_sam	1.0000002	emergencea wood	emergenceb wood
+collection_label_sam	0.74582905	emergencea wood	emergence a wood
+collection_label_sam	1.0	m5 shallow	m4 shallow
+collection_label_sam	1.0	m6 shallow	m4 shallow
+collection_label_sam	1.0	m6 shallow	m5 shallow
+collection_label_sam	0.882284	emergence b wood	emergence c wood
+collection_label_sam	0.70112646	emergence b wood	emergenceb wood
+collection_label_sam	0.8611131	emergence b wood	emergence a wood
+collection_label_sam	0.70112646	emergence b wood	emergencea wood
+collection_label_sam	1.0000002	emergencec wood	emergenceb wood
+collection_label_sam	0.74582905	emergencec wood	emergence a wood
+collection_label_sam	1.0000002	emergencec wood	emergencea wood
+collection_label_sam	0.70112646	emergencec wood	emergence b wood
+collection_label_sam	0.7288884	phestilla egg	phestilla juvenile
+collection_label_sam	1.0000001	m5 deep	m4 deep
+collection_label_sam	1.0000001	m3 deep	m4 deep
+collection_label_sam	1.0000001	m3 deep	m5 deep
+collection_label_sam	1.0000001	m6 deep	m4 deep
+collection_label_sam	1.0000001	m6 deep	m5 deep
+collection_label_sam	1.0000001	m6 deep	m3 deep
+collection_label_sam	1.0	m3 shallow	m4 shallow
+collection_label_sam	1.0	m3 shallow	m5 shallow
+collection_label_sam	1.0	m3 shallow	m6 shallow
+collection_label_sam	1.0	m7 shallow	m4 shallow
+collection_label_sam	1.0	m7 shallow	m5 shallow
+collection_label_sam	1.0	m7 shallow	m6 shallow
+collection_label_sam	1.0	m7 shallow	m3 shallow
+collection_label_sam	1.0000001	m7 deep	m4 deep
+collection_label_sam	1.0000001	m7 deep	m5 deep
+collection_label_sam	1.0000001	m7 deep	m3 deep
+collection_label_sam	1.0000001	m7 deep	m6 deep

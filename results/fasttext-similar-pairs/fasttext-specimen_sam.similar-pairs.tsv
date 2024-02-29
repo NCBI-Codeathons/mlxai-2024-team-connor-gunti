@@ -1,0 +1,221 @@
+attr	score	s1	s2
+specimen_sam	0.76526797	urine	feces
+specimen_sam	0.86983466	rectal swab	swab nose/throat/perineum
+specimen_sam	0.734969	mouse faeces	feces
+specimen_sam	0.73097646	mouse faeces	mouse ileal content
+specimen_sam	0.8571484	tissue	tissue number
+specimen_sam	0.9999999	swab	swab nose/throat/perineum
+specimen_sam	0.86983466	swab	rectal swab
+specimen_sam	0.7171494	cecum content	mouse ileal content
+specimen_sam	0.78733796	human faeces	feces
+specimen_sam	0.76211166	human faeces	mouse faeces
+specimen_sam	0.8552051	pleural fluid	fluid
+specimen_sam	0.8899763	mouse colonic content	mouse ileal content
+specimen_sam	0.7800473	mouse colonic content	mouse faeces
+specimen_sam	0.713314	mouse colonic content	cecum content
+specimen_sam	0.87796295	mouse caecal content	mouse ileal content
+specimen_sam	0.8008651	mouse caecal content	mouse faeces
+specimen_sam	0.74510384	mouse caecal content	cecum content
+specimen_sam	0.88417137	mouse caecal content	mouse colonic content
+specimen_sam	1.0000004	sainte-rose number	number
+specimen_sam	0.770346	surgical formalin-fixed paraffin-embedded tissue	tissue number
+specimen_sam	0.86851966	surgical formalin-fixed paraffin-embedded tissue	tissue
+specimen_sam	0.70911574	young mouse csf	mouse ileal content
+specimen_sam	0.72718996	young mouse csf	mouse colonic content
+specimen_sam	0.8603387	swab number	swab nose/throat/perineum
+specimen_sam	0.7562923	swab number	rectal swab
+specimen_sam	0.8603387	swab number	swab
+specimen_sam	0.7921315	barranquilla number	barranquilla env number
+specimen_sam	0.73644835	lymphatic gland	tissue
+specimen_sam	0.7496363	lymphatic gland	pleural fluid
+specimen_sam	0.72670674	lymphatic gland	surgical formalin-fixed paraffin-embedded tissue
+specimen_sam	0.7944455	cali number	barranquilla number
+specimen_sam	0.73474467	primary colorectal tumor specimen	surgical formalin-fixed paraffin-embedded tissue
+specimen_sam	0.702847	biopsy	tissue
+specimen_sam	0.7606062	biopsy	surgical formalin-fixed paraffin-embedded tissue
+specimen_sam	0.72863966	biopsy	primary colorectal tumor specimen
+specimen_sam	0.7352284	numeric	bucaramanga numeric
+specimen_sam	0.7650957	young human csf	artificial csf
+specimen_sam	0.8300409	young human csf	young mouse csf
+specimen_sam	0.7822138	frankfurt number	mainz number
+specimen_sam	0.8398784	tissue count number	tissue number
+specimen_sam	0.80414844	frankfurt env number	barranquilla env number
+specimen_sam	0.78124094	frankfurt env number	frankfurt number
+specimen_sam	0.7270374	le gosier env number	barranquilla env number
+specimen_sam	0.7224505	le gosier env number	morne le blanc number
+specimen_sam	0.71522677	le gosier env number	frankfurt env number
+specimen_sam	0.84594476	castries env number	barranquilla env number
+specimen_sam	0.7979361	castries env number	frankfurt env number
+specimen_sam	0.82784444	castries env number	le gosier env number
+specimen_sam	0.742579	grand bourg env number	barranquilla env number
+specimen_sam	0.75471973	grand bourg env number	frankfurt env number
+specimen_sam	0.84125715	grand bourg env number	le gosier env number
+specimen_sam	0.81673896	grand bourg env number	castries env number
+specimen_sam	0.7499262	ibague number	barranquilla number
+specimen_sam	0.7795673	urine when using catheter	urine
+specimen_sam	0.73279065	urine when using catheter	rectal swab
+specimen_sam	0.71974444	pcr nagetive control	dna negative control
+specimen_sam	0.74302953	cystectomy	surgical formalin-fixed paraffin-embedded tissue
+specimen_sam	0.859885	stomach fluid	fluid
+specimen_sam	0.8420786	stomach fluid	pleural fluid
+specimen_sam	0.71685046	stomach fluid	lymphatic gland
+specimen_sam	0.7212577	swab count number	swab nose/throat/perineum
+specimen_sam	0.7212577	swab count number	swab
+specimen_sam	0.86909705	swab count number	swab number
+specimen_sam	0.8277413	swab count number	tissue count number
+specimen_sam	0.81700426	le gosier number	morne le blanc number
+specimen_sam	0.8721257	le gosier number	le gosier env number
+specimen_sam	0.84910136	bucaramanga env numeric	bucaramanga numeric
+specimen_sam	0.85728025	bucaramanga env numeric	barranquilla env number
+specimen_sam	0.72932565	bucaramanga env numeric	frankfurt env number
+specimen_sam	0.7566275	bucaramanga env numeric	castries env number
+specimen_sam	0.8326652	csf	artificial csf
+specimen_sam	0.7416641	csf	young mouse csf
+specimen_sam	0.79382104	csf	young human csf
+specimen_sam	0.88885134	ibague env number	barranquilla env number
+specimen_sam	0.7819013	ibague env number	frankfurt env number
+specimen_sam	0.71743774	ibague env number	le gosier env number
+specimen_sam	0.8402515	ibague env number	castries env number
+specimen_sam	0.7421224	ibague env number	grand bourg env number
+specimen_sam	0.7774543	ibague env number	ibague number
+specimen_sam	0.82778025	ibague env number	bucaramanga env numeric
+specimen_sam	0.8782488	grand bourg number	grand bourg env number
+specimen_sam	0.7272744	grand bourg number	le gosier number
+specimen_sam	0.8005279	mainz env number	mainz number
+specimen_sam	0.78964037	mainz env number	barranquilla env number
+specimen_sam	0.89622426	mainz env number	frankfurt env number
+specimen_sam	0.7210584	mainz env number	le gosier env number
+specimen_sam	0.7989915	mainz env number	castries env number
+specimen_sam	0.73638016	mainz env number	grand bourg env number
+specimen_sam	0.72858596	mainz env number	bucaramanga env numeric
+specimen_sam	0.782242	mainz env number	ibague env number
+specimen_sam	0.7655535	castries number	castries env number
+specimen_sam	0.7226278	utrecht number	mainz number
+specimen_sam	0.858306	sainte-rose env number	barranquilla env number
+specimen_sam	0.84604555	sainte-rose env number	frankfurt env number
+specimen_sam	0.7693913	sainte-rose env number	le gosier env number
+specimen_sam	0.87753826	sainte-rose env number	castries env number
+specimen_sam	0.75804627	sainte-rose env number	grand bourg env number
+specimen_sam	0.7768708	sainte-rose env number	bucaramanga env numeric
+specimen_sam	0.8709366	sainte-rose env number	ibague env number
+specimen_sam	0.8293581	sainte-rose env number	mainz env number
+specimen_sam	0.7918313	augsburg number	mainz number
+specimen_sam	0.74781626	augsburg number	frankfurt number
+specimen_sam	0.93442273	missing data	missing data number
+specimen_sam	0.7042347	aged mouse csf	mouse ileal content
+specimen_sam	0.7263858	aged mouse csf	mouse colonic content
+specimen_sam	0.9165019	aged mouse csf	young mouse csf
+specimen_sam	0.7427582	aged mouse csf	young human csf
+specimen_sam	0.714889	aged mouse csf	csf
+specimen_sam	0.721517	halle number	mainz number
+specimen_sam	0.7300196	halle number	frankfurt number
+specimen_sam	0.70014375	halle number	augsburg number
+specimen_sam	0.92697215	morne le blanc env number	morne le blanc number
+specimen_sam	0.87197524	morne le blanc env number	le gosier env number
+specimen_sam	0.7524156	morne le blanc env number	castries env number
+specimen_sam	0.7687265	morne le blanc env number	grand bourg env number
+specimen_sam	0.780862	morne le blanc env number	le gosier number
+specimen_sam	0.71460557	abscess	lymphatic gland
+specimen_sam	0.83587366	ibague 1b	ibague number
+specimen_sam	0.75085074	mock	mock community
+specimen_sam	0.76509666	primary colorectal juxta-tumoral tumor specimen reactive normal tissue	tissue number
+specimen_sam	0.8278114	primary colorectal juxta-tumoral tumor specimen reactive normal tissue	tissue
+specimen_sam	0.8157258	primary colorectal juxta-tumoral tumor specimen reactive normal tissue	surgical formalin-fixed paraffin-embedded tissue
+specimen_sam	0.7445192	primary colorectal juxta-tumoral tumor specimen reactive normal tissue	lymphatic gland
+specimen_sam	0.93553835	primary colorectal juxta-tumoral tumor specimen reactive normal tissue	primary colorectal tumor specimen
+specimen_sam	0.7490797	primary colorectal juxta-tumoral tumor specimen reactive normal tissue	biopsy
+specimen_sam	0.7682892	wound fluid	wound
+specimen_sam	0.84438455	wound fluid	fluid
+specimen_sam	0.80027306	wound fluid	pleural fluid
+specimen_sam	0.86510867	wound fluid	stomach fluid
+specimen_sam	0.84591734	peritoneal fluid	fluid
+specimen_sam	0.7341176	peritoneal fluid	tissue
+specimen_sam	0.9080646	peritoneal fluid	pleural fluid
+specimen_sam	0.7369296	peritoneal fluid	surgical formalin-fixed paraffin-embedded tissue
+specimen_sam	0.7937067	peritoneal fluid	lymphatic gland
+specimen_sam	0.7348343	peritoneal fluid	urine when using catheter
+specimen_sam	0.8495744	peritoneal fluid	stomach fluid
+specimen_sam	0.7214217	peritoneal fluid	primary colorectal juxta-tumoral tumor specimen reactive normal tissue
+specimen_sam	0.8091751	peritoneal fluid	wound fluid
+specimen_sam	0.7083119	metastasic colorectal tumor specimen	tissue
+specimen_sam	0.7472232	metastasic colorectal tumor specimen	surgical formalin-fixed paraffin-embedded tissue
+specimen_sam	0.71120346	metastasic colorectal tumor specimen	lymphatic gland
+specimen_sam	0.9438949	metastasic colorectal tumor specimen	primary colorectal tumor specimen
+specimen_sam	0.74885005	metastasic colorectal tumor specimen	biopsy
+specimen_sam	0.89892066	metastasic colorectal tumor specimen	primary colorectal juxta-tumoral tumor specimen reactive normal tissue
+specimen_sam	0.7134558	small cercariae specimen	specimen number
+specimen_sam	0.90519816	cali env number	barranquilla env number
+specimen_sam	0.77415484	cali env number	cali number
+specimen_sam	0.7897499	cali env number	frankfurt env number
+specimen_sam	0.7167651	cali env number	le gosier env number
+specimen_sam	0.8038	cali env number	castries env number
+specimen_sam	0.72379595	cali env number	grand bourg env number
+specimen_sam	0.8243945	cali env number	bucaramanga env numeric
+specimen_sam	0.8624176	cali env number	ibague env number
+specimen_sam	0.7632013	cali env number	mainz env number
+specimen_sam	0.84109616	cali env number	sainte-rose env number
+specimen_sam	0.7170306	zymo mix number	zymo dna
+specimen_sam	0.73954606	ti rocher env number	barranquilla env number
+specimen_sam	0.71034104	ti rocher env number	frankfurt env number
+specimen_sam	0.79272145	ti rocher env number	le gosier env number
+specimen_sam	0.79042464	ti rocher env number	castries env number
+specimen_sam	0.7541114	ti rocher env number	grand bourg env number
+specimen_sam	0.7472956	ti rocher env number	ibague env number
+specimen_sam	0.7934054	ti rocher env number	sainte-rose env number
+specimen_sam	0.7391491	ti rocher env number	morne le blanc env number
+specimen_sam	0.88155735	ti rocher env number	ti rocher number
+specimen_sam	0.7464411	ti rocher env number	cali env number
+specimen_sam	0.8296234	perineum swab	swab nose/throat/perineum
+specimen_sam	0.8822725	perineum swab	rectal swab
+specimen_sam	0.8296234	perineum swab	swab
+specimen_sam	0.73290336	perineum swab	swab number
+specimen_sam	0.7881111	augsburg env number	barranquilla env number
+specimen_sam	0.8810741	augsburg env number	frankfurt env number
+specimen_sam	0.7074052	augsburg env number	le gosier env number
+specimen_sam	0.7907746	augsburg env number	castries env number
+specimen_sam	0.7527267	augsburg env number	grand bourg env number
+specimen_sam	0.72271556	augsburg env number	bucaramanga env numeric
+specimen_sam	0.7679828	augsburg env number	ibague env number
+specimen_sam	0.8994145	augsburg env number	mainz env number
+specimen_sam	0.83777124	augsburg env number	sainte-rose env number
+specimen_sam	0.79446363	augsburg env number	augsburg number
+specimen_sam	0.7651936	augsburg env number	cali env number
+specimen_sam	0.8710542	faeces	feces
+specimen_sam	0.70730984	faeces	urine
+specimen_sam	0.7949913	faeces	mouse faeces
+specimen_sam	0.85974634	faeces	human faeces
+specimen_sam	0.7837746	halle env number	barranquilla env number
+specimen_sam	0.87202793	halle env number	frankfurt env number
+specimen_sam	0.73777527	halle env number	le gosier env number
+specimen_sam	0.8065715	halle env number	castries env number
+specimen_sam	0.75995314	halle env number	grand bourg env number
+specimen_sam	0.7832501	halle env number	ibague env number
+specimen_sam	0.86489344	halle env number	mainz env number
+specimen_sam	0.85522294	halle env number	sainte-rose env number
+specimen_sam	0.7940851	halle env number	halle number
+specimen_sam	0.7521325	halle env number	cali env number
+specimen_sam	0.7180668	halle env number	ti rocher env number
+specimen_sam	0.85581666	halle env number	augsburg env number
+specimen_sam	0.83587366	ibague 1a	ibague number
+specimen_sam	1.0000001	ibague 1a	ibague 1b
+specimen_sam	0.87027925	synovial fluid	fluid
+specimen_sam	0.7293699	synovial fluid	tissue
+specimen_sam	0.88373244	synovial fluid	pleural fluid
+specimen_sam	0.72636545	synovial fluid	lymphatic gland
+specimen_sam	0.852908	synovial fluid	stomach fluid
+specimen_sam	0.7062203	synovial fluid	primary colorectal juxta-tumoral tumor specimen reactive normal tissue
+specimen_sam	0.82500994	synovial fluid	wound fluid
+specimen_sam	0.8913614	synovial fluid	peritoneal fluid
+specimen_sam	0.79175544	utrecht env number	barranquilla env number
+specimen_sam	0.8404807	utrecht env number	frankfurt env number
+specimen_sam	0.721174	utrecht env number	le gosier env number
+specimen_sam	0.8236285	utrecht env number	castries env number
+specimen_sam	0.7463439	utrecht env number	grand bourg env number
+specimen_sam	0.71950257	utrecht env number	bucaramanga env numeric
+specimen_sam	0.7936557	utrecht env number	ibague env number
+specimen_sam	0.866809	utrecht env number	mainz env number
+specimen_sam	0.79050094	utrecht env number	utrecht number
+specimen_sam	0.8488334	utrecht env number	sainte-rose env number
+specimen_sam	0.77459025	utrecht env number	cali env number
+specimen_sam	0.85478973	utrecht env number	augsburg env number
+specimen_sam	0.8435921	utrecht env number	halle env number

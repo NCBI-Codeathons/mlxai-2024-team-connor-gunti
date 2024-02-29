@@ -1,0 +1,38 @@
+attr	score	s1	s2
+conductivity_sam	0.756345	numeric ms/cm or number micros/cm	numeric
+conductivity_sam	0.70910347	numeric ms/cm or number micros/cm	number ms/m
+conductivity_sam	1.0000004	number us/cm	number
+conductivity_sam	1.0	numeric milliseimen/cm	numeric
+conductivity_sam	0.756345	numeric milliseimen/cm	numeric ms/cm or number micros/cm
+conductivity_sam	0.7517169	numeric ms/cm	numeric
+conductivity_sam	0.9286395	numeric ms/cm	numeric ms/cm or number micros/cm
+conductivity_sam	0.7517169	numeric ms/cm	numeric milliseimen/cm
+conductivity_sam	0.8231115	numeric orig numeric conv	numeric
+conductivity_sam	0.8231115	numeric orig numeric conv	numeric milliseimen/cm
+conductivity_sam	1.0	numeric milliseimenpercentimer	numeric
+conductivity_sam	0.756345	numeric milliseimenpercentimer	numeric ms/cm or number micros/cm
+conductivity_sam	1.0	numeric milliseimenpercentimer	numeric milliseimen/cm
+conductivity_sam	0.7517169	numeric milliseimenpercentimer	numeric ms/cm
+conductivity_sam	0.8231115	numeric milliseimenpercentimer	numeric orig numeric conv
+conductivity_sam	0.7662848	number us	number
+conductivity_sam	0.7662848	number us	number us/cm
+conductivity_sam	0.7328203	numeric mv	numeric
+conductivity_sam	0.7965438	numeric mv	number mv
+conductivity_sam	0.7328203	numeric mv	numeric milliseimen/cm
+conductivity_sam	0.7328203	numeric mv	numeric milliseimenpercentimer
+conductivity_sam	0.7732385	number ms/cm	number ms/m
+conductivity_sam	0.89320105	number ms/cm	numeric ms/cm or number micros/cm
+conductivity_sam	0.87329733	number ms/cm	numeric ms/cm
+conductivity_sam	1.0	numeric seimenpermeter	numeric
+conductivity_sam	0.756345	numeric seimenpermeter	numeric ms/cm or number micros/cm
+conductivity_sam	1.0	numeric seimenpermeter	numeric milliseimen/cm
+conductivity_sam	0.7517169	numeric seimenpermeter	numeric ms/cm
+conductivity_sam	0.8231115	numeric seimenpermeter	numeric orig numeric conv
+conductivity_sam	1.0	numeric seimenpermeter	numeric milliseimenpercentimer
+conductivity_sam	0.7328203	numeric seimenpermeter	numeric mv
+conductivity_sam	0.79500806	missing	missing not provided
+conductivity_sam	0.8693177	missing not applicable	missing not provided
+conductivity_sam	0.8489296	missing not applicable	not applicable
+conductivity_sam	0.73306364	missing not applicable	missing
+conductivity_sam	0.8128873	not provided	missing not provided
+conductivity_sam	0.71765316	not provided	not applicable
