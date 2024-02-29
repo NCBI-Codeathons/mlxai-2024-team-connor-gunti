@@ -1,0 +1,219 @@
+bdl_liver_5w
+c135
+number
+550-t3-s
+c159
+550-t3-sb
+550-t5-s
+kc_obese_vehicle_28wk_vehicle
+550-bl
+wt_d6_resting
+t_b16f10_iso_migg1_2dose_8d
+mc38_cellline
+none_72_none
+t_renca_iso_migg1_2dose_8d
+t_emt6_baseline
+donor_3835_isotype
+t_tc1_baseline
+primary_0gy_pd1_tumor_rna
+350-t3-sb
+nodox_batf_runx3_tbet
+number number number
+lung 48h ctrl
+350-t1-sb
+c157
+550-t5-sb
+number number
+t_renca_pd1_dx400_2dose_8d
+kc_obese_mk_8722_28wk_10mpk
+350-t2-s
+mc38_pd1_2dose_8d
+tgfb_72_pirf
+co-culture assay
+lung 6h tgfb1
+rag2-/-
+350-t4-sb
+t_4t1_pd1_dx400_2dose_8d
+tgfb_72_none
+km_obese_mk_8722_28wk_10mpk
+na
+day6__batfko__stat3
+350-t2-sb
+rag2+/-
+mc38_isotype_2dose_8d
+kidney 48h ctrl
+1_m
+c160
+mc38_isotype_1dose_4d
+day6__wt__tbet
+nodox_batf_tbet
+allograft_0gy_iso_tumor_rna
+day6__wt__stat5
+ip group d2 number
+wt_d6_restimulated
+550-pos
+kc_lean_vehicle_28wk_vehicle
+b
+primary_20gy_iso_tumor_rna
+t_cm3_pd1_dx400_2dose_8d
+primary_0gy_iso_tumor_rna
+550-t4-s
+nodox_irf4_runx3
+day6__batf_ko__jund
+t_mc38_iso_migg1_2dose_8d
+lung 6h ctrl
+t_mbt2_baseline
+t_ll2_iso_migg1_2dose_8d
+primary_20gy_pd1_tumor_rna
+t_b16f10_pd1_dx400_2dose_8d
+550-t2-sb
+350-t1-s
+bdl_liver_sham_5w
+ip group d number
+day6__wt__irf4
+c
+uuo_sham_10d
+mc38_pd1_1dose_4d
+550-t2-s
+t_mbt2_pd1_dx400_2dose_8d
+nodox_runx3_tbet
+nodox_batf_irf4_runx3_tbet
+lung 48h tgfb1
+mc38_pd1cko_28d
+tgfb_72_nint
+350-t4-s
+350-t3-s
+batf_floxedout_atac
+uuo_uuo_10d
+day6__wt__runx3
+allograft_0gy_pd1_tumor_rna
+nodox_irf4
+t_tc1_iso_migg1_2dose_8d
+liver 6h ctrl
+day6__batfko__stat5
+t_emt6_iso_migg1_2dose_8d
+350-t5-s
+t_ct26_pd1_dx400_2dose_8d
+nodox_batf
+liver 6h tgfb
+t_b16f10_baseline
+550-t4-sb
+km_lean_vehicle_28wk_vehicle
+uuo_uuo_4d
+cardiac 24h tgfb1
+ccl4_liver_5w
+ip group e2 number
+donor_3835_anti_ilt3_c52b8
+t_mb49_iso_migg1_2dose_8d
+donor_3428_anti_ilt3_c52b8
+kidney 6h tgfb
+lung 24h tgfb1
+donor_3180_anti_ilt3_c52b8
+t_mbt2_iso_migg1_2dose_8d
+nodox_batf_irf4
+day6__wt__eomes
+batfko_d6_restimulated
+none_0_none
+km_obese_enalpril_28wk_10mpk
+t_emt6_pd1_dx400_2dose_8d
+day6__wt__jund
+batfko_d6_resting
+t_ct26_baseline
+allograft_20gy_iso_tumor_rna
+a
+bdl_liver_3w
+kidney 48h tgfb
+tgfb_72_sora
+dox72h_batf_runx3
+ip group c number
+350-t5-sb
+allograft_20gy_pd1_tumor_rna
+ctrl
+mc38_baseline
+donor_3428_isotype
+dox72h_tbet
+uuo_sham_4d
+batf_floxready_atac
+t_cm3_iso_migg1_2dose_8d
+day6__batf_ko__ets1
+350-bl
+ip group e number
+kc_obese_enalpril_28wk_10mpk
+nodox_batf_irf4_runx3
+total rna number
+ccl4_liver_ctl_5w
+t_ll2_pd1_dx400_2dose_8d
+day6__wt__batf
+cardiac 48h tgfb1
+ip group b number
+wt_floxedout_atac
+t_4t1_iso_migg1_2dose_8d
+dox72h_batf_runx3_tbet
+day6__batf_ko__eomes
+km_obese_vehicle_28wk_vehicle
+dox72h_irf4_runx3
+kidney 24h ctrl
+mc38_wt_28d
+2_m
+t_renca_baseline
+t_tc1_pd1_dx400_2dose_8d
+day6__batf_ko__runx3
+t_ct26_iso_migg1_2dose_8d
+t_mb49_pd1_dx400_2dose_8d
+350-pos
+kc_obese_mk_8722_28wk_1mpk
+wt_floxready_atac
+donor_3507_isotype
+t_4t1_baseline
+dox72h_batf_tbet
+dox72h_irf4_tbet
+t_mc38_baseline
+cardiac 24h ctrl
+cardiac 6h ctrl
+nodox_3t3_p23
+t_mc38_pd1_dx400_2dose_8d
+kidney 24h tgfb
+cardiac 48h ctrl
+dox72h_batf_irf4
+bdl_liver_sham_3w
+dox72h_batf
+cellline_0gy_iso_tumor_rna
+donor_3180_isotype
+liver 24h ctrl
+lung 24h ctrl
+km_obese_mk_8722_28wk_1mpk
+irf4_floxedout_atac
+1_a
+day6__wt__fosl2
+liver 48h ctrl
+cardiac 6h tgfb1
+ip group a number
+dox72h_irf4
+nodox_irf4_runx3_tbet
+dox72h_runx3_tbet
+nodox_irf4_tbet
+t_ll2_baseline
+dox72h_notfs
+nodox_runx3
+day6__wt__ets1
+naive_floxatac
+kidney 6h ctrl
+liver 24h tgfb
+dox72h_batf_irf4_runx3
+donor_3507_anti_ilt3_c52b8
+t_cm3_baseline
+day6__batfko__irf4
+dox72h_runx3
+nodox_tbet
+day6__batfko__fosl2
+liver 48h tgfb
+dox72h_batf_irf4_runx3_tbet
+day6__batf_ko__tbet
+irf4_floxready_atac
+nodox_batf_irf4_tbet
+dox72h_irf4_runx3_tbet
+day6__wt__stat3
+t_mb49_baseline
+2_a
+nodox_batf_runx3
+dox72h_batf_irf4_tbet
