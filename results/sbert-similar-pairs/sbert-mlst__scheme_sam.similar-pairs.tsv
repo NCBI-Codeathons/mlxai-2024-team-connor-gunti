@@ -1,0 +1,2278 @@
+attr	score	s1	s2
+mlst__scheme_sam	0.77969724	st235	st190
+mlst__scheme_sam	0.91239697	st1978	st190
+mlst__scheme_sam	0.7310121	st1978	st235
+mlst__scheme_sam	0.70558834	oxford mlst n\m	oxford mlst number
+mlst__scheme_sam	0.75182503	st258	st190
+mlst__scheme_sam	0.80579674	st258	st235
+mlst__scheme_sam	0.70083654	st258	st1978
+mlst__scheme_sam	0.8083757	st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.8701993	st208 and st1806 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7353804	st208 and st1806 oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7704411	st208 and st1806 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8125813	st231	st190
+mlst__scheme_sam	0.96430844	st231	st235
+mlst__scheme_sam	0.7680489	st231	st1978
+mlst__scheme_sam	0.8156971	st231	st258
+mlst__scheme_sam	0.7954536	st410	st190
+mlst__scheme_sam	0.78862953	st410	st235
+mlst__scheme_sam	0.72714597	st410	st1978
+mlst__scheme_sam	0.7546345	st410	st258
+mlst__scheme_sam	0.8062959	st410	st231
+mlst__scheme_sam	0.71651495	st354	st190
+mlst__scheme_sam	0.76926184	st354	st258
+mlst__scheme_sam	0.702306	st354	st231
+mlst__scheme_sam	0.7891333	st354	st410
+mlst__scheme_sam	0.78254974	st491	st190
+mlst__scheme_sam	0.7244865	st491	st235
+mlst__scheme_sam	0.7317938	st491	st1978
+mlst__scheme_sam	0.7036257	st491	st258
+mlst__scheme_sam	0.7511126	st491	st231
+mlst__scheme_sam	0.8038618	st491	st410
+mlst__scheme_sam	0.7297518	st491	st354
+mlst__scheme_sam	0.77734613	st167	st190
+mlst__scheme_sam	0.7875092	st167	st235
+mlst__scheme_sam	0.7363257	st167	st1978
+mlst__scheme_sam	0.7293365	st167	st258
+mlst__scheme_sam	0.77895415	st167	st231
+mlst__scheme_sam	0.7668048	st167	st410
+mlst__scheme_sam	0.7052979	st167	st354
+mlst__scheme_sam	0.7509114	st167	st491
+mlst__scheme_sam	0.7151003	st2	st190
+mlst__scheme_sam	0.84583783	st1806 and st208 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.73237413	st1806 and st208 oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7528683	st1806 and st208 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.9849944	st1806 and st208 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.75966746	st114	st190
+mlst__scheme_sam	0.7416436	st114	st235
+mlst__scheme_sam	0.7198962	st114	st1978
+mlst__scheme_sam	0.7806687	st114	st231
+mlst__scheme_sam	0.8224851	st114	st410
+mlst__scheme_sam	0.75782955	st114	st491
+mlst__scheme_sam	0.7794599	st114	st167
+mlst__scheme_sam	0.7262794	st114	st2
+mlst__scheme_sam	0.9629526	st208 or st1806 multiple perfect hits oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7430189	st208 or st1806 multiple perfect hits oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.72953403	st208 or st1806 multiple perfect hits oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.89758176	st224 ec number st479 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.71927625	st11	st410
+mlst__scheme_sam	0.75936127	st11	st2
+mlst__scheme_sam	0.9051316	st11	st114
+mlst__scheme_sam	0.73467284	st1670 number novel number	st167
+mlst__scheme_sam	0.7880366	novel 10,11 ~684,8,8,8,2	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.73992133	st357	st190
+mlst__scheme_sam	0.7352355	st357	st235
+mlst__scheme_sam	0.7950721	st357	st258
+mlst__scheme_sam	0.7322342	st357	st231
+mlst__scheme_sam	0.7987296	st357	st410
+mlst__scheme_sam	0.9791794	st357	st354
+mlst__scheme_sam	0.752507	st357	st491
+mlst__scheme_sam	0.7505181	st357	st167
+mlst__scheme_sam	0.78367615	st307	st190
+mlst__scheme_sam	0.7734272	st307	st235
+mlst__scheme_sam	0.7171222	st307	st1978
+mlst__scheme_sam	0.81133354	st307	st258
+mlst__scheme_sam	0.78210115	st307	st231
+mlst__scheme_sam	0.76943797	st307	st410
+mlst__scheme_sam	0.80042017	st307	st354
+mlst__scheme_sam	0.7266026	st307	st491
+mlst__scheme_sam	0.759753	st307	st167
+mlst__scheme_sam	0.7184003	st307	st114
+mlst__scheme_sam	0.8328855	st307	st357
+mlst__scheme_sam	0.80988586	st171	st190
+mlst__scheme_sam	0.77143645	st171	st235
+mlst__scheme_sam	0.77349347	st171	st1978
+mlst__scheme_sam	0.70640415	st171	st258
+mlst__scheme_sam	0.7919271	st171	st231
+mlst__scheme_sam	0.74974036	st171	st410
+mlst__scheme_sam	0.72706664	st171	st354
+mlst__scheme_sam	0.75674456	st171	st491
+mlst__scheme_sam	0.88602614	st171	st167
+mlst__scheme_sam	0.77598643	st171	st114
+mlst__scheme_sam	0.7612286	st171	st357
+mlst__scheme_sam	0.7607211	st171	st307
+mlst__scheme_sam	0.96835446	st281 or st1839 multiple perfect hits oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.71321154	st281 or st1839 multiple perfect hits oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7115639	st281 or st1839 multiple perfect hits oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.9410682	st281 or st1839 multiple perfect hits oxford st2 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7773769	st1193	st190
+mlst__scheme_sam	0.7638637	st1193	st235
+mlst__scheme_sam	0.76792103	st1193	st1978
+mlst__scheme_sam	0.8010522	st1193	st231
+mlst__scheme_sam	0.7981789	st1193	st410
+mlst__scheme_sam	0.77534163	st1193	st491
+mlst__scheme_sam	0.788573	st1193	st167
+mlst__scheme_sam	0.946616	st1193	st114
+mlst__scheme_sam	0.8375827	st1193	st11
+mlst__scheme_sam	0.74516296	st1193	st307
+mlst__scheme_sam	0.7830892	st1193	st171
+mlst__scheme_sam	0.83596796	st73 ec number st4 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.8538068	st73 ec number st4 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.7270708	st13	st190
+mlst__scheme_sam	0.7655391	st13	st2
+mlst__scheme_sam	0.78966236	st13	st114
+mlst__scheme_sam	0.8560785	st13	st11
+mlst__scheme_sam	0.70107484	st13	st171
+mlst__scheme_sam	0.73112047	st13	st1193
+mlst__scheme_sam	0.9386648	st348 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.80636966	st348 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8248931	st348 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7994567	st348 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.8162513	novel oxford st734 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7682544	novel oxford st734 pasteur	st2 pasteur
+mlst__scheme_sam	0.7682713	novel oxford st734 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7517116	novel oxford st734 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.8500636	novel oxford st734 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8289814	achtman mlst	achtman mlst number
+mlst__scheme_sam	0.7519841	novel number ,173 ,233 ,257 ,217 ,11,129	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.7617596	novel number ,173 ,233 ,257 ,217 ,11,129	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.83203644	st1736 oxford st734 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7143632	st1736 oxford st734 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.71649885	st1736 oxford st734 pasteur	st171
+mlst__scheme_sam	0.84293056	st1736 oxford st734 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7624328	st1736 oxford st734 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.83793604	novel 49,20,19,44 -,24,32	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.7334681	novel 49,20,19,44 -,24,32	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.70989674	novel 49,20,19,44 -,24,32	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.78642297	st1021	st190
+mlst__scheme_sam	0.76413083	st1021	st235
+mlst__scheme_sam	0.7355497	st1021	st1978
+mlst__scheme_sam	0.7468282	st1021	st258
+mlst__scheme_sam	0.78321904	st1021	st231
+mlst__scheme_sam	0.8067386	st1021	st410
+mlst__scheme_sam	0.74830824	st1021	st491
+mlst__scheme_sam	0.80112845	st1021	st167
+mlst__scheme_sam	0.86544144	st1021	st114
+mlst__scheme_sam	0.77398103	st1021	st11
+mlst__scheme_sam	0.7296692	st1021	st357
+mlst__scheme_sam	0.7949044	st1021	st307
+mlst__scheme_sam	0.7661992	st1021	st171
+mlst__scheme_sam	0.8760969	st1021	st1193
+mlst__scheme_sam	0.7095942	st1021	st13
+mlst__scheme_sam	0.77683365	st131	st190
+mlst__scheme_sam	0.75733614	st131	st235
+mlst__scheme_sam	0.731809	st131	st1978
+mlst__scheme_sam	0.7430161	st131	st258
+mlst__scheme_sam	0.8007349	st131	st231
+mlst__scheme_sam	0.7783841	st131	st410
+mlst__scheme_sam	0.71428597	st131	st354
+mlst__scheme_sam	0.7274624	st131	st491
+mlst__scheme_sam	0.78308773	st131	st167
+mlst__scheme_sam	0.85771215	st131	st114
+mlst__scheme_sam	0.7763547	st131	st11
+mlst__scheme_sam	0.73856294	st131	st357
+mlst__scheme_sam	0.74073005	st131	st307
+mlst__scheme_sam	0.8187333	st131	st171
+mlst__scheme_sam	0.8568847	st131	st1193
+mlst__scheme_sam	0.87253714	st131	st13
+mlst__scheme_sam	0.81487715	st131	st1021
+mlst__scheme_sam	0.7307223	st3537	st190
+mlst__scheme_sam	0.7292775	st3537	st235
+mlst__scheme_sam	0.78785956	st3537	st258
+mlst__scheme_sam	0.7324461	st3537	st231
+mlst__scheme_sam	0.7887914	st3537	st410
+mlst__scheme_sam	0.9535152	st3537	st354
+mlst__scheme_sam	0.73980343	st3537	st491
+mlst__scheme_sam	0.7452129	st3537	st167
+mlst__scheme_sam	0.97559345	st3537	st357
+mlst__scheme_sam	0.8188448	st3537	st307
+mlst__scheme_sam	0.76851034	st3537	st171
+mlst__scheme_sam	0.7117896	st3537	st1193
+mlst__scheme_sam	0.74229944	st3537	st1021
+mlst__scheme_sam	0.73520136	st3537	st131
+mlst__scheme_sam	0.72492856	st596	st190
+mlst__scheme_sam	0.7950856	st596	st491
+mlst__scheme_sam	0.75421727	st596	st167
+mlst__scheme_sam	0.71271884	st596	st307
+mlst__scheme_sam	0.70561504	st596	st1193
+mlst__scheme_sam	0.7315796	st596	st1021
+mlst__scheme_sam	0.96624243	st1857 or st345 multiple perfect hits oxford st499 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.9362056	st1857 or st345 multiple perfect hits oxford st499 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.95338976	st1857 or st345 multiple perfect hits oxford st499 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.71728516	st38	st190
+mlst__scheme_sam	0.76316327	st38	st410
+mlst__scheme_sam	0.7301699	st38	st354
+mlst__scheme_sam	0.713003	st38	st114
+mlst__scheme_sam	0.7350488	st38	st11
+mlst__scheme_sam	0.7235913	st38	st357
+mlst__scheme_sam	0.7456153	st38	st13
+mlst__scheme_sam	0.71527946	st38	st3537
+mlst__scheme_sam	0.8891008	st281 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.76192355	st281 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.7717524	st281 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7482879	st281 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7433237	st281 oxford st2 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8880303	st281 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.76674795	st281 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.8620976	st281 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.7003163	st4609	st190
+mlst__scheme_sam	0.7260628	st4609	st235
+mlst__scheme_sam	0.74415076	st4609	st258
+mlst__scheme_sam	0.7167307	st4609	st231
+mlst__scheme_sam	0.8100156	st4609	st410
+mlst__scheme_sam	0.79248536	st4609	st354
+mlst__scheme_sam	0.79200006	st4609	st491
+mlst__scheme_sam	0.79719514	st4609	st167
+mlst__scheme_sam	0.7217494	st4609	st114
+mlst__scheme_sam	0.8205492	st4609	st357
+mlst__scheme_sam	0.76796085	st4609	st307
+mlst__scheme_sam	0.72010386	st4609	st171
+mlst__scheme_sam	0.7641027	st4609	st1193
+mlst__scheme_sam	0.7374649	st4609	st1021
+mlst__scheme_sam	0.721146	st4609	st131
+mlst__scheme_sam	0.8275882	st4609	st3537
+mlst__scheme_sam	0.7546489	st4609	st596
+mlst__scheme_sam	0.7853484	st233	st190
+mlst__scheme_sam	0.96179616	st233	st235
+mlst__scheme_sam	0.7413132	st233	st1978
+mlst__scheme_sam	0.7819774	st233	st258
+mlst__scheme_sam	0.9735056	st233	st231
+mlst__scheme_sam	0.7760851	st233	st410
+mlst__scheme_sam	0.7002801	st233	st491
+mlst__scheme_sam	0.7536849	st233	st167
+mlst__scheme_sam	0.74893767	st233	st114
+mlst__scheme_sam	0.72025275	st233	st357
+mlst__scheme_sam	0.7723608	st233	st307
+mlst__scheme_sam	0.7583586	st233	st171
+mlst__scheme_sam	0.78188765	st233	st1193
+mlst__scheme_sam	0.74840605	st233	st1021
+mlst__scheme_sam	0.7680931	st233	st131
+mlst__scheme_sam	0.7156426	st233	st3537
+mlst__scheme_sam	0.9349649	st345 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.80496955	st345 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.824002	st345 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.79595107	st345 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.9910344	st345 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8457717	st345 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.870417	st345 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.9119488	st345 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.7319976	st648	st410
+mlst__scheme_sam	0.71268344	st648	st491
+mlst__scheme_sam	0.75251913	st648	st167
+mlst__scheme_sam	0.704155	st648	st357
+mlst__scheme_sam	0.75416374	st648	st596
+mlst__scheme_sam	0.7475983	st648	st4609
+mlst__scheme_sam	0.7501085	st514	st235
+mlst__scheme_sam	0.71021557	st514	st258
+mlst__scheme_sam	0.7528125	st514	st231
+mlst__scheme_sam	0.8450746	st514	st410
+mlst__scheme_sam	0.7171308	st514	st354
+mlst__scheme_sam	0.81640315	st514	st491
+mlst__scheme_sam	0.7871002	st514	st167
+mlst__scheme_sam	0.8076782	st514	st114
+mlst__scheme_sam	0.72627926	st514	st357
+mlst__scheme_sam	0.73208165	st514	st307
+mlst__scheme_sam	0.76199234	st514	st1193
+mlst__scheme_sam	0.78340626	st514	st1021
+mlst__scheme_sam	0.71918285	st514	st131
+mlst__scheme_sam	0.7219781	st514	st3537
+mlst__scheme_sam	0.77389586	st514	st596
+mlst__scheme_sam	0.7820802	st514	st4609
+mlst__scheme_sam	0.7196244	st514	st233
+mlst__scheme_sam	0.76890993	st514	st648
+mlst__scheme_sam	0.7693248	st261	st190
+mlst__scheme_sam	0.79507864	st261	st235
+mlst__scheme_sam	0.7306808	st261	st1978
+mlst__scheme_sam	0.8672791	st261	st258
+mlst__scheme_sam	0.82929	st261	st231
+mlst__scheme_sam	0.77570724	st261	st410
+mlst__scheme_sam	0.76609373	st261	st354
+mlst__scheme_sam	0.73391306	st261	st491
+mlst__scheme_sam	0.7655932	st261	st167
+mlst__scheme_sam	0.76983726	st261	st114
+mlst__scheme_sam	0.7926191	st261	st357
+mlst__scheme_sam	0.7900052	st261	st307
+mlst__scheme_sam	0.7705252	st261	st171
+mlst__scheme_sam	0.7796521	st261	st1193
+mlst__scheme_sam	0.776729	st261	st1021
+mlst__scheme_sam	0.8123698	st261	st131
+mlst__scheme_sam	0.80248725	st261	st3537
+mlst__scheme_sam	0.7915133	st261	st4609
+mlst__scheme_sam	0.78751767	st261	st233
+mlst__scheme_sam	0.7362808	st261	st514
+mlst__scheme_sam	0.8174392	novel 4,6,5,10,46,7,6	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.81520337	novel 4,6,5,10,46,7,6	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.73461026	novel 4,6,5,10,46,7,6	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.8316352	novel 4,6,5,10,46,7,6	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.7202314	novel st 4,80,1,253,12,28,45 oxford st239 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.71258104	novel st 4,80,1,253,12,28,45 oxford st239 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.76181257	novel st 4,80,1,253,12,28,45 oxford st239 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.894125	st1557 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.71686804	st1557 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.7604961	st1557 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7403481	st1557 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.874715	st1557 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7876198	st1557 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.89653456	st1557 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.8987062	st1557 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.8943444	st1557 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.7328781	st1557 oxford st2 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.86696666	st281 oxford st724 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7027693	st281 oxford st724 pasteur	st2 pasteur
+mlst__scheme_sam	0.7344387	st281 oxford st724 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7089833	st281 oxford st724 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.70527273	st281 oxford st724 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8754554	st281 oxford st724 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.77579975	st281 oxford st724 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.92692196	st281 oxford st724 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.96160686	st281 oxford st724 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.9014023	st281 oxford st724 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.7516529	st281 oxford st724 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.89329165	st281 oxford st724 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.8373059	st1808 and st348 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7144388	st1808 and st348 oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7331035	st1808 and st348 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.9446889	st1808 and st348 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.96417034	st1808 and st348 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7106136	st1808 and st348 oxford st2 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.846667	st1808 and st348 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7502786	st1808 and st348 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.71190804	st1808 and st348 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.7605798	st1808 and st348 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.8381463	st1808 and st348 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.7416762	st1808 and st348 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.7276888	st1808 and st348 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.9231125	st546 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7957665	st546 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8236065	st546 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.79830354	st546 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.93643105	st546 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8483671	st546 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.8738792	st546 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.9075201	st546 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.9451717	st546 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.72216356	st546 oxford st2 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.9137907	st546 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.90061045	st546 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.79786634	st546 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.76415694	st734	st190
+mlst__scheme_sam	0.76749766	st734	st235
+mlst__scheme_sam	0.76933426	st734	st1978
+mlst__scheme_sam	0.73398465	st734	st258
+mlst__scheme_sam	0.7676872	st734	st231
+mlst__scheme_sam	0.7695835	st734	st410
+mlst__scheme_sam	0.75314176	st734	st354
+mlst__scheme_sam	0.7789986	st734	st491
+mlst__scheme_sam	0.8299817	st734	st167
+mlst__scheme_sam	0.75744575	st734	st114
+mlst__scheme_sam	0.7974102	st734	st357
+mlst__scheme_sam	0.8135798	st734	st307
+mlst__scheme_sam	0.849529	st734	st171
+mlst__scheme_sam	0.77736276	st734	st1193
+mlst__scheme_sam	0.7866768	st734	st1021
+mlst__scheme_sam	0.7707469	st734	st131
+mlst__scheme_sam	0.80109775	st734	st3537
+mlst__scheme_sam	0.7577435	st734	st596
+mlst__scheme_sam	0.8132392	st734	st4609
+mlst__scheme_sam	0.7405753	st734	st233
+mlst__scheme_sam	0.74280536	st734	st648
+mlst__scheme_sam	0.747511	st734	st514
+mlst__scheme_sam	0.7771457	st734	st261
+mlst__scheme_sam	0.81187916	st298	st190
+mlst__scheme_sam	0.7839986	st298	st235
+mlst__scheme_sam	0.7743158	st298	st1978
+mlst__scheme_sam	0.797871	st298	st258
+mlst__scheme_sam	0.8030969	st298	st231
+mlst__scheme_sam	0.75364554	st298	st410
+mlst__scheme_sam	0.71890485	st298	st354
+mlst__scheme_sam	0.8239811	st298	st491
+mlst__scheme_sam	0.75574064	st298	st167
+mlst__scheme_sam	0.751387	st298	st114
+mlst__scheme_sam	0.7454809	st298	st357
+mlst__scheme_sam	0.84398633	st298	st307
+mlst__scheme_sam	0.7598505	st298	st171
+mlst__scheme_sam	0.79400086	st298	st1193
+mlst__scheme_sam	0.7904173	st298	st1021
+mlst__scheme_sam	0.76398414	st298	st131
+mlst__scheme_sam	0.7405649	st298	st3537
+mlst__scheme_sam	0.7631882	st298	st596
+mlst__scheme_sam	0.7630467	st298	st4609
+mlst__scheme_sam	0.7763319	st298	st233
+mlst__scheme_sam	0.7014499	st298	st648
+mlst__scheme_sam	0.8105258	st298	st261
+mlst__scheme_sam	0.79483664	st298	st734
+mlst__scheme_sam	0.7720602	st617	st190
+mlst__scheme_sam	0.7755766	st617	st235
+mlst__scheme_sam	0.7669502	st617	st1978
+mlst__scheme_sam	0.74124616	st617	st258
+mlst__scheme_sam	0.7738745	st617	st231
+mlst__scheme_sam	0.8011849	st617	st410
+mlst__scheme_sam	0.7449533	st617	st354
+mlst__scheme_sam	0.7740574	st617	st491
+mlst__scheme_sam	0.85160375	st617	st167
+mlst__scheme_sam	0.7053658	st617	st2
+mlst__scheme_sam	0.80678177	st617	st114
+mlst__scheme_sam	0.72386265	st617	st11
+mlst__scheme_sam	0.7828453	st617	st357
+mlst__scheme_sam	0.7932297	st617	st307
+mlst__scheme_sam	0.8381274	st617	st171
+mlst__scheme_sam	0.8112335	st617	st1193
+mlst__scheme_sam	0.740344	st617	st13
+mlst__scheme_sam	0.82600963	st617	st1021
+mlst__scheme_sam	0.80960166	st617	st131
+mlst__scheme_sam	0.7907293	st617	st3537
+mlst__scheme_sam	0.79384243	st617	st596
+mlst__scheme_sam	0.7009549	st617	st38
+mlst__scheme_sam	0.8466666	st617	st4609
+mlst__scheme_sam	0.74824226	st617	st233
+mlst__scheme_sam	0.7418676	st617	st648
+mlst__scheme_sam	0.7672125	st617	st514
+mlst__scheme_sam	0.8217443	st617	st261
+mlst__scheme_sam	0.90081227	st617	st734
+mlst__scheme_sam	0.78289	st617	st298
+mlst__scheme_sam	0.96528614	st208 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.8460913	st208 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.9001789	st208 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.87226415	st208 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.94983524	st208 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8555198	st208 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.7961662	st208 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.86110985	st208 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.93665385	st208 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.8614582	st208 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.8324121	st208 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.8617032	st208 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.92587125	st208 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.96551114	st1808 or st348 multiple perfect hits oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.73610115	st1808 or st348 multiple perfect hits oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7447717	st1808 or st348 multiple perfect hits oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.9562702	st1808 or st348 multiple perfect hits oxford st2 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.95559245	st1808 or st348 multiple perfect hits oxford st2 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.95179313	st1808 or st348 multiple perfect hits oxford st2 pasteur	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.76224375	st1808 or st348 multiple perfect hits oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.76806843	st308	st190
+mlst__scheme_sam	0.76408875	st308	st235
+mlst__scheme_sam	0.70485806	st308	st1978
+mlst__scheme_sam	0.8199292	st308	st258
+mlst__scheme_sam	0.77140254	st308	st231
+mlst__scheme_sam	0.7593038	st308	st410
+mlst__scheme_sam	0.7758446	st308	st354
+mlst__scheme_sam	0.7393883	st308	st167
+mlst__scheme_sam	0.71013975	st308	st114
+mlst__scheme_sam	0.7975222	st308	st357
+mlst__scheme_sam	0.97233987	st308	st307
+mlst__scheme_sam	0.7182578	st308	st171
+mlst__scheme_sam	0.73911	st308	st1193
+mlst__scheme_sam	0.7856598	st308	st1021
+mlst__scheme_sam	0.7247616	st308	st131
+mlst__scheme_sam	0.78791696	st308	st3537
+mlst__scheme_sam	0.74832135	st308	st4609
+mlst__scheme_sam	0.7635318	st308	st233
+mlst__scheme_sam	0.7171824	st308	st514
+mlst__scheme_sam	0.77628255	st308	st261
+mlst__scheme_sam	0.77305615	st308	st734
+mlst__scheme_sam	0.8586285	st308	st298
+mlst__scheme_sam	0.7572159	st308	st617
+mlst__scheme_sam	0.82226384	st131 ec number st43 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.85272324	st131 ec number st43 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.82525814	st131 ec number st43 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.8356629	novel 58,4,90,6 ~39,4,59	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.7815312	novel 58,4,90,6 ~39,4,59	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.712808	novel 58,4,90,6 ~39,4,59	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.8542129	novel 58,4,90,6 ~39,4,59	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.8683393	novel 58,4,90,6 ~39,4,59	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.8440504	novel 10,11,4,8,8 ~13,2	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.9083211	novel 10,11,4,8,8 ~13,2	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.73944294	novel 10,11,4,8,8 ~13,2	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.7682613	novel 10,11,4,8,8 ~13,2	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.86657417	novel 10,11,4,8,8 ~13,2	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.7928165	novel 10,11,4,8,8 ~13,2	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.7558824	st376	st190
+mlst__scheme_sam	0.77786976	st376	st235
+mlst__scheme_sam	0.7296747	st376	st1978
+mlst__scheme_sam	0.7693335	st376	st258
+mlst__scheme_sam	0.7763712	st376	st231
+mlst__scheme_sam	0.8208649	st376	st410
+mlst__scheme_sam	0.81632686	st376	st354
+mlst__scheme_sam	0.7996998	st376	st491
+mlst__scheme_sam	0.82350665	st376	st167
+mlst__scheme_sam	0.7555921	st376	st114
+mlst__scheme_sam	0.8545004	st376	st357
+mlst__scheme_sam	0.8322996	st376	st307
+mlst__scheme_sam	0.8491639	st376	st171
+mlst__scheme_sam	0.78308105	st376	st1193
+mlst__scheme_sam	0.7770519	st376	st1021
+mlst__scheme_sam	0.75827646	st376	st131
+mlst__scheme_sam	0.87509024	st376	st3537
+mlst__scheme_sam	0.7320089	st376	st596
+mlst__scheme_sam	0.7180204	st376	st38
+mlst__scheme_sam	0.8441789	st376	st4609
+mlst__scheme_sam	0.7540772	st376	st233
+mlst__scheme_sam	0.7502668	st376	st648
+mlst__scheme_sam	0.76519287	st376	st514
+mlst__scheme_sam	0.8096738	st376	st261
+mlst__scheme_sam	0.8884384	st376	st734
+mlst__scheme_sam	0.80548143	st376	st298
+mlst__scheme_sam	0.86876345	st376	st617
+mlst__scheme_sam	0.80438936	st376	st308
+mlst__scheme_sam	0.7767565	st5909	st190
+mlst__scheme_sam	0.7337882	st5909	st1978
+mlst__scheme_sam	0.70013106	st5909	st231
+mlst__scheme_sam	0.7075331	st5909	st410
+mlst__scheme_sam	0.8387578	st5909	st491
+mlst__scheme_sam	0.7556385	st5909	st167
+mlst__scheme_sam	0.7071607	st5909	st114
+mlst__scheme_sam	0.7483351	st5909	st307
+mlst__scheme_sam	0.7662165	st5909	st1193
+mlst__scheme_sam	0.76491684	st5909	st1021
+mlst__scheme_sam	0.7180953	st5909	st131
+mlst__scheme_sam	0.94926685	st5909	st596
+mlst__scheme_sam	0.80170596	st5909	st4609
+mlst__scheme_sam	0.72832006	st5909	st648
+mlst__scheme_sam	0.7617611	st5909	st514
+mlst__scheme_sam	0.7703538	st5909	st734
+mlst__scheme_sam	0.8111105	st5909	st298
+mlst__scheme_sam	0.78623444	st5909	st617
+mlst__scheme_sam	0.73337734	st5909	st308
+mlst__scheme_sam	0.7467089	st5909	st376
+mlst__scheme_sam	0.8139985	st395	st190
+mlst__scheme_sam	0.802611	st395	st235
+mlst__scheme_sam	0.7338522	st395	st1978
+mlst__scheme_sam	0.7538837	st395	st258
+mlst__scheme_sam	0.7973991	st395	st231
+mlst__scheme_sam	0.87731034	st395	st410
+mlst__scheme_sam	0.84112394	st395	st354
+mlst__scheme_sam	0.8145685	st395	st491
+mlst__scheme_sam	0.73288953	st395	st167
+mlst__scheme_sam	0.7445279	st395	st114
+mlst__scheme_sam	0.8675287	st395	st357
+mlst__scheme_sam	0.7767855	st395	st307
+mlst__scheme_sam	0.74162805	st395	st171
+mlst__scheme_sam	0.7500572	st395	st1193
+mlst__scheme_sam	0.76103824	st395	st1021
+mlst__scheme_sam	0.7734841	st395	st131
+mlst__scheme_sam	0.859552	st395	st3537
+mlst__scheme_sam	0.7525393	st395	st38
+mlst__scheme_sam	0.79118764	st395	st4609
+mlst__scheme_sam	0.7763909	st395	st233
+mlst__scheme_sam	0.769346	st395	st514
+mlst__scheme_sam	0.7820166	st395	st261
+mlst__scheme_sam	0.78809786	st395	st734
+mlst__scheme_sam	0.7935999	st395	st298
+mlst__scheme_sam	0.7841358	st395	st617
+mlst__scheme_sam	0.7581209	st395	st308
+mlst__scheme_sam	0.8419422	st395	st376
+mlst__scheme_sam	0.7370788	st395	st5909
+mlst__scheme_sam	0.7769858	st617 number st2 number	st1670 number novel number
+mlst__scheme_sam	0.7055414	st617 number st2 number	st73 ec number st4 ec number
+mlst__scheme_sam	0.85883856	st617 number st2 number	st10 number st2 number
+mlst__scheme_sam	0.70279574	st617 number st2 number	st617
+mlst__scheme_sam	0.8314151	42_kpneumoniae	13_kpneumoniae
+mlst__scheme_sam	0.7338971	st773	st190
+mlst__scheme_sam	0.74706066	st773	st235
+mlst__scheme_sam	0.7581197	st773	st1978
+mlst__scheme_sam	0.73647094	st773	st231
+mlst__scheme_sam	0.72332656	st773	st410
+mlst__scheme_sam	0.7403201	st773	st491
+mlst__scheme_sam	0.802989	st773	st167
+mlst__scheme_sam	0.7070075	st773	st114
+mlst__scheme_sam	0.7482439	st773	st357
+mlst__scheme_sam	0.78255594	st773	st307
+mlst__scheme_sam	0.8322567	st773	st171
+mlst__scheme_sam	0.75475454	st773	st1193
+mlst__scheme_sam	0.7365883	st773	st1021
+mlst__scheme_sam	0.7389851	st773	st131
+mlst__scheme_sam	0.73390555	st773	st3537
+mlst__scheme_sam	0.7041178	st773	st596
+mlst__scheme_sam	0.77021873	st773	st4609
+mlst__scheme_sam	0.7248491	st773	st233
+mlst__scheme_sam	0.7031679	st773	st648
+mlst__scheme_sam	0.71889263	st773	st261
+mlst__scheme_sam	0.95773196	st773	st734
+mlst__scheme_sam	0.75570107	st773	st298
+mlst__scheme_sam	0.8551351	st773	st617
+mlst__scheme_sam	0.7358358	st773	st308
+mlst__scheme_sam	0.842545	st773	st376
+mlst__scheme_sam	0.7342587	st773	st5909
+mlst__scheme_sam	0.7449585	st773	st395
+mlst__scheme_sam	0.86748743	oxford mlst unknown	oxford mlst number
+mlst__scheme_sam	0.7633002	oxford mlst unknown	oxford mlst n\m
+mlst__scheme_sam	0.70308393	st35	st258
+mlst__scheme_sam	0.7369031	st35	st410
+mlst__scheme_sam	0.915697	st35	st354
+mlst__scheme_sam	0.8992789	st35	st357
+mlst__scheme_sam	0.74534285	st35	st307
+mlst__scheme_sam	0.71604633	st35	st13
+mlst__scheme_sam	0.87457716	st35	st3537
+mlst__scheme_sam	0.8137176	st35	st38
+mlst__scheme_sam	0.70508146	st35	st261
+mlst__scheme_sam	0.70976114	st35	st617
+mlst__scheme_sam	0.71804774	st35	st308
+mlst__scheme_sam	0.73087025	st35	st376
+mlst__scheme_sam	0.78306234	st35	st395
+mlst__scheme_sam	0.80523247	st409	st190
+mlst__scheme_sam	0.74536717	st409	st235
+mlst__scheme_sam	0.7429517	st409	st1978
+mlst__scheme_sam	0.7463492	st409	st258
+mlst__scheme_sam	0.75409454	st409	st231
+mlst__scheme_sam	0.90285474	st409	st410
+mlst__scheme_sam	0.8340275	st409	st354
+mlst__scheme_sam	0.809696	st409	st491
+mlst__scheme_sam	0.7090814	st409	st167
+mlst__scheme_sam	0.7431686	st409	st114
+mlst__scheme_sam	0.8385893	st409	st357
+mlst__scheme_sam	0.76575756	st409	st307
+mlst__scheme_sam	0.71310776	st409	st171
+mlst__scheme_sam	0.7301204	st409	st1193
+mlst__scheme_sam	0.7800229	st409	st1021
+mlst__scheme_sam	0.7165836	st409	st131
+mlst__scheme_sam	0.8195293	st409	st3537
+mlst__scheme_sam	0.7914773	st409	st38
+mlst__scheme_sam	0.7818381	st409	st4609
+mlst__scheme_sam	0.73074853	st409	st233
+mlst__scheme_sam	0.7079861	st409	st648
+mlst__scheme_sam	0.7772313	st409	st514
+mlst__scheme_sam	0.7252892	st409	st261
+mlst__scheme_sam	0.7644282	st409	st734
+mlst__scheme_sam	0.7520762	st409	st298
+mlst__scheme_sam	0.77637684	st409	st617
+mlst__scheme_sam	0.7607714	st409	st308
+mlst__scheme_sam	0.8078191	st409	st376
+mlst__scheme_sam	0.7265121	st409	st5909
+mlst__scheme_sam	0.88005364	st409	st395
+mlst__scheme_sam	0.71126795	st409	st773
+mlst__scheme_sam	0.79934996	st409	st35
+mlst__scheme_sam	0.73226637	st1284 ec number novel ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.7969887	st1284 ec number novel ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.79055494	st1284 ec number novel ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.8153	st1284 ec number novel ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.7732527	novel 10,760 ,4,8,8,13,2	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.91023755	novel 10,760 ,4,8,8,13,2	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.7976364	novel 10,760 ,4,8,8,13,2	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.72142494	novel 10,760 ,4,8,8,13,2	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.84332335	novel 10,760 ,4,8,8,13,2	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.77884066	novel 10,760 ,4,8,8,13,2	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.8669703	novel 10,760 ,4,8,8,13,2	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.7251854	st410 number st692 number	st405 ec number st477 ec number
+mlst__scheme_sam	0.7093184	st410 number st692 number	st410
+mlst__scheme_sam	0.734625	st410 number st692 number	st224 ec number st479 ec number
+mlst__scheme_sam	0.70778245	st410 number st692 number	st1670 number novel number
+mlst__scheme_sam	0.7005257	st410 number st692 number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7983102	st410 number st692 number	st10 number st2 number
+mlst__scheme_sam	0.7063304	st410 number st692 number	st131 ec number st43 ec number
+mlst__scheme_sam	0.8770383	st410 number st692 number	st617 number st2 number
+mlst__scheme_sam	0.7316017	377_kpneumoniae	13_kpneumoniae
+mlst__scheme_sam	0.8278506	377_kpneumoniae	42_kpneumoniae
+mlst__scheme_sam	0.7857553	st499	st190
+mlst__scheme_sam	0.72304356	st499	st235
+mlst__scheme_sam	0.7427948	st499	st1978
+mlst__scheme_sam	0.7358818	st499	st231
+mlst__scheme_sam	0.79826605	st499	st410
+mlst__scheme_sam	0.7247578	st499	st354
+mlst__scheme_sam	0.9813415	st499	st491
+mlst__scheme_sam	0.7397406	st499	st167
+mlst__scheme_sam	0.7475383	st499	st114
+mlst__scheme_sam	0.74439096	st499	st357
+mlst__scheme_sam	0.72753674	st499	st307
+mlst__scheme_sam	0.73850214	st499	st171
+mlst__scheme_sam	0.7740121	st499	st1193
+mlst__scheme_sam	0.73995984	st499	st1021
+mlst__scheme_sam	0.71109015	st499	st131
+mlst__scheme_sam	0.7275448	st499	st3537
+mlst__scheme_sam	0.7863878	st499	st596
+mlst__scheme_sam	0.79207635	st499	st4609
+mlst__scheme_sam	0.7014769	st499	st233
+mlst__scheme_sam	0.78987277	st499	st514
+mlst__scheme_sam	0.7107638	st499	st261
+mlst__scheme_sam	0.77302444	st499	st734
+mlst__scheme_sam	0.8327774	st499	st298
+mlst__scheme_sam	0.7745456	st499	st617
+mlst__scheme_sam	0.706919	st499	st308
+mlst__scheme_sam	0.7910944	st499	st376
+mlst__scheme_sam	0.8384768	st499	st5909
+mlst__scheme_sam	0.79898906	st499	st395
+mlst__scheme_sam	0.7348575	st499	st773
+mlst__scheme_sam	0.8297369	st499	st409
+mlst__scheme_sam	0.7563937	st297 ec number st666 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.8133067	st297 ec number st666 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.8199109	st297 ec number st666 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7653858	st297 ec number st666 ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.7025909	st297 ec number st666 ec number	st617 number st2 number
+mlst__scheme_sam	0.784441	st297 ec number st666 ec number	st1284 ec number novel ec number
+mlst__scheme_sam	0.71373403	st297 ec number st666 ec number	st410 number st692 number
+mlst__scheme_sam	0.77076685	st15	st190
+mlst__scheme_sam	0.7036725	st15	st235
+mlst__scheme_sam	0.72292125	st15	st258
+mlst__scheme_sam	0.714926	st15	st231
+mlst__scheme_sam	0.72166586	st15	st410
+mlst__scheme_sam	0.74435115	st15	st354
+mlst__scheme_sam	0.7702147	st15	st167
+mlst__scheme_sam	0.7439555	st15	st2
+mlst__scheme_sam	0.7458806	st15	st114
+mlst__scheme_sam	0.7507359	st15	st11
+mlst__scheme_sam	0.75388515	st15	st357
+mlst__scheme_sam	0.73957896	st15	st307
+mlst__scheme_sam	0.7694829	st15	st171
+mlst__scheme_sam	0.86438966	st15	st13
+mlst__scheme_sam	0.75653523	st15	st1021
+mlst__scheme_sam	0.80444974	st15	st131
+mlst__scheme_sam	0.72698367	st15	st3537
+mlst__scheme_sam	0.71085644	st15	st38
+mlst__scheme_sam	0.7146137	st15	st261
+mlst__scheme_sam	0.7120967	st15	st734
+mlst__scheme_sam	0.7867442	st15	st617
+mlst__scheme_sam	0.7131829	st15	st308
+mlst__scheme_sam	0.70712507	st15	st395
+mlst__scheme_sam	0.79320896	st15	st35
+mlst__scheme_sam	0.712684	st15	st409
+mlst__scheme_sam	0.92517185	st195	st190
+mlst__scheme_sam	0.7462126	st195	st235
+mlst__scheme_sam	0.9384044	st195	st1978
+mlst__scheme_sam	0.705147	st195	st258
+mlst__scheme_sam	0.75180733	st195	st231
+mlst__scheme_sam	0.74071836	st195	st410
+mlst__scheme_sam	0.7322762	st195	st491
+mlst__scheme_sam	0.7145631	st195	st167
+mlst__scheme_sam	0.7123083	st195	st2
+mlst__scheme_sam	0.7286469	st195	st114
+mlst__scheme_sam	0.70450246	st195	st357
+mlst__scheme_sam	0.7217136	st195	st307
+mlst__scheme_sam	0.7496595	st195	st171
+mlst__scheme_sam	0.7337773	st195	st1193
+mlst__scheme_sam	0.713038	st195	st13
+mlst__scheme_sam	0.73708105	st195	st1021
+mlst__scheme_sam	0.73082995	st195	st131
+mlst__scheme_sam	0.73156166	st195	st233
+mlst__scheme_sam	0.7278729	st195	st261
+mlst__scheme_sam	0.7280397	st195	st734
+mlst__scheme_sam	0.7413373	st195	st298
+mlst__scheme_sam	0.77219856	st195	st617
+mlst__scheme_sam	0.70643574	st195	st376
+mlst__scheme_sam	0.7179823	st195	st5909
+mlst__scheme_sam	0.76211375	st195	st395
+mlst__scheme_sam	0.7028784	st195	st773
+mlst__scheme_sam	0.75966287	st195	st409
+mlst__scheme_sam	0.7399108	st195	st499
+mlst__scheme_sam	0.760977	st195	st15
+mlst__scheme_sam	0.77687037	st147	st190
+mlst__scheme_sam	0.78355	st147	st235
+mlst__scheme_sam	0.7557505	st147	st1978
+mlst__scheme_sam	0.7292042	st147	st258
+mlst__scheme_sam	0.7919183	st147	st231
+mlst__scheme_sam	0.78092325	st147	st410
+mlst__scheme_sam	0.7312256	st147	st354
+mlst__scheme_sam	0.76146686	st147	st491
+mlst__scheme_sam	0.8519715	st147	st167
+mlst__scheme_sam	0.8381493	st147	st114
+mlst__scheme_sam	0.7011032	st147	st11
+mlst__scheme_sam	0.75476885	st147	st357
+mlst__scheme_sam	0.77097225	st147	st307
+mlst__scheme_sam	0.8592328	st147	st171
+mlst__scheme_sam	0.8268036	st147	st1193
+mlst__scheme_sam	0.74098945	st147	st13
+mlst__scheme_sam	0.8267776	st147	st1021
+mlst__scheme_sam	0.87789893	st147	st131
+mlst__scheme_sam	0.7463771	st147	st3537
+mlst__scheme_sam	0.72966456	st147	st596
+mlst__scheme_sam	0.7755194	st147	st4609
+mlst__scheme_sam	0.7597923	st147	st233
+mlst__scheme_sam	0.7480074	st147	st514
+mlst__scheme_sam	0.7825192	st147	st261
+mlst__scheme_sam	0.852155	st147	st734
+mlst__scheme_sam	0.80982554	st147	st298
+mlst__scheme_sam	0.8322062	st147	st617
+mlst__scheme_sam	0.74045956	st147	st308
+mlst__scheme_sam	0.8124707	st147	st376
+mlst__scheme_sam	0.76066554	st147	st5909
+mlst__scheme_sam	0.76073396	st147	st395
+mlst__scheme_sam	0.8261514	st147	st773
+mlst__scheme_sam	0.7458496	st147	st409
+mlst__scheme_sam	0.7528522	st147	st499
+mlst__scheme_sam	0.786039	st147	st15
+mlst__scheme_sam	0.73669016	st147	st195
+mlst__scheme_sam	0.79607767	st149 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.83911204	st149 pasteur	st2 pasteur
+mlst__scheme_sam	0.70218146	st149 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8192728	st149 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7909118	st149 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.7226808	st149 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.72531205	st149 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.80987537	st149 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.7716321	st149 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.7400786	st149 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.7172922	st149 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.8161694	st149 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.81536055	st149 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7362083	st149 pasteur	st147
+mlst__scheme_sam	0.7776269	novel 53,20,19,178,45 ,4,32	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.7728001	novel 53,20,19,178,45 ,4,32	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.835438	novel 53,20,19,178,45 ,4,32	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.86696464	novel 53,20,19,178,45 ,4,32	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.83727086	novel 53,20,19,178,45 ,4,32	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.8337357	novel 53,20,19,178,45 ,4,32	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.75961286	novel 53,20,19,178,45 ,4,32	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.80165756	novel 53,20,19,178,45 ,4,32	novel 10,760 ,4,8,8,13,2
+mlst__scheme_sam	0.8408341	st94	st190
+mlst__scheme_sam	0.7363986	st94	st235
+mlst__scheme_sam	0.80177927	st94	st1978
+mlst__scheme_sam	0.7496129	st94	st231
+mlst__scheme_sam	0.78362924	st94	st410
+mlst__scheme_sam	0.72305053	st94	st354
+mlst__scheme_sam	0.83518994	st94	st491
+mlst__scheme_sam	0.72702384	st94	st167
+mlst__scheme_sam	0.7298493	st94	st2
+mlst__scheme_sam	0.8039454	st94	st114
+mlst__scheme_sam	0.72587705	st94	st11
+mlst__scheme_sam	0.72441673	st94	st357
+mlst__scheme_sam	0.7503466	st94	st307
+mlst__scheme_sam	0.72814816	st94	st171
+mlst__scheme_sam	0.7983732	st94	st1193
+mlst__scheme_sam	0.72999203	st94	st13
+mlst__scheme_sam	0.7686274	st94	st1021
+mlst__scheme_sam	0.7554476	st94	st131
+mlst__scheme_sam	0.73947656	st94	st596
+mlst__scheme_sam	0.7085177	st94	st38
+mlst__scheme_sam	0.7529129	st94	st4609
+mlst__scheme_sam	0.73478204	st94	st233
+mlst__scheme_sam	0.7174626	st94	st514
+mlst__scheme_sam	0.717317	st94	st261
+mlst__scheme_sam	0.78858376	st94	st734
+mlst__scheme_sam	0.8306101	st94	st298
+mlst__scheme_sam	0.79787886	st94	st617
+mlst__scheme_sam	0.74383533	st94	st308
+mlst__scheme_sam	0.7497281	st94	st376
+mlst__scheme_sam	0.7788185	st94	st5909
+mlst__scheme_sam	0.76591647	st94	st395
+mlst__scheme_sam	0.7622789	st94	st773
+mlst__scheme_sam	0.82318646	st94	st409
+mlst__scheme_sam	0.86707485	st94	st499
+mlst__scheme_sam	0.7312357	st94	st15
+mlst__scheme_sam	0.8118625	st94	st195
+mlst__scheme_sam	0.79279065	st94	st147
+mlst__scheme_sam	0.75643754	650_pasteur 361_achtman	38_achtman 8_pasteur
+mlst__scheme_sam	0.75826895	st16	st190
+mlst__scheme_sam	0.7078611	st16	st231
+mlst__scheme_sam	0.72604865	st16	st410
+mlst__scheme_sam	0.8571651	st16	st167
+mlst__scheme_sam	0.77747375	st16	st2
+mlst__scheme_sam	0.77585685	st16	st114
+mlst__scheme_sam	0.80849737	st16	st11
+mlst__scheme_sam	0.7748361	st16	st171
+mlst__scheme_sam	0.71805453	st16	st1193
+mlst__scheme_sam	0.8315755	st16	st13
+mlst__scheme_sam	0.7433663	st16	st1021
+mlst__scheme_sam	0.7589585	st16	st131
+mlst__scheme_sam	0.730916	st16	st38
+mlst__scheme_sam	0.72699887	st16	st514
+mlst__scheme_sam	0.722278	st16	st261
+mlst__scheme_sam	0.7355288	st16	st734
+mlst__scheme_sam	0.8165846	st16	st617
+mlst__scheme_sam	0.7176603	st16	st376
+mlst__scheme_sam	0.72328925	st16	st35
+mlst__scheme_sam	0.8761189	st16	st15
+mlst__scheme_sam	0.7253928	st16	st195
+mlst__scheme_sam	0.75301075	st16	st147
+mlst__scheme_sam	0.7275319	st16	st94
+mlst__scheme_sam	0.73747087	st383	st190
+mlst__scheme_sam	0.7186314	st383	st235
+mlst__scheme_sam	0.71415424	st383	st258
+mlst__scheme_sam	0.74695927	st383	st231
+mlst__scheme_sam	0.8103575	st383	st410
+mlst__scheme_sam	0.81519616	st383	st354
+mlst__scheme_sam	0.7176544	st383	st491
+mlst__scheme_sam	0.7211574	st383	st114
+mlst__scheme_sam	0.8288815	st383	st357
+mlst__scheme_sam	0.77683604	st383	st307
+mlst__scheme_sam	0.7030953	st383	st171
+mlst__scheme_sam	0.7226404	st383	st1193
+mlst__scheme_sam	0.711841	st383	st1021
+mlst__scheme_sam	0.7147401	st383	st131
+mlst__scheme_sam	0.8212429	st383	st3537
+mlst__scheme_sam	0.8970031	st383	st38
+mlst__scheme_sam	0.74196315	st383	st4609
+mlst__scheme_sam	0.73781985	st383	st233
+mlst__scheme_sam	0.76082313	st383	st648
+mlst__scheme_sam	0.7260027	st383	st514
+mlst__scheme_sam	0.7471031	st383	st261
+mlst__scheme_sam	0.726712	st383	st734
+mlst__scheme_sam	0.7496537	st383	st298
+mlst__scheme_sam	0.7298355	st383	st617
+mlst__scheme_sam	0.7745234	st383	st308
+mlst__scheme_sam	0.8133608	st383	st376
+mlst__scheme_sam	0.8492085	st383	st395
+mlst__scheme_sam	0.7742276	st383	st35
+mlst__scheme_sam	0.82332397	st383	st409
+mlst__scheme_sam	0.7038053	st383	st499
+mlst__scheme_sam	0.7067511	st383	st147
+mlst__scheme_sam	0.7157463	st383	st94
+mlst__scheme_sam	0.7864295	st137	st190
+mlst__scheme_sam	0.7774539	st137	st235
+mlst__scheme_sam	0.75314474	st137	st1978
+mlst__scheme_sam	0.7542508	st137	st258
+mlst__scheme_sam	0.7993728	st137	st231
+mlst__scheme_sam	0.7925979	st137	st410
+mlst__scheme_sam	0.7312056	st137	st354
+mlst__scheme_sam	0.73312116	st137	st491
+mlst__scheme_sam	0.8137784	st137	st167
+mlst__scheme_sam	0.85377747	st137	st114
+mlst__scheme_sam	0.7610512	st137	st11
+mlst__scheme_sam	0.76447856	st137	st357
+mlst__scheme_sam	0.7695092	st137	st307
+mlst__scheme_sam	0.833714	st137	st171
+mlst__scheme_sam	0.853489	st137	st1193
+mlst__scheme_sam	0.85925686	st137	st13
+mlst__scheme_sam	0.82486844	st137	st1021
+mlst__scheme_sam	0.98253804	st137	st131
+mlst__scheme_sam	0.7518568	st137	st3537
+mlst__scheme_sam	0.70616335	st137	st596
+mlst__scheme_sam	0.74569005	st137	st4609
+mlst__scheme_sam	0.77953845	st137	st233
+mlst__scheme_sam	0.72718674	st137	st514
+mlst__scheme_sam	0.8052269	st137	st261
+mlst__scheme_sam	0.8140565	st137	st734
+mlst__scheme_sam	0.7763469	st137	st298
+mlst__scheme_sam	0.84073746	st137	st617
+mlst__scheme_sam	0.7398927	st137	st308
+mlst__scheme_sam	0.79019046	st137	st376
+mlst__scheme_sam	0.7308996	st137	st5909
+mlst__scheme_sam	0.7855638	st137	st395
+mlst__scheme_sam	0.79172754	st137	st773
+mlst__scheme_sam	0.743872	st137	st409
+mlst__scheme_sam	0.73217076	st137	st499
+mlst__scheme_sam	0.81165695	st137	st15
+mlst__scheme_sam	0.7441437	st137	st195
+mlst__scheme_sam	0.903866	st137	st147
+mlst__scheme_sam	0.7804636	st137	st94
+mlst__scheme_sam	0.7621914	st137	st16
+mlst__scheme_sam	0.72005355	st137	st383
+mlst__scheme_sam	0.9678992	a-sub_pasteur 349_achtman dinb_coli 2-pasteur	dinb_coli 2-pasteur 167_achtman a-sub_pasteur
+mlst__scheme_sam	0.7145798	st45	st190
+mlst__scheme_sam	0.76658416	st45	st235
+mlst__scheme_sam	0.7560571	st45	st258
+mlst__scheme_sam	0.74801445	st45	st231
+mlst__scheme_sam	0.8034179	st45	st410
+mlst__scheme_sam	0.77722	st45	st354
+mlst__scheme_sam	0.7422184	st45	st491
+mlst__scheme_sam	0.73530704	st45	st114
+mlst__scheme_sam	0.70871603	st45	st11
+mlst__scheme_sam	0.77477777	st45	st357
+mlst__scheme_sam	0.7189177	st45	st307
+mlst__scheme_sam	0.7006093	st45	st1193
+mlst__scheme_sam	0.70900923	st45	st13
+mlst__scheme_sam	0.7297434	st45	st1021
+mlst__scheme_sam	0.70688856	st45	st131
+mlst__scheme_sam	0.75391954	st45	st3537
+mlst__scheme_sam	0.7977226	st45	st38
+mlst__scheme_sam	0.7551662	st45	st4609
+mlst__scheme_sam	0.73515856	st45	st233
+mlst__scheme_sam	0.73565805	st45	st514
+mlst__scheme_sam	0.7371433	st45	st261
+mlst__scheme_sam	0.7051914	st45	st734
+mlst__scheme_sam	0.73786396	st45	st298
+mlst__scheme_sam	0.7523878	st45	st617
+mlst__scheme_sam	0.7194823	st45	st308
+mlst__scheme_sam	0.74523854	st45	st376
+mlst__scheme_sam	0.7965301	st45	st395
+mlst__scheme_sam	0.8068226	st45	st35
+mlst__scheme_sam	0.8096484	st45	st409
+mlst__scheme_sam	0.7485489	st45	st499
+mlst__scheme_sam	0.7706439	st45	st15
+mlst__scheme_sam	0.7218032	st45	st195
+mlst__scheme_sam	0.70946276	st45	st147
+mlst__scheme_sam	0.7250459	st45	st94
+mlst__scheme_sam	0.7031078	st45	st16
+mlst__scheme_sam	0.7573737	st45	st383
+mlst__scheme_sam	0.7202223	st45	st137
+mlst__scheme_sam	0.82386184	st540 ec number st716 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.85317206	st540 ec number st716 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.8686147	st540 ec number st716 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.83365643	st540 ec number st716 ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.7950424	st540 ec number st716 ec number	st1284 ec number novel ec number
+mlst__scheme_sam	0.71029425	st540 ec number st716 ec number	st410 number st692 number
+mlst__scheme_sam	0.81230754	st540 ec number st716 ec number	st297 ec number st666 ec number
+mlst__scheme_sam	0.95918655	st197	st190
+mlst__scheme_sam	0.7712113	st197	st235
+mlst__scheme_sam	0.9587844	st197	st1978
+mlst__scheme_sam	0.7258568	st197	st258
+mlst__scheme_sam	0.8040217	st197	st231
+mlst__scheme_sam	0.7696574	st197	st410
+mlst__scheme_sam	0.77875316	st197	st491
+mlst__scheme_sam	0.7776724	st197	st167
+mlst__scheme_sam	0.7189269	st197	st2
+mlst__scheme_sam	0.765788	st197	st114
+mlst__scheme_sam	0.7070872	st197	st11
+mlst__scheme_sam	0.7299596	st197	st357
+mlst__scheme_sam	0.7725524	st197	st307
+mlst__scheme_sam	0.8103465	st197	st171
+mlst__scheme_sam	0.78252935	st197	st1193
+mlst__scheme_sam	0.7318839	st197	st13
+mlst__scheme_sam	0.77944744	st197	st1021
+mlst__scheme_sam	0.77229273	st197	st131
+mlst__scheme_sam	0.71614647	st197	st3537
+mlst__scheme_sam	0.7352687	st197	st596
+mlst__scheme_sam	0.72530234	st197	st38
+mlst__scheme_sam	0.70228004	st197	st4609
+mlst__scheme_sam	0.7798929	st197	st233
+mlst__scheme_sam	0.7591704	st197	st261
+mlst__scheme_sam	0.7988315	st197	st734
+mlst__scheme_sam	0.7970097	st197	st298
+mlst__scheme_sam	0.8118587	st197	st617
+mlst__scheme_sam	0.73456025	st197	st308
+mlst__scheme_sam	0.76363516	st197	st376
+mlst__scheme_sam	0.7662389	st197	st5909
+mlst__scheme_sam	0.78767604	st197	st395
+mlst__scheme_sam	0.77777684	st197	st773
+mlst__scheme_sam	0.7884506	st197	st409
+mlst__scheme_sam	0.7883103	st197	st499
+mlst__scheme_sam	0.762403	st197	st15
+mlst__scheme_sam	0.959923	st197	st195
+mlst__scheme_sam	0.7924843	st197	st147
+mlst__scheme_sam	0.8533182	st197	st94
+mlst__scheme_sam	0.7602953	st197	st16
+mlst__scheme_sam	0.7295921	st197	st383
+mlst__scheme_sam	0.8006493	st197	st137
+mlst__scheme_sam	0.71084636	st197	st45
+mlst__scheme_sam	0.7718793	st125	st190
+mlst__scheme_sam	0.7793619	st125	st235
+mlst__scheme_sam	0.7169906	st125	st1978
+mlst__scheme_sam	0.7752944	st125	st258
+mlst__scheme_sam	0.7632359	st125	st231
+mlst__scheme_sam	0.8066608	st125	st410
+mlst__scheme_sam	0.713956	st125	st354
+mlst__scheme_sam	0.7463039	st125	st491
+mlst__scheme_sam	0.80430424	st125	st167
+mlst__scheme_sam	0.7261392	st125	st2
+mlst__scheme_sam	0.86186624	st125	st114
+mlst__scheme_sam	0.76041067	st125	st11
+mlst__scheme_sam	0.7413626	st125	st357
+mlst__scheme_sam	0.77890944	st125	st307
+mlst__scheme_sam	0.79433084	st125	st171
+mlst__scheme_sam	0.8435885	st125	st1193
+mlst__scheme_sam	0.7818853	st125	st13
+mlst__scheme_sam	0.85313773	st125	st1021
+mlst__scheme_sam	0.88958055	st125	st131
+mlst__scheme_sam	0.7331741	st125	st3537
+mlst__scheme_sam	0.743086	st125	st596
+mlst__scheme_sam	0.7570403	st125	st4609
+mlst__scheme_sam	0.7305301	st125	st233
+mlst__scheme_sam	0.70455885	st125	st648
+mlst__scheme_sam	0.7601479	st125	st514
+mlst__scheme_sam	0.77543	st125	st261
+mlst__scheme_sam	0.80272365	st125	st734
+mlst__scheme_sam	0.7847599	st125	st298
+mlst__scheme_sam	0.8594493	st125	st617
+mlst__scheme_sam	0.77055025	st125	st308
+mlst__scheme_sam	0.78702617	st125	st376
+mlst__scheme_sam	0.7516682	st125	st5909
+mlst__scheme_sam	0.772519	st125	st395
+mlst__scheme_sam	0.7701183	st125	st773
+mlst__scheme_sam	0.76115084	st125	st409
+mlst__scheme_sam	0.7313789	st125	st499
+mlst__scheme_sam	0.81284475	st125	st15
+mlst__scheme_sam	0.7650848	st125	st195
+mlst__scheme_sam	0.8701736	st125	st147
+mlst__scheme_sam	0.77339005	st125	st94
+mlst__scheme_sam	0.7587179	st125	st16
+mlst__scheme_sam	0.72145516	st125	st383
+mlst__scheme_sam	0.8937262	st125	st137
+mlst__scheme_sam	0.7758549	st125	st45
+mlst__scheme_sam	0.7638594	st125	st197
+mlst__scheme_sam	0.733726	st2497	st190
+mlst__scheme_sam	0.78771675	st2497	st235
+mlst__scheme_sam	0.7368685	st2497	st1978
+mlst__scheme_sam	0.8621677	st2497	st258
+mlst__scheme_sam	0.8067465	st2497	st231
+mlst__scheme_sam	0.72888196	st2497	st410
+mlst__scheme_sam	0.7126854	st2497	st491
+mlst__scheme_sam	0.75223935	st2497	st167
+mlst__scheme_sam	0.7255113	st2497	st357
+mlst__scheme_sam	0.7905885	st2497	st307
+mlst__scheme_sam	0.74570477	st2497	st171
+mlst__scheme_sam	0.74041843	st2497	st1193
+mlst__scheme_sam	0.7458114	st2497	st1021
+mlst__scheme_sam	0.71414137	st2497	st131
+mlst__scheme_sam	0.74759895	st2497	st3537
+mlst__scheme_sam	0.7598247	st2497	st4609
+mlst__scheme_sam	0.76867735	st2497	st233
+mlst__scheme_sam	0.8434654	st2497	st261
+mlst__scheme_sam	0.7687981	st2497	st734
+mlst__scheme_sam	0.80918574	st2497	st298
+mlst__scheme_sam	0.7600982	st2497	st617
+mlst__scheme_sam	0.7764619	st2497	st308
+mlst__scheme_sam	0.80008197	st2497	st376
+mlst__scheme_sam	0.7171973	st2497	st5909
+mlst__scheme_sam	0.7136957	st2497	st395
+mlst__scheme_sam	0.739026	st2497	st773
+mlst__scheme_sam	0.7136722	st2497	st409
+mlst__scheme_sam	0.7093682	st2497	st499
+mlst__scheme_sam	0.7868459	st2497	st147
+mlst__scheme_sam	0.7342813	st2497	st137
+mlst__scheme_sam	0.7288391	st2497	st197
+mlst__scheme_sam	0.7386465	st2497	st125
+mlst__scheme_sam	0.8494575	st219	st190
+mlst__scheme_sam	0.83134687	st219	st235
+mlst__scheme_sam	0.81291294	st219	st1978
+mlst__scheme_sam	0.822383	st219	st258
+mlst__scheme_sam	0.8719435	st219	st231
+mlst__scheme_sam	0.8119217	st219	st410
+mlst__scheme_sam	0.76828384	st219	st491
+mlst__scheme_sam	0.7553104	st219	st167
+mlst__scheme_sam	0.700758	st219	st2
+mlst__scheme_sam	0.7906692	st219	st114
+mlst__scheme_sam	0.7233418	st219	st11
+mlst__scheme_sam	0.7700342	st219	st307
+mlst__scheme_sam	0.7526221	st219	st171
+mlst__scheme_sam	0.8110372	st219	st1193
+mlst__scheme_sam	0.70653665	st219	st13
+mlst__scheme_sam	0.84670264	st219	st1021
+mlst__scheme_sam	0.7756623	st219	st131
+mlst__scheme_sam	0.70854163	st219	st596
+mlst__scheme_sam	0.71548045	st219	st4609
+mlst__scheme_sam	0.8350377	st219	st233
+mlst__scheme_sam	0.7372142	st219	st514
+mlst__scheme_sam	0.814679	st219	st261
+mlst__scheme_sam	0.7538456	st219	st734
+mlst__scheme_sam	0.82335156	st219	st298
+mlst__scheme_sam	0.79921865	st219	st617
+mlst__scheme_sam	0.76253617	st219	st308
+mlst__scheme_sam	0.7601441	st219	st376
+mlst__scheme_sam	0.7490881	st219	st5909
+mlst__scheme_sam	0.7745068	st219	st395
+mlst__scheme_sam	0.70656824	st219	st773
+mlst__scheme_sam	0.8008354	st219	st409
+mlst__scheme_sam	0.78613234	st219	st499
+mlst__scheme_sam	0.72398794	st219	st15
+mlst__scheme_sam	0.8024164	st219	st195
+mlst__scheme_sam	0.77439785	st219	st147
+mlst__scheme_sam	0.77818215	st219	st94
+mlst__scheme_sam	0.724911	st219	st16
+mlst__scheme_sam	0.7916164	st219	st137
+mlst__scheme_sam	0.7330617	st219	st45
+mlst__scheme_sam	0.8529145	st219	st197
+mlst__scheme_sam	0.77125657	st219	st125
+mlst__scheme_sam	0.8200141	st219	st2497
+mlst__scheme_sam	0.7221448	st5954	st190
+mlst__scheme_sam	0.70719755	st5954	st231
+mlst__scheme_sam	0.7203728	st5954	st410
+mlst__scheme_sam	0.84312296	st5954	st491
+mlst__scheme_sam	0.7445408	st5954	st167
+mlst__scheme_sam	0.73259306	st5954	st114
+mlst__scheme_sam	0.7228835	st5954	st307
+mlst__scheme_sam	0.75755525	st5954	st1193
+mlst__scheme_sam	0.78012013	st5954	st1021
+mlst__scheme_sam	0.7279661	st5954	st131
+mlst__scheme_sam	0.9389919	st5954	st596
+mlst__scheme_sam	0.7711779	st5954	st4609
+mlst__scheme_sam	0.7116872	st5954	st648
+mlst__scheme_sam	0.79920936	st5954	st514
+mlst__scheme_sam	0.7645445	st5954	st734
+mlst__scheme_sam	0.7830275	st5954	st298
+mlst__scheme_sam	0.8009113	st5954	st617
+mlst__scheme_sam	0.70136833	st5954	st308
+mlst__scheme_sam	0.75774074	st5954	st376
+mlst__scheme_sam	0.946463	st5954	st5909
+mlst__scheme_sam	0.73529994	st5954	st395
+mlst__scheme_sam	0.71806645	st5954	st409
+mlst__scheme_sam	0.8335502	st5954	st499
+mlst__scheme_sam	0.761973	st5954	st147
+mlst__scheme_sam	0.73740304	st5954	st94
+mlst__scheme_sam	0.7389169	st5954	st137
+mlst__scheme_sam	0.7321704	st5954	st197
+mlst__scheme_sam	0.7589291	st5954	st125
+mlst__scheme_sam	0.7431109	st5954	st219
+mlst__scheme_sam	0.85932237	novel 16,28,21,49,47,22,67	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.8188254	novel 16,28,21,49,47,22,67	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.76505804	novel 16,28,21,49,47,22,67	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.87071776	novel 16,28,21,49,47,22,67	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.93549824	novel 16,28,21,49,47,22,67	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.8809318	novel 16,28,21,49,47,22,67	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.8631488	novel 16,28,21,49,47,22,67	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.83926845	novel 16,28,21,49,47,22,67	novel 10,760 ,4,8,8,13,2
+mlst__scheme_sam	0.87363034	novel 16,28,21,49,47,22,67	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.8415698	st93	st190
+mlst__scheme_sam	0.7533844	st93	st235
+mlst__scheme_sam	0.80042064	st93	st1978
+mlst__scheme_sam	0.7654271	st93	st231
+mlst__scheme_sam	0.77204835	st93	st410
+mlst__scheme_sam	0.70319355	st93	st354
+mlst__scheme_sam	0.8277698	st93	st491
+mlst__scheme_sam	0.72942114	st93	st167
+mlst__scheme_sam	0.7158829	st93	st2
+mlst__scheme_sam	0.78410876	st93	st114
+mlst__scheme_sam	0.71433526	st93	st11
+mlst__scheme_sam	0.7264534	st93	st357
+mlst__scheme_sam	0.7763458	st93	st307
+mlst__scheme_sam	0.73362505	st93	st171
+mlst__scheme_sam	0.82293755	st93	st1193
+mlst__scheme_sam	0.71999085	st93	st13
+mlst__scheme_sam	0.7766052	st93	st1021
+mlst__scheme_sam	0.7656794	st93	st131
+mlst__scheme_sam	0.7373843	st93	st596
+mlst__scheme_sam	0.7513543	st93	st4609
+mlst__scheme_sam	0.7713687	st93	st233
+mlst__scheme_sam	0.7218487	st93	st261
+mlst__scheme_sam	0.7864343	st93	st734
+mlst__scheme_sam	0.838686	st93	st298
+mlst__scheme_sam	0.7965319	st93	st617
+mlst__scheme_sam	0.76954937	st93	st308
+mlst__scheme_sam	0.7563114	st93	st376
+mlst__scheme_sam	0.78420204	st93	st5909
+mlst__scheme_sam	0.767094	st93	st395
+mlst__scheme_sam	0.7814431	st93	st773
+mlst__scheme_sam	0.806182	st93	st409
+mlst__scheme_sam	0.8586653	st93	st499
+mlst__scheme_sam	0.7233024	st93	st15
+mlst__scheme_sam	0.80523705	st93	st195
+mlst__scheme_sam	0.77407146	st93	st147
+mlst__scheme_sam	0.97598314	st93	st94
+mlst__scheme_sam	0.71083707	st93	st16
+mlst__scheme_sam	0.72077405	st93	st383
+mlst__scheme_sam	0.7892182	st93	st137
+mlst__scheme_sam	0.71494126	st93	st45
+mlst__scheme_sam	0.8524556	st93	st197
+mlst__scheme_sam	0.7735419	st93	st125
+mlst__scheme_sam	0.7851342	st93	st219
+mlst__scheme_sam	0.7359445	st93	st5954
+mlst__scheme_sam	0.8928952	st1739 oxford st250 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7199712	st1739 oxford st250 pasteur	st2 pasteur
+mlst__scheme_sam	0.7887872	st1739 oxford st250 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7787698	st1739 oxford st250 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.89623046	st1739 oxford st250 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8070892	st1739 oxford st250 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.9128722	st1739 oxford st250 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.8463017	st1739 oxford st250 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.9080316	st1739 oxford st250 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.9113574	st1739 oxford st250 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.87530935	st1739 oxford st250 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.811075	st1739 oxford st250 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.89220214	st1739 oxford st250 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.8649155	st1739 oxford st250 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.79470426	st1739 oxford st250 pasteur	st149 pasteur
+mlst__scheme_sam	0.8446889	st348 and st1808 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7016089	st348 and st1808 oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.73845196	st348 and st1808 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.9254828	st348 and st1808 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.9301936	st348 and st1808 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7048434	st348 and st1808 oxford st2 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8837564	st348 and st1808 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.76306057	st348 and st1808 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.71566457	st348 and st1808 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.7791488	st348 and st1808 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.87436587	st348 and st1808 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.75302106	st348 and st1808 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.7457911	st348 and st1808 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.98629767	st348 and st1808 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.81484866	st348 and st1808 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.8734088	st348 and st1808 oxford st2 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.75447726	st348 and st1808 oxford st2 pasteur	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.73667985	st348 and st1808 oxford st2 pasteur	st149 pasteur
+mlst__scheme_sam	0.8145166	st348 and st1808 oxford st2 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.770896	st17	st190
+mlst__scheme_sam	0.7175286	st17	st1978
+mlst__scheme_sam	0.7067671	st17	st410
+mlst__scheme_sam	0.70441973	st17	st354
+mlst__scheme_sam	0.7511137	st17	st167
+mlst__scheme_sam	0.7660701	st17	st2
+mlst__scheme_sam	0.7585703	st17	st114
+mlst__scheme_sam	0.7962761	st17	st11
+mlst__scheme_sam	0.7121074	st17	st357
+mlst__scheme_sam	0.8472177	st17	st171
+mlst__scheme_sam	0.7039485	st17	st1193
+mlst__scheme_sam	0.8686746	st17	st13
+mlst__scheme_sam	0.7061317	st17	st1021
+mlst__scheme_sam	0.7604815	st17	st131
+mlst__scheme_sam	0.7040819	st17	st3537
+mlst__scheme_sam	0.7398076	st17	st38
+mlst__scheme_sam	0.74482787	st17	st734
+mlst__scheme_sam	0.81093293	st17	st617
+mlst__scheme_sam	0.73582447	st17	st376
+mlst__scheme_sam	0.700421	st17	st773
+mlst__scheme_sam	0.76226467	st17	st35
+mlst__scheme_sam	0.70435214	st17	st409
+mlst__scheme_sam	0.8767667	st17	st15
+mlst__scheme_sam	0.7570372	st17	st195
+mlst__scheme_sam	0.7512545	st17	st147
+mlst__scheme_sam	0.73495734	st17	st94
+mlst__scheme_sam	0.8905299	st17	st16
+mlst__scheme_sam	0.7754232	st17	st137
+mlst__scheme_sam	0.70273125	st17	st45
+mlst__scheme_sam	0.79277986	st17	st197
+mlst__scheme_sam	0.7349045	st17	st125
+mlst__scheme_sam	0.72419226	st17	st219
+mlst__scheme_sam	0.718682	st17	st93
+mlst__scheme_sam	0.8989639	st218 and st2164 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7204807	st218 and st2164 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.9283308	st218 and st2164 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.9160816	st218 and st2164 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7998376	st218 and st2164 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7463932	st218 and st2164 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.79223907	st218 and st2164 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.801139	st218 and st2164 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.772276	st218 and st2164 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.750994	st218 and st2164 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.88095415	st218 and st2164 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.81293404	st218 and st2164 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.8690709	st218 and st2164 oxford st2 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7609177	st218 and st2164 oxford st2 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.8727131	st218 and st2164 oxford st2 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.95347667	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.9288502	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.9409987	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.9623693	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.9461261	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7474873	st14	st190
+mlst__scheme_sam	0.70278984	st14	st1978
+mlst__scheme_sam	0.72276175	st14	st410
+mlst__scheme_sam	0.7041898	st14	st167
+mlst__scheme_sam	0.7767923	st14	st2
+mlst__scheme_sam	0.80598056	st14	st114
+mlst__scheme_sam	0.81159705	st14	st11
+mlst__scheme_sam	0.7429912	st14	st171
+mlst__scheme_sam	0.71863896	st14	st1193
+mlst__scheme_sam	0.90474284	st14	st13
+mlst__scheme_sam	0.72538024	st14	st1021
+mlst__scheme_sam	0.8126971	st14	st131
+mlst__scheme_sam	0.7454722	st14	st38
+mlst__scheme_sam	0.70773184	st14	st734
+mlst__scheme_sam	0.75934094	st14	st617
+mlst__scheme_sam	0.70987266	st14	st35
+mlst__scheme_sam	0.7049722	st14	st409
+mlst__scheme_sam	0.87191725	st14	st15
+mlst__scheme_sam	0.7467934	st14	st195
+mlst__scheme_sam	0.8546828	st14	st147
+mlst__scheme_sam	0.7647716	st14	st94
+mlst__scheme_sam	0.84169793	st14	st16
+mlst__scheme_sam	0.8129102	st14	st137
+mlst__scheme_sam	0.7288563	st14	st45
+mlst__scheme_sam	0.7650531	st14	st197
+mlst__scheme_sam	0.7857102	st14	st125
+mlst__scheme_sam	0.7169651	st14	st219
+mlst__scheme_sam	0.7189945	st14	st93
+mlst__scheme_sam	0.8768724	st14	st17
+mlst__scheme_sam	0.7869574	st208 and st1806 oxford st2 with mismatch pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.88421035	st208 and st1806 oxford st2 with mismatch pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8878607	st208 and st1806 oxford st2 with mismatch pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.74776745	st208 and st1806 oxford st2 with mismatch pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.73328745	st208 and st1806 oxford st2 with mismatch pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.85633373	st208 and st1806 oxford st2 with mismatch pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.7358116	st208 and st1806 oxford st2 with mismatch pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.81293535	st208 and st1806 oxford st2 with mismatch pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.71047306	st208 and st1806 oxford st2 with mismatch pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.8360847	st208 and st1806 oxford st2 with mismatch pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.82324994	st208 and st1806 oxford st2 with mismatch pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.84913856	st1557 oxford st46 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7227899	st1557 oxford st46 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.83956647	st1557 oxford st46 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7546239	st1557 oxford st46 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.9182228	st1557 oxford st46 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.88821834	st1557 oxford st46 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.8680659	st1557 oxford st46 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.76271814	st1557 oxford st46 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.9616344	st1557 oxford st46 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.8989668	st1557 oxford st46 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.7003925	st1557 oxford st46 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.8818993	st1557 oxford st46 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.8103479	st1557 oxford st46 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.71676594	st1557 oxford st46 pasteur	st149 pasteur
+mlst__scheme_sam	0.8772173	st1557 oxford st46 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.7146365	st1557 oxford st46 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.74220204	st1557 oxford st46 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.76888216	st105	st190
+mlst__scheme_sam	0.7607714	st105	st235
+mlst__scheme_sam	0.74625707	st105	st258
+mlst__scheme_sam	0.74096423	st105	st231
+mlst__scheme_sam	0.8111979	st105	st410
+mlst__scheme_sam	0.7369572	st105	st354
+mlst__scheme_sam	0.75399005	st105	st491
+mlst__scheme_sam	0.7839699	st105	st167
+mlst__scheme_sam	0.84385955	st105	st114
+mlst__scheme_sam	0.75600684	st105	st11
+mlst__scheme_sam	0.7705174	st105	st357
+mlst__scheme_sam	0.8051443	st105	st307
+mlst__scheme_sam	0.7492583	st105	st171
+mlst__scheme_sam	0.8351642	st105	st1193
+mlst__scheme_sam	0.71242857	st105	st13
+mlst__scheme_sam	0.93930066	st105	st1021
+mlst__scheme_sam	0.79244804	st105	st131
+mlst__scheme_sam	0.7574642	st105	st3537
+mlst__scheme_sam	0.7243154	st105	st596
+mlst__scheme_sam	0.75200087	st105	st4609
+mlst__scheme_sam	0.70828307	st105	st233
+mlst__scheme_sam	0.7938856	st105	st514
+mlst__scheme_sam	0.7522875	st105	st261
+mlst__scheme_sam	0.7931868	st105	st734
+mlst__scheme_sam	0.7729422	st105	st298
+mlst__scheme_sam	0.81786376	st105	st617
+mlst__scheme_sam	0.7989232	st105	st308
+mlst__scheme_sam	0.77532864	st105	st376
+mlst__scheme_sam	0.75222075	st105	st5909
+mlst__scheme_sam	0.7853831	st105	st395
+mlst__scheme_sam	0.76128006	st105	st773
+mlst__scheme_sam	0.70744145	st105	st35
+mlst__scheme_sam	0.8028876	st105	st409
+mlst__scheme_sam	0.7490016	st105	st499
+mlst__scheme_sam	0.7842543	st105	st15
+mlst__scheme_sam	0.7402719	st105	st195
+mlst__scheme_sam	0.8139243	st105	st147
+mlst__scheme_sam	0.8117696	st105	st94
+mlst__scheme_sam	0.74064255	st105	st16
+mlst__scheme_sam	0.7193596	st105	st383
+mlst__scheme_sam	0.80544674	st105	st137
+mlst__scheme_sam	0.757675	st105	st45
+mlst__scheme_sam	0.74897295	st105	st197
+mlst__scheme_sam	0.88436663	st105	st125
+mlst__scheme_sam	0.7030134	st105	st2497
+mlst__scheme_sam	0.7691965	st105	st219
+mlst__scheme_sam	0.73783326	st105	st5954
+mlst__scheme_sam	0.81314445	st105	st93
+mlst__scheme_sam	0.7025236	st105	st17
+mlst__scheme_sam	0.7235341	st105	st14
+mlst__scheme_sam	0.74372655	st26	st190
+mlst__scheme_sam	0.7128423	st26	st1978
+mlst__scheme_sam	0.7512142	st26	st258
+mlst__scheme_sam	0.73735255	st26	st231
+mlst__scheme_sam	0.7424626	st26	st410
+mlst__scheme_sam	0.7406031	st26	st354
+mlst__scheme_sam	0.7489791	st26	st2
+mlst__scheme_sam	0.7694995	st26	st114
+mlst__scheme_sam	0.78032774	st26	st11
+mlst__scheme_sam	0.73551154	st26	st357
+mlst__scheme_sam	0.7128189	st26	st307
+mlst__scheme_sam	0.7050837	st26	st171
+mlst__scheme_sam	0.7205859	st26	st1193
+mlst__scheme_sam	0.8283994	st26	st13
+mlst__scheme_sam	0.7265066	st26	st1021
+mlst__scheme_sam	0.7692627	st26	st131
+mlst__scheme_sam	0.7356529	st26	st3537
+mlst__scheme_sam	0.79263157	st26	st38
+mlst__scheme_sam	0.7012286	st26	st4609
+mlst__scheme_sam	0.7153594	st26	st233
+mlst__scheme_sam	0.8693584	st26	st261
+mlst__scheme_sam	0.71634734	st26	st734
+mlst__scheme_sam	0.71295416	st26	st298
+mlst__scheme_sam	0.79521716	st26	st617
+mlst__scheme_sam	0.728492	st26	st376
+mlst__scheme_sam	0.7191496	st26	st395
+mlst__scheme_sam	0.80734175	st26	st35
+mlst__scheme_sam	0.7272264	st26	st409
+mlst__scheme_sam	0.804016	st26	st15
+mlst__scheme_sam	0.7523937	st26	st195
+mlst__scheme_sam	0.72046596	st26	st147
+mlst__scheme_sam	0.725747	st26	st94
+mlst__scheme_sam	0.80032575	st26	st16
+mlst__scheme_sam	0.7045721	st26	st383
+mlst__scheme_sam	0.7680481	st26	st137
+mlst__scheme_sam	0.79037297	st26	st45
+mlst__scheme_sam	0.76448375	st26	st197
+mlst__scheme_sam	0.73392874	st26	st125
+mlst__scheme_sam	0.7110424	st26	st2497
+mlst__scheme_sam	0.77017975	st26	st219
+mlst__scheme_sam	0.70524085	st26	st93
+mlst__scheme_sam	0.82739025	st26	st17
+mlst__scheme_sam	0.8259427	st26	st14
+mlst__scheme_sam	0.81820893	st1552 oxford st1142 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7949177	st1552 oxford st1142 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7097199	st1552 oxford st1142 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.9016086	st1552 oxford st1142 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.8668157	st1552 oxford st1142 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.82725525	st1552 oxford st1142 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.73444307	st1552 oxford st1142 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.94746625	st1552 oxford st1142 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.88677907	st1552 oxford st1142 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.8525444	st1552 oxford st1142 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.7764846	st1552 oxford st1142 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.8451007	st1552 oxford st1142 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.7124539	st1552 oxford st1142 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.96175015	st1552 oxford st1142 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.8135657	st410 number st471 number	st405 ec number st477 ec number
+mlst__scheme_sam	0.72335684	st410 number st471 number	st410
+mlst__scheme_sam	0.7919192	st410 number st471 number	st224 ec number st479 ec number
+mlst__scheme_sam	0.7229258	st410 number st471 number	st73 ec number st4 ec number
+mlst__scheme_sam	0.74671257	st410 number st471 number	st10 number st2 number
+mlst__scheme_sam	0.75194573	st410 number st471 number	st131 ec number st43 ec number
+mlst__scheme_sam	0.7757859	st410 number st471 number	st617 number st2 number
+mlst__scheme_sam	0.9099233	st410 number st471 number	st410 number st692 number
+mlst__scheme_sam	0.7649699	st410 number st471 number	st540 ec number st716 ec number
+mlst__scheme_sam	0.83702266	st223	st190
+mlst__scheme_sam	0.86849743	st223	st235
+mlst__scheme_sam	0.7829947	st223	st1978
+mlst__scheme_sam	0.8547486	st223	st258
+mlst__scheme_sam	0.9081547	st223	st231
+mlst__scheme_sam	0.8236674	st223	st410
+mlst__scheme_sam	0.7376339	st223	st354
+mlst__scheme_sam	0.7209108	st223	st491
+mlst__scheme_sam	0.7515732	st223	st167
+mlst__scheme_sam	0.7436936	st223	st2
+mlst__scheme_sam	0.7763057	st223	st114
+mlst__scheme_sam	0.75901884	st223	st357
+mlst__scheme_sam	0.8091968	st223	st307
+mlst__scheme_sam	0.7679312	st223	st171
+mlst__scheme_sam	0.78560245	st223	st1193
+mlst__scheme_sam	0.7126321	st223	st13
+mlst__scheme_sam	0.80614173	st223	st1021
+mlst__scheme_sam	0.78307295	st223	st131
+mlst__scheme_sam	0.7592793	st223	st3537
+mlst__scheme_sam	0.7308841	st223	st4609
+mlst__scheme_sam	0.89515394	st223	st233
+mlst__scheme_sam	0.74361473	st223	st514
+mlst__scheme_sam	0.83393115	st223	st261
+mlst__scheme_sam	0.7659168	st223	st734
+mlst__scheme_sam	0.7973546	st223	st298
+mlst__scheme_sam	0.79202545	st223	st617
+mlst__scheme_sam	0.7910516	st223	st308
+mlst__scheme_sam	0.77699727	st223	st376
+mlst__scheme_sam	0.7984966	st223	st395
+mlst__scheme_sam	0.72739947	st223	st773
+mlst__scheme_sam	0.7059843	st223	st35
+mlst__scheme_sam	0.78552175	st223	st409
+mlst__scheme_sam	0.7111168	st223	st499
+mlst__scheme_sam	0.7706186	st223	st15
+mlst__scheme_sam	0.79373276	st223	st195
+mlst__scheme_sam	0.7810885	st223	st147
+mlst__scheme_sam	0.7488317	st223	st94
+mlst__scheme_sam	0.7312405	st223	st16
+mlst__scheme_sam	0.73468256	st223	st383
+mlst__scheme_sam	0.7903108	st223	st137
+mlst__scheme_sam	0.7597773	st223	st45
+mlst__scheme_sam	0.83209395	st223	st197
+mlst__scheme_sam	0.80377626	st223	st125
+mlst__scheme_sam	0.8176214	st223	st2497
+mlst__scheme_sam	0.9075575	st223	st219
+mlst__scheme_sam	0.7688621	st223	st93
+mlst__scheme_sam	0.7419168	st223	st17
+mlst__scheme_sam	0.73996896	st223	st14
+mlst__scheme_sam	0.7681738	st223	st105
+mlst__scheme_sam	0.7932477	st223	st26
+mlst__scheme_sam	0.76253474	st76	st190
+mlst__scheme_sam	0.75460744	st76	st235
+mlst__scheme_sam	0.75883037	st76	st1978
+mlst__scheme_sam	0.71594274	st76	st258
+mlst__scheme_sam	0.74093866	st76	st231
+mlst__scheme_sam	0.7642496	st76	st410
+mlst__scheme_sam	0.71016383	st76	st354
+mlst__scheme_sam	0.74988914	st76	st491
+mlst__scheme_sam	0.8189748	st76	st167
+mlst__scheme_sam	0.70350474	st76	st2
+mlst__scheme_sam	0.7513999	st76	st114
+mlst__scheme_sam	0.7578818	st76	st357
+mlst__scheme_sam	0.7867594	st76	st307
+mlst__scheme_sam	0.8141943	st76	st171
+mlst__scheme_sam	0.74476343	st76	st1193
+mlst__scheme_sam	0.7026775	st76	st13
+mlst__scheme_sam	0.7674463	st76	st1021
+mlst__scheme_sam	0.76273274	st76	st131
+mlst__scheme_sam	0.73078907	st76	st3537
+mlst__scheme_sam	0.7735455	st76	st596
+mlst__scheme_sam	0.787881	st76	st4609
+mlst__scheme_sam	0.71896785	st76	st233
+mlst__scheme_sam	0.74350476	st76	st648
+mlst__scheme_sam	0.7338824	st76	st514
+mlst__scheme_sam	0.74610496	st76	st261
+mlst__scheme_sam	0.9523443	st76	st734
+mlst__scheme_sam	0.76370645	st76	st298
+mlst__scheme_sam	0.908099	st76	st617
+mlst__scheme_sam	0.7502111	st76	st308
+mlst__scheme_sam	0.8455848	st76	st376
+mlst__scheme_sam	0.7545847	st76	st5909
+mlst__scheme_sam	0.7613808	st76	st395
+mlst__scheme_sam	0.95262516	st76	st773
+mlst__scheme_sam	0.75627774	st76	st409
+mlst__scheme_sam	0.75447667	st76	st499
+mlst__scheme_sam	0.74866676	st76	st15
+mlst__scheme_sam	0.7485997	st76	st195
+mlst__scheme_sam	0.8296616	st76	st147
+mlst__scheme_sam	0.81143665	st76	st94
+mlst__scheme_sam	0.7728803	st76	st16
+mlst__scheme_sam	0.81381464	st76	st137
+mlst__scheme_sam	0.710307	st76	st45
+mlst__scheme_sam	0.80753577	st76	st197
+mlst__scheme_sam	0.81587124	st76	st125
+mlst__scheme_sam	0.7186828	st76	st2497
+mlst__scheme_sam	0.74672556	st76	st219
+mlst__scheme_sam	0.73524415	st76	st5954
+mlst__scheme_sam	0.8078697	st76	st93
+mlst__scheme_sam	0.7669288	st76	st17
+mlst__scheme_sam	0.74147177	st76	st14
+mlst__scheme_sam	0.8060825	st76	st105
+mlst__scheme_sam	0.7240381	st76	st26
+mlst__scheme_sam	0.7485949	st76	st223
+mlst__scheme_sam	0.80219066	novel 49,20,19,44 x,24,32	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.71953654	novel 49,20,19,44 x,24,32	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.7002906	novel 49,20,19,44 x,24,32	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.9449267	novel 49,20,19,44 x,24,32	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.81240046	novel 49,20,19,44 x,24,32	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.8313873	novel 49,20,19,44 x,24,32	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.75211823	novel 49,20,19,44 x,24,32	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.72799677	novel 49,20,19,44 x,24,32	novel 10,760 ,4,8,8,13,2
+mlst__scheme_sam	0.8629117	novel 49,20,19,44 x,24,32	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.8524637	novel 49,20,19,44 x,24,32	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.76258665	st1142	st190
+mlst__scheme_sam	0.75913906	st1142	st235
+mlst__scheme_sam	0.7363383	st1142	st1978
+mlst__scheme_sam	0.70112836	st1142	st258
+mlst__scheme_sam	0.8006464	st1142	st231
+mlst__scheme_sam	0.8500657	st1142	st410
+mlst__scheme_sam	0.7021549	st1142	st354
+mlst__scheme_sam	0.7803422	st1142	st491
+mlst__scheme_sam	0.7818861	st1142	st167
+mlst__scheme_sam	0.95474803	st1142	st114
+mlst__scheme_sam	0.8737532	st1142	st11
+mlst__scheme_sam	0.72309226	st1142	st357
+mlst__scheme_sam	0.73477924	st1142	st307
+mlst__scheme_sam	0.7878412	st1142	st171
+mlst__scheme_sam	0.94013417	st1142	st1193
+mlst__scheme_sam	0.7659451	st1142	st13
+mlst__scheme_sam	0.8821085	st1142	st1021
+mlst__scheme_sam	0.85630786	st1142	st131
+mlst__scheme_sam	0.7426311	st1142	st3537
+mlst__scheme_sam	0.7178928	st1142	st596
+mlst__scheme_sam	0.73263216	st1142	st38
+mlst__scheme_sam	0.7641697	st1142	st4609
+mlst__scheme_sam	0.75507545	st1142	st233
+mlst__scheme_sam	0.81129956	st1142	st514
+mlst__scheme_sam	0.78487766	st1142	st261
+mlst__scheme_sam	0.7880602	st1142	st734
+mlst__scheme_sam	0.77005965	st1142	st298
+mlst__scheme_sam	0.831398	st1142	st617
+mlst__scheme_sam	0.72028434	st1142	st308
+mlst__scheme_sam	0.80204284	st1142	st376
+mlst__scheme_sam	0.7396708	st1142	st5909
+mlst__scheme_sam	0.780094	st1142	st395
+mlst__scheme_sam	0.7213939	st1142	st773
+mlst__scheme_sam	0.7630638	st1142	st409
+mlst__scheme_sam	0.76721764	st1142	st499
+mlst__scheme_sam	0.7341721	st1142	st15
+mlst__scheme_sam	0.7244549	st1142	st195
+mlst__scheme_sam	0.8286493	st1142	st147
+mlst__scheme_sam	0.7714823	st1142	st94
+mlst__scheme_sam	0.7525726	st1142	st16
+mlst__scheme_sam	0.7475934	st1142	st383
+mlst__scheme_sam	0.8516184	st1142	st137
+mlst__scheme_sam	0.77315223	st1142	st45
+mlst__scheme_sam	0.7677902	st1142	st197
+mlst__scheme_sam	0.8602072	st1142	st125
+mlst__scheme_sam	0.7196242	st1142	st2497
+mlst__scheme_sam	0.81014204	st1142	st219
+mlst__scheme_sam	0.7807705	st1142	st5954
+mlst__scheme_sam	0.7628063	st1142	st93
+mlst__scheme_sam	0.74567086	st1142	st17
+mlst__scheme_sam	0.7662471	st1142	st14
+mlst__scheme_sam	0.834375	st1142	st105
+mlst__scheme_sam	0.77091336	st1142	st26
+mlst__scheme_sam	0.7928612	st1142	st223
+mlst__scheme_sam	0.7580384	st1142	st76
+mlst__scheme_sam	0.71420354	pasteur number	pasteur mlst number
+mlst__scheme_sam	0.8656874	st281 and st1839 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.738984	st281 and st1839 oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.74958956	st281 and st1839 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.89733636	st281 and st1839 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.895708	st281 and st1839 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7893766	st281 and st1839 oxford st2 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.84670615	st281 and st1839 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.77626526	st281 and st1839 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.76809174	st281 and st1839 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.90182525	st281 and st1839 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.85528934	st281 and st1839 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.7177786	st281 and st1839 oxford st2 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.81924045	st281 and st1839 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.84928286	st281 and st1839 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.9063797	st281 and st1839 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.8561794	st281 and st1839 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.8606588	st281 and st1839 oxford st2 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7317429	st281 and st1839 oxford st2 pasteur	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7169997	st281 and st1839 oxford st2 pasteur	st149 pasteur
+mlst__scheme_sam	0.8345163	st281 and st1839 oxford st2 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.90168417	st281 and st1839 oxford st2 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.89168704	st281 and st1839 oxford st2 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.7076603	st281 and st1839 oxford st2 pasteur	st1703 or st1804 multiple perfect hits oxford st1088 pasteur
+mlst__scheme_sam	0.79805815	st281 and st1839 oxford st2 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.7926297	st281 and st1839 oxford st2 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.7493955	st281 and st1839 oxford st2 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.71453506	st167 number st2 number	st167
+mlst__scheme_sam	0.85310876	st167 number st2 number	st1670 number novel number
+mlst__scheme_sam	0.8392838	st167 number st2 number	st10 number st2 number
+mlst__scheme_sam	0.9087375	st167 number st2 number	st617 number st2 number
+mlst__scheme_sam	0.80834866	st167 number st2 number	st410 number st692 number
+mlst__scheme_sam	0.76548743	st167 number st2 number	st410 number st471 number
+mlst__scheme_sam	0.7039908	~132,90 ~83,11,93 ~3 ~8	33,110 ~34,370,310,8,29
+mlst__scheme_sam	0.80536556	st1552 oxford st1442 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.78573734	st1552 oxford st1442 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.70217144	st1552 oxford st1442 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.9052365	st1552 oxford st1442 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.86816716	st1552 oxford st1442 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.82018536	st1552 oxford st1442 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.736936	st1552 oxford st1442 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.941531	st1552 oxford st1442 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.8899418	st1552 oxford st1442 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.8424746	st1552 oxford st1442 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.76401967	st1552 oxford st1442 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.84079933	st1552 oxford st1442 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.7009799	st1552 oxford st1442 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.9602747	st1552 oxford st1442 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.9930905	st1552 oxford st1442 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.7494741	st1552 oxford st1442 pasteur	st281 and st1839 oxford st2 pasteur
+mlst__scheme_sam	0.85177624	st1857 and st345 oxford st499 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7641446	st1857 and st345 oxford st499 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.70252264	st1857 and st345 oxford st499 pasteur	st2 pasteur
+mlst__scheme_sam	0.90674603	st1857 and st345 oxford st499 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.9032037	st1857 and st345 oxford st499 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.70508385	st1857 and st345 oxford st499 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.75264144	st1857 and st345 oxford st499 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8552868	st1857 and st345 oxford st499 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.78903246	st1857 and st345 oxford st499 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.8355686	st1857 and st345 oxford st499 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.76275456	st1857 and st345 oxford st499 pasteur	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.841396	st1857 and st345 oxford st499 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.8733505	st1857 and st345 oxford st499 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.7357035	st1857 and st345 oxford st499 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.83175373	st1857 and st345 oxford st499 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.8400105	st1857 and st345 oxford st499 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.9165059	st1857 and st345 oxford st499 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.8673033	st1857 and st345 oxford st499 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.8465711	st1857 and st345 oxford st499 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.75118935	st1857 and st345 oxford st499 pasteur	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.71931064	st1857 and st345 oxford st499 pasteur	st149 pasteur
+mlst__scheme_sam	0.8677282	st1857 and st345 oxford st499 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.9123145	st1857 and st345 oxford st499 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.8758534	st1857 and st345 oxford st499 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.75277483	st1857 and st345 oxford st499 pasteur	st1703 or st1804 multiple perfect hits oxford st1088 pasteur
+mlst__scheme_sam	0.77727544	st1857 and st345 oxford st499 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.8345417	st1857 and st345 oxford st499 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.79585505	st1857 and st345 oxford st499 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.9196704	st1857 and st345 oxford st499 pasteur	st281 and st1839 oxford st2 pasteur
+mlst__scheme_sam	0.7972187	st1857 and st345 oxford st499 pasteur	st1552 oxford st1442 pasteur
+mlst__scheme_sam	0.9139631	st1794 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.70466346	st1794 oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7820939	st1794 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8452274	st1794 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8388927	st1794 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7134772	st1794 oxford st2 pasteur	st171
+mlst__scheme_sam	0.7029512	st1794 oxford st2 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.9150381	st1794 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8436823	st1794 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.9237096	st1794 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.8828923	st1794 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.92472357	st1794 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.9212803	st1794 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.88688016	st1794 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.84881186	st1794 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.9257493	st1794 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.9085679	st1794 oxford st2 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.8133088	st1794 oxford st2 pasteur	st149 pasteur
+mlst__scheme_sam	0.9550617	st1794 oxford st2 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.8464157	st1794 oxford st2 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.80055046	st1794 oxford st2 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.71706194	st1794 oxford st2 pasteur	st1703 or st1804 multiple perfect hits oxford st1088 pasteur
+mlst__scheme_sam	0.7535385	st1794 oxford st2 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.8819001	st1794 oxford st2 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.848435	st1794 oxford st2 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.8729806	st1794 oxford st2 pasteur	st281 and st1839 oxford st2 pasteur
+mlst__scheme_sam	0.8454735	st1794 oxford st2 pasteur	st1552 oxford st1442 pasteur
+mlst__scheme_sam	0.8917094	st1794 oxford st2 pasteur	st1857 and st345 oxford st499 pasteur
+mlst__scheme_sam	0.7939747	277_kpneumoniae	13_kpneumoniae
+mlst__scheme_sam	0.8245382	277_kpneumoniae	42_kpneumoniae
+mlst__scheme_sam	0.8466885	277_kpneumoniae	377_kpneumoniae
+mlst__scheme_sam	0.76904005	novel 2,3,1,1,4,4,4	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.7530958	novel 2,3,1,1,4,4,4	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.74132717	novel 2,3,1,1,4,4,4	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.89090335	novel 2,3,1,1,4,4,4	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.76504624	novel 2,3,1,1,4,4,4	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.8308953	novel 2,3,1,1,4,4,4	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.76131666	novel 2,3,1,1,4,4,4	novel 10,760 ,4,8,8,13,2
+mlst__scheme_sam	0.70262575	novel 2,3,1,1,4,4,4	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.8499758	novel 2,3,1,1,4,4,4	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.70443845	novel 2,3,1,1,4,4,4	novel 49,20,19,44 x,24,32
+mlst__scheme_sam	0.7664689	novel number ,6,1,7,45 ,52,63	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.73839206	novel number ,6,1,7,45 ,52,63	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.7314253	novel number ,6,1,7,45 ,52,63	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.70596635	novel number ,6,1,7,45 ,52,63	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.8490131	novel 49,20,19,44,37,24,32	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.7558175	novel 49,20,19,44,37,24,32	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.73161304	novel 49,20,19,44,37,24,32	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.9662376	novel 49,20,19,44,37,24,32	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.87676203	novel 49,20,19,44,37,24,32	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.8757976	novel 49,20,19,44,37,24,32	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.7921282	novel 49,20,19,44,37,24,32	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.7562531	novel 49,20,19,44,37,24,32	novel 10,760 ,4,8,8,13,2
+mlst__scheme_sam	0.8910011	novel 49,20,19,44,37,24,32	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.9126706	novel 49,20,19,44,37,24,32	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.94764614	novel 49,20,19,44,37,24,32	novel 49,20,19,44 x,24,32
+mlst__scheme_sam	0.76916933	novel 49,20,19,44,37,24,32	novel 2,3,1,1,4,4,4
+mlst__scheme_sam	0.94457436	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.927238	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.9353738	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.93161404	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.9427899	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.95877194	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1703 or st1804 multiple perfect hits oxford st1088 pasteur
+mlst__scheme_sam	0.71442467	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1857 and st345 oxford st499 pasteur
+mlst__scheme_sam	0.7096498	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1794 oxford st2 pasteur
+mlst__scheme_sam	0.77003336	st127 ec number st32 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.8364359	st127 ec number st32 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.8332925	st127 ec number st32 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7028348	st127 ec number st32 ec number	st10 number st2 number
+mlst__scheme_sam	0.8519616	st127 ec number st32 ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.7051596	st127 ec number st32 ec number	st617 number st2 number
+mlst__scheme_sam	0.8542325	st127 ec number st32 ec number	st1284 ec number novel ec number
+mlst__scheme_sam	0.80332863	st127 ec number st32 ec number	st297 ec number st666 ec number
+mlst__scheme_sam	0.81751025	st127 ec number st32 ec number	st540 ec number st716 ec number
+mlst__scheme_sam	0.7545378	st831	st190
+mlst__scheme_sam	0.7659584	st831	st235
+mlst__scheme_sam	0.763624	st831	st1978
+mlst__scheme_sam	0.74323964	st831	st258
+mlst__scheme_sam	0.78338367	st831	st231
+mlst__scheme_sam	0.78032887	st831	st410
+mlst__scheme_sam	0.71616423	st831	st354
+mlst__scheme_sam	0.75406027	st831	st491
+mlst__scheme_sam	0.7720894	st831	st167
+mlst__scheme_sam	0.766071	st831	st114
+mlst__scheme_sam	0.7575517	st831	st357
+mlst__scheme_sam	0.79365945	st831	st307
+mlst__scheme_sam	0.7440293	st831	st171
+mlst__scheme_sam	0.80891895	st831	st1193
+mlst__scheme_sam	0.8335752	st831	st1021
+mlst__scheme_sam	0.7727108	st831	st131
+mlst__scheme_sam	0.7657716	st831	st3537
+mlst__scheme_sam	0.70785433	st831	st38
+mlst__scheme_sam	0.7809176	st831	st4609
+mlst__scheme_sam	0.74738824	st831	st233
+mlst__scheme_sam	0.7067688	st831	st648
+mlst__scheme_sam	0.70362216	st831	st514
+mlst__scheme_sam	0.7899591	st831	st261
+mlst__scheme_sam	0.83609587	st831	st734
+mlst__scheme_sam	0.8477824	st831	st298
+mlst__scheme_sam	0.8175899	st831	st617
+mlst__scheme_sam	0.8132018	st831	st308
+mlst__scheme_sam	0.8094715	st831	st376
+mlst__scheme_sam	0.734891	st831	st5909
+mlst__scheme_sam	0.7953094	st831	st395
+mlst__scheme_sam	0.79932606	st831	st773
+mlst__scheme_sam	0.77786326	st831	st409
+mlst__scheme_sam	0.7505988	st831	st499
+mlst__scheme_sam	0.7097347	st831	st195
+mlst__scheme_sam	0.79582334	st831	st147
+mlst__scheme_sam	0.8060446	st831	st94
+mlst__scheme_sam	0.7005873	st831	st16
+mlst__scheme_sam	0.77927387	st831	st383
+mlst__scheme_sam	0.7885623	st831	st137
+mlst__scheme_sam	0.7236065	st831	st45
+mlst__scheme_sam	0.7661859	st831	st197
+mlst__scheme_sam	0.79386467	st831	st125
+mlst__scheme_sam	0.76990914	st831	st2497
+mlst__scheme_sam	0.78978515	st831	st219
+mlst__scheme_sam	0.7252195	st831	st5954
+mlst__scheme_sam	0.814389	st831	st93
+mlst__scheme_sam	0.8028847	st831	st105
+mlst__scheme_sam	0.70851076	st831	st26
+mlst__scheme_sam	0.77306956	st831	st223
+mlst__scheme_sam	0.7966246	st831	st76
+mlst__scheme_sam	0.80017936	st831	st1142
+mlst__scheme_sam	0.7558934	st420	st190
+mlst__scheme_sam	0.7697127	st420	st235
+mlst__scheme_sam	0.75455916	st420	st258
+mlst__scheme_sam	0.77389896	st420	st231
+mlst__scheme_sam	0.91457725	st420	st410
+mlst__scheme_sam	0.8001829	st420	st354
+mlst__scheme_sam	0.8319156	st420	st491
+mlst__scheme_sam	0.74969685	st420	st167
+mlst__scheme_sam	0.7491884	st420	st114
+mlst__scheme_sam	0.81750304	st420	st357
+mlst__scheme_sam	0.7616905	st420	st307
+mlst__scheme_sam	0.7261304	st420	st171
+mlst__scheme_sam	0.7255791	st420	st1193
+mlst__scheme_sam	0.74287057	st420	st1021
+mlst__scheme_sam	0.7346339	st420	st131
+mlst__scheme_sam	0.79354346	st420	st3537
+mlst__scheme_sam	0.73691976	st420	st596
+mlst__scheme_sam	0.7414515	st420	st38
+mlst__scheme_sam	0.8292005	st420	st4609
+mlst__scheme_sam	0.74030614	st420	st233
+mlst__scheme_sam	0.79739803	st420	st648
+mlst__scheme_sam	0.8296113	st420	st514
+mlst__scheme_sam	0.74230945	st420	st261
+mlst__scheme_sam	0.78248346	st420	st734
+mlst__scheme_sam	0.75703096	st420	st298
+mlst__scheme_sam	0.80099344	st420	st617
+mlst__scheme_sam	0.7496674	st420	st308
+mlst__scheme_sam	0.82620376	st420	st376
+mlst__scheme_sam	0.7486066	st420	st5909
+mlst__scheme_sam	0.8646321	st420	st395
+mlst__scheme_sam	0.7397704	st420	st773
+mlst__scheme_sam	0.7321631	st420	st35
+mlst__scheme_sam	0.8810049	st420	st409
+mlst__scheme_sam	0.81696796	st420	st499
+mlst__scheme_sam	0.70273376	st420	st15
+mlst__scheme_sam	0.70710444	st420	st195
+mlst__scheme_sam	0.7792902	st420	st147
+mlst__scheme_sam	0.7605648	st420	st94
+mlst__scheme_sam	0.8205886	st420	st383
+mlst__scheme_sam	0.7540315	st420	st137
+mlst__scheme_sam	0.80738	st420	st45
+mlst__scheme_sam	0.73412186	st420	st197
+mlst__scheme_sam	0.8066769	st420	st125
+mlst__scheme_sam	0.71174014	st420	st2497
+mlst__scheme_sam	0.7553189	st420	st219
+mlst__scheme_sam	0.7472038	st420	st5954
+mlst__scheme_sam	0.74793816	st420	st93
+mlst__scheme_sam	0.7054869	st420	st14
+mlst__scheme_sam	0.76929116	st420	st105
+mlst__scheme_sam	0.79993296	st420	st223
+mlst__scheme_sam	0.7801806	st420	st76
+mlst__scheme_sam	0.80024356	st420	st1142
+mlst__scheme_sam	0.74956214	st420	st831
+mlst__scheme_sam	0.93653756	st1697 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.78748345	st1697 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.84926504	st1697 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8402646	st1697 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.934477	st1697 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.848889	st1697 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.89346004	st1697 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.8813435	st1697 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.935939	st1697 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.93629277	st1697 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.88119066	st1697 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.84744555	st1697 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.9391316	st1697 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.9324091	st1697 oxford st2 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.8278855	st1697 oxford st2 pasteur	st149 pasteur
+mlst__scheme_sam	0.93767774	st1697 oxford st2 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.85192823	st1697 oxford st2 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.82763994	st1697 oxford st2 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.7617349	st1697 oxford st2 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.8908379	st1697 oxford st2 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.8535164	st1697 oxford st2 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.86384964	st1697 oxford st2 pasteur	st281 and st1839 oxford st2 pasteur
+mlst__scheme_sam	0.84565556	st1697 oxford st2 pasteur	st1552 oxford st1442 pasteur
+mlst__scheme_sam	0.8785785	st1697 oxford st2 pasteur	st1857 and st345 oxford st499 pasteur
+mlst__scheme_sam	0.97440195	st1697 oxford st2 pasteur	st1794 oxford st2 pasteur
+mlst__scheme_sam	0.85525864	novel 14,2 ,30,133 ,51,2,14	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.78218675	novel 14,2 ,30,133 ,51,2,14	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.82075226	novel 14,2 ,30,133 ,51,2,14	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.80184126	novel 14,2 ,30,133 ,51,2,14	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.8529521	novel 14,2 ,30,133 ,51,2,14	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.80026317	novel 14,2 ,30,133 ,51,2,14	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.8452519	novel 14,2 ,30,133 ,51,2,14	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.8262124	novel 14,2 ,30,133 ,51,2,14	novel 10,760 ,4,8,8,13,2
+mlst__scheme_sam	0.8788888	novel 14,2 ,30,133 ,51,2,14	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.8764873	novel 14,2 ,30,133 ,51,2,14	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.7987752	novel 14,2 ,30,133 ,51,2,14	novel 49,20,19,44 x,24,32
+mlst__scheme_sam	0.77759457	novel 14,2 ,30,133 ,51,2,14	novel 2,3,1,1,4,4,4
+mlst__scheme_sam	0.82816005	novel 14,2 ,30,133 ,51,2,14	novel 49,20,19,44,37,24,32
+mlst__scheme_sam	0.7309592	st361	st190
+mlst__scheme_sam	0.7252481	st361	st235
+mlst__scheme_sam	0.7531676	st361	st258
+mlst__scheme_sam	0.74572957	st361	st231
+mlst__scheme_sam	0.8040918	st361	st410
+mlst__scheme_sam	0.8405964	st361	st354
+mlst__scheme_sam	0.7290606	st361	st491
+mlst__scheme_sam	0.77582705	st361	st167
+mlst__scheme_sam	0.7456425	st361	st114
+mlst__scheme_sam	0.86616814	st361	st357
+mlst__scheme_sam	0.8300073	st361	st307
+mlst__scheme_sam	0.80740666	st361	st171
+mlst__scheme_sam	0.7409153	st361	st1193
+mlst__scheme_sam	0.7443328	st361	st1021
+mlst__scheme_sam	0.7491973	st361	st131
+mlst__scheme_sam	0.8702649	st361	st3537
+mlst__scheme_sam	0.7429875	st361	st38
+mlst__scheme_sam	0.7736865	st361	st4609
+mlst__scheme_sam	0.71384037	st361	st233
+mlst__scheme_sam	0.7410339	st361	st648
+mlst__scheme_sam	0.75322074	st361	st514
+mlst__scheme_sam	0.82640624	st361	st261
+mlst__scheme_sam	0.7953432	st361	st734
+mlst__scheme_sam	0.76393723	st361	st298
+mlst__scheme_sam	0.80628437	st361	st617
+mlst__scheme_sam	0.810942	st361	st308
+mlst__scheme_sam	0.8675517	st361	st376
+mlst__scheme_sam	0.8222959	st361	st395
+mlst__scheme_sam	0.7384908	st361	st773
+mlst__scheme_sam	0.79293615	st361	st35
+mlst__scheme_sam	0.7790878	st361	st409
+mlst__scheme_sam	0.7073431	st361	st499
+mlst__scheme_sam	0.7025821	st361	st15
+mlst__scheme_sam	0.7516341	st361	st147
+mlst__scheme_sam	0.70460033	st361	st94
+mlst__scheme_sam	0.7364385	st361	st16
+mlst__scheme_sam	0.8346212	st361	st383
+mlst__scheme_sam	0.75110376	st361	st137
+mlst__scheme_sam	0.70761126	st361	st45
+mlst__scheme_sam	0.70562565	st361	st197
+mlst__scheme_sam	0.7508423	st361	st125
+mlst__scheme_sam	0.7530873	st361	st2497
+mlst__scheme_sam	0.7017432	st361	st219
+mlst__scheme_sam	0.7032131	st361	st93
+mlst__scheme_sam	0.7383193	st361	st17
+mlst__scheme_sam	0.7676648	st361	st105
+mlst__scheme_sam	0.7407732	st361	st26
+mlst__scheme_sam	0.7495744	st361	st223
+mlst__scheme_sam	0.7629268	st361	st76
+mlst__scheme_sam	0.7730078	st361	st1142
+mlst__scheme_sam	0.7707548	st361	st831
+mlst__scheme_sam	0.78905237	st361	st420
+mlst__scheme_sam	0.7691345	st108	st190
+mlst__scheme_sam	0.7423481	st108	st235
+mlst__scheme_sam	0.725145	st108	st1978
+mlst__scheme_sam	0.74285734	st108	st258
+mlst__scheme_sam	0.75111806	st108	st231
+mlst__scheme_sam	0.79921037	st108	st410
+mlst__scheme_sam	0.7386477	st108	st491
+mlst__scheme_sam	0.7860919	st108	st167
+mlst__scheme_sam	0.8589479	st108	st114
+mlst__scheme_sam	0.79470146	st108	st11
+mlst__scheme_sam	0.7267871	st108	st357
+mlst__scheme_sam	0.7848202	st108	st307
+mlst__scheme_sam	0.73333263	st108	st171
+mlst__scheme_sam	0.86054265	st108	st1193
+mlst__scheme_sam	0.7317866	st108	st13
+mlst__scheme_sam	0.9387806	st108	st1021
+mlst__scheme_sam	0.7989974	st108	st131
+mlst__scheme_sam	0.71643597	st108	st3537
+mlst__scheme_sam	0.7193113	st108	st596
+mlst__scheme_sam	0.7094114	st108	st10 number st2 number
+mlst__scheme_sam	0.71567416	st108	st38
+mlst__scheme_sam	0.73219293	st108	st4609
+mlst__scheme_sam	0.7222794	st108	st233
+mlst__scheme_sam	0.7023207	st108	st648
+mlst__scheme_sam	0.76801956	st108	st514
+mlst__scheme_sam	0.7486584	st108	st261
+mlst__scheme_sam	0.78258723	st108	st734
+mlst__scheme_sam	0.8049025	st108	st298
+mlst__scheme_sam	0.80263287	st108	st617
+mlst__scheme_sam	0.8168098	st108	st308
+mlst__scheme_sam	0.76547635	st108	st376
+mlst__scheme_sam	0.7492657	st108	st5909
+mlst__scheme_sam	0.74749106	st108	st395
+mlst__scheme_sam	0.7520264	st108	st773
+mlst__scheme_sam	0.79584396	st108	st409
+mlst__scheme_sam	0.7468182	st108	st499
+mlst__scheme_sam	0.75016385	st108	st15
+mlst__scheme_sam	0.7136626	st108	st195
+mlst__scheme_sam	0.811131	st108	st147
+mlst__scheme_sam	0.82701856	st108	st94
+mlst__scheme_sam	0.7607403	st108	st16
+mlst__scheme_sam	0.73579097	st108	st383
+mlst__scheme_sam	0.810471	st108	st137
+mlst__scheme_sam	0.7401589	st108	st45
+mlst__scheme_sam	0.75546646	st108	st197
+mlst__scheme_sam	0.8480439	st108	st125
+mlst__scheme_sam	0.7110933	st108	st2497
+mlst__scheme_sam	0.79117525	st108	st219
+mlst__scheme_sam	0.72872657	st108	st5954
+mlst__scheme_sam	0.83058786	st108	st93
+mlst__scheme_sam	0.734627	st108	st14
+mlst__scheme_sam	0.9598678	st108	st105
+mlst__scheme_sam	0.70123255	st108	st26
+mlst__scheme_sam	0.759669	st108	st223
+mlst__scheme_sam	0.7971567	st108	st76
+mlst__scheme_sam	0.8447941	st108	st1142
+mlst__scheme_sam	0.8436241	st108	st831
+mlst__scheme_sam	0.7511474	st108	st420
+mlst__scheme_sam	0.7499745	st108	st361
+mlst__scheme_sam	0.7811408	novel 10,5,1,1,1 ,10,427	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.8734891	novel 10,5,1,1,1 ,10,427	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.7814313	novel 10,5,1,1,1 ,10,427	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.7642865	novel 10,5,1,1,1 ,10,427	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.8628978	novel 10,5,1,1,1 ,10,427	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.75561297	novel 10,5,1,1,1 ,10,427	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.8937506	novel 10,5,1,1,1 ,10,427	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.8957997	novel 10,5,1,1,1 ,10,427	novel 10,760 ,4,8,8,13,2
+mlst__scheme_sam	0.7781128	novel 10,5,1,1,1 ,10,427	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.81709754	novel 10,5,1,1,1 ,10,427	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.7637234	novel 10,5,1,1,1 ,10,427	novel 49,20,19,44 x,24,32
+mlst__scheme_sam	0.78106654	novel 10,5,1,1,1 ,10,427	novel 2,3,1,1,4,4,4
+mlst__scheme_sam	0.7013355	novel 10,5,1,1,1 ,10,427	novel number ,6,1,7,45 ,52,63
+mlst__scheme_sam	0.799051	novel 10,5,1,1,1 ,10,427	novel 49,20,19,44,37,24,32
+mlst__scheme_sam	0.8143965	novel 10,5,1,1,1 ,10,427	novel 14,2 ,30,133 ,51,2,14
+mlst__scheme_sam	0.77780235	237_kpneumoniae	13_kpneumoniae
+mlst__scheme_sam	0.79173285	237_kpneumoniae	42_kpneumoniae
+mlst__scheme_sam	0.8260082	237_kpneumoniae	377_kpneumoniae
+mlst__scheme_sam	0.91731536	237_kpneumoniae	277_kpneumoniae
+mlst__scheme_sam	0.7685672	st332	st190
+mlst__scheme_sam	0.7350821	st332	st235
+mlst__scheme_sam	0.7305021	st332	st258
+mlst__scheme_sam	0.7582716	st332	st231
+mlst__scheme_sam	0.78438663	st332	st410
+mlst__scheme_sam	0.8541416	st332	st354
+mlst__scheme_sam	0.73004025	st332	st491
+mlst__scheme_sam	0.7359266	st332	st167
+mlst__scheme_sam	0.7416092	st332	st114
+mlst__scheme_sam	0.8622521	st332	st357
+mlst__scheme_sam	0.85502875	st332	st307
+mlst__scheme_sam	0.77296174	st332	st171
+mlst__scheme_sam	0.7551365	st332	st1193
+mlst__scheme_sam	0.71560687	st332	st1021
+mlst__scheme_sam	0.76496583	st332	st131
+mlst__scheme_sam	0.84736323	st332	st3537
+mlst__scheme_sam	0.743179	st332	st38
+mlst__scheme_sam	0.76773316	st332	st4609
+mlst__scheme_sam	0.75759363	st332	st233
+mlst__scheme_sam	0.70060337	st332	st648
+mlst__scheme_sam	0.7200819	st332	st514
+mlst__scheme_sam	0.7873477	st332	st261
+mlst__scheme_sam	0.78801787	st332	st734
+mlst__scheme_sam	0.79639167	st332	st298
+mlst__scheme_sam	0.76340324	st332	st617
+mlst__scheme_sam	0.83226955	st332	st308
+mlst__scheme_sam	0.82404244	st332	st376
+mlst__scheme_sam	0.8029901	st332	st395
+mlst__scheme_sam	0.7362456	st332	st773
+mlst__scheme_sam	0.79616123	st332	st35
+mlst__scheme_sam	0.76709104	st332	st409
+mlst__scheme_sam	0.72480655	st332	st499
+mlst__scheme_sam	0.7151334	st332	st15
+mlst__scheme_sam	0.76434994	st332	st147
+mlst__scheme_sam	0.7469432	st332	st94
+mlst__scheme_sam	0.7018219	st332	st16
+mlst__scheme_sam	0.8250405	st332	st383
+mlst__scheme_sam	0.77332604	st332	st137
+mlst__scheme_sam	0.7232131	st332	st45
+mlst__scheme_sam	0.7357692	st332	st197
+mlst__scheme_sam	0.751114	st332	st125
+mlst__scheme_sam	0.7146052	st332	st2497
+mlst__scheme_sam	0.75525475	st332	st93
+mlst__scheme_sam	0.7215827	st332	st17
+mlst__scheme_sam	0.7403654	st332	st105
+mlst__scheme_sam	0.73689115	st332	st26
+mlst__scheme_sam	0.76390445	st332	st223
+mlst__scheme_sam	0.74126923	st332	st76
+mlst__scheme_sam	0.75582194	st332	st1142
+mlst__scheme_sam	0.75700575	st332	st831
+mlst__scheme_sam	0.7710842	st332	st420
+mlst__scheme_sam	0.8722538	st332	st361
+mlst__scheme_sam	0.7258938	st332	st108
+mlst__scheme_sam	0.85034597	st345 and st1857 oxford st499 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7476573	st345 and st1857 oxford st499 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.87601113	st345 and st1857 oxford st499 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.85750407	st345 and st1857 oxford st499 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7422265	st345 and st1857 oxford st499 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8817859	st345 and st1857 oxford st499 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.77671206	st345 and st1857 oxford st499 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.82821244	st345 and st1857 oxford st499 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.75753	st345 and st1857 oxford st499 pasteur	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.8543372	st345 and st1857 oxford st499 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.9016731	st345 and st1857 oxford st499 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.73152626	st345 and st1857 oxford st499 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.83657235	st345 and st1857 oxford st499 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.85304224	st345 and st1857 oxford st499 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.8923788	st345 and st1857 oxford st499 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.86897695	st345 and st1857 oxford st499 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.84534717	st345 and st1857 oxford st499 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7404031	st345 and st1857 oxford st499 pasteur	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7272272	st345 and st1857 oxford st499 pasteur	st149 pasteur
+mlst__scheme_sam	0.8664686	st345 and st1857 oxford st499 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.9142824	st345 and st1857 oxford st499 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.8540159	st345 and st1857 oxford st499 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.7320297	st345 and st1857 oxford st499 pasteur	st1703 or st1804 multiple perfect hits oxford st1088 pasteur
+mlst__scheme_sam	0.7499027	st345 and st1857 oxford st499 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.83777833	st345 and st1857 oxford st499 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.7994125	st345 and st1857 oxford st499 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.90533245	st345 and st1857 oxford st499 pasteur	st281 and st1839 oxford st2 pasteur
+mlst__scheme_sam	0.79924977	st345 and st1857 oxford st499 pasteur	st1552 oxford st1442 pasteur
+mlst__scheme_sam	0.9812416	st345 and st1857 oxford st499 pasteur	st1857 and st345 oxford st499 pasteur
+mlst__scheme_sam	0.87602437	st345 and st1857 oxford st499 pasteur	st1794 oxford st2 pasteur
+mlst__scheme_sam	0.87021846	st345 and st1857 oxford st499 pasteur	st1697 oxford st2 pasteur
+mlst__scheme_sam	0.7159378	novel ec number st2 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.7896458	novel ec number st2 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.78435504	novel ec number st2 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7472709	novel ec number st2 ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.91520596	novel ec number st2 ec number	st1284 ec number novel ec number
+mlst__scheme_sam	0.77026296	novel ec number st2 ec number	st297 ec number st666 ec number
+mlst__scheme_sam	0.7409753	novel ec number st2 ec number	st540 ec number st716 ec number
+mlst__scheme_sam	0.78961134	novel ec number st2 ec number	st127 ec number st32 ec number
+mlst__scheme_sam	0.8625147	st410 ec number st692 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.87103915	st410 ec number st692 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.8247226	st410 ec number st692 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.8347114	st410 ec number st692 ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.7359031	st410 ec number st692 ec number	st617 number st2 number
+mlst__scheme_sam	0.8084355	st410 ec number st692 ec number	st1284 ec number novel ec number
+mlst__scheme_sam	0.8708658	st410 ec number st692 ec number	st410 number st692 number
+mlst__scheme_sam	0.8344152	st410 ec number st692 ec number	st297 ec number st666 ec number
+mlst__scheme_sam	0.8311918	st410 ec number st692 ec number	st540 ec number st716 ec number
+mlst__scheme_sam	0.8020655	st410 ec number st692 ec number	st410 number st471 number
+mlst__scheme_sam	0.8094212	st410 ec number st692 ec number	st127 ec number st32 ec number
+mlst__scheme_sam	0.77220184	st410 ec number st692 ec number	novel ec number st2 ec number
+mlst__scheme_sam	0.7482635	657_achtman 385_pasteur	38_achtman 8_pasteur
+mlst__scheme_sam	0.8501561	657_achtman 385_pasteur	650_pasteur 361_achtman
+mlst__scheme_sam	0.7148273	st2450	st190
+mlst__scheme_sam	0.7807881	st2450	st235
+mlst__scheme_sam	0.87245536	st2450	st258
+mlst__scheme_sam	0.7653103	st2450	st231
+mlst__scheme_sam	0.7356129	st2450	st410
+mlst__scheme_sam	0.7005488	st2450	st491
+mlst__scheme_sam	0.7552378	st2450	st167
+mlst__scheme_sam	0.72612524	st2450	st357
+mlst__scheme_sam	0.7836176	st2450	st307
+mlst__scheme_sam	0.72303736	st2450	st171
+mlst__scheme_sam	0.74500734	st2450	st1021
+mlst__scheme_sam	0.74562323	st2450	st3537
+mlst__scheme_sam	0.73552483	st2450	st4609
+mlst__scheme_sam	0.7271899	st2450	st233
+mlst__scheme_sam	0.7068901	st2450	st514
+mlst__scheme_sam	0.81518126	st2450	st261
+mlst__scheme_sam	0.7451011	st2450	st734
+mlst__scheme_sam	0.76253605	st2450	st298
+mlst__scheme_sam	0.7418002	st2450	st617
+mlst__scheme_sam	0.7776667	st2450	st308
+mlst__scheme_sam	0.7701789	st2450	st376
+mlst__scheme_sam	0.7179082	st2450	st395
+mlst__scheme_sam	0.7101698	st2450	st409
+mlst__scheme_sam	0.7447121	st2450	st147
+mlst__scheme_sam	0.76147044	st2450	st125
+mlst__scheme_sam	0.92236423	st2450	st2497
+mlst__scheme_sam	0.76405096	st2450	st219
+mlst__scheme_sam	0.7029764	st2450	st5954
+mlst__scheme_sam	0.74302983	st2450	st105
+mlst__scheme_sam	0.7935982	st2450	st223
+mlst__scheme_sam	0.71011764	st2450	st76
+mlst__scheme_sam	0.72349465	st2450	st831
+mlst__scheme_sam	0.73171425	st2450	st420
+mlst__scheme_sam	0.74864143	st2450	st361
+mlst__scheme_sam	0.71159995	st2450	st108
+mlst__scheme_sam	0.8179616	167_achtman 2_pasteur	38_achtman 8_pasteur
+mlst__scheme_sam	0.8136333	167_achtman 2_pasteur	650_pasteur 361_achtman
+mlst__scheme_sam	0.7783235	167_achtman 2_pasteur	657_achtman 385_pasteur
+mlst__scheme_sam	0.76996756	2_pasteur 617_achtman	38_achtman 8_pasteur
+mlst__scheme_sam	0.82092255	2_pasteur 617_achtman	650_pasteur 361_achtman
+mlst__scheme_sam	0.79771984	2_pasteur 617_achtman	657_achtman 385_pasteur
+mlst__scheme_sam	0.852233	2_pasteur 617_achtman	167_achtman 2_pasteur
+mlst__scheme_sam	0.85402733	st182	st190
+mlst__scheme_sam	0.7774931	st182	st235
+mlst__scheme_sam	0.79838413	st182	st1978
+mlst__scheme_sam	0.74563897	st182	st258
+mlst__scheme_sam	0.8015465	st182	st231
+mlst__scheme_sam	0.72841346	st182	st410
+mlst__scheme_sam	0.825805	st182	st167
+mlst__scheme_sam	0.7391512	st182	st114
+mlst__scheme_sam	0.71957266	st182	st357
+mlst__scheme_sam	0.7269558	st182	st307
+mlst__scheme_sam	0.8770773	st182	st171
+mlst__scheme_sam	0.7471632	st182	st1193
+mlst__scheme_sam	0.70023936	st182	st13
+mlst__scheme_sam	0.7650783	st182	st1021
+mlst__scheme_sam	0.78244644	st182	st131
+mlst__scheme_sam	0.73043346	st182	st3537
+mlst__scheme_sam	0.7796936	st182	st233
+mlst__scheme_sam	0.80017954	st182	st261
+mlst__scheme_sam	0.74321204	st182	st734
+mlst__scheme_sam	0.76974607	st182	st298
+mlst__scheme_sam	0.81179535	st182	st617
+mlst__scheme_sam	0.7181171	st182	st308
+mlst__scheme_sam	0.77342004	st182	st376
+mlst__scheme_sam	0.7663822	st182	st395
+mlst__scheme_sam	0.71822923	st182	st773
+mlst__scheme_sam	0.71818566	st182	st409
+mlst__scheme_sam	0.7524521	st182	st15
+mlst__scheme_sam	0.7902013	st182	st195
+mlst__scheme_sam	0.7755771	st182	st147
+mlst__scheme_sam	0.7007747	st182	st94
+mlst__scheme_sam	0.7718501	st182	st16
+mlst__scheme_sam	0.7384	st182	st383
+mlst__scheme_sam	0.78286135	st182	st137
+mlst__scheme_sam	0.826419	st182	st197
+mlst__scheme_sam	0.79212904	st182	st125
+mlst__scheme_sam	0.75707054	st182	st2497
+mlst__scheme_sam	0.79113	st182	st219
+mlst__scheme_sam	0.70924115	st182	st93
+mlst__scheme_sam	0.78485656	st182	st17
+mlst__scheme_sam	0.7226745	st182	st14
+mlst__scheme_sam	0.72340167	st182	st105
+mlst__scheme_sam	0.7463968	st182	st26
+mlst__scheme_sam	0.8184458	st182	st223
+mlst__scheme_sam	0.7309005	st182	st76
+mlst__scheme_sam	0.7548918	st182	st1142
+mlst__scheme_sam	0.75131094	st182	st831
+mlst__scheme_sam	0.71898913	st182	st420
+mlst__scheme_sam	0.7641873	st182	st361
+mlst__scheme_sam	0.7303214	st182	st108
+mlst__scheme_sam	0.71598214	st182	st332
+mlst__scheme_sam	0.7371623	st182	st2450

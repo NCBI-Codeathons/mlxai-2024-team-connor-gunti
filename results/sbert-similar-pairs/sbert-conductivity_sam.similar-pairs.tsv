@@ -1,0 +1,17 @@
+attr	score	s1	s2
+conductivity_sam	0.7086311	numeric ms/cm or number micros/cm	number ms/m
+conductivity_sam	0.8276273	numeric milliseimen/cm	numeric ms/cm or number micros/cm
+conductivity_sam	0.70207405	numeric milliseimen/cm	number us/cm
+conductivity_sam	0.7799849	numeric ms/cm	number ms/m
+conductivity_sam	0.8680061	numeric ms/cm	numeric ms/cm or number micros/cm
+conductivity_sam	0.8821024	numeric ms/cm	numeric milliseimen/cm
+conductivity_sam	0.8072858	numeric milliseimenpercentimer	numeric milliseimen/cm
+conductivity_sam	0.7237034	numeric milliseimenpercentimer	numeric ms/cm
+conductivity_sam	0.71618617	number us	number
+conductivity_sam	0.8223618	numeric mv	number mv
+conductivity_sam	0.8756682	number ms/cm	number ms/m
+conductivity_sam	0.8233234	number ms/cm	numeric ms/cm or number micros/cm
+conductivity_sam	0.76387626	number ms/cm	number us/cm
+conductivity_sam	0.8185276	number ms/cm	numeric milliseimen/cm
+conductivity_sam	0.87912667	number ms/cm	numeric ms/cm
+conductivity_sam	0.83396447	missing not applicable	missing not provided
