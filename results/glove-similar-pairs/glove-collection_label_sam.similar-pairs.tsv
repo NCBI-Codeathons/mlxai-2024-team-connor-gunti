@@ -1,0 +1,50 @@
+attr	score	s1	s2
+collection_label_sam	0.928024	number mede number	mede042518 number
+collection_label_sam	0.7280493	emergenceb wood	emergence c wood
+collection_label_sam	0.73254067	a-7-1_09 jul number	mede042518 number
+collection_label_sam	0.8686979	m4 shallow	m4 deep
+collection_label_sam	0.82228595	emergence a wood	emergence c wood
+collection_label_sam	0.7377628	emergence a wood	emergenceb wood
+collection_label_sam	0.74622375	emergence a wood	aiptasia single colony
+collection_label_sam	0.7280493	emergencea wood	emergence c wood
+collection_label_sam	1.0000001	emergencea wood	emergenceb wood
+collection_label_sam	0.7377628	emergencea wood	emergence a wood
+collection_label_sam	0.87033087	m5 shallow	m4 shallow
+collection_label_sam	0.8061178	m6 shallow	m4 shallow
+collection_label_sam	0.9145504	m6 shallow	m5 shallow
+collection_label_sam	0.9768603	emergence b wood	emergence c wood
+collection_label_sam	0.7036986	emergence b wood	emergenceb wood
+collection_label_sam	0.84347886	emergence b wood	emergence a wood
+collection_label_sam	0.7036986	emergence b wood	emergencea wood
+collection_label_sam	0.7280493	emergencec wood	emergence c wood
+collection_label_sam	1.0000001	emergencec wood	emergenceb wood
+collection_label_sam	0.7377628	emergencec wood	emergence a wood
+collection_label_sam	1.0000001	emergencec wood	emergencea wood
+collection_label_sam	0.7036986	emergencec wood	emergence b wood
+collection_label_sam	0.76515996	j9	j7
+collection_label_sam	0.86616653	m5 deep	m4 deep
+collection_label_sam	0.77053756	m5 deep	m4 shallow
+collection_label_sam	0.86442536	m5 deep	m5 shallow
+collection_label_sam	0.796656	m5 deep	m6 shallow
+collection_label_sam	0.8518239	m3 deep	m4 deep
+collection_label_sam	0.73007065	m3 deep	m4 shallow
+collection_label_sam	0.7709315	m3 deep	m5 deep
+collection_label_sam	0.8035906	m6 deep	m4 deep
+collection_label_sam	0.7562848	m6 deep	m5 shallow
+collection_label_sam	0.8640025	m6 deep	m6 shallow
+collection_label_sam	0.90966517	m6 deep	m5 deep
+collection_label_sam	0.7401834	m6 deep	m3 deep
+collection_label_sam	0.7090666	m3 shallow	m4 deep
+collection_label_sam	0.8529387	m3 shallow	m4 shallow
+collection_label_sam	0.78183895	m3 shallow	m5 shallow
+collection_label_sam	0.7470454	m3 shallow	m6 shallow
+collection_label_sam	0.8655916	m3 shallow	m3 deep
+collection_label_sam	0.8635251	j1	j2
+collection_label_sam	0.7767551	m7 shallow	m4 shallow
+collection_label_sam	0.85457766	m7 shallow	m5 shallow
+collection_label_sam	0.8131324	m7 shallow	m6 shallow
+collection_label_sam	0.73568577	m7 shallow	m5 deep
+collection_label_sam	0.7774766	m7 deep	m4 deep
+collection_label_sam	0.8445839	m7 deep	m5 deep
+collection_label_sam	0.8083205	m7 deep	m6 deep
+collection_label_sam	0.8335546	m7 deep	m7 shallow

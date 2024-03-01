@@ -1,0 +1,25 @@
+attr	score	s1	s2
+redox_potential_sam	0.7288051	numeric	numeric mv
+redox_potential_sam	0.7149045	number	number mv
+redox_potential_sam	0.7899751	not collected	number
+redox_potential_sam	0.7857067	not applicable	not collected
+redox_potential_sam	0.7973217	missing not provided	number
+redox_potential_sam	0.9222252	missing not provided	not collected
+redox_potential_sam	0.7676193	missing not provided	not applicable
+redox_potential_sam	0.8377804	numeric mv orp	numeric mv
+redox_potential_sam	0.82535154	missing	missing not provided
+redox_potential_sam	0.7970764	missing not collected	number
+redox_potential_sam	0.9574751	missing not collected	not collected
+redox_potential_sam	0.9578126	missing not collected	missing not provided
+redox_potential_sam	0.8708537	missing not collected	missing
+redox_potential_sam	0.8846929	not colected	not collected
+redox_potential_sam	0.89285684	not colected	not applicable
+redox_potential_sam	0.89229333	not colected	missing not provided
+redox_potential_sam	0.82994854	not colected	missing not collected
+redox_potential_sam	0.96777594	number to number	number
+redox_potential_sam	0.87101734	number to number	not collected
+redox_potential_sam	0.73960495	number to number	not applicable
+redox_potential_sam	0.8852572	number to number	missing not provided
+redox_potential_sam	0.86370295	number to number	missing not collected
+redox_potential_sam	0.8073476	number to number	not colected
+redox_potential_sam	1.0	48-228 mv	30-151 mv

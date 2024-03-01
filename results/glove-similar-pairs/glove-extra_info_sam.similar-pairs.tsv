@@ -1,0 +1,58 @@
+attr	score	s1	s2
+extra_info_sam	0.86972696	carapace number mm	carapace numeric mm
+extra_info_sam	0.80165476	number	extraction blank number
+extra_info_sam	0.73469305	hot yoga shirt does not smell	showered this morning w/o soap
+extra_info_sam	0.7292198	hot yoga shirt does not smell	cross fit
+extra_info_sam	0.80494326	seawater sample number	extraction blank number
+extra_info_sam	0.74316037	seawater sample number	number
+extra_info_sam	0.7621029	hot yoga this shirt smells less	showered this morning w/o soap
+extra_info_sam	0.71167284	hot yoga this shirt smells less	cross fit
+extra_info_sam	0.96865875	hot yoga this shirt smells less	hot yoga shirt does not smell
+extra_info_sam	0.7603607	previous shirt smells less	showered this morning w/o soap
+extra_info_sam	0.71075726	previous shirt smells less	cross fit
+extra_info_sam	0.8607912	previous shirt smells less	hot yoga shirt does not smell
+extra_info_sam	0.90758663	previous shirt smells less	hot yoga this shirt smells less
+extra_info_sam	0.7177711	does not notice a difference in shirts	showered this morning w/o soap
+extra_info_sam	0.83738905	does not notice a difference in shirts	cross fit
+extra_info_sam	0.7044149	does not notice a difference in shirts	number
+extra_info_sam	0.86768854	does not notice a difference in shirts	hot yoga shirt does not smell
+extra_info_sam	0.7236982	does not notice a difference in shirts	te buffer in 16s plate only
+extra_info_sam	0.8501908	does not notice a difference in shirts	hot yoga this shirt smells less
+extra_info_sam	0.8819277	does not notice a difference in shirts	previous shirt smells less
+extra_info_sam	0.80003417	filter control number	extraction blank number
+extra_info_sam	0.7722052	filter control number	number
+extra_info_sam	0.78780603	filter control number	seawater sample number
+extra_info_sam	0.7709481	filter control number	does not notice a difference in shirts
+extra_info_sam	0.76269364	jacuzzi night before holiday	showered this morning w/o soap
+extra_info_sam	0.7008542	jacuzzi night before holiday	hot yoga shirt does not smell
+extra_info_sam	0.7121485	jacuzzi night before holiday	hot yoga this shirt smells less
+extra_info_sam	0.7183452	jacuzzi night before holiday	does not notice a difference in shirts
+extra_info_sam	0.76234144	jacuzzi night before holiday	swimming ocean tuesday pool wednesday
+extra_info_sam	0.7964724	shirt feels slick	hot yoga shirt does not smell
+extra_info_sam	0.8027591	shirt feels slick	hot yoga this shirt smells less
+extra_info_sam	0.8274224	shirt feels slick	previous shirt smells less
+extra_info_sam	0.71134275	shirt feels slick	does not notice a difference in shirts
+extra_info_sam	0.72015154	g3 microbiome swab fell on table contamination	seawater sample number
+extra_info_sam	0.7426483	no big difference in smell	showered this morning w/o soap
+extra_info_sam	0.737604	no big difference in smell	cross fit
+extra_info_sam	0.86717886	no big difference in smell	hot yoga shirt does not smell
+extra_info_sam	0.87031096	no big difference in smell	hot yoga this shirt smells less
+extra_info_sam	0.8791059	no big difference in smell	previous shirt smells less
+extra_info_sam	0.9294062	no big difference in smell	does not notice a difference in shirts
+extra_info_sam	0.71724004	no big difference in smell	filter control number
+extra_info_sam	0.7066006	no big difference in smell	jacuzzi night before holiday
+extra_info_sam	0.77429503	hot yoga	hot yoga shirt does not smell
+extra_info_sam	0.8086582	hot yoga	hot yoga this shirt smells less
+extra_info_sam	0.75046927	acne on back	cross fit
+extra_info_sam	0.7774416	acne on back	hot yoga shirt does not smell
+extra_info_sam	0.76998526	acne on back	hot yoga this shirt smells less
+extra_info_sam	0.8054512	acne on back	previous shirt smells less
+extra_info_sam	0.8392216	acne on back	does not notice a difference in shirts
+extra_info_sam	0.7113298	acne on back	jacuzzi night before holiday
+extra_info_sam	0.710451	acne on back	g3 microbiome swab fell on table contamination
+extra_info_sam	0.80745673	acne on back	no big difference in smell
+extra_info_sam	0.71212983	blank with swab	cross fit
+extra_info_sam	0.701784	blank with swab	does not notice a difference in shirts
+extra_info_sam	0.71311945	blank with swab	blank
+extra_info_sam	0.77315974	blank with swab	g3 microbiome swab fell on table contamination
+extra_info_sam	0.7080437	blank with swab	acne on back

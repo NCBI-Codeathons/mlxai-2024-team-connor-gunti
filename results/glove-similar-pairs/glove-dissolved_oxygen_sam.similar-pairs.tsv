@@ -1,0 +1,22 @@
+attr	score	s1	s2
+dissolved_oxygen_sam	1.0000001	numeric numeric	numeric
+dissolved_oxygen_sam	0.8427888	numeric mg/l do	numeric do
+dissolved_oxygen_sam	0.82236916	number mg/l do	number
+dissolved_oxygen_sam	0.821271	number mg/l do	numeric mg/l do
+dissolved_oxygen_sam	0.7492227	oxic condition	anoxic condition
+dissolved_oxygen_sam	1.0000001	number umol/kg	number
+dissolved_oxygen_sam	0.82236916	number umol/kg	number mg/l do
+dissolved_oxygen_sam	0.7745664	number do	numeric do
+dissolved_oxygen_sam	0.8689914	number do	number
+dissolved_oxygen_sam	0.89195997	number do	number mg/l do
+dissolved_oxygen_sam	0.8689914	number do	number umol/kg
+dissolved_oxygen_sam	0.73073035	not measured	number
+dissolved_oxygen_sam	0.7970911	not measured	number mg/l do
+dissolved_oxygen_sam	0.73073035	not measured	number umol/kg
+dissolved_oxygen_sam	0.8361886	not measured	number do
+dissolved_oxygen_sam	1.0000001	numeric micromoleperliter	numeric
+dissolved_oxygen_sam	1.0000001	numeric micromoleperliter	numeric numeric
+dissolved_oxygen_sam	0.71995	numeric mg/l	numeric
+dissolved_oxygen_sam	0.71995	numeric mg/l	numeric numeric
+dissolved_oxygen_sam	0.76684475	numeric mg/l	numeric mg/l do
+dissolved_oxygen_sam	0.71995	numeric mg/l	numeric micromoleperliter

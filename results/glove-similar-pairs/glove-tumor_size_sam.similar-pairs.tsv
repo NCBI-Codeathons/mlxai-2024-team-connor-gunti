@@ -1,0 +1,487 @@
+attr	score	s1	s2
+tumor_size_sam	1.0000001	numeric	numeric numeric
+tumor_size_sam	1.0000001	number	number 3.5cm
+tumor_size_sam	0.79759645	number numeric	numeric numeric
+tumor_size_sam	0.79759645	number numeric	numeric
+tumor_size_sam	0.8044031	number numeric	number 3.5cm
+tumor_size_sam	0.8044031	number numeric	number
+tumor_size_sam	1.0000001	number number	number 3.5cm
+tumor_size_sam	1.0000001	number number	number
+tumor_size_sam	0.8044031	number number	number numeric
+tumor_size_sam	1.0000001	number 5.2cm	number 3.5cm
+tumor_size_sam	1.0000001	number 5.2cm	number
+tumor_size_sam	0.8044031	number 5.2cm	number numeric
+tumor_size_sam	1.0000001	number 5.2cm	number number
+tumor_size_sam	0.7106668	number x number cm	11-40 mm
+tumor_size_sam	0.87778616	number x number cm	number 3.5cm
+tumor_size_sam	0.87778616	number x number cm	number
+tumor_size_sam	0.7559986	number x number cm	number numeric
+tumor_size_sam	0.87778616	number x number cm	number number
+tumor_size_sam	0.87778616	number x number cm	number 5.2cm
+tumor_size_sam	0.79759645	numeric number	numeric numeric
+tumor_size_sam	0.79759645	numeric number	numeric
+tumor_size_sam	0.8044031	numeric number	number 3.5cm
+tumor_size_sam	0.8044031	numeric number	number
+tumor_size_sam	1.0000001	numeric number	number numeric
+tumor_size_sam	0.8044031	numeric number	number number
+tumor_size_sam	0.8044031	numeric number	number 5.2cm
+tumor_size_sam	0.7559986	numeric number	number x number cm
+tumor_size_sam	0.8873565	number x number x number cm	number 3.5cm
+tumor_size_sam	0.8873565	number x number x number cm	number
+tumor_size_sam	0.7699996	number x number x number cm	number numeric
+tumor_size_sam	0.8873565	number x number x number cm	number number
+tumor_size_sam	0.8873565	number x number x number cm	number 5.2cm
+tumor_size_sam	0.9950188	number x number x number cm	number x number cm
+tumor_size_sam	0.7699996	number x number x number cm	numeric number
+tumor_size_sam	0.77533764	not available	number 3.5cm
+tumor_size_sam	0.77533764	not available	number
+tumor_size_sam	0.77533764	not available	number number
+tumor_size_sam	0.77533764	not available	number 5.2cm
+tumor_size_sam	0.7761901	large tumor	large
+tumor_size_sam	0.7406844	number cm	11-40 mm
+tumor_size_sam	0.8012006	number cm	number 3.5cm
+tumor_size_sam	0.8012006	number cm	number
+tumor_size_sam	0.8012006	number cm	number number
+tumor_size_sam	0.8012006	number cm	number 5.2cm
+tumor_size_sam	0.9582899	number cm	number x number cm
+tumor_size_sam	0.92502546	number cm	number x number x number cm
+tumor_size_sam	0.75976443	small tumor	large
+tumor_size_sam	0.9892901	small tumor	large tumor
+tumor_size_sam	0.8300014	numeric 5cm	numeric numeric
+tumor_size_sam	0.8300014	numeric 5cm	numeric
+tumor_size_sam	0.873174	number mm	11-40 mm
+tumor_size_sam	0.7954724	number mm	number 3.5cm
+tumor_size_sam	0.7954724	number mm	number
+tumor_size_sam	0.7954724	number mm	number number
+tumor_size_sam	0.7954724	number mm	number 5.2cm
+tumor_size_sam	0.93635035	number mm	number x number cm
+tumor_size_sam	0.9253441	number mm	number x number x number cm
+tumor_size_sam	0.9154769	number mm	number cm
+tumor_size_sam	0.7633166	numeric x numeric x number cm numeric x numeric x numeric cm processing	numeric numeric
+tumor_size_sam	0.7633166	numeric x numeric x number cm numeric x numeric x numeric cm processing	numeric
+tumor_size_sam	0.8665978	numeric x numeric x number cm numeric x numeric x numeric cm processing	number numeric
+tumor_size_sam	0.82064563	numeric x numeric x number cm numeric x numeric x numeric cm processing	number x number cm
+tumor_size_sam	0.8665978	numeric x numeric x number cm numeric x numeric x numeric cm processing	numeric number
+tumor_size_sam	0.8278462	numeric x numeric x number cm numeric x numeric x numeric cm processing	number x number x number cm
+tumor_size_sam	0.75405353	numeric x numeric x number cm numeric x numeric x numeric cm processing	number cm
+tumor_size_sam	0.7414917	numeric x numeric x number cm numeric x numeric x numeric cm processing	number mm
+tumor_size_sam	0.8089065	numeric x numeric cm	numeric numeric
+tumor_size_sam	0.8089065	numeric x numeric cm	numeric
+tumor_size_sam	0.815124	numeric x numeric cm	number numeric
+tumor_size_sam	0.7401376	numeric x numeric cm	number x number cm
+tumor_size_sam	0.815124	numeric x numeric cm	numeric number
+tumor_size_sam	0.73668253	numeric x numeric cm	number x number x number cm
+tumor_size_sam	0.7086019	numeric x numeric cm	number cm
+tumor_size_sam	0.9783188	numeric x numeric cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.9684598	small	large
+tumor_size_sam	0.71223587	small	not available
+tumor_size_sam	0.74519	small	large tumor
+tumor_size_sam	0.7654459	small	small tumor
+tumor_size_sam	0.75957483	d5 400mm^3	e6 800mm^3
+tumor_size_sam	1.0	numeric numeric 5.0cm	numeric numeric
+tumor_size_sam	1.0	numeric numeric 5.0cm	numeric
+tumor_size_sam	0.79759645	numeric numeric 5.0cm	number numeric
+tumor_size_sam	0.79759645	numeric numeric 5.0cm	numeric number
+tumor_size_sam	0.8300014	numeric numeric 5.0cm	numeric 5cm
+tumor_size_sam	0.7633166	numeric numeric 5.0cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8089065	numeric numeric 5.0cm	numeric x numeric cm
+tumor_size_sam	0.71088815	numeric x number cm	11-40 mm
+tumor_size_sam	0.7471849	numeric x number cm	number 3.5cm
+tumor_size_sam	0.7471849	numeric x number cm	number
+tumor_size_sam	0.840625	numeric x number cm	number numeric
+tumor_size_sam	0.7471849	numeric x number cm	number number
+tumor_size_sam	0.7471849	numeric x number cm	number 5.2cm
+tumor_size_sam	0.9388959	numeric x number cm	number x number cm
+tumor_size_sam	0.840625	numeric x number cm	numeric number
+tumor_size_sam	0.9343376	numeric x number cm	number x number x number cm
+tumor_size_sam	0.89939445	numeric x number cm	number cm
+tumor_size_sam	0.8670681	numeric x number cm	number mm
+tumor_size_sam	0.960363	numeric x number cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.9263722	numeric x number cm	numeric x numeric cm
+tumor_size_sam	0.77336556	number x number x number cm numeric x numeric x numeric cm processing	number 3.5cm
+tumor_size_sam	0.77336556	number x number x number cm numeric x numeric x numeric cm processing	number
+tumor_size_sam	0.86656374	number x number x number cm numeric x numeric x numeric cm processing	number numeric
+tumor_size_sam	0.77336556	number x number x number cm numeric x numeric x numeric cm processing	number number
+tumor_size_sam	0.77336556	number x number x number cm numeric x numeric x numeric cm processing	number 5.2cm
+tumor_size_sam	0.93218356	number x number x number cm numeric x numeric x numeric cm processing	number x number cm
+tumor_size_sam	0.86656374	number x number x number cm numeric x numeric x numeric cm processing	numeric number
+tumor_size_sam	0.9387015	number x number x number cm numeric x numeric x numeric cm processing	number x number x number cm
+tumor_size_sam	0.86130357	number x number x number cm numeric x numeric x numeric cm processing	number cm
+tumor_size_sam	0.8537312	number x number x number cm numeric x numeric x numeric cm processing	number mm
+tumor_size_sam	0.96924603	number x number x number cm numeric x numeric x numeric cm processing	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.9119169	number x number x number cm numeric x numeric x numeric cm processing	numeric x numeric cm
+tumor_size_sam	0.98884165	number x number x number cm numeric x numeric x numeric cm processing	numeric x number cm
+tumor_size_sam	0.7225309	numeric cm	numeric numeric
+tumor_size_sam	0.7225309	numeric cm	numeric
+tumor_size_sam	0.7208945	numeric cm	number numeric
+tumor_size_sam	0.70675987	numeric cm	number x number cm
+tumor_size_sam	0.7208945	numeric cm	numeric number
+tumor_size_sam	0.76545984	numeric cm	number cm
+tumor_size_sam	0.71706194	numeric cm	numeric 5cm
+tumor_size_sam	0.8959803	numeric cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.9504838	numeric cm	numeric x numeric cm
+tumor_size_sam	0.7225309	numeric cm	numeric numeric 5.0cm
+tumor_size_sam	0.8823337	numeric cm	numeric x number cm
+tumor_size_sam	0.83418673	numeric cm	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	1.0000001	number number number number	number 3.5cm
+tumor_size_sam	1.0000001	number number number number	number
+tumor_size_sam	0.8044031	number number number number	number numeric
+tumor_size_sam	1.0000001	number number number number	number number
+tumor_size_sam	1.0000001	number number number number	number 5.2cm
+tumor_size_sam	0.87778616	number number number number	number x number cm
+tumor_size_sam	0.8044031	number number number number	numeric number
+tumor_size_sam	0.8873565	number number number number	number x number x number cm
+tumor_size_sam	0.77533764	number number number number	not available
+tumor_size_sam	0.8012006	number number number number	number cm
+tumor_size_sam	0.7954724	number number number number	number mm
+tumor_size_sam	0.7471849	number number number number	numeric x number cm
+tumor_size_sam	0.77336556	number number number number	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8937581	number x number cm number x number x number cm sample processing	number 3.5cm
+tumor_size_sam	0.8937581	number x number cm number x number x number cm sample processing	number
+tumor_size_sam	0.7846709	number x number cm number x number x number cm sample processing	number numeric
+tumor_size_sam	0.8937581	number x number cm number x number x number cm sample processing	number number
+tumor_size_sam	0.8937581	number x number cm number x number x number cm sample processing	number 5.2cm
+tumor_size_sam	0.9864577	number x number cm number x number x number cm sample processing	number x number cm
+tumor_size_sam	0.7846709	number x number cm number x number x number cm sample processing	numeric number
+tumor_size_sam	0.9882133	number x number cm number x number x number cm sample processing	number x number x number cm
+tumor_size_sam	0.73576826	number x number cm number x number x number cm sample processing	not available
+tumor_size_sam	0.9261912	number x number cm number x number x number cm sample processing	number cm
+tumor_size_sam	0.9165485	number x number cm number x number x number cm sample processing	number mm
+tumor_size_sam	0.83338183	number x number cm number x number x number cm sample processing	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.7340456	number x number cm number x number x number cm sample processing	numeric x numeric cm
+tumor_size_sam	0.92819303	number x number cm number x number x number cm sample processing	numeric x number cm
+tumor_size_sam	0.94202024	number x number cm number x number x number cm sample processing	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8937581	number x number cm number x number x number cm sample processing	number number number number
+tumor_size_sam	1.0000001	number 2.4cm	number 3.5cm
+tumor_size_sam	1.0000001	number 2.4cm	number
+tumor_size_sam	0.8044031	number 2.4cm	number numeric
+tumor_size_sam	1.0000001	number 2.4cm	number number
+tumor_size_sam	1.0000001	number 2.4cm	number 5.2cm
+tumor_size_sam	0.87778616	number 2.4cm	number x number cm
+tumor_size_sam	0.8044031	number 2.4cm	numeric number
+tumor_size_sam	0.8873565	number 2.4cm	number x number x number cm
+tumor_size_sam	0.77533764	number 2.4cm	not available
+tumor_size_sam	0.8012006	number 2.4cm	number cm
+tumor_size_sam	0.7954724	number 2.4cm	number mm
+tumor_size_sam	0.7471849	number 2.4cm	numeric x number cm
+tumor_size_sam	0.77336556	number 2.4cm	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	1.0000001	number 2.4cm	number number number number
+tumor_size_sam	0.8937581	number 2.4cm	number x number cm number x number x number cm sample processing
+tumor_size_sam	1.0000001	number 6.5cm	number 3.5cm
+tumor_size_sam	1.0000001	number 6.5cm	number
+tumor_size_sam	0.8044031	number 6.5cm	number numeric
+tumor_size_sam	1.0000001	number 6.5cm	number number
+tumor_size_sam	1.0000001	number 6.5cm	number 5.2cm
+tumor_size_sam	0.87778616	number 6.5cm	number x number cm
+tumor_size_sam	0.8044031	number 6.5cm	numeric number
+tumor_size_sam	0.8873565	number 6.5cm	number x number x number cm
+tumor_size_sam	0.77533764	number 6.5cm	not available
+tumor_size_sam	0.8012006	number 6.5cm	number cm
+tumor_size_sam	0.7954724	number 6.5cm	number mm
+tumor_size_sam	0.7471849	number 6.5cm	numeric x number cm
+tumor_size_sam	0.77336556	number 6.5cm	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	1.0000001	number 6.5cm	number number number number
+tumor_size_sam	0.8937581	number 6.5cm	number x number cm number x number x number cm sample processing
+tumor_size_sam	1.0000001	number 6.5cm	number 2.4cm
+tumor_size_sam	0.92010957	number numeric numeric	numeric numeric
+tumor_size_sam	0.92010957	number numeric numeric	numeric
+tumor_size_sam	0.97012264	number numeric numeric	number numeric
+tumor_size_sam	0.97012264	number numeric numeric	numeric number
+tumor_size_sam	0.7107389	number numeric numeric	numeric 5cm
+tumor_size_sam	0.86971486	number numeric numeric	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.85462916	number numeric numeric	numeric x numeric cm
+tumor_size_sam	0.9201096	number numeric numeric	numeric numeric 5.0cm
+tumor_size_sam	0.7865208	number numeric numeric	numeric x number cm
+tumor_size_sam	0.80951387	number numeric numeric	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.75870275	number numeric numeric	numeric cm
+tumor_size_sam	1.0	numeric numeric 6.0cm	numeric numeric
+tumor_size_sam	1.0	numeric numeric 6.0cm	numeric
+tumor_size_sam	0.79759645	numeric numeric 6.0cm	number numeric
+tumor_size_sam	0.79759645	numeric numeric 6.0cm	numeric number
+tumor_size_sam	0.8300014	numeric numeric 6.0cm	numeric 5cm
+tumor_size_sam	0.7633166	numeric numeric 6.0cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8089065	numeric numeric 6.0cm	numeric x numeric cm
+tumor_size_sam	1.0	numeric numeric 6.0cm	numeric numeric 5.0cm
+tumor_size_sam	0.7225309	numeric numeric 6.0cm	numeric cm
+tumor_size_sam	0.9201096	numeric numeric 6.0cm	number numeric numeric
+tumor_size_sam	1.0000001	numeric 9cm	numeric numeric
+tumor_size_sam	1.0000001	numeric 9cm	numeric
+tumor_size_sam	0.79759645	numeric 9cm	number numeric
+tumor_size_sam	0.79759645	numeric 9cm	numeric number
+tumor_size_sam	0.8300014	numeric 9cm	numeric 5cm
+tumor_size_sam	0.7633166	numeric 9cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8089065	numeric 9cm	numeric x numeric cm
+tumor_size_sam	1.0	numeric 9cm	numeric numeric 5.0cm
+tumor_size_sam	0.7225309	numeric 9cm	numeric cm
+tumor_size_sam	0.92010957	numeric 9cm	number numeric numeric
+tumor_size_sam	1.0	numeric 9cm	numeric numeric 6.0cm
+tumor_size_sam	0.86056966	number x numeric x numeric cm	number numeric
+tumor_size_sam	0.8800851	number x numeric x numeric cm	number x number cm
+tumor_size_sam	0.86056966	number x numeric x numeric cm	numeric number
+tumor_size_sam	0.8870736	number x numeric x numeric cm	number x number x number cm
+tumor_size_sam	0.8107735	number x numeric x numeric cm	number cm
+tumor_size_sam	0.8007532	number x numeric x numeric cm	number mm
+tumor_size_sam	0.98921496	number x numeric x numeric cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.96158767	number x numeric x numeric cm	numeric x numeric cm
+tumor_size_sam	0.98508847	number x numeric x numeric cm	numeric x number cm
+tumor_size_sam	0.9851383	number x numeric x numeric cm	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8802388	number x numeric x numeric cm	numeric cm
+tumor_size_sam	0.8783869	number x numeric x numeric cm	number x number cm number x number x number cm sample processing
+tumor_size_sam	0.83773565	number x numeric x numeric cm	number numeric numeric
+tumor_size_sam	1.0	numeric numeric 5.5cm	numeric numeric
+tumor_size_sam	1.0	numeric numeric 5.5cm	numeric
+tumor_size_sam	0.79759645	numeric numeric 5.5cm	number numeric
+tumor_size_sam	0.79759645	numeric numeric 5.5cm	numeric number
+tumor_size_sam	0.8300014	numeric numeric 5.5cm	numeric 5cm
+tumor_size_sam	0.7633166	numeric numeric 5.5cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8089065	numeric numeric 5.5cm	numeric x numeric cm
+tumor_size_sam	1.0	numeric numeric 5.5cm	numeric numeric 5.0cm
+tumor_size_sam	0.7225309	numeric numeric 5.5cm	numeric cm
+tumor_size_sam	0.9201096	numeric numeric 5.5cm	number numeric numeric
+tumor_size_sam	1.0	numeric numeric 5.5cm	numeric numeric 6.0cm
+tumor_size_sam	1.0	numeric numeric 5.5cm	numeric 9cm
+tumor_size_sam	1.0000001	number 7.5cm	number 3.5cm
+tumor_size_sam	1.0000001	number 7.5cm	number
+tumor_size_sam	0.8044031	number 7.5cm	number numeric
+tumor_size_sam	1.0000001	number 7.5cm	number number
+tumor_size_sam	1.0000001	number 7.5cm	number 5.2cm
+tumor_size_sam	0.87778616	number 7.5cm	number x number cm
+tumor_size_sam	0.8044031	number 7.5cm	numeric number
+tumor_size_sam	0.8873565	number 7.5cm	number x number x number cm
+tumor_size_sam	0.77533764	number 7.5cm	not available
+tumor_size_sam	0.8012006	number 7.5cm	number cm
+tumor_size_sam	0.7954724	number 7.5cm	number mm
+tumor_size_sam	0.7471849	number 7.5cm	numeric x number cm
+tumor_size_sam	0.77336556	number 7.5cm	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	1.0000001	number 7.5cm	number number number number
+tumor_size_sam	0.8937581	number 7.5cm	number x number cm number x number x number cm sample processing
+tumor_size_sam	1.0000001	number 7.5cm	number 2.4cm
+tumor_size_sam	1.0000001	number 7.5cm	number 6.5cm
+tumor_size_sam	0.9237949	number number numeric	number 3.5cm
+tumor_size_sam	0.9237949	number number numeric	number
+tumor_size_sam	0.9705707	number number numeric	number numeric
+tumor_size_sam	0.9237949	number number numeric	number number
+tumor_size_sam	0.9237949	number number numeric	number 5.2cm
+tumor_size_sam	0.84305805	number number numeric	number x number cm
+tumor_size_sam	0.9705707	number number numeric	numeric number
+tumor_size_sam	0.855961	number number numeric	number x number x number cm
+tumor_size_sam	0.7071587	number number numeric	not available
+tumor_size_sam	0.75886256	number number numeric	number cm
+tumor_size_sam	0.7422977	number number numeric	number mm
+tumor_size_sam	0.81230086	number number numeric	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.72775006	number number numeric	numeric x numeric cm
+tumor_size_sam	0.8446597	number number numeric	numeric x number cm
+tumor_size_sam	0.87198985	number number numeric	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.9237949	number number numeric	number number number number
+tumor_size_sam	0.8680118	number number numeric	number x number cm number x number x number cm sample processing
+tumor_size_sam	0.9237949	number number numeric	number 2.4cm
+tumor_size_sam	0.9237949	number number numeric	number 6.5cm
+tumor_size_sam	0.88314694	number number numeric	number numeric numeric
+tumor_size_sam	0.8323871	number number numeric	number x numeric x numeric cm
+tumor_size_sam	0.9237949	number number numeric	number 7.5cm
+tumor_size_sam	0.721344	number cm in diameter multi-nodular	11-40 mm
+tumor_size_sam	0.7607241	number cm in diameter multi-nodular	number 3.5cm
+tumor_size_sam	0.7607241	number cm in diameter multi-nodular	number
+tumor_size_sam	0.7607241	number cm in diameter multi-nodular	number number
+tumor_size_sam	0.7193572	number cm in diameter multi-nodular	large
+tumor_size_sam	0.7607241	number cm in diameter multi-nodular	number 5.2cm
+tumor_size_sam	0.91737604	number cm in diameter multi-nodular	number x number cm
+tumor_size_sam	0.8852527	number cm in diameter multi-nodular	number x number x number cm
+tumor_size_sam	0.9581054	number cm in diameter multi-nodular	number cm
+tumor_size_sam	0.70069796	number cm in diameter multi-nodular	small tumor
+tumor_size_sam	0.8811764	number cm in diameter multi-nodular	number mm
+tumor_size_sam	0.71419805	number cm in diameter multi-nodular	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.7173128	number cm in diameter multi-nodular	small
+tumor_size_sam	0.84977716	number cm in diameter multi-nodular	numeric x number cm
+tumor_size_sam	0.82404083	number cm in diameter multi-nodular	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.712901	number cm in diameter multi-nodular	numeric cm
+tumor_size_sam	0.7607241	number cm in diameter multi-nodular	number number number number
+tumor_size_sam	0.90297973	number cm in diameter multi-nodular	number x number cm number x number x number cm sample processing
+tumor_size_sam	0.7607241	number cm in diameter multi-nodular	number 2.4cm
+tumor_size_sam	0.7607241	number cm in diameter multi-nodular	number 6.5cm
+tumor_size_sam	0.7608215	number cm in diameter multi-nodular	number x numeric x numeric cm
+tumor_size_sam	0.7607241	number cm in diameter multi-nodular	number 7.5cm
+tumor_size_sam	0.7049482	number cm in diameter multi-nodular	number number numeric
+tumor_size_sam	0.8154911	numeric x numeric cm numeric x numeric x numeric cm processing	numeric numeric
+tumor_size_sam	0.8154911	numeric x numeric cm numeric x numeric x numeric cm processing	numeric
+tumor_size_sam	0.8454376	numeric x numeric cm numeric x numeric x numeric cm processing	number numeric
+tumor_size_sam	0.752062	numeric x numeric cm numeric x numeric x numeric cm processing	number x number cm
+tumor_size_sam	0.8454376	numeric x numeric cm numeric x numeric x numeric cm processing	numeric number
+tumor_size_sam	0.75526196	numeric x numeric cm numeric x numeric x numeric cm processing	number x number x number cm
+tumor_size_sam	0.70077944	numeric x numeric cm numeric x numeric x numeric cm processing	number cm
+tumor_size_sam	0.99215895	numeric x numeric cm numeric x numeric x numeric cm processing	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.99051905	numeric x numeric cm numeric x numeric x numeric cm processing	numeric x numeric cm
+tumor_size_sam	0.8154911	numeric x numeric cm numeric x numeric x numeric cm processing	numeric numeric 5.0cm
+tumor_size_sam	0.92819756	numeric x numeric cm numeric x numeric x numeric cm processing	numeric x number cm
+tumor_size_sam	0.93303066	numeric x numeric cm numeric x numeric x numeric cm processing	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.9206507	numeric x numeric cm numeric x numeric x numeric cm processing	numeric cm
+tumor_size_sam	0.76558155	numeric x numeric cm numeric x numeric x numeric cm processing	number x number cm number x number x number cm sample processing
+tumor_size_sam	0.87696075	numeric x numeric cm numeric x numeric x numeric cm processing	number numeric numeric
+tumor_size_sam	0.8154911	numeric x numeric cm numeric x numeric x numeric cm processing	numeric numeric 6.0cm
+tumor_size_sam	0.8154911	numeric x numeric cm numeric x numeric x numeric cm processing	numeric 9cm
+tumor_size_sam	0.96711063	numeric x numeric cm numeric x numeric x numeric cm processing	number x numeric x numeric cm
+tumor_size_sam	0.8154911	numeric x numeric cm numeric x numeric x numeric cm processing	numeric numeric 5.5cm
+tumor_size_sam	0.7641954	numeric x numeric cm numeric x numeric x numeric cm processing	number number numeric
+tumor_size_sam	0.78062475	8g	12g
+tumor_size_sam	1.0	numeric numeric 1.0cm	numeric numeric
+tumor_size_sam	1.0	numeric numeric 1.0cm	numeric
+tumor_size_sam	0.79759645	numeric numeric 1.0cm	number numeric
+tumor_size_sam	0.79759645	numeric numeric 1.0cm	numeric number
+tumor_size_sam	0.8300014	numeric numeric 1.0cm	numeric 5cm
+tumor_size_sam	0.7633166	numeric numeric 1.0cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8089065	numeric numeric 1.0cm	numeric x numeric cm
+tumor_size_sam	1.0	numeric numeric 1.0cm	numeric numeric 5.0cm
+tumor_size_sam	0.7225309	numeric numeric 1.0cm	numeric cm
+tumor_size_sam	0.9201096	numeric numeric 1.0cm	number numeric numeric
+tumor_size_sam	1.0	numeric numeric 1.0cm	numeric numeric 6.0cm
+tumor_size_sam	1.0	numeric numeric 1.0cm	numeric 9cm
+tumor_size_sam	1.0	numeric numeric 1.0cm	numeric numeric 5.5cm
+tumor_size_sam	0.8154911	numeric numeric 1.0cm	numeric x numeric cm numeric x numeric x numeric cm processing
+tumor_size_sam	1.0	numeric numeric 1.5cm	numeric numeric
+tumor_size_sam	1.0	numeric numeric 1.5cm	numeric
+tumor_size_sam	0.79759645	numeric numeric 1.5cm	number numeric
+tumor_size_sam	0.79759645	numeric numeric 1.5cm	numeric number
+tumor_size_sam	0.8300014	numeric numeric 1.5cm	numeric 5cm
+tumor_size_sam	0.7633166	numeric numeric 1.5cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8089065	numeric numeric 1.5cm	numeric x numeric cm
+tumor_size_sam	1.0	numeric numeric 1.5cm	numeric numeric 5.0cm
+tumor_size_sam	0.7225309	numeric numeric 1.5cm	numeric cm
+tumor_size_sam	0.9201096	numeric numeric 1.5cm	number numeric numeric
+tumor_size_sam	1.0	numeric numeric 1.5cm	numeric numeric 6.0cm
+tumor_size_sam	1.0	numeric numeric 1.5cm	numeric 9cm
+tumor_size_sam	1.0	numeric numeric 1.5cm	numeric numeric 5.5cm
+tumor_size_sam	0.8154911	numeric numeric 1.5cm	numeric x numeric cm numeric x numeric x numeric cm processing
+tumor_size_sam	1.0	numeric numeric 1.5cm	numeric numeric 1.0cm
+tumor_size_sam	1.0000001	number 11cm	number 3.5cm
+tumor_size_sam	1.0000001	number 11cm	number
+tumor_size_sam	0.8044031	number 11cm	number numeric
+tumor_size_sam	1.0000001	number 11cm	number number
+tumor_size_sam	1.0000001	number 11cm	number 5.2cm
+tumor_size_sam	0.87778616	number 11cm	number x number cm
+tumor_size_sam	0.8044031	number 11cm	numeric number
+tumor_size_sam	0.8873565	number 11cm	number x number x number cm
+tumor_size_sam	0.77533764	number 11cm	not available
+tumor_size_sam	0.8012006	number 11cm	number cm
+tumor_size_sam	0.7954724	number 11cm	number mm
+tumor_size_sam	0.7471849	number 11cm	numeric x number cm
+tumor_size_sam	0.77336556	number 11cm	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	1.0000001	number 11cm	number number number number
+tumor_size_sam	0.8937581	number 11cm	number x number cm number x number x number cm sample processing
+tumor_size_sam	1.0000001	number 11cm	number 2.4cm
+tumor_size_sam	1.0000001	number 11cm	number 6.5cm
+tumor_size_sam	1.0000001	number 11cm	number 7.5cm
+tumor_size_sam	0.9237949	number 11cm	number number numeric
+tumor_size_sam	0.7607241	number 11cm	number cm in diameter multi-nodular
+tumor_size_sam	1.0000001	number 4.4cm	number 3.5cm
+tumor_size_sam	1.0000001	number 4.4cm	number
+tumor_size_sam	0.8044031	number 4.4cm	number numeric
+tumor_size_sam	1.0000001	number 4.4cm	number number
+tumor_size_sam	1.0000001	number 4.4cm	number 5.2cm
+tumor_size_sam	0.87778616	number 4.4cm	number x number cm
+tumor_size_sam	0.8044031	number 4.4cm	numeric number
+tumor_size_sam	0.8873565	number 4.4cm	number x number x number cm
+tumor_size_sam	0.77533764	number 4.4cm	not available
+tumor_size_sam	0.8012006	number 4.4cm	number cm
+tumor_size_sam	0.7954724	number 4.4cm	number mm
+tumor_size_sam	0.7471849	number 4.4cm	numeric x number cm
+tumor_size_sam	0.77336556	number 4.4cm	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	1.0000001	number 4.4cm	number number number number
+tumor_size_sam	0.8937581	number 4.4cm	number x number cm number x number x number cm sample processing
+tumor_size_sam	1.0000001	number 4.4cm	number 2.4cm
+tumor_size_sam	1.0000001	number 4.4cm	number 6.5cm
+tumor_size_sam	1.0000001	number 4.4cm	number 7.5cm
+tumor_size_sam	0.9237949	number 4.4cm	number number numeric
+tumor_size_sam	0.7607241	number 4.4cm	number cm in diameter multi-nodular
+tumor_size_sam	1.0000001	number 4.4cm	number 11cm
+tumor_size_sam	1.0000001	numeric 3.5cm	numeric numeric
+tumor_size_sam	1.0000001	numeric 3.5cm	numeric
+tumor_size_sam	0.79759645	numeric 3.5cm	number numeric
+tumor_size_sam	0.79759645	numeric 3.5cm	numeric number
+tumor_size_sam	0.8300014	numeric 3.5cm	numeric 5cm
+tumor_size_sam	0.7633166	numeric 3.5cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8089065	numeric 3.5cm	numeric x numeric cm
+tumor_size_sam	1.0	numeric 3.5cm	numeric numeric 5.0cm
+tumor_size_sam	0.7225309	numeric 3.5cm	numeric cm
+tumor_size_sam	0.92010957	numeric 3.5cm	number numeric numeric
+tumor_size_sam	1.0	numeric 3.5cm	numeric numeric 6.0cm
+tumor_size_sam	1.0000001	numeric 3.5cm	numeric 9cm
+tumor_size_sam	1.0	numeric 3.5cm	numeric numeric 5.5cm
+tumor_size_sam	0.8154911	numeric 3.5cm	numeric x numeric cm numeric x numeric x numeric cm processing
+tumor_size_sam	1.0	numeric 3.5cm	numeric numeric 1.0cm
+tumor_size_sam	1.0	numeric 3.5cm	numeric numeric 1.5cm
+tumor_size_sam	1.0	numeric numeric 3.0cm	numeric numeric
+tumor_size_sam	1.0	numeric numeric 3.0cm	numeric
+tumor_size_sam	0.79759645	numeric numeric 3.0cm	number numeric
+tumor_size_sam	0.79759645	numeric numeric 3.0cm	numeric number
+tumor_size_sam	0.8300014	numeric numeric 3.0cm	numeric 5cm
+tumor_size_sam	0.7633166	numeric numeric 3.0cm	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8089065	numeric numeric 3.0cm	numeric x numeric cm
+tumor_size_sam	1.0	numeric numeric 3.0cm	numeric numeric 5.0cm
+tumor_size_sam	0.7225309	numeric numeric 3.0cm	numeric cm
+tumor_size_sam	0.9201096	numeric numeric 3.0cm	number numeric numeric
+tumor_size_sam	1.0	numeric numeric 3.0cm	numeric numeric 6.0cm
+tumor_size_sam	1.0	numeric numeric 3.0cm	numeric 9cm
+tumor_size_sam	1.0	numeric numeric 3.0cm	numeric numeric 5.5cm
+tumor_size_sam	0.8154911	numeric numeric 3.0cm	numeric x numeric cm numeric x numeric x numeric cm processing
+tumor_size_sam	1.0	numeric numeric 3.0cm	numeric numeric 1.0cm
+tumor_size_sam	1.0	numeric numeric 3.0cm	numeric numeric 1.5cm
+tumor_size_sam	1.0	numeric numeric 3.0cm	numeric 3.5cm
+tumor_size_sam	0.8253991	25g	12g
+tumor_size_sam	0.72977924	25g	8g
+tumor_size_sam	0.7357107	9g	12g
+tumor_size_sam	0.7043126	9g	8g
+tumor_size_sam	0.8278057	number x numeric x numeric cm number x number x number cm processing	number 3.5cm
+tumor_size_sam	0.8278057	number x numeric x numeric cm number x number x number cm processing	number
+tumor_size_sam	0.8473958	number x numeric x numeric cm number x number x number cm processing	number numeric
+tumor_size_sam	0.8278057	number x numeric x numeric cm number x number x number cm processing	number number
+tumor_size_sam	0.8278057	number x numeric x numeric cm number x number x number cm processing	number 5.2cm
+tumor_size_sam	0.96574533	number x numeric x numeric cm number x number x number cm processing	number x number cm
+tumor_size_sam	0.8473958	number x numeric x numeric cm number x number x number cm processing	numeric number
+tumor_size_sam	0.97178763	number x numeric x numeric cm number x number x number cm processing	number x number x number cm
+tumor_size_sam	0.8943497	number x numeric x numeric cm number x number x number cm processing	number cm
+tumor_size_sam	0.88936716	number x numeric x numeric cm number x number x number cm processing	number mm
+tumor_size_sam	0.9328911	number x numeric x numeric cm number x number x number cm processing	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.85951775	number x numeric x numeric cm number x number x number cm processing	numeric x numeric cm
+tumor_size_sam	0.98081696	number x numeric x numeric cm number x number x number cm processing	numeric x number cm
+tumor_size_sam	0.9928336	number x numeric x numeric cm number x number x number cm processing	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.78574336	number x numeric x numeric cm number x number x number cm processing	numeric cm
+tumor_size_sam	0.8278057	number x numeric x numeric cm number x number x number cm processing	number number number number
+tumor_size_sam	0.97395647	number x numeric x numeric cm number x number x number cm processing	number x number cm number x number x number cm sample processing
+tumor_size_sam	0.8278057	number x numeric x numeric cm number x number x number cm processing	number 2.4cm
+tumor_size_sam	0.8278057	number x numeric x numeric cm number x number x number cm processing	number 6.5cm
+tumor_size_sam	0.7623892	number x numeric x numeric cm number x number x number cm processing	number numeric numeric
+tumor_size_sam	0.9613866	number x numeric x numeric cm number x number x number cm processing	number x numeric x numeric cm
+tumor_size_sam	0.8278057	number x numeric x numeric cm number x number x number cm processing	number 7.5cm
+tumor_size_sam	0.88170385	number x numeric x numeric cm number x number x number cm processing	number number numeric
+tumor_size_sam	0.85916966	number x numeric x numeric cm number x number x number cm processing	number cm in diameter multi-nodular
+tumor_size_sam	0.8836967	number x numeric x numeric cm number x number x number cm processing	numeric x numeric cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.8278057	number x numeric x numeric cm number x number x number cm processing	number 11cm
+tumor_size_sam	0.8278057	number x numeric x numeric cm number x number x number cm processing	number 4.4cm
+tumor_size_sam	0.92379487	number numeric number	number 3.5cm
+tumor_size_sam	0.92379487	number numeric number	number
+tumor_size_sam	0.97057074	number numeric number	number numeric
+tumor_size_sam	0.92379487	number numeric number	number number
+tumor_size_sam	0.92379487	number numeric number	number 5.2cm
+tumor_size_sam	0.84305805	number numeric number	number x number cm
+tumor_size_sam	0.97057074	number numeric number	numeric number
+tumor_size_sam	0.855961	number numeric number	number x number x number cm
+tumor_size_sam	0.7071587	number numeric number	not available
+tumor_size_sam	0.75886256	number numeric number	number cm
+tumor_size_sam	0.7422977	number numeric number	number mm
+tumor_size_sam	0.81230086	number numeric number	numeric x numeric x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.72775006	number numeric number	numeric x numeric cm
+tumor_size_sam	0.8446597	number numeric number	numeric x number cm
+tumor_size_sam	0.87198985	number numeric number	number x number x number cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.92379487	number numeric number	number number number number
+tumor_size_sam	0.8680118	number numeric number	number x number cm number x number x number cm sample processing
+tumor_size_sam	0.92379487	number numeric number	number 2.4cm
+tumor_size_sam	0.92379487	number numeric number	number 6.5cm
+tumor_size_sam	0.88314694	number numeric number	number numeric numeric
+tumor_size_sam	0.83238715	number numeric number	number x numeric x numeric cm
+tumor_size_sam	0.92379487	number numeric number	number 7.5cm
+tumor_size_sam	1.0	number numeric number	number number numeric
+tumor_size_sam	0.7049482	number numeric number	number cm in diameter multi-nodular
+tumor_size_sam	0.7641954	number numeric number	numeric x numeric cm numeric x numeric x numeric cm processing
+tumor_size_sam	0.92379487	number numeric number	number 11cm
+tumor_size_sam	0.92379487	number numeric number	number 4.4cm
+tumor_size_sam	0.88170385	number numeric number	number x numeric x numeric cm number x number x number cm processing

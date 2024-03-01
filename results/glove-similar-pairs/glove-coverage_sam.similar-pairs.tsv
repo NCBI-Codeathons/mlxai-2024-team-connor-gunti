@@ -1,0 +1,53 @@
+attr	score	s1	s2
+coverage_sam	0.7971649	number of wild oat	number
+coverage_sam	0.85100996	low	high
+coverage_sam	0.84446317	wild barley present	number of wild oat
+coverage_sam	0.87626505	spread very well barley and wheat present	number of wild oat
+coverage_sam	0.72456694	spread very well barley and wheat present	low
+coverage_sam	0.8930975	spread very well barley and wheat present	wild barley present
+coverage_sam	0.7012124	number wild oat number wild barley	number
+coverage_sam	0.94857335	number wild oat number wild barley	number of wild oat
+coverage_sam	0.90715593	number wild oat number wild barley	wild barley present
+coverage_sam	0.84051836	number wild oat number wild barley	spread very well barley and wheat present
+coverage_sam	0.7092002	number wild oat	number
+coverage_sam	0.95539075	number wild oat	number of wild oat
+coverage_sam	0.83419096	number wild oat	wild barley present
+coverage_sam	0.7910379	number wild oat	spread very well barley and wheat present
+coverage_sam	0.97993356	number wild oat	number wild oat number wild barley
+coverage_sam	0.7346125	oat number wild barley number	number
+coverage_sam	0.94616437	oat number wild barley number	number of wild oat
+coverage_sam	0.87695014	oat number wild barley number	wild barley present
+coverage_sam	0.844146	oat number wild barley number	spread very well barley and wheat present
+coverage_sam	0.9862519	oat number wild barley number	number wild oat number wild barley
+coverage_sam	0.97485125	oat number wild barley number	number wild oat
+coverage_sam	0.7101997	number barley	number
+coverage_sam	0.85832065	number barley	number of wild oat
+coverage_sam	0.8645076	number barley	wild barley present
+coverage_sam	0.8482302	number barley	spread very well barley and wheat present
+coverage_sam	0.91610813	number barley	number wild oat number wild barley
+coverage_sam	0.8633169	number barley	number wild oat
+coverage_sam	0.9540726	number barley	oat number wild barley number
+coverage_sam	0.7981594	number of wild oat and number of wild barley	number
+coverage_sam	0.98367167	number of wild oat and number of wild barley	number of wild oat
+coverage_sam	0.8830385	number of wild oat and number of wild barley	wild barley present
+coverage_sam	0.92390275	number of wild oat and number of wild barley	spread very well barley and wheat present
+coverage_sam	0.93965864	number of wild oat and number of wild barley	number wild oat number wild barley
+coverage_sam	0.9145078	number of wild oat and number of wild barley	number wild oat
+coverage_sam	0.9315456	number of wild oat and number of wild barley	oat number wild barley number
+coverage_sam	0.88017356	number of wild oat and number of wild barley	number barley
+coverage_sam	0.71343815	spread very well	number
+coverage_sam	0.8224461	spread very well	number of wild oat
+coverage_sam	0.7443711	spread very well	low
+coverage_sam	0.7441876	spread very well	wild barley present
+coverage_sam	0.9273047	spread very well	spread very well barley and wheat present
+coverage_sam	0.73051995	spread very well	number wild oat number wild barley
+coverage_sam	0.7038313	spread very well	number wild oat
+coverage_sam	0.7133206	spread very well	oat number wild barley number
+coverage_sam	0.86497605	spread very well	number of wild oat and number of wild barley
+coverage_sam	0.74843955	oat present	number of wild oat
+coverage_sam	0.7380389	oat present	spread very well barley and wheat present
+coverage_sam	0.7452013	oat present	number wild oat
+coverage_sam	0.7607291	oat present	oat number wild barley number
+coverage_sam	0.72094685	oat present	number barley
+coverage_sam	0.8807666	x number	number
+coverage_sam	0.7062653	x number	number of wild oat

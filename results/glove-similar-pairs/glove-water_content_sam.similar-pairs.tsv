@@ -1,0 +1,38 @@
+attr	score	s1	s2
+water_content_sam	0.7857067	not applicable	not collected
+water_content_sam	0.7899751	number	not collected
+water_content_sam	0.9222252	missing not provided	not collected
+water_content_sam	0.7676193	missing not provided	not applicable
+water_content_sam	0.7973217	missing not provided	number
+water_content_sam	0.82535154	missing	missing not provided
+water_content_sam	0.7899751	number gh2o/gdw	not collected
+water_content_sam	1.0000001	number gh2o/gdw	number
+water_content_sam	0.7973217	number gh2o/gdw	missing not provided
+water_content_sam	0.7309817	restricted access	not applicable
+water_content_sam	1.0000001	numeric gh2o/gdw	numeric
+water_content_sam	0.8444581	not measured	not collected
+water_content_sam	0.83493644	not measured	not applicable
+water_content_sam	0.73073035	not measured	number
+water_content_sam	0.82730216	not measured	missing not provided
+water_content_sam	0.73073035	not measured	number gh2o/gdw
+water_content_sam	0.7899751	number ± number	not collected
+water_content_sam	1.0000001	number ± number	number
+water_content_sam	0.7973217	number ± number	missing not provided
+water_content_sam	1.0000001	number ± number	number gh2o/gdw
+water_content_sam	0.73073035	number ± number	not measured
+water_content_sam	0.88168585	not analyzed	not collected
+water_content_sam	0.8442108	not analyzed	not applicable
+water_content_sam	0.8336383	not analyzed	missing not provided
+water_content_sam	0.8906924	not analyzed	not measured
+water_content_sam	0.7485668	numeric whc	numeric
+water_content_sam	0.7485668	numeric whc	numeric gh2o/gdw
+water_content_sam	0.94838846	12h after recovery irrigation	24h after recovery irrigation
+water_content_sam	0.9140239	not provided	not collected
+water_content_sam	0.8662483	not provided	not applicable
+water_content_sam	0.7623006	not provided	number
+water_content_sam	0.9493907	not provided	missing not provided
+water_content_sam	0.7623006	not provided	number gh2o/gdw
+water_content_sam	0.7624196	not provided	restricted access
+water_content_sam	0.86168486	not provided	not measured
+water_content_sam	0.7623006	not provided	number ± number
+water_content_sam	0.86168826	not provided	not analyzed

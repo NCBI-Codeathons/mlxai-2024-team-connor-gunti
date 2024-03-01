@@ -1,0 +1,165 @@
+attr	score	s1	s2
+replicate_group_sam	1.0000001	number number number	number
+replicate_group_sam	1.0000001	number number	number
+replicate_group_sam	1.0000001	number number	number number number
+replicate_group_sam	0.8702381	kidney 48h ctrl	lung 48h ctrl
+replicate_group_sam	0.7272296	ip group d2 number	number
+replicate_group_sam	0.7272296	ip group d2 number	number number number
+replicate_group_sam	0.7272296	ip group d2 number	number number
+replicate_group_sam	0.87708366	lung 6h ctrl	lung 48h ctrl
+replicate_group_sam	0.75975937	lung 6h ctrl	lung 6h tgfb1
+replicate_group_sam	0.71667606	lung 6h ctrl	kidney 48h ctrl
+replicate_group_sam	0.7831629	ip group d number	number
+replicate_group_sam	0.7831629	ip group d number	number number number
+replicate_group_sam	0.7831629	ip group d number	number number
+replicate_group_sam	0.918992	ip group d number	ip group d2 number
+replicate_group_sam	0.7056152	ip group d number	b
+replicate_group_sam	0.92773443	c	b
+replicate_group_sam	0.77170014	lung 48h tgfb1	lung 6h tgfb1
+replicate_group_sam	0.7984015	liver 6h ctrl	lung 48h ctrl
+replicate_group_sam	0.82707435	liver 6h ctrl	kidney 48h ctrl
+replicate_group_sam	0.886173	liver 6h ctrl	lung 6h ctrl
+replicate_group_sam	0.7883613	liver 6h tgfb	lung 6h tgfb1
+replicate_group_sam	0.7455604	liver 6h tgfb	liver 6h ctrl
+replicate_group_sam	0.7213475	ip group e2 number	number
+replicate_group_sam	0.7213475	ip group e2 number	number number number
+replicate_group_sam	0.7213475	ip group e2 number	number number
+replicate_group_sam	0.9485437	ip group e2 number	ip group d2 number
+replicate_group_sam	0.8995382	ip group e2 number	ip group d number
+replicate_group_sam	0.8198771	kidney 6h tgfb	lung 6h tgfb1
+replicate_group_sam	0.90351033	kidney 6h tgfb	liver 6h tgfb
+replicate_group_sam	0.7844961	lung 24h tgfb1	lung 6h tgfb1
+replicate_group_sam	0.80754167	lung 24h tgfb1	lung 48h tgfb1
+replicate_group_sam	0.809872	lung 24h tgfb1	cardiac 24h tgfb1
+replicate_group_sam	0.76565677	kidney 48h tgfb	lung 48h tgfb1
+replicate_group_sam	0.7248863	kidney 48h tgfb	kidney 6h tgfb
+replicate_group_sam	0.78144884	ip group c number	number
+replicate_group_sam	0.78144884	ip group c number	number number number
+replicate_group_sam	0.78144884	ip group c number	number number
+replicate_group_sam	0.91392034	ip group c number	ip group d2 number
+replicate_group_sam	0.8084389	ip group c number	b
+replicate_group_sam	0.9446285	ip group c number	ip group d number
+replicate_group_sam	0.78777164	ip group c number	c
+replicate_group_sam	0.9308789	ip group c number	ip group e2 number
+replicate_group_sam	0.70617545	ctrl	liver 6h ctrl
+replicate_group_sam	0.7864112	ip group e number	number
+replicate_group_sam	0.7864112	ip group e number	number number number
+replicate_group_sam	0.7864112	ip group e number	number number
+replicate_group_sam	0.9134561	ip group e number	ip group d2 number
+replicate_group_sam	0.94837785	ip group e number	ip group d number
+replicate_group_sam	0.91745985	ip group e number	ip group e2 number
+replicate_group_sam	0.9409113	ip group e number	ip group c number
+replicate_group_sam	0.87636006	total rna number	number
+replicate_group_sam	0.87636006	total rna number	number number number
+replicate_group_sam	0.87636006	total rna number	number number
+replicate_group_sam	0.7099528	total rna number	ip group d2 number
+replicate_group_sam	0.7420626	total rna number	ip group d number
+replicate_group_sam	0.72908074	total rna number	ip group e2 number
+replicate_group_sam	0.7830123	total rna number	ip group c number
+replicate_group_sam	0.7543422	total rna number	ip group e number
+replicate_group_sam	0.7479259	cardiac 48h tgfb1	lung 48h tgfb1
+replicate_group_sam	0.8117048	cardiac 48h tgfb1	cardiac 24h tgfb1
+replicate_group_sam	0.70692647	cardiac 48h tgfb1	kidney 48h tgfb
+replicate_group_sam	0.7881974	ip group b number	number
+replicate_group_sam	0.7881974	ip group b number	number number number
+replicate_group_sam	0.7881974	ip group b number	number number
+replicate_group_sam	0.9343532	ip group b number	ip group d2 number
+replicate_group_sam	0.8183993	ip group b number	b
+replicate_group_sam	0.94743145	ip group b number	ip group d number
+replicate_group_sam	0.75022554	ip group b number	c
+replicate_group_sam	0.9416568	ip group b number	ip group e2 number
+replicate_group_sam	0.9920776	ip group b number	ip group c number
+replicate_group_sam	0.9443684	ip group b number	ip group e number
+replicate_group_sam	0.78250796	ip group b number	total rna number
+replicate_group_sam	0.7851827	kidney 24h ctrl	lung 48h ctrl
+replicate_group_sam	0.87193775	kidney 24h ctrl	kidney 48h ctrl
+replicate_group_sam	0.7503341	kidney 24h ctrl	lung 6h ctrl
+replicate_group_sam	0.8197823	kidney 24h ctrl	liver 6h ctrl
+replicate_group_sam	0.759121	cardiac 24h ctrl	lung 48h ctrl
+replicate_group_sam	0.70893157	cardiac 24h ctrl	kidney 48h ctrl
+replicate_group_sam	0.8014114	cardiac 24h ctrl	lung 6h ctrl
+replicate_group_sam	0.7803682	cardiac 24h ctrl	liver 6h ctrl
+replicate_group_sam	0.75348777	cardiac 24h ctrl	cardiac 24h tgfb1
+replicate_group_sam	0.87570024	cardiac 24h ctrl	kidney 24h ctrl
+replicate_group_sam	0.75415	cardiac 6h ctrl	lung 48h ctrl
+replicate_group_sam	0.9108131	cardiac 6h ctrl	lung 6h ctrl
+replicate_group_sam	0.8793041	cardiac 6h ctrl	liver 6h ctrl
+replicate_group_sam	0.7437515	cardiac 6h ctrl	kidney 24h ctrl
+replicate_group_sam	0.8963413	cardiac 6h ctrl	cardiac 24h ctrl
+replicate_group_sam	0.7727018	kidney 24h tgfb	cardiac 24h tgfb1
+replicate_group_sam	0.73664826	kidney 24h tgfb	kidney 6h tgfb
+replicate_group_sam	0.8098274	kidney 24h tgfb	lung 24h tgfb1
+replicate_group_sam	0.7764921	kidney 24h tgfb	kidney 48h tgfb
+replicate_group_sam	0.87354505	cardiac 48h ctrl	lung 48h ctrl
+replicate_group_sam	0.8566666	cardiac 48h ctrl	kidney 48h ctrl
+replicate_group_sam	0.8115264	cardiac 48h ctrl	lung 6h ctrl
+replicate_group_sam	0.82453	cardiac 48h ctrl	liver 6h ctrl
+replicate_group_sam	0.73180985	cardiac 48h ctrl	ctrl
+replicate_group_sam	0.7081109	cardiac 48h ctrl	cardiac 48h tgfb1
+replicate_group_sam	0.7988848	cardiac 48h ctrl	kidney 24h ctrl
+replicate_group_sam	0.9002791	cardiac 48h ctrl	cardiac 24h ctrl
+replicate_group_sam	0.8998461	cardiac 48h ctrl	cardiac 6h ctrl
+replicate_group_sam	0.7801497	liver 24h ctrl	lung 48h ctrl
+replicate_group_sam	0.82779264	liver 24h ctrl	kidney 48h ctrl
+replicate_group_sam	0.73161674	liver 24h ctrl	lung 6h ctrl
+replicate_group_sam	0.86947745	liver 24h ctrl	liver 6h ctrl
+replicate_group_sam	0.94344485	liver 24h ctrl	kidney 24h ctrl
+replicate_group_sam	0.85244256	liver 24h ctrl	cardiac 24h ctrl
+replicate_group_sam	0.72026193	liver 24h ctrl	cardiac 6h ctrl
+replicate_group_sam	0.786648	liver 24h ctrl	cardiac 48h ctrl
+replicate_group_sam	0.88254905	lung 24h ctrl	lung 48h ctrl
+replicate_group_sam	0.7230092	lung 24h ctrl	kidney 48h ctrl
+replicate_group_sam	0.875482	lung 24h ctrl	lung 6h ctrl
+replicate_group_sam	0.7654591	lung 24h ctrl	liver 6h ctrl
+replicate_group_sam	0.70599633	lung 24h ctrl	lung 24h tgfb1
+replicate_group_sam	0.8824516	lung 24h ctrl	kidney 24h ctrl
+replicate_group_sam	0.89044803	lung 24h ctrl	cardiac 24h ctrl
+replicate_group_sam	0.77365	lung 24h ctrl	cardiac 6h ctrl
+replicate_group_sam	0.7890669	lung 24h ctrl	cardiac 48h ctrl
+replicate_group_sam	0.86482584	lung 24h ctrl	liver 24h ctrl
+replicate_group_sam	0.8542809	liver 48h ctrl	lung 48h ctrl
+replicate_group_sam	0.9412366	liver 48h ctrl	kidney 48h ctrl
+replicate_group_sam	0.8706937	liver 48h ctrl	liver 6h ctrl
+replicate_group_sam	0.8131137	liver 48h ctrl	kidney 24h ctrl
+replicate_group_sam	0.8347128	liver 48h ctrl	cardiac 48h ctrl
+replicate_group_sam	0.88393295	liver 48h ctrl	liver 24h ctrl
+replicate_group_sam	0.7064355	liver 48h ctrl	lung 24h ctrl
+replicate_group_sam	0.8294425	cardiac 6h tgfb1	lung 6h tgfb1
+replicate_group_sam	0.71455127	cardiac 6h tgfb1	lung 6h ctrl
+replicate_group_sam	0.76066303	cardiac 6h tgfb1	liver 6h tgfb
+replicate_group_sam	0.8007673	cardiac 6h tgfb1	cardiac 24h tgfb1
+replicate_group_sam	0.79809904	cardiac 6h tgfb1	kidney 6h tgfb
+replicate_group_sam	0.7934085	cardiac 6h tgfb1	cardiac 48h tgfb1
+replicate_group_sam	0.80812997	cardiac 6h tgfb1	cardiac 6h ctrl
+replicate_group_sam	0.82818323	ip group a number	number
+replicate_group_sam	0.82818323	ip group a number	number number number
+replicate_group_sam	0.82818323	ip group a number	number number
+replicate_group_sam	0.8791427	ip group a number	ip group d2 number
+replicate_group_sam	0.9314082	ip group a number	ip group d number
+replicate_group_sam	0.89333	ip group a number	ip group e2 number
+replicate_group_sam	0.7906628	ip group a number	a
+replicate_group_sam	0.9306596	ip group a number	ip group c number
+replicate_group_sam	0.93416363	ip group a number	ip group e number
+replicate_group_sam	0.78947383	ip group a number	total rna number
+replicate_group_sam	0.9390486	ip group a number	ip group b number
+replicate_group_sam	0.7971185	kidney 6h ctrl	lung 48h ctrl
+replicate_group_sam	0.86058104	kidney 6h ctrl	kidney 48h ctrl
+replicate_group_sam	0.902479	kidney 6h ctrl	lung 6h ctrl
+replicate_group_sam	0.95165575	kidney 6h ctrl	liver 6h ctrl
+replicate_group_sam	0.7237377	kidney 6h ctrl	kidney 6h tgfb
+replicate_group_sam	0.70288986	kidney 6h ctrl	ctrl
+replicate_group_sam	0.85950226	kidney 6h ctrl	kidney 24h ctrl
+replicate_group_sam	0.79209965	kidney 6h ctrl	cardiac 24h ctrl
+replicate_group_sam	0.90023	kidney 6h ctrl	cardiac 6h ctrl
+replicate_group_sam	0.8304618	kidney 6h ctrl	cardiac 48h ctrl
+replicate_group_sam	0.80485964	kidney 6h ctrl	liver 24h ctrl
+replicate_group_sam	0.770997	kidney 6h ctrl	lung 24h ctrl
+replicate_group_sam	0.7979744	kidney 6h ctrl	liver 48h ctrl
+replicate_group_sam	0.75456125	liver 24h tgfb	liver 6h tgfb
+replicate_group_sam	0.7364863	liver 24h tgfb	cardiac 24h tgfb1
+replicate_group_sam	0.77958757	liver 24h tgfb	lung 24h tgfb1
+replicate_group_sam	0.90328074	liver 24h tgfb	kidney 24h tgfb
+replicate_group_sam	0.7368011	liver 48h tgfb	lung 48h tgfb1
+replicate_group_sam	0.7467402	liver 48h tgfb	liver 6h tgfb
+replicate_group_sam	0.89150274	liver 48h tgfb	kidney 48h tgfb
+replicate_group_sam	0.79666847	liver 48h tgfb	liver 24h tgfb

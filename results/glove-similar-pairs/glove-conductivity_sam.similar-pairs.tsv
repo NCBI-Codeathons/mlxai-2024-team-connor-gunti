@@ -1,0 +1,77 @@
+attr	score	s1	s2
+conductivity_sam	0.8552956	numeric ms/cm or number micros/cm	number ms/m
+conductivity_sam	1.0000001	number	number ms/m
+conductivity_sam	0.8552956	number	numeric ms/cm or number micros/cm
+conductivity_sam	1.0000001	number us/cm	number ms/m
+conductivity_sam	0.8552956	number us/cm	numeric ms/cm or number micros/cm
+conductivity_sam	1.0000001	number us/cm	number
+conductivity_sam	0.7973217	missing not provided	number ms/m
+conductivity_sam	0.72422653	missing not provided	numeric ms/cm or number micros/cm
+conductivity_sam	0.7973217	missing not provided	number
+conductivity_sam	0.7973217	missing not provided	number us/cm
+conductivity_sam	0.7149045	number mv	number ms/m
+conductivity_sam	0.7149045	number mv	number
+conductivity_sam	0.7149045	number mv	number us/cm
+conductivity_sam	1.0000001	numeric milliseimen/cm	numeric
+conductivity_sam	1.0000001	numeric ms/cm	numeric
+conductivity_sam	1.0000001	numeric ms/cm	numeric milliseimen/cm
+conductivity_sam	0.87300545	numeric orig numeric conv	numeric
+conductivity_sam	0.87300545	numeric orig numeric conv	numeric milliseimen/cm
+conductivity_sam	0.87300545	numeric orig numeric conv	numeric ms/cm
+conductivity_sam	1.0000001	numeric milliseimenpercentimer	numeric
+conductivity_sam	1.0000001	numeric milliseimenpercentimer	numeric milliseimen/cm
+conductivity_sam	1.0000001	numeric milliseimenpercentimer	numeric ms/cm
+conductivity_sam	0.87300545	numeric milliseimenpercentimer	numeric orig numeric conv
+conductivity_sam	0.8801889	number us	number ms/m
+conductivity_sam	0.7498776	number us	numeric ms/cm or number micros/cm
+conductivity_sam	0.8801889	number us	number
+conductivity_sam	0.8801889	number us	number us/cm
+conductivity_sam	0.8447458	number us	missing not provided
+conductivity_sam	0.7288051	numeric mv	numeric
+conductivity_sam	0.7288051	numeric mv	numeric milliseimen/cm
+conductivity_sam	0.7288051	numeric mv	numeric ms/cm
+conductivity_sam	0.7288051	numeric mv	numeric milliseimenpercentimer
+conductivity_sam	1.0000001	number ms/cm	number ms/m
+conductivity_sam	0.8552956	number ms/cm	numeric ms/cm or number micros/cm
+conductivity_sam	1.0000001	number ms/cm	number
+conductivity_sam	1.0000001	number ms/cm	number us/cm
+conductivity_sam	0.7973217	number ms/cm	missing not provided
+conductivity_sam	0.7149045	number ms/cm	number mv
+conductivity_sam	0.8801889	number ms/cm	number us
+conductivity_sam	1.0000001	numeric seimenpermeter	numeric
+conductivity_sam	1.0000001	numeric seimenpermeter	numeric milliseimen/cm
+conductivity_sam	1.0000001	numeric seimenpermeter	numeric ms/cm
+conductivity_sam	0.87300545	numeric seimenpermeter	numeric orig numeric conv
+conductivity_sam	1.0000001	numeric seimenpermeter	numeric milliseimenpercentimer
+conductivity_sam	0.7288051	numeric seimenpermeter	numeric mv
+conductivity_sam	0.712884	not applicable	numeric ms/cm or number micros/cm
+conductivity_sam	0.7676193	not applicable	missing not provided
+conductivity_sam	0.82535154	missing	missing not provided
+conductivity_sam	0.73073035	not measured	number ms/m
+conductivity_sam	0.7385102	not measured	numeric ms/cm or number micros/cm
+conductivity_sam	0.73073035	not measured	number
+conductivity_sam	0.73073035	not measured	number us/cm
+conductivity_sam	0.82730216	not measured	missing not provided
+conductivity_sam	0.7636382	not measured	number us
+conductivity_sam	0.73073035	not measured	number ms/cm
+conductivity_sam	0.83493644	not measured	not applicable
+conductivity_sam	0.7735665	missing not applicable	number ms/m
+conductivity_sam	0.7471446	missing not applicable	numeric ms/cm or number micros/cm
+conductivity_sam	0.7735665	missing not applicable	number
+conductivity_sam	0.7735665	missing not applicable	number us/cm
+conductivity_sam	0.9320049	missing not applicable	missing not provided
+conductivity_sam	0.80450857	missing not applicable	number us
+conductivity_sam	0.7735665	missing not applicable	number ms/cm
+conductivity_sam	0.91801906	missing not applicable	not applicable
+conductivity_sam	0.720481	missing not applicable	missing
+conductivity_sam	0.862407	missing not applicable	not measured
+conductivity_sam	0.7623006	not provided	number ms/m
+conductivity_sam	0.7468982	not provided	numeric ms/cm or number micros/cm
+conductivity_sam	0.7623006	not provided	number
+conductivity_sam	0.7623006	not provided	number us/cm
+conductivity_sam	0.9493907	not provided	missing not provided
+conductivity_sam	0.8133737	not provided	number us
+conductivity_sam	0.7623006	not provided	number ms/cm
+conductivity_sam	0.8662483	not provided	not applicable
+conductivity_sam	0.86168486	not provided	not measured
+conductivity_sam	0.9119568	not provided	missing not applicable

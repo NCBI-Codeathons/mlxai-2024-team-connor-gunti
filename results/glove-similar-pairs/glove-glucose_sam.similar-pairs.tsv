@@ -1,0 +1,24 @@
+attr	score	s1	s2
+glucose_sam	0.7623006	not provided	number
+glucose_sam	0.7182676	12c	13c
+glucose_sam	0.7899751	not collected	number
+glucose_sam	0.9140239	not collected	not provided
+glucose_sam	0.8060739	high number mm	number
+glucose_sam	0.7954724	number mm	number
+glucose_sam	0.9465837	number mm	high number mm
+glucose_sam	0.89469546	no	not provided
+glucose_sam	0.8243002	no	not collected
+glucose_sam	0.79373837	no	yes
+glucose_sam	0.81117165	low number mm	number
+glucose_sam	0.9779064	low number mm	high number mm
+glucose_sam	0.94967365	low number mm	number mm
+glucose_sam	0.7954723	glc+ number mm	number
+glucose_sam	0.94658357	glc+ number mm	high number mm
+glucose_sam	1.0000001	glc+ number mm	number mm
+glucose_sam	0.9496736	glc+ number mm	low number mm
+glucose_sam	0.76296335	control	not provided
+glucose_sam	0.83116746	normal number mm	number
+glucose_sam	0.9497587	normal number mm	high number mm
+glucose_sam	0.9461383	normal number mm	number mm
+glucose_sam	0.9604519	normal number mm	low number mm
+glucose_sam	0.9461382	normal number mm	glc+ number mm

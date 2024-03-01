@@ -1,0 +1,798 @@
+attr	score	s1	s2
+mlst__scheme_sam	0.70044124	number	oxford mlst number
+mlst__scheme_sam	0.7931491	achtman mlst number	oxford mlst number
+mlst__scheme_sam	0.8389041	achtman mlst number	number
+mlst__scheme_sam	0.7703456	oxford mlst n\m	oxford mlst number
+mlst__scheme_sam	0.8392553	st405 ec number st477 ec number	number
+mlst__scheme_sam	0.7501739	st405 ec number st477 ec number	achtman mlst number
+mlst__scheme_sam	0.7173483	st1809 or st451 multiple perfect hits oxford st2 pasteur	number
+mlst__scheme_sam	0.7995265	st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st208 and st1806 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st1806 and st208 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.9999999	st1806 and st208 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7173483	st208 or st1806 multiple perfect hits oxford st2 pasteur	number
+mlst__scheme_sam	0.99999994	st208 or st1806 multiple perfect hits oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8392553	st224 ec number st479 ec number	number
+mlst__scheme_sam	0.7501739	st224 ec number st479 ec number	achtman mlst number
+mlst__scheme_sam	1.0	st224 ec number st479 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.99999994	novel	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.7021833	st1670 number novel number	oxford mlst number
+mlst__scheme_sam	0.9265921	st1670 number novel number	number
+mlst__scheme_sam	0.75091267	st1670 number novel number	achtman mlst number
+mlst__scheme_sam	0.7885022	st1670 number novel number	st405 ec number st477 ec number
+mlst__scheme_sam	0.75546473	st1670 number novel number	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.75546473	st1670 number novel number	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7885022	st1670 number novel number	st224 ec number st479 ec number
+mlst__scheme_sam	0.99999994	novel 10,11 ~684,8,8,8,2	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.99999994	novel 10,11 ~684,8,8,8,2	novel
+mlst__scheme_sam	0.7173483	st281 or st1839 multiple perfect hits oxford st2 pasteur	number
+mlst__scheme_sam	0.99999994	st281 or st1839 multiple perfect hits oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.99999994	st281 or st1839 multiple perfect hits oxford st2 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.75546473	st281 or st1839 multiple perfect hits oxford st2 pasteur	st1670 number novel number
+mlst__scheme_sam	0.7929429	oxford missing gene coverage st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.76203454	oxford missing gene coverage st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.76203454	oxford missing gene coverage st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7929429	oxford missing gene coverage st2 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7929429	oxford missing gene coverage st2 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8392553	st73 ec number st4 ec number	number
+mlst__scheme_sam	0.7501739	st73 ec number st4 ec number	achtman mlst number
+mlst__scheme_sam	1.0	st73 ec number st4 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	1.0	st73 ec number st4 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.7885022	st73 ec number st4 ec number	st1670 number novel number
+mlst__scheme_sam	1.0	st348 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7995265	st348 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8871023	st348 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st348 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7282174	novel oxford st734 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.8275818	novel oxford st734 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8275818	novel oxford st734 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7282174	novel oxford st734 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8165244	novel number ,173 ,233 ,257 ,217 ,11,129	number
+mlst__scheme_sam	0.82219	novel number ,173 ,233 ,257 ,217 ,11,129	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.7019363	novel number ,173 ,233 ,257 ,217 ,11,129	st405 ec number st477 ec number
+mlst__scheme_sam	0.72508395	novel number ,173 ,233 ,257 ,217 ,11,129	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.72508395	novel number ,173 ,233 ,257 ,217 ,11,129	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7019363	novel number ,173 ,233 ,257 ,217 ,11,129	st224 ec number st479 ec number
+mlst__scheme_sam	0.8221901	novel number ,173 ,233 ,257 ,217 ,11,129	novel
+mlst__scheme_sam	0.9736933	novel number ,173 ,233 ,257 ,217 ,11,129	st1670 number novel number
+mlst__scheme_sam	0.82219	novel number ,173 ,233 ,257 ,217 ,11,129	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.72508395	novel number ,173 ,233 ,257 ,217 ,11,129	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7019363	novel number ,173 ,233 ,257 ,217 ,11,129	st73 ec number st4 ec number
+mlst__scheme_sam	0.71227974	pasteur mlst number	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.71227974	pasteur mlst number	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1736 oxford st734 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1736 oxford st734 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1736 oxford st734 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1736 oxford st734 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8701488	st1736 oxford st734 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 -,24,32	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 -,24,32	novel
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 -,24,32	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.82219	novel 49,20,19,44 -,24,32	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.7565283	st1857 or st345 multiple perfect hits oxford st499 pasteur	number
+mlst__scheme_sam	0.9794841	st1857 or st345 multiple perfect hits oxford st499 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.9794841	st1857 or st345 multiple perfect hits oxford st499 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.80393344	st1857 or st345 multiple perfect hits oxford st499 pasteur	st1670 number novel number
+mlst__scheme_sam	0.9794841	st1857 or st345 multiple perfect hits oxford st499 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.76694894	st1857 or st345 multiple perfect hits oxford st499 pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.77575004	st1857 or st345 multiple perfect hits oxford st499 pasteur	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.94218224	st10 number st2 number	number
+mlst__scheme_sam	0.8752837	st10 number st2 number	achtman mlst number
+mlst__scheme_sam	0.83753616	st10 number st2 number	st405 ec number st477 ec number
+mlst__scheme_sam	0.71568185	st10 number st2 number	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.71568185	st10 number st2 number	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.83753616	st10 number st2 number	st224 ec number st479 ec number
+mlst__scheme_sam	0.8427425	st10 number st2 number	st1670 number novel number
+mlst__scheme_sam	0.71568185	st10 number st2 number	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.83753616	st10 number st2 number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7228374	st10 number st2 number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	1.0	st281 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7995265	st281 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8871023	st281 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st281 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	1.0	st281 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7282174	st281 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st281 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	1.0	st345 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7995265	st345 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8871023	st345 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st345 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	1.0	st345 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7282174	st345 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st345 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	1.0	st345 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.99999994	novel 4,6,5,10,46,7,6	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	1.0	novel 4,6,5,10,46,7,6	novel
+mlst__scheme_sam	0.99999994	novel 4,6,5,10,46,7,6	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.8221901	novel 4,6,5,10,46,7,6	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.99999994	novel 4,6,5,10,46,7,6	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.810622	novel st 4,80,1,253,12,28,45 oxford st239 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.810622	novel st 4,80,1,253,12,28,45 oxford st239 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.9326188	novel st 4,80,1,253,12,28,45 oxford st239 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.83436644	novel st 4,80,1,253,12,28,45 oxford st239 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	1.0	st1557 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7995265	st1557 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8871023	st1557 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st1557 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1557 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7282174	st1557 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st1557 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	1.0	st1557 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1557 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st281 oxford st724 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st281 oxford st724 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st281 oxford st724 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st281 oxford st724 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8701488	st281 oxford st724 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.9999997	st281 oxford st724 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st281 oxford st724 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st281 oxford st724 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.83436644	st281 oxford st724 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.91194636	st281 oxford st724 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st1808 and st348 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.9999999	st1808 and st348 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.9999999	st1808 and st348 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.76203454	st1808 and st348 oxford st2 pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.8871023	st1808 and st348 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8275818	st1808 and st348 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.71227974	st1808 and st348 oxford st2 pasteur	pasteur mlst number
+mlst__scheme_sam	0.91434956	st1808 and st348 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.8871023	st1808 and st348 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st1808 and st348 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.810622	st1808 and st348 oxford st2 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.8871023	st1808 and st348 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1808 and st348 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	1.0	st546 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7995265	st546 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8871023	st546 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st546 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	1.0	st546 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7282174	st546 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st546 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	1.0	st546 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	1.0	st546 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	1.0	st546 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st546 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.8871023	st546 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	1.0	st208 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7995265	st208 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8871023	st208 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st208 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	1.0	st208 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7282174	st208 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st208 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	1.0	st208 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	1.0	st208 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	1.0	st208 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st208 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.8871023	st208 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	1.0	st208 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.7173483	st1808 or st348 multiple perfect hits oxford st2 pasteur	number
+mlst__scheme_sam	0.99999994	st1808 or st348 multiple perfect hits oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.99999994	st1808 or st348 multiple perfect hits oxford st2 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.75546473	st1808 or st348 multiple perfect hits oxford st2 pasteur	st1670 number novel number
+mlst__scheme_sam	0.99999994	st1808 or st348 multiple perfect hits oxford st2 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7929429	st1808 or st348 multiple perfect hits oxford st2 pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.72508395	st1808 or st348 multiple perfect hits oxford st2 pasteur	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.9794841	st1808 or st348 multiple perfect hits oxford st2 pasteur	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.71568185	st1808 or st348 multiple perfect hits oxford st2 pasteur	st10 number st2 number
+mlst__scheme_sam	0.8392553	st131 ec number st43 ec number	number
+mlst__scheme_sam	0.7501739	st131 ec number st43 ec number	achtman mlst number
+mlst__scheme_sam	1.0	st131 ec number st43 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	1.0	st131 ec number st43 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.7885022	st131 ec number st43 ec number	st1670 number novel number
+mlst__scheme_sam	1.0	st131 ec number st43 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7019363	st131 ec number st43 ec number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.83753616	st131 ec number st43 ec number	st10 number st2 number
+mlst__scheme_sam	0.99999994	novel 58,4,90,6 ~39,4,59	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.99999994	novel 58,4,90,6 ~39,4,59	novel
+mlst__scheme_sam	0.99999994	novel 58,4,90,6 ~39,4,59	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.82219	novel 58,4,90,6 ~39,4,59	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.99999994	novel 58,4,90,6 ~39,4,59	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.99999994	novel 58,4,90,6 ~39,4,59	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.99999994	novel 10,11,4,8,8 ~13,2	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.99999994	novel 10,11,4,8,8 ~13,2	novel
+mlst__scheme_sam	0.99999994	novel 10,11,4,8,8 ~13,2	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.82219	novel 10,11,4,8,8 ~13,2	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.99999994	novel 10,11,4,8,8 ~13,2	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.99999994	novel 10,11,4,8,8 ~13,2	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.99999994	novel 10,11,4,8,8 ~13,2	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.94218224	st617 number st2 number	number
+mlst__scheme_sam	0.8752837	st617 number st2 number	achtman mlst number
+mlst__scheme_sam	0.83753616	st617 number st2 number	st405 ec number st477 ec number
+mlst__scheme_sam	0.71568185	st617 number st2 number	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.71568185	st617 number st2 number	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.83753616	st617 number st2 number	st224 ec number st479 ec number
+mlst__scheme_sam	0.8427425	st617 number st2 number	st1670 number novel number
+mlst__scheme_sam	0.71568185	st617 number st2 number	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.83753616	st617 number st2 number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7228374	st617 number st2 number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	1.0000001	st617 number st2 number	st10 number st2 number
+mlst__scheme_sam	0.71568185	st617 number st2 number	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.83753616	st617 number st2 number	st131 ec number st43 ec number
+mlst__scheme_sam	0.8780885	oxford mlst unknown	oxford mlst number
+mlst__scheme_sam	0.8132447	oxford mlst unknown	oxford mlst n\m
+mlst__scheme_sam	0.82535523	st1284 ec number novel ec number	number
+mlst__scheme_sam	0.710908	st1284 ec number novel ec number	achtman mlst number
+mlst__scheme_sam	0.95380694	st1284 ec number novel ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.7092907	st1284 ec number novel ec number	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7092907	st1284 ec number novel ec number	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.95380694	st1284 ec number novel ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.88585913	st1284 ec number novel ec number	st1670 number novel number
+mlst__scheme_sam	0.7092907	st1284 ec number novel ec number	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.95380694	st1284 ec number novel ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.8598131	st1284 ec number novel ec number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.7262634	st1284 ec number novel ec number	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.7936774	st1284 ec number novel ec number	st10 number st2 number
+mlst__scheme_sam	0.7092907	st1284 ec number novel ec number	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.95380694	st1284 ec number novel ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.7936774	st1284 ec number novel ec number	st617 number st2 number
+mlst__scheme_sam	0.70044124	st410 number st692 number	oxford mlst number
+mlst__scheme_sam	1.0000001	st410 number st692 number	number
+mlst__scheme_sam	0.8389041	st410 number st692 number	achtman mlst number
+mlst__scheme_sam	0.8392553	st410 number st692 number	st405 ec number st477 ec number
+mlst__scheme_sam	0.7173483	st410 number st692 number	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7173483	st410 number st692 number	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8392553	st410 number st692 number	st224 ec number st479 ec number
+mlst__scheme_sam	0.9265921	st410 number st692 number	st1670 number novel number
+mlst__scheme_sam	0.7173483	st410 number st692 number	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8392553	st410 number st692 number	st73 ec number st4 ec number
+mlst__scheme_sam	0.8165244	st410 number st692 number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.7565283	st410 number st692 number	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.94218224	st410 number st692 number	st10 number st2 number
+mlst__scheme_sam	0.7173483	st410 number st692 number	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8392553	st410 number st692 number	st131 ec number st43 ec number
+mlst__scheme_sam	0.94218224	st410 number st692 number	st617 number st2 number
+mlst__scheme_sam	0.82535523	st410 number st692 number	st1284 ec number novel ec number
+mlst__scheme_sam	0.8392553	st297 ec number st666 ec number	number
+mlst__scheme_sam	0.7501739	st297 ec number st666 ec number	achtman mlst number
+mlst__scheme_sam	1.0	st297 ec number st666 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	1.0	st297 ec number st666 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.7885022	st297 ec number st666 ec number	st1670 number novel number
+mlst__scheme_sam	1.0	st297 ec number st666 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7019363	st297 ec number st666 ec number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.83753616	st297 ec number st666 ec number	st10 number st2 number
+mlst__scheme_sam	1.0	st297 ec number st666 ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.83753616	st297 ec number st666 ec number	st617 number st2 number
+mlst__scheme_sam	0.95380694	st297 ec number st666 ec number	st1284 ec number novel ec number
+mlst__scheme_sam	0.8392553	st297 ec number st666 ec number	st410 number st692 number
+mlst__scheme_sam	0.79486495	st149 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.86309105	st149 pasteur	st2 pasteur
+mlst__scheme_sam	0.7056993	st149 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7056993	st149 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.79486495	st149 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7886877	st149 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.79486495	st149 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.79486495	st149 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.79486495	st149 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.7886877	st149 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.7056993	st149 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.79486495	st149 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.79486495	st149 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.99999994	novel 53,20,19,178,45 ,4,32	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.99999994	novel 53,20,19,178,45 ,4,32	novel
+mlst__scheme_sam	0.99999994	novel 53,20,19,178,45 ,4,32	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.82219	novel 53,20,19,178,45 ,4,32	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.99999994	novel 53,20,19,178,45 ,4,32	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.99999994	novel 53,20,19,178,45 ,4,32	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.99999994	novel 53,20,19,178,45 ,4,32	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.99999994	novel 53,20,19,178,45 ,4,32	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.7931491	pubmlst mlst number	oxford mlst number
+mlst__scheme_sam	0.8389041	pubmlst mlst number	number
+mlst__scheme_sam	1.0	pubmlst mlst number	achtman mlst number
+mlst__scheme_sam	0.7501739	pubmlst mlst number	st405 ec number st477 ec number
+mlst__scheme_sam	0.7501739	pubmlst mlst number	st224 ec number st479 ec number
+mlst__scheme_sam	0.75091267	pubmlst mlst number	st1670 number novel number
+mlst__scheme_sam	0.7501739	pubmlst mlst number	st73 ec number st4 ec number
+mlst__scheme_sam	0.8752837	pubmlst mlst number	st10 number st2 number
+mlst__scheme_sam	0.7501739	pubmlst mlst number	st131 ec number st43 ec number
+mlst__scheme_sam	0.8752837	pubmlst mlst number	st617 number st2 number
+mlst__scheme_sam	0.710908	pubmlst mlst number	st1284 ec number novel ec number
+mlst__scheme_sam	0.8389041	pubmlst mlst number	st410 number st692 number
+mlst__scheme_sam	0.7501739	pubmlst mlst number	st297 ec number st666 ec number
+mlst__scheme_sam	0.8392553	st540 ec number st716 ec number	number
+mlst__scheme_sam	0.7501739	st540 ec number st716 ec number	achtman mlst number
+mlst__scheme_sam	1.0	st540 ec number st716 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	1.0	st540 ec number st716 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.7885022	st540 ec number st716 ec number	st1670 number novel number
+mlst__scheme_sam	1.0	st540 ec number st716 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7019363	st540 ec number st716 ec number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.83753616	st540 ec number st716 ec number	st10 number st2 number
+mlst__scheme_sam	1.0	st540 ec number st716 ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.83753616	st540 ec number st716 ec number	st617 number st2 number
+mlst__scheme_sam	0.95380694	st540 ec number st716 ec number	st1284 ec number novel ec number
+mlst__scheme_sam	0.8392553	st540 ec number st716 ec number	st410 number st692 number
+mlst__scheme_sam	1.0	st540 ec number st716 ec number	st297 ec number st666 ec number
+mlst__scheme_sam	0.7501739	st540 ec number st716 ec number	pubmlst mlst number
+mlst__scheme_sam	0.99999994	novel 16,28,21,49,47,22,67	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	1.0	novel 16,28,21,49,47,22,67	novel
+mlst__scheme_sam	0.99999994	novel 16,28,21,49,47,22,67	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.8221901	novel 16,28,21,49,47,22,67	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.99999994	novel 16,28,21,49,47,22,67	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	1.0	novel 16,28,21,49,47,22,67	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.99999994	novel 16,28,21,49,47,22,67	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.99999994	novel 16,28,21,49,47,22,67	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.99999994	novel 16,28,21,49,47,22,67	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.91194636	st1739 oxford st250 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1739 oxford st250 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1739 oxford st250 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1739 oxford st250 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8701488	st1739 oxford st250 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.9999997	st1739 oxford st250 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st1739 oxford st250 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1739 oxford st250 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.83436644	st1739 oxford st250 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.91194636	st1739 oxford st250 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.9999997	st1739 oxford st250 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.91434956	st1739 oxford st250 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1739 oxford st250 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1739 oxford st250 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7886877	st1739 oxford st250 pasteur	st149 pasteur
+mlst__scheme_sam	0.8871023	st348 and st1808 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.9999999	st348 and st1808 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.9999999	st348 and st1808 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.76203454	st348 and st1808 oxford st2 pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.8871023	st348 and st1808 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8275818	st348 and st1808 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.71227974	st348 and st1808 oxford st2 pasteur	pasteur mlst number
+mlst__scheme_sam	0.91434956	st348 and st1808 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.8871023	st348 and st1808 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st348 and st1808 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.810622	st348 and st1808 oxford st2 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.8871023	st348 and st1808 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st348 and st1808 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.9999999	st348 and st1808 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st348 and st1808 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st348 and st1808 oxford st2 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7056993	st348 and st1808 oxford st2 pasteur	st149 pasteur
+mlst__scheme_sam	0.91434956	st348 and st1808 oxford st2 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.8871023	st218 and st2164 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.9999999	st218 and st2164 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.9999999	st218 and st2164 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.76203454	st218 and st2164 oxford st2 pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.8871023	st218 and st2164 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8275818	st218 and st2164 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.71227974	st218 and st2164 oxford st2 pasteur	pasteur mlst number
+mlst__scheme_sam	0.91434956	st218 and st2164 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.8871023	st218 and st2164 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st218 and st2164 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.810622	st218 and st2164 oxford st2 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.8871023	st218 and st2164 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st218 and st2164 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.9999999	st218 and st2164 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st218 and st2164 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st218 and st2164 oxford st2 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7056993	st218 and st2164 oxford st2 pasteur	st149 pasteur
+mlst__scheme_sam	0.91434956	st218 and st2164 oxford st2 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.9999999	st218 and st2164 oxford st2 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.7565283	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	number
+mlst__scheme_sam	0.9794841	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.9794841	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.80393344	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st1670 number novel number
+mlst__scheme_sam	0.9794841	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.76694894	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.77575004	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	1.0	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.9794841	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7262634	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st1284 ec number novel ec number
+mlst__scheme_sam	0.7565283	st1703 or st1804 multiple perfect hits oxford st1088 pasteur	st410 number st692 number
+mlst__scheme_sam	0.8356354	st208 and st1806 oxford st2 with mismatch pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.88294363	st208 and st1806 oxford st2 with mismatch pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.88294363	st208 and st1806 oxford st2 with mismatch pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.8356354	st208 and st1806 oxford st2 with mismatch pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8356354	st208 and st1806 oxford st2 with mismatch pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8178594	st208 and st1806 oxford st2 with mismatch pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.7158269	st208 and st1806 oxford st2 with mismatch pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.7060034	st208 and st1806 oxford st2 with mismatch pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.8181112	st208 and st1806 oxford st2 with mismatch pasteur	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.7137753	st208 and st1806 oxford st2 with mismatch pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.7060034	st208 and st1806 oxford st2 with mismatch pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.88294363	st208 and st1806 oxford st2 with mismatch pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.8356354	st208 and st1806 oxford st2 with mismatch pasteur	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7060034	st208 and st1806 oxford st2 with mismatch pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.88294363	st208 and st1806 oxford st2 with mismatch pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.88294363	st208 and st1806 oxford st2 with mismatch pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.8181112	st208 and st1806 oxford st2 with mismatch pasteur	st1703 or st1804 multiple perfect hits oxford st1088 pasteur
+mlst__scheme_sam	0.91194636	st1557 oxford st46 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1557 oxford st46 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1557 oxford st46 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1557 oxford st46 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8701488	st1557 oxford st46 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.9999997	st1557 oxford st46 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st1557 oxford st46 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1557 oxford st46 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.83436644	st1557 oxford st46 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.91194636	st1557 oxford st46 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.9999997	st1557 oxford st46 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.91434956	st1557 oxford st46 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1557 oxford st46 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1557 oxford st46 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7886877	st1557 oxford st46 pasteur	st149 pasteur
+mlst__scheme_sam	0.9999997	st1557 oxford st46 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.91434956	st1557 oxford st46 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1557 oxford st46 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.7060034	st1557 oxford st46 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1142 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1142 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1142 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1142 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8701488	st1552 oxford st1142 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.9999997	st1552 oxford st1142 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1142 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1142 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.83436644	st1552 oxford st1142 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1142 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.9999997	st1552 oxford st1142 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1142 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1142 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1142 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7886877	st1552 oxford st1142 pasteur	st149 pasteur
+mlst__scheme_sam	0.9999997	st1552 oxford st1142 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1142 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1142 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.7060034	st1552 oxford st1142 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.9999997	st1552 oxford st1142 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.70044124	st410 number st471 number	oxford mlst number
+mlst__scheme_sam	1.0000001	st410 number st471 number	number
+mlst__scheme_sam	0.8389041	st410 number st471 number	achtman mlst number
+mlst__scheme_sam	0.8392553	st410 number st471 number	st405 ec number st477 ec number
+mlst__scheme_sam	0.7173483	st410 number st471 number	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7173483	st410 number st471 number	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8392553	st410 number st471 number	st224 ec number st479 ec number
+mlst__scheme_sam	0.9265921	st410 number st471 number	st1670 number novel number
+mlst__scheme_sam	0.7173483	st410 number st471 number	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8392553	st410 number st471 number	st73 ec number st4 ec number
+mlst__scheme_sam	0.8165244	st410 number st471 number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.7565283	st410 number st471 number	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.94218224	st410 number st471 number	st10 number st2 number
+mlst__scheme_sam	0.7173483	st410 number st471 number	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.8392553	st410 number st471 number	st131 ec number st43 ec number
+mlst__scheme_sam	0.94218224	st410 number st471 number	st617 number st2 number
+mlst__scheme_sam	0.82535523	st410 number st471 number	st1284 ec number novel ec number
+mlst__scheme_sam	1.0000001	st410 number st471 number	st410 number st692 number
+mlst__scheme_sam	0.8392553	st410 number st471 number	st297 ec number st666 ec number
+mlst__scheme_sam	0.8389041	st410 number st471 number	pubmlst mlst number
+mlst__scheme_sam	0.8392553	st410 number st471 number	st540 ec number st716 ec number
+mlst__scheme_sam	0.7565283	st410 number st471 number	st1703 or st1804 multiple perfect hits oxford st1088 pasteur
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 x,24,32	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 x,24,32	novel
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 x,24,32	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.82219	novel 49,20,19,44 x,24,32	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 x,24,32	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 x,24,32	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 x,24,32	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 x,24,32	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 x,24,32	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.99999994	novel 49,20,19,44 x,24,32	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.7393442	pasteur number	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.7393442	pasteur number	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7333405	pasteur number	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.9107932	pasteur number	pasteur mlst number
+mlst__scheme_sam	0.7393442	pasteur number	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.7393442	pasteur number	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.7393442	pasteur number	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.74913037	pasteur number	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.8871023	st281 and st1839 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.9999999	st281 and st1839 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.9999999	st281 and st1839 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.76203454	st281 and st1839 oxford st2 pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.8871023	st281 and st1839 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8275818	st281 and st1839 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.71227974	st281 and st1839 oxford st2 pasteur	pasteur mlst number
+mlst__scheme_sam	0.91434956	st281 and st1839 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.8871023	st281 and st1839 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st281 and st1839 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.810622	st281 and st1839 oxford st2 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.8871023	st281 and st1839 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st281 and st1839 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.9999999	st281 and st1839 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st281 and st1839 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st281 and st1839 oxford st2 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7056993	st281 and st1839 oxford st2 pasteur	st149 pasteur
+mlst__scheme_sam	0.91434956	st281 and st1839 oxford st2 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.9999999	st281 and st1839 oxford st2 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.9999999	st281 and st1839 oxford st2 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.88294363	st281 and st1839 oxford st2 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.91434956	st281 and st1839 oxford st2 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.91434956	st281 and st1839 oxford st2 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.7393442	st281 and st1839 oxford st2 pasteur	pasteur number
+mlst__scheme_sam	0.94218224	st167 number st2 number	number
+mlst__scheme_sam	0.8752837	st167 number st2 number	achtman mlst number
+mlst__scheme_sam	0.83753616	st167 number st2 number	st405 ec number st477 ec number
+mlst__scheme_sam	0.71568185	st167 number st2 number	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.71568185	st167 number st2 number	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.83753616	st167 number st2 number	st224 ec number st479 ec number
+mlst__scheme_sam	0.8427425	st167 number st2 number	st1670 number novel number
+mlst__scheme_sam	0.71568185	st167 number st2 number	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.83753616	st167 number st2 number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7228374	st167 number st2 number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	1.0000001	st167 number st2 number	st10 number st2 number
+mlst__scheme_sam	0.71568185	st167 number st2 number	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.83753616	st167 number st2 number	st131 ec number st43 ec number
+mlst__scheme_sam	1.0000001	st167 number st2 number	st617 number st2 number
+mlst__scheme_sam	0.7936774	st167 number st2 number	st1284 ec number novel ec number
+mlst__scheme_sam	0.94218224	st167 number st2 number	st410 number st692 number
+mlst__scheme_sam	0.83753616	st167 number st2 number	st297 ec number st666 ec number
+mlst__scheme_sam	0.8752837	st167 number st2 number	pubmlst mlst number
+mlst__scheme_sam	0.83753616	st167 number st2 number	st540 ec number st716 ec number
+mlst__scheme_sam	0.94218224	st167 number st2 number	st410 number st471 number
+mlst__scheme_sam	0.91194636	st1552 oxford st1442 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1442 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1442 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1442 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.8701488	st1552 oxford st1442 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.9999997	st1552 oxford st1442 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1442 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1442 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.83436644	st1552 oxford st1442 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1442 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.9999997	st1552 oxford st1442 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1442 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1442 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1552 oxford st1442 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.7886877	st1552 oxford st1442 pasteur	st149 pasteur
+mlst__scheme_sam	0.9999997	st1552 oxford st1442 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1442 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1442 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.7060034	st1552 oxford st1442 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.9999997	st1552 oxford st1442 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.9999997	st1552 oxford st1442 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.91434956	st1552 oxford st1442 pasteur	st281 and st1839 oxford st2 pasteur
+mlst__scheme_sam	0.7434174	st1857 and st345 oxford st499 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.94290304	st1857 and st345 oxford st499 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.94290304	st1857 and st345 oxford st499 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7480126	st1857 and st345 oxford st499 pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.7434174	st1857 and st345 oxford st499 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.873332	st1857 and st345 oxford st499 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.90852153	st1857 and st345 oxford st499 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.7434174	st1857 and st345 oxford st499 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.7434174	st1857 and st345 oxford st499 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.86516035	st1857 and st345 oxford st499 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.7434174	st1857 and st345 oxford st499 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.90852153	st1857 and st345 oxford st499 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.94290304	st1857 and st345 oxford st499 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.7434174	st1857 and st345 oxford st499 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.7434174	st1857 and st345 oxford st499 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.90852153	st1857 and st345 oxford st499 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.94290304	st1857 and st345 oxford st499 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.94290304	st1857 and st345 oxford st499 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.87992036	st1857 and st345 oxford st499 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.90852153	st1857 and st345 oxford st499 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.90852153	st1857 and st345 oxford st499 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.7706995	st1857 and st345 oxford st499 pasteur	pasteur number
+mlst__scheme_sam	0.94290304	st1857 and st345 oxford st499 pasteur	st281 and st1839 oxford st2 pasteur
+mlst__scheme_sam	0.90852153	st1857 and st345 oxford st499 pasteur	st1552 oxford st1442 pasteur
+mlst__scheme_sam	1.0	st1794 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7995265	st1794 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8871023	st1794 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st1794 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1794 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7282174	st1794 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st1794 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	1.0	st1794 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1794 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1794 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1794 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.8871023	st1794 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1794 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1794 oxford st2 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.79486495	st1794 oxford st2 pasteur	st149 pasteur
+mlst__scheme_sam	0.91194636	st1794 oxford st2 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.8871023	st1794 oxford st2 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st1794 oxford st2 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1794 oxford st2 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.91194636	st1794 oxford st2 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.8871023	st1794 oxford st2 pasteur	st281 and st1839 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1794 oxford st2 pasteur	st1552 oxford st1442 pasteur
+mlst__scheme_sam	0.7434174	st1794 oxford st2 pasteur	st1857 and st345 oxford st499 pasteur
+mlst__scheme_sam	0.99999994	novel 2,3,1,1,4,4,4	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	1.0	novel 2,3,1,1,4,4,4	novel
+mlst__scheme_sam	0.99999994	novel 2,3,1,1,4,4,4	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.8221901	novel 2,3,1,1,4,4,4	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.99999994	novel 2,3,1,1,4,4,4	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	1.0	novel 2,3,1,1,4,4,4	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.99999994	novel 2,3,1,1,4,4,4	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.99999994	novel 2,3,1,1,4,4,4	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.99999994	novel 2,3,1,1,4,4,4	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	1.0	novel 2,3,1,1,4,4,4	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.99999994	novel 2,3,1,1,4,4,4	novel 49,20,19,44 x,24,32
+mlst__scheme_sam	0.8165243	novel number ,6,1,7,45 ,52,63	number
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.70193624	novel number ,6,1,7,45 ,52,63	st405 ec number st477 ec number
+mlst__scheme_sam	0.7250839	novel number ,6,1,7,45 ,52,63	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7250839	novel number ,6,1,7,45 ,52,63	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.70193624	novel number ,6,1,7,45 ,52,63	st224 ec number st479 ec number
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel
+mlst__scheme_sam	0.9736932	novel number ,6,1,7,45 ,52,63	st1670 number novel number
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.7250839	novel number ,6,1,7,45 ,52,63	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.70193624	novel number ,6,1,7,45 ,52,63	st73 ec number st4 ec number
+mlst__scheme_sam	1.0	novel number ,6,1,7,45 ,52,63	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.77575004	novel number ,6,1,7,45 ,52,63	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.7228373	novel number ,6,1,7,45 ,52,63	st10 number st2 number
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.7250839	novel number ,6,1,7,45 ,52,63	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.70193624	novel number ,6,1,7,45 ,52,63	st131 ec number st43 ec number
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.7228373	novel number ,6,1,7,45 ,52,63	st617 number st2 number
+mlst__scheme_sam	0.85981303	novel number ,6,1,7,45 ,52,63	st1284 ec number novel ec number
+mlst__scheme_sam	0.8165243	novel number ,6,1,7,45 ,52,63	st410 number st692 number
+mlst__scheme_sam	0.70193624	novel number ,6,1,7,45 ,52,63	st297 ec number st666 ec number
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.70193624	novel number ,6,1,7,45 ,52,63	st540 ec number st716 ec number
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.77575004	novel number ,6,1,7,45 ,52,63	st1703 or st1804 multiple perfect hits oxford st1088 pasteur
+mlst__scheme_sam	0.8165243	novel number ,6,1,7,45 ,52,63	st410 number st471 number
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel 49,20,19,44 x,24,32
+mlst__scheme_sam	0.7228373	novel number ,6,1,7,45 ,52,63	st167 number st2 number
+mlst__scheme_sam	0.82219	novel number ,6,1,7,45 ,52,63	novel 2,3,1,1,4,4,4
+mlst__scheme_sam	0.99999994	novel 49,20,19,44,37,24,32	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	1.0	novel 49,20,19,44,37,24,32	novel
+mlst__scheme_sam	0.99999994	novel 49,20,19,44,37,24,32	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.8221901	novel 49,20,19,44,37,24,32	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.99999994	novel 49,20,19,44,37,24,32	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	1.0	novel 49,20,19,44,37,24,32	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.99999994	novel 49,20,19,44,37,24,32	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.99999994	novel 49,20,19,44,37,24,32	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.99999994	novel 49,20,19,44,37,24,32	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	1.0	novel 49,20,19,44,37,24,32	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.99999994	novel 49,20,19,44,37,24,32	novel 49,20,19,44 x,24,32
+mlst__scheme_sam	1.0	novel 49,20,19,44,37,24,32	novel 2,3,1,1,4,4,4
+mlst__scheme_sam	0.82219	novel 49,20,19,44,37,24,32	novel number ,6,1,7,45 ,52,63
+mlst__scheme_sam	0.7173483	st1788 or st1794 multiple perfect hits oxford st2 pasteur	number
+mlst__scheme_sam	0.99999994	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1809 or st451 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.99999994	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st208 or st1806 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.75546473	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1670 number novel number
+mlst__scheme_sam	0.99999994	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st281 or st1839 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.7929429	st1788 or st1794 multiple perfect hits oxford st2 pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.72508395	st1788 or st1794 multiple perfect hits oxford st2 pasteur	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.9794841	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1857 or st345 multiple perfect hits oxford st499 pasteur
+mlst__scheme_sam	0.71568185	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st10 number st2 number
+mlst__scheme_sam	0.99999994	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1808 or st348 multiple perfect hits oxford st2 pasteur
+mlst__scheme_sam	0.71568185	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st617 number st2 number
+mlst__scheme_sam	0.7092907	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1284 ec number novel ec number
+mlst__scheme_sam	0.7173483	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st410 number st692 number
+mlst__scheme_sam	0.9794841	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st1703 or st1804 multiple perfect hits oxford st1088 pasteur
+mlst__scheme_sam	0.8356354	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.7173483	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st410 number st471 number
+mlst__scheme_sam	0.71568185	st1788 or st1794 multiple perfect hits oxford st2 pasteur	st167 number st2 number
+mlst__scheme_sam	0.7250839	st1788 or st1794 multiple perfect hits oxford st2 pasteur	novel number ,6,1,7,45 ,52,63
+mlst__scheme_sam	0.8392553	st127 ec number st32 ec number	number
+mlst__scheme_sam	0.7501739	st127 ec number st32 ec number	achtman mlst number
+mlst__scheme_sam	1.0	st127 ec number st32 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	1.0	st127 ec number st32 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.7885022	st127 ec number st32 ec number	st1670 number novel number
+mlst__scheme_sam	1.0	st127 ec number st32 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7019363	st127 ec number st32 ec number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.83753616	st127 ec number st32 ec number	st10 number st2 number
+mlst__scheme_sam	1.0	st127 ec number st32 ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.83753616	st127 ec number st32 ec number	st617 number st2 number
+mlst__scheme_sam	0.95380694	st127 ec number st32 ec number	st1284 ec number novel ec number
+mlst__scheme_sam	0.8392553	st127 ec number st32 ec number	st410 number st692 number
+mlst__scheme_sam	1.0	st127 ec number st32 ec number	st297 ec number st666 ec number
+mlst__scheme_sam	0.7501739	st127 ec number st32 ec number	pubmlst mlst number
+mlst__scheme_sam	1.0	st127 ec number st32 ec number	st540 ec number st716 ec number
+mlst__scheme_sam	0.8392553	st127 ec number st32 ec number	st410 number st471 number
+mlst__scheme_sam	0.83753616	st127 ec number st32 ec number	st167 number st2 number
+mlst__scheme_sam	0.70193624	st127 ec number st32 ec number	novel number ,6,1,7,45 ,52,63
+mlst__scheme_sam	1.0	st1697 oxford st2 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.7995265	st1697 oxford st2 pasteur	st2 pasteur
+mlst__scheme_sam	0.8871023	st1697 oxford st2 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st1697 oxford st2 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1697 oxford st2 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.7282174	st1697 oxford st2 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.91194636	st1697 oxford st2 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	1.0	st1697 oxford st2 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1697 oxford st2 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1697 oxford st2 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1697 oxford st2 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.8871023	st1697 oxford st2 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1697 oxford st2 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	1.0	st1697 oxford st2 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.79486495	st1697 oxford st2 pasteur	st149 pasteur
+mlst__scheme_sam	0.91194636	st1697 oxford st2 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.8871023	st1697 oxford st2 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.8871023	st1697 oxford st2 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1697 oxford st2 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.91194636	st1697 oxford st2 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.8871023	st1697 oxford st2 pasteur	st281 and st1839 oxford st2 pasteur
+mlst__scheme_sam	0.91194636	st1697 oxford st2 pasteur	st1552 oxford st1442 pasteur
+mlst__scheme_sam	0.7434174	st1697 oxford st2 pasteur	st1857 and st345 oxford st499 pasteur
+mlst__scheme_sam	1.0	st1697 oxford st2 pasteur	st1794 oxford st2 pasteur
+mlst__scheme_sam	0.99999994	novel 14,2 ,30,133 ,51,2,14	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	1.0	novel 14,2 ,30,133 ,51,2,14	novel
+mlst__scheme_sam	0.99999994	novel 14,2 ,30,133 ,51,2,14	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.8221901	novel 14,2 ,30,133 ,51,2,14	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.99999994	novel 14,2 ,30,133 ,51,2,14	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	1.0	novel 14,2 ,30,133 ,51,2,14	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.99999994	novel 14,2 ,30,133 ,51,2,14	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.99999994	novel 14,2 ,30,133 ,51,2,14	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.99999994	novel 14,2 ,30,133 ,51,2,14	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	1.0	novel 14,2 ,30,133 ,51,2,14	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.99999994	novel 14,2 ,30,133 ,51,2,14	novel 49,20,19,44 x,24,32
+mlst__scheme_sam	1.0	novel 14,2 ,30,133 ,51,2,14	novel 2,3,1,1,4,4,4
+mlst__scheme_sam	0.82219	novel 14,2 ,30,133 ,51,2,14	novel number ,6,1,7,45 ,52,63
+mlst__scheme_sam	1.0	novel 14,2 ,30,133 ,51,2,14	novel 49,20,19,44,37,24,32
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 29,14,3 ~15,7,1,9
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 10,11 ~684,8,8,8,2
+mlst__scheme_sam	0.82219	novel 10,5,1,1,1 ,10,427	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 49,20,19,44 -,24,32
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 4,6,5,10,46,7,6
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 58,4,90,6 ~39,4,59
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 10,11,4,8,8 ~13,2
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 53,20,19,178,45 ,4,32
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 16,28,21,49,47,22,67
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 49,20,19,44 x,24,32
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 2,3,1,1,4,4,4
+mlst__scheme_sam	0.82219	novel 10,5,1,1,1 ,10,427	novel number ,6,1,7,45 ,52,63
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 49,20,19,44,37,24,32
+mlst__scheme_sam	0.99999994	novel 10,5,1,1,1 ,10,427	novel 14,2 ,30,133 ,51,2,14
+mlst__scheme_sam	0.7434174	st345 and st1857 oxford st499 pasteur	st218 oxford st2 pasteur
+mlst__scheme_sam	0.94290304	st345 and st1857 oxford st499 pasteur	st208 and st1806 oxford st2 pasteur
+mlst__scheme_sam	0.94290304	st345 and st1857 oxford st499 pasteur	st1806 and st208 oxford st2 pasteur
+mlst__scheme_sam	0.7480126	st345 and st1857 oxford st499 pasteur	oxford missing gene coverage st2 pasteur
+mlst__scheme_sam	0.7434174	st345 and st1857 oxford st499 pasteur	st348 oxford st2 pasteur
+mlst__scheme_sam	0.873332	st345 and st1857 oxford st499 pasteur	novel oxford st734 pasteur
+mlst__scheme_sam	0.90852153	st345 and st1857 oxford st499 pasteur	st1736 oxford st734 pasteur
+mlst__scheme_sam	0.7434174	st345 and st1857 oxford st499 pasteur	st281 oxford st2 pasteur
+mlst__scheme_sam	0.7434174	st345 and st1857 oxford st499 pasteur	st345 oxford st2 pasteur
+mlst__scheme_sam	0.86516035	st345 and st1857 oxford st499 pasteur	novel st 4,80,1,253,12,28,45 oxford st239 pasteur
+mlst__scheme_sam	0.7434174	st345 and st1857 oxford st499 pasteur	st1557 oxford st2 pasteur
+mlst__scheme_sam	0.90852153	st345 and st1857 oxford st499 pasteur	st281 oxford st724 pasteur
+mlst__scheme_sam	0.94290304	st345 and st1857 oxford st499 pasteur	st1808 and st348 oxford st2 pasteur
+mlst__scheme_sam	0.7434174	st345 and st1857 oxford st499 pasteur	st546 oxford st2 pasteur
+mlst__scheme_sam	0.7434174	st345 and st1857 oxford st499 pasteur	st208 oxford st2 pasteur
+mlst__scheme_sam	0.90852153	st345 and st1857 oxford st499 pasteur	st1739 oxford st250 pasteur
+mlst__scheme_sam	0.94290304	st345 and st1857 oxford st499 pasteur	st348 and st1808 oxford st2 pasteur
+mlst__scheme_sam	0.94290304	st345 and st1857 oxford st499 pasteur	st218 and st2164 oxford st2 pasteur
+mlst__scheme_sam	0.87992036	st345 and st1857 oxford st499 pasteur	st208 and st1806 oxford st2 with mismatch pasteur
+mlst__scheme_sam	0.90852153	st345 and st1857 oxford st499 pasteur	st1557 oxford st46 pasteur
+mlst__scheme_sam	0.90852153	st345 and st1857 oxford st499 pasteur	st1552 oxford st1142 pasteur
+mlst__scheme_sam	0.7706995	st345 and st1857 oxford st499 pasteur	pasteur number
+mlst__scheme_sam	0.94290304	st345 and st1857 oxford st499 pasteur	st281 and st1839 oxford st2 pasteur
+mlst__scheme_sam	0.90852153	st345 and st1857 oxford st499 pasteur	st1552 oxford st1442 pasteur
+mlst__scheme_sam	1.0	st345 and st1857 oxford st499 pasteur	st1857 and st345 oxford st499 pasteur
+mlst__scheme_sam	0.7434174	st345 and st1857 oxford st499 pasteur	st1794 oxford st2 pasteur
+mlst__scheme_sam	0.7434174	st345 and st1857 oxford st499 pasteur	st1697 oxford st2 pasteur
+mlst__scheme_sam	0.77281904	novel ec number st2 ec number	number
+mlst__scheme_sam	0.7183458	novel ec number st2 ec number	achtman mlst number
+mlst__scheme_sam	0.9473064	novel ec number st2 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	0.9473064	novel ec number st2 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.8234824	novel ec number st2 ec number	st1670 number novel number
+mlst__scheme_sam	0.9473064	novel ec number st2 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7958896	novel ec number st2 ec number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.81201303	novel ec number st2 ec number	st10 number st2 number
+mlst__scheme_sam	0.9473064	novel ec number st2 ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.81201303	novel ec number st2 ec number	st617 number st2 number
+mlst__scheme_sam	0.97791916	novel ec number st2 ec number	st1284 ec number novel ec number
+mlst__scheme_sam	0.77281904	novel ec number st2 ec number	st410 number st692 number
+mlst__scheme_sam	0.9473064	novel ec number st2 ec number	st297 ec number st666 ec number
+mlst__scheme_sam	0.7183458	novel ec number st2 ec number	pubmlst mlst number
+mlst__scheme_sam	0.9473064	novel ec number st2 ec number	st540 ec number st716 ec number
+mlst__scheme_sam	0.77281904	novel ec number st2 ec number	st410 number st471 number
+mlst__scheme_sam	0.81201303	novel ec number st2 ec number	st167 number st2 number
+mlst__scheme_sam	0.79588956	novel ec number st2 ec number	novel number ,6,1,7,45 ,52,63
+mlst__scheme_sam	0.9473064	novel ec number st2 ec number	st127 ec number st32 ec number
+mlst__scheme_sam	0.8392553	st410 ec number st692 ec number	number
+mlst__scheme_sam	0.7501739	st410 ec number st692 ec number	achtman mlst number
+mlst__scheme_sam	1.0	st410 ec number st692 ec number	st405 ec number st477 ec number
+mlst__scheme_sam	1.0	st410 ec number st692 ec number	st224 ec number st479 ec number
+mlst__scheme_sam	0.7885022	st410 ec number st692 ec number	st1670 number novel number
+mlst__scheme_sam	1.0	st410 ec number st692 ec number	st73 ec number st4 ec number
+mlst__scheme_sam	0.7019363	st410 ec number st692 ec number	novel number ,173 ,233 ,257 ,217 ,11,129
+mlst__scheme_sam	0.83753616	st410 ec number st692 ec number	st10 number st2 number
+mlst__scheme_sam	1.0	st410 ec number st692 ec number	st131 ec number st43 ec number
+mlst__scheme_sam	0.83753616	st410 ec number st692 ec number	st617 number st2 number
+mlst__scheme_sam	0.95380694	st410 ec number st692 ec number	st1284 ec number novel ec number
+mlst__scheme_sam	0.8392553	st410 ec number st692 ec number	st410 number st692 number
+mlst__scheme_sam	1.0	st410 ec number st692 ec number	st297 ec number st666 ec number
+mlst__scheme_sam	0.7501739	st410 ec number st692 ec number	pubmlst mlst number
+mlst__scheme_sam	1.0	st410 ec number st692 ec number	st540 ec number st716 ec number
+mlst__scheme_sam	0.8392553	st410 ec number st692 ec number	st410 number st471 number
+mlst__scheme_sam	0.83753616	st410 ec number st692 ec number	st167 number st2 number
+mlst__scheme_sam	0.70193624	st410 ec number st692 ec number	novel number ,6,1,7,45 ,52,63
+mlst__scheme_sam	1.0	st410 ec number st692 ec number	st127 ec number st32 ec number
+mlst__scheme_sam	0.9473064	st410 ec number st692 ec number	novel ec number st2 ec number

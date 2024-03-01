@@ -1,0 +1,660 @@
+attr	score	s1	s2
+nitrate_sam	0.71995	numeric mg/l	numeric
+nitrate_sam	1.0000001	numeric µmol/kg	numeric
+nitrate_sam	0.71995	numeric µmol/kg	numeric mg/l
+nitrate_sam	0.8995125	numeric mg/l number mg/l	numeric mg/l
+nitrate_sam	1.0000001	numeric µmol/l	numeric
+nitrate_sam	0.71995	numeric µmol/l	numeric mg/l
+nitrate_sam	1.0000001	numeric µmol/l	numeric µmol/kg
+nitrate_sam	0.7973217	number	missing not provided
+nitrate_sam	1.0000001	numeric ug-n/l	numeric
+nitrate_sam	0.71995	numeric ug-n/l	numeric mg/l
+nitrate_sam	1.0000001	numeric ug-n/l	numeric µmol/kg
+nitrate_sam	1.0000001	numeric ug-n/l	numeric µmol/l
+nitrate_sam	0.73744714	numeric micro molar	numeric
+nitrate_sam	0.73744714	numeric micro molar	numeric µmol/kg
+nitrate_sam	0.73744714	numeric micro molar	numeric µmol/l
+nitrate_sam	0.73744714	numeric micro molar	numeric ug-n/l
+nitrate_sam	0.7559202	numeric um	numeric
+nitrate_sam	0.7559202	numeric um	numeric µmol/kg
+nitrate_sam	0.7559202	numeric um	numeric µmol/l
+nitrate_sam	0.7559202	numeric um	numeric ug-n/l
+nitrate_sam	0.7676193	not applicable	missing not provided
+nitrate_sam	0.72682357	numeric micromoles per liter	numeric mg/l number mg/l
+nitrate_sam	0.8631481	number m	number
+nitrate_sam	1.0000001	numeric umol/l	numeric
+nitrate_sam	0.71995	numeric umol/l	numeric mg/l
+nitrate_sam	1.0000001	numeric umol/l	numeric µmol/kg
+nitrate_sam	1.0000001	numeric umol/l	numeric µmol/l
+nitrate_sam	1.0000001	numeric umol/l	numeric ug-n/l
+nitrate_sam	0.73744714	numeric umol/l	numeric micro molar
+nitrate_sam	0.7559202	numeric umol/l	numeric um
+nitrate_sam	0.82535154	missing	missing not provided
+nitrate_sam	0.9222252	not collected	missing not provided
+nitrate_sam	0.7899751	not collected	number
+nitrate_sam	0.7857067	not collected	not applicable
+nitrate_sam	0.9106124	number mg/l	numeric mg/l number mg/l
+nitrate_sam	0.7566449	number mg/l	number
+nitrate_sam	0.75507236	number mg/l	number m
+nitrate_sam	0.7973217	number µmol/kg	missing not provided
+nitrate_sam	1.0000001	number µmol/kg	number
+nitrate_sam	0.8631481	number µmol/kg	number m
+nitrate_sam	0.7899751	number µmol/kg	not collected
+nitrate_sam	0.7566449	number µmol/kg	number mg/l
+nitrate_sam	0.7973217	number µg/l	missing not provided
+nitrate_sam	1.0000001	number µg/l	number
+nitrate_sam	0.8631481	number µg/l	number m
+nitrate_sam	0.7899751	number µg/l	not collected
+nitrate_sam	0.7566449	number µg/l	number mg/l
+nitrate_sam	1.0000001	number µg/l	number µmol/kg
+nitrate_sam	0.7973217	number µm	missing not provided
+nitrate_sam	1.0000001	number µm	number
+nitrate_sam	0.8631481	number µm	number m
+nitrate_sam	0.7899751	number µm	not collected
+nitrate_sam	0.7566449	number µm	number mg/l
+nitrate_sam	1.0000001	number µm	number µmol/kg
+nitrate_sam	1.0000001	number µm	number µg/l
+nitrate_sam	0.772317	numeric mol/l	numeric
+nitrate_sam	0.8616145	numeric mol/l	numeric mg/l
+nitrate_sam	0.7555144	numeric mol/l	numeric mg l-1
+nitrate_sam	0.772317	numeric mol/l	numeric µmol/kg
+nitrate_sam	0.772317	numeric mol/l	numeric µmol/l
+nitrate_sam	0.772317	numeric mol/l	numeric ug-n/l
+nitrate_sam	0.772317	numeric mol/l	numeric umol/l
+nitrate_sam	1.0000001	numeric µmol/dm3	numeric
+nitrate_sam	0.71995	numeric µmol/dm3	numeric mg/l
+nitrate_sam	1.0000001	numeric µmol/dm3	numeric µmol/kg
+nitrate_sam	1.0000001	numeric µmol/dm3	numeric µmol/l
+nitrate_sam	1.0000001	numeric µmol/dm3	numeric ug-n/l
+nitrate_sam	0.73744714	numeric µmol/dm3	numeric micro molar
+nitrate_sam	0.7559202	numeric µmol/dm3	numeric um
+nitrate_sam	1.0000001	numeric µmol/dm3	numeric umol/l
+nitrate_sam	0.772317	numeric µmol/dm3	numeric mol/l
+nitrate_sam	0.7415868	numeric mg/kg	numeric
+nitrate_sam	0.8331548	numeric mg/kg	numeric mg/l
+nitrate_sam	0.7415868	numeric mg/kg	numeric µmol/kg
+nitrate_sam	0.7415868	numeric mg/kg	numeric µmol/l
+nitrate_sam	0.7415868	numeric mg/kg	numeric ug-n/l
+nitrate_sam	0.7415868	numeric mg/kg	numeric umol/l
+nitrate_sam	0.7696399	numeric mg/kg	numeric mol/l
+nitrate_sam	0.7415868	numeric mg/kg	numeric µmol/dm3
+nitrate_sam	1.0000001	numeric µm	numeric
+nitrate_sam	0.71995	numeric µm	numeric mg/l
+nitrate_sam	1.0000001	numeric µm	numeric µmol/kg
+nitrate_sam	1.0000001	numeric µm	numeric µmol/l
+nitrate_sam	1.0000001	numeric µm	numeric ug-n/l
+nitrate_sam	0.73744714	numeric µm	numeric micro molar
+nitrate_sam	0.7559202	numeric µm	numeric um
+nitrate_sam	1.0000001	numeric µm	numeric umol/l
+nitrate_sam	0.772317	numeric µm	numeric mol/l
+nitrate_sam	1.0000001	numeric µm	numeric µmol/dm3
+nitrate_sam	0.7415868	numeric µm	numeric mg/kg
+nitrate_sam	0.7922846	number mg n/l	number
+nitrate_sam	0.803128	number mg n/l	number m
+nitrate_sam	0.763596	number mg n/l	number mg/l
+nitrate_sam	0.7922846	number mg n/l	number µmol/kg
+nitrate_sam	0.7922846	number mg n/l	number µg/l
+nitrate_sam	0.7922846	number mg n/l	number µm
+nitrate_sam	0.76618814	numeric ppm	numeric
+nitrate_sam	0.9043506	numeric ppm	numeric mg/l
+nitrate_sam	0.72195005	numeric ppm	numeric mg l-1
+nitrate_sam	0.76618814	numeric ppm	numeric µmol/kg
+nitrate_sam	0.80946684	numeric ppm	numeric mg/l number mg/l
+nitrate_sam	0.76618814	numeric ppm	numeric µmol/l
+nitrate_sam	0.76618814	numeric ppm	numeric ug-n/l
+nitrate_sam	0.7645027	numeric ppm	numeric micro molar
+nitrate_sam	0.764259	numeric ppm	numeric micromoles per liter
+nitrate_sam	0.73408264	numeric ppm	numeric mm
+nitrate_sam	0.76618814	numeric ppm	numeric umol/l
+nitrate_sam	0.8277752	numeric ppm	numeric mol/l
+nitrate_sam	0.76618814	numeric ppm	numeric µmol/dm3
+nitrate_sam	0.8352349	numeric ppm	numeric mg/kg
+nitrate_sam	0.76618814	numeric ppm	numeric µm
+nitrate_sam	1.0	numeric ± numeric	numeric
+nitrate_sam	0.71995	numeric ± numeric	numeric mg/l
+nitrate_sam	1.0	numeric ± numeric	numeric µmol/kg
+nitrate_sam	1.0	numeric ± numeric	numeric µmol/l
+nitrate_sam	1.0	numeric ± numeric	numeric ug-n/l
+nitrate_sam	0.73744714	numeric ± numeric	numeric micro molar
+nitrate_sam	0.7559202	numeric ± numeric	numeric um
+nitrate_sam	1.0	numeric ± numeric	numeric umol/l
+nitrate_sam	0.772317	numeric ± numeric	numeric mol/l
+nitrate_sam	1.0	numeric ± numeric	numeric µmol/dm3
+nitrate_sam	0.74158674	numeric ± numeric	numeric mg/kg
+nitrate_sam	1.0	numeric ± numeric	numeric µm
+nitrate_sam	0.7661882	numeric ± numeric	numeric ppm
+nitrate_sam	1.0000001	numeric mg.l-1	numeric
+nitrate_sam	0.71995	numeric mg.l-1	numeric mg/l
+nitrate_sam	1.0000001	numeric mg.l-1	numeric µmol/kg
+nitrate_sam	1.0000001	numeric mg.l-1	numeric µmol/l
+nitrate_sam	1.0000001	numeric mg.l-1	numeric ug-n/l
+nitrate_sam	0.73744714	numeric mg.l-1	numeric micro molar
+nitrate_sam	0.7559202	numeric mg.l-1	numeric um
+nitrate_sam	1.0000001	numeric mg.l-1	numeric umol/l
+nitrate_sam	0.772317	numeric mg.l-1	numeric mol/l
+nitrate_sam	1.0000001	numeric mg.l-1	numeric µmol/dm3
+nitrate_sam	0.7415868	numeric mg.l-1	numeric mg/kg
+nitrate_sam	1.0000001	numeric mg.l-1	numeric µm
+nitrate_sam	0.76618814	numeric mg.l-1	numeric ppm
+nitrate_sam	1.0	numeric mg.l-1	numeric ± numeric
+nitrate_sam	0.7030494	numeric mg n/l	numeric
+nitrate_sam	0.7130617	numeric mg n/l	numeric mg/l
+nitrate_sam	0.9110197	numeric mg n/l	numeric mg l-1
+nitrate_sam	0.7030494	numeric mg n/l	numeric µmol/kg
+nitrate_sam	0.7030494	numeric mg n/l	numeric µmol/l
+nitrate_sam	0.7030494	numeric mg n/l	numeric ug-n/l
+nitrate_sam	0.7272898	numeric mg n/l	numeric micro molar
+nitrate_sam	0.72772336	numeric mg n/l	numeric micromoles per liter
+nitrate_sam	0.7613092	numeric mg n/l	numeric mm
+nitrate_sam	0.7030494	numeric mg n/l	numeric umol/l
+nitrate_sam	0.70798784	numeric mg n/l	numeric mol/l
+nitrate_sam	0.7030494	numeric mg n/l	numeric µmol/dm3
+nitrate_sam	0.74030995	numeric mg n/l	numeric mg/kg
+nitrate_sam	0.7030494	numeric mg n/l	numeric µm
+nitrate_sam	0.705273	numeric mg n/l	number mg n/l
+nitrate_sam	0.7877722	numeric mg n/l	numeric ppm
+nitrate_sam	0.7030494	numeric mg n/l	numeric ± numeric
+nitrate_sam	0.7030494	numeric mg n/l	numeric mg.l-1
+nitrate_sam	0.7922846	number mg /l	number
+nitrate_sam	0.803128	number mg /l	number m
+nitrate_sam	0.763596	number mg /l	number mg/l
+nitrate_sam	0.7922846	number mg /l	number µmol/kg
+nitrate_sam	0.7922846	number mg /l	number µg/l
+nitrate_sam	0.7922846	number mg /l	number µm
+nitrate_sam	0.9999998	number mg /l	number mg n/l
+nitrate_sam	0.705273	number mg /l	numeric mg n/l
+nitrate_sam	0.7973217	number ug/l	missing not provided
+nitrate_sam	1.0000001	number ug/l	number
+nitrate_sam	0.8631481	number ug/l	number m
+nitrate_sam	0.7899751	number ug/l	not collected
+nitrate_sam	0.7566449	number ug/l	number mg/l
+nitrate_sam	1.0000001	number ug/l	number µmol/kg
+nitrate_sam	1.0000001	number ug/l	number µg/l
+nitrate_sam	1.0000001	number ug/l	number µm
+nitrate_sam	0.7922846	number ug/l	number mg n/l
+nitrate_sam	0.7922846	number ug/l	number mg /l
+nitrate_sam	0.8537725	numeric orig	numeric
+nitrate_sam	0.74398917	numeric orig	numeric mg/l
+nitrate_sam	0.70785725	numeric orig	numeric mg l-1
+nitrate_sam	0.8537725	numeric orig	numeric µmol/kg
+nitrate_sam	0.8537725	numeric orig	numeric µmol/l
+nitrate_sam	0.8537725	numeric orig	numeric ug-n/l
+nitrate_sam	0.8537725	numeric orig	numeric umol/l
+nitrate_sam	0.82618153	numeric orig	numeric mol/l
+nitrate_sam	0.8537725	numeric orig	numeric µmol/dm3
+nitrate_sam	0.7050145	numeric orig	numeric mg/kg
+nitrate_sam	0.8537725	numeric orig	numeric µm
+nitrate_sam	0.7295055	numeric orig	numeric ppm
+nitrate_sam	0.8537725	numeric orig	numeric ± numeric
+nitrate_sam	0.8537725	numeric orig	numeric mg.l-1
+nitrate_sam	0.8343355	no nitrate	low nitrate
+nitrate_sam	0.9147957	numeric micromoles per l	numeric micromoles per liter
+nitrate_sam	0.7415021	numeric micromoles per l	numeric mm
+nitrate_sam	0.7261125	numeric micromoles per l	number m
+nitrate_sam	0.7661244	numeric micromoles per l	numeric ppm
+nitrate_sam	0.792601	numeric micromoles per l	numeric mg n/l
+nitrate_sam	0.7973217	number ug-n/l	missing not provided
+nitrate_sam	1.0000001	number ug-n/l	number
+nitrate_sam	0.8631481	number ug-n/l	number m
+nitrate_sam	0.7899751	number ug-n/l	not collected
+nitrate_sam	0.7566449	number ug-n/l	number mg/l
+nitrate_sam	1.0000001	number ug-n/l	number µmol/kg
+nitrate_sam	1.0000001	number ug-n/l	number µg/l
+nitrate_sam	1.0000001	number ug-n/l	number µm
+nitrate_sam	0.7922846	number ug-n/l	number mg n/l
+nitrate_sam	0.7922846	number ug-n/l	number mg /l
+nitrate_sam	1.0000001	number ug-n/l	number ug/l
+nitrate_sam	1.0000001	numeric micromoleperliter	numeric
+nitrate_sam	0.71995	numeric micromoleperliter	numeric mg/l
+nitrate_sam	1.0000001	numeric micromoleperliter	numeric µmol/kg
+nitrate_sam	1.0000001	numeric micromoleperliter	numeric µmol/l
+nitrate_sam	1.0000001	numeric micromoleperliter	numeric ug-n/l
+nitrate_sam	0.73744714	numeric micromoleperliter	numeric micro molar
+nitrate_sam	0.7559202	numeric micromoleperliter	numeric um
+nitrate_sam	1.0000001	numeric micromoleperliter	numeric umol/l
+nitrate_sam	0.772317	numeric micromoleperliter	numeric mol/l
+nitrate_sam	1.0000001	numeric micromoleperliter	numeric µmol/dm3
+nitrate_sam	0.7415868	numeric micromoleperliter	numeric mg/kg
+nitrate_sam	1.0000001	numeric micromoleperliter	numeric µm
+nitrate_sam	0.76618814	numeric micromoleperliter	numeric ppm
+nitrate_sam	1.0	numeric micromoleperliter	numeric ± numeric
+nitrate_sam	1.0000001	numeric micromoleperliter	numeric mg.l-1
+nitrate_sam	0.7030494	numeric micromoleperliter	numeric mg n/l
+nitrate_sam	0.8537725	numeric micromoleperliter	numeric orig
+nitrate_sam	0.7936766	optimal nitrate	low nitrate
+nitrate_sam	0.73762614	optimal nitrate	no nitrate
+nitrate_sam	0.72682357	numeric micromole per liter	numeric mg/l number mg/l
+nitrate_sam	1.0	numeric micromole per liter	numeric micromoles per liter
+nitrate_sam	0.764259	numeric micromole per liter	numeric ppm
+nitrate_sam	0.72772336	numeric micromole per liter	numeric mg n/l
+nitrate_sam	0.9147957	numeric micromole per liter	numeric micromoles per l
+nitrate_sam	0.77362853	number um	number
+nitrate_sam	0.7491249	number um	number m
+nitrate_sam	0.77362853	number um	number µmol/kg
+nitrate_sam	0.77362853	number um	number µg/l
+nitrate_sam	0.77362853	number um	number µm
+nitrate_sam	0.72680694	number um	number mg n/l
+nitrate_sam	0.72680694	number um	number mg /l
+nitrate_sam	0.77362853	number um	number ug/l
+nitrate_sam	0.77362853	number um	number ug-n/l
+nitrate_sam	0.7416642	number mg/l pore waters	numeric mg/l number mg/l
+nitrate_sam	0.70731056	number mg/l pore waters	number m
+nitrate_sam	0.8382904	number mg/l pore waters	number mg/l
+nitrate_sam	0.765059	number mg/l pore waters	below detection limit
+nitrate_sam	0.7973217	number µmol/l	missing not provided
+nitrate_sam	1.0000001	number µmol/l	number
+nitrate_sam	0.8631481	number µmol/l	number m
+nitrate_sam	0.7899751	number µmol/l	not collected
+nitrate_sam	0.7566449	number µmol/l	number mg/l
+nitrate_sam	1.0000001	number µmol/l	number µmol/kg
+nitrate_sam	1.0000001	number µmol/l	number µg/l
+nitrate_sam	1.0000001	number µmol/l	number µm
+nitrate_sam	0.7922846	number µmol/l	number mg n/l
+nitrate_sam	0.7922846	number µmol/l	number mg /l
+nitrate_sam	1.0000001	number µmol/l	number ug/l
+nitrate_sam	1.0000001	number µmol/l	number ug-n/l
+nitrate_sam	0.77362853	number µmol/l	number um
+nitrate_sam	0.7954724	number mm	number
+nitrate_sam	0.78376174	number mm	numeric mm
+nitrate_sam	0.82281375	number mm	number m
+nitrate_sam	0.70850056	number mm	number mg/l
+nitrate_sam	0.7954724	number mm	number µmol/kg
+nitrate_sam	0.7954724	number mm	number µg/l
+nitrate_sam	0.7954724	number mm	number µm
+nitrate_sam	0.80969256	number mm	number mg n/l
+nitrate_sam	0.80969256	number mm	number mg /l
+nitrate_sam	0.7954724	number mm	number ug/l
+nitrate_sam	0.7954724	number mm	number ug-n/l
+nitrate_sam	0.7954724	number mm	number µmol/l
+nitrate_sam	0.81974876	below the deteciton limit number microm	missing not provided
+nitrate_sam	0.8775773	below the deteciton limit number microm	number
+nitrate_sam	0.7354639	below the deteciton limit number microm	not applicable
+nitrate_sam	0.8482128	below the deteciton limit number microm	number m
+nitrate_sam	0.8158268	below the deteciton limit number microm	not collected
+nitrate_sam	0.8775773	below the deteciton limit number microm	number µmol/kg
+nitrate_sam	0.8775773	below the deteciton limit number microm	number µg/l
+nitrate_sam	0.8775773	below the deteciton limit number microm	number µm
+nitrate_sam	0.8775773	below the deteciton limit number microm	number ug/l
+nitrate_sam	0.8693604	below the deteciton limit number microm	below detection limit
+nitrate_sam	0.8775773	below the deteciton limit number microm	number ug-n/l
+nitrate_sam	0.7639358	below the deteciton limit number microm	number mg/l pore waters
+nitrate_sam	0.8775773	below the deteciton limit number microm	number µmol/l
+nitrate_sam	0.7435711	below the deteciton limit number microm	number mm
+nitrate_sam	0.89229333	not collecte	missing not provided
+nitrate_sam	0.89285684	not collecte	not applicable
+nitrate_sam	0.8846929	not collecte	not collected
+nitrate_sam	0.76354814	not collecte	below the deteciton limit number microm
+nitrate_sam	0.7402664	under detection limit	missing not provided
+nitrate_sam	0.7808952	under detection limit	not applicable
+nitrate_sam	0.7274444	under detection limit	not collected
+nitrate_sam	0.9287386	under detection limit	below detection limit
+nitrate_sam	0.8375112	under detection limit	below the deteciton limit number microm
+nitrate_sam	0.73958856	under detection limit	not collecte
+nitrate_sam	0.8353287	number ppm as n	number
+nitrate_sam	0.70643324	number ppm as n	numeric micromoles per liter
+nitrate_sam	0.87551665	number ppm as n	number m
+nitrate_sam	0.79862493	number ppm as n	number mg/l
+nitrate_sam	0.8353287	number ppm as n	number µmol/kg
+nitrate_sam	0.8353287	number ppm as n	number µg/l
+nitrate_sam	0.8353287	number ppm as n	number µm
+nitrate_sam	0.84601957	number ppm as n	number mg n/l
+nitrate_sam	0.84601957	number ppm as n	number mg /l
+nitrate_sam	0.8353287	number ppm as n	number ug/l
+nitrate_sam	0.7343251	number ppm as n	below detection limit
+nitrate_sam	0.74980795	number ppm as n	numeric micromoles per l
+nitrate_sam	0.8353287	number ppm as n	number ug-n/l
+nitrate_sam	0.70643324	number ppm as n	numeric micromole per liter
+nitrate_sam	0.7579999	number ppm as n	number um
+nitrate_sam	0.7625097	number ppm as n	number mg/l pore waters
+nitrate_sam	0.8353287	number ppm as n	number µmol/l
+nitrate_sam	0.8081241	number ppm as n	number mm
+nitrate_sam	0.8543245	number ppm as n	below the deteciton limit number microm
+nitrate_sam	0.787578	numeric micromolar	numeric
+nitrate_sam	0.8076188	numeric micromolar	numeric mg/l
+nitrate_sam	0.787578	numeric micromolar	numeric µmol/kg
+nitrate_sam	0.787578	numeric micromolar	numeric µmol/l
+nitrate_sam	0.787578	numeric micromolar	numeric ug-n/l
+nitrate_sam	0.787578	numeric micromolar	numeric umol/l
+nitrate_sam	0.85144013	numeric micromolar	numeric mol/l
+nitrate_sam	0.787578	numeric micromolar	numeric µmol/dm3
+nitrate_sam	0.787578	numeric micromolar	numeric µm
+nitrate_sam	0.8049671	numeric micromolar	numeric ppm
+nitrate_sam	0.7875779	numeric micromolar	numeric ± numeric
+nitrate_sam	0.787578	numeric micromolar	numeric mg.l-1
+nitrate_sam	0.74539435	numeric micromolar	numeric orig
+nitrate_sam	0.787578	numeric micromolar	numeric micromoleperliter
+nitrate_sam	0.9578126	missing not collected	missing not provided
+nitrate_sam	0.7970764	missing not collected	number
+nitrate_sam	0.8708537	missing not collected	missing
+nitrate_sam	0.9574751	missing not collected	not collected
+nitrate_sam	0.7970764	missing not collected	number µmol/kg
+nitrate_sam	0.7970764	missing not collected	number µg/l
+nitrate_sam	0.7970764	missing not collected	number µm
+nitrate_sam	0.7970764	missing not collected	number ug/l
+nitrate_sam	0.7970764	missing not collected	number ug-n/l
+nitrate_sam	0.7970764	missing not collected	number µmol/l
+nitrate_sam	0.79736716	missing not collected	below the deteciton limit number microm
+nitrate_sam	0.82994854	missing not collected	not collecte
+nitrate_sam	0.71761304	numeric below detection	numeric
+nitrate_sam	0.71761304	numeric below detection	numeric µmol/kg
+nitrate_sam	0.71761304	numeric below detection	numeric µmol/l
+nitrate_sam	0.71761304	numeric below detection	numeric ug-n/l
+nitrate_sam	0.74069285	numeric below detection	numeric micro molar
+nitrate_sam	0.7288319	numeric below detection	numeric mm
+nitrate_sam	0.71761304	numeric below detection	numeric umol/l
+nitrate_sam	0.71761304	numeric below detection	numeric µmol/dm3
+nitrate_sam	0.71761304	numeric below detection	numeric µm
+nitrate_sam	0.7661249	numeric below detection	numeric ppm
+nitrate_sam	0.71761304	numeric below detection	numeric ± numeric
+nitrate_sam	0.71761304	numeric below detection	numeric mg.l-1
+nitrate_sam	0.8659154	numeric below detection	below detection limit
+nitrate_sam	0.72325635	numeric below detection	numeric micromoles per l
+nitrate_sam	0.71761304	numeric below detection	numeric micromoleperliter
+nitrate_sam	0.7129827	numeric below detection	below the deteciton limit number microm
+nitrate_sam	0.7525455	numeric below detection	under detection limit
+nitrate_sam	0.77770704	8.4-4.6 mg/l	numeric mg/l number mg/l
+nitrate_sam	0.7194869	8.4-4.6 mg/l	number mg/l
+nitrate_sam	0.72068375	2,411	3,739
+nitrate_sam	0.77770704	mg/l	numeric mg/l number mg/l
+nitrate_sam	0.7194869	mg/l	number mg/l
+nitrate_sam	1.0000001	mg/l	8.4-4.6 mg/l
+nitrate_sam	0.8696847	number h	number
+nitrate_sam	0.8834746	number h	number m
+nitrate_sam	0.8696847	number h	number µmol/kg
+nitrate_sam	0.8696847	number h	number µg/l
+nitrate_sam	0.8696847	number h	number µm
+nitrate_sam	0.8612252	number h	number mg n/l
+nitrate_sam	0.8612252	number h	number mg /l
+nitrate_sam	0.8696847	number h	number ug/l
+nitrate_sam	0.75620323	number h	numeric micromoles per l
+nitrate_sam	0.8696847	number h	number ug-n/l
+nitrate_sam	0.73986965	number h	number um
+nitrate_sam	0.8696847	number h	number µmol/l
+nitrate_sam	0.7775992	number h	number mm
+nitrate_sam	0.79086995	number h	below the deteciton limit number microm
+nitrate_sam	0.89679694	number h	number ppm as n
+nitrate_sam	0.7211461	7,085	3,739
+nitrate_sam	0.90154254	numeric numeric mg/l	numeric
+nitrate_sam	0.9493639	numeric numeric mg/l	numeric mg/l
+nitrate_sam	0.7399612	numeric numeric mg/l	numeric mg l-1
+nitrate_sam	0.90154254	numeric numeric mg/l	numeric µmol/kg
+nitrate_sam	0.7850823	numeric numeric mg/l	numeric mg/l number mg/l
+nitrate_sam	0.90154254	numeric numeric mg/l	numeric µmol/l
+nitrate_sam	0.90154254	numeric numeric mg/l	numeric ug-n/l
+nitrate_sam	0.7640414	numeric numeric mg/l	numeric micro molar
+nitrate_sam	0.71209675	numeric numeric mg/l	numeric um
+nitrate_sam	0.70848984	numeric numeric mg/l	numeric mm
+nitrate_sam	0.90154254	numeric numeric mg/l	numeric umol/l
+nitrate_sam	0.88679355	numeric numeric mg/l	numeric mol/l
+nitrate_sam	0.90154254	numeric numeric mg/l	numeric µmol/dm3
+nitrate_sam	0.855139	numeric numeric mg/l	numeric mg/kg
+nitrate_sam	0.90154254	numeric numeric mg/l	numeric µm
+nitrate_sam	0.91066283	numeric numeric mg/l	numeric ppm
+nitrate_sam	0.90154254	numeric numeric mg/l	numeric ± numeric
+nitrate_sam	0.90154254	numeric numeric mg/l	numeric mg.l-1
+nitrate_sam	0.7628214	numeric numeric mg/l	numeric mg n/l
+nitrate_sam	0.8503341	numeric numeric mg/l	numeric orig
+nitrate_sam	0.70477843	numeric numeric mg/l	numeric micromoles per l
+nitrate_sam	0.90154254	numeric numeric mg/l	numeric micromoleperliter
+nitrate_sam	0.8600383	numeric numeric mg/l	numeric micromolar
+nitrate_sam	0.73092395	numeric numeric mg/l	numeric below detection
+nitrate_sam	0.7463608	1,796	1,369
+nitrate_sam	0.7224909	1,796	1,845
+nitrate_sam	0.77770704	2,01 mg/l	numeric mg/l number mg/l
+nitrate_sam	0.7194869	2,01 mg/l	number mg/l
+nitrate_sam	1.0000001	2,01 mg/l	8.4-4.6 mg/l
+nitrate_sam	1.0000001	2,01 mg/l	mg/l
+nitrate_sam	0.7602253	1,056	1,369
+nitrate_sam	0.7593918	1,056	1,845
+nitrate_sam	0.7049744	1,056	2,411
+nitrate_sam	0.786912	1,056	1,796
+nitrate_sam	0.7013036	1,771	1,369
+nitrate_sam	0.7195038	1,771	1,796
+nitrate_sam	0.70417887	1,771	1,056
+nitrate_sam	0.70156616	control	missing not provided
+nitrate_sam	0.70802313	control	below the deteciton limit number microm
+nitrate_sam	0.74241924	control	not collecte
+nitrate_sam	0.83233565	control	under detection limit
+nitrate_sam	0.7036834	2,731	1,369
+nitrate_sam	0.7086417	2,731	3,936
+nitrate_sam	0.78396094	2,731	2,411
+nitrate_sam	0.75577116	2,731	1,796
+nitrate_sam	0.70739895	2,731	1,056
+nitrate_sam	0.7264255	2,731	3,419
+nitrate_sam	0.85332024	numeric umol l-1	numeric
+nitrate_sam	0.8169722	numeric umol l-1	numeric mg l-1
+nitrate_sam	0.85332024	numeric umol l-1	numeric µmol/kg
+nitrate_sam	0.85332024	numeric umol l-1	numeric µmol/l
+nitrate_sam	0.85332024	numeric umol l-1	numeric ug-n/l
+nitrate_sam	0.85332024	numeric umol l-1	numeric umol/l
+nitrate_sam	0.7762795	numeric umol l-1	numeric mol/l
+nitrate_sam	0.85332024	numeric umol l-1	numeric µmol/dm3
+nitrate_sam	0.85332024	numeric umol l-1	numeric µm
+nitrate_sam	0.85332024	numeric umol l-1	numeric ± numeric
+nitrate_sam	0.85332024	numeric umol l-1	numeric mg.l-1
+nitrate_sam	0.8297758	numeric umol l-1	numeric orig
+nitrate_sam	0.85332024	numeric umol l-1	numeric micromoleperliter
+nitrate_sam	0.7301692	numeric umol l-1	numeric micromolar
+nitrate_sam	0.7908191	numeric umol l-1	numeric numeric mg/l
+nitrate_sam	1.0000001	numeric ug/l	numeric
+nitrate_sam	0.71995	numeric ug/l	numeric mg/l
+nitrate_sam	1.0000001	numeric ug/l	numeric µmol/kg
+nitrate_sam	1.0000001	numeric ug/l	numeric µmol/l
+nitrate_sam	1.0000001	numeric ug/l	numeric ug-n/l
+nitrate_sam	0.73744714	numeric ug/l	numeric micro molar
+nitrate_sam	0.7559202	numeric ug/l	numeric um
+nitrate_sam	1.0000001	numeric ug/l	numeric umol/l
+nitrate_sam	0.772317	numeric ug/l	numeric mol/l
+nitrate_sam	1.0000001	numeric ug/l	numeric µmol/dm3
+nitrate_sam	0.7415868	numeric ug/l	numeric mg/kg
+nitrate_sam	1.0000001	numeric ug/l	numeric µm
+nitrate_sam	0.76618814	numeric ug/l	numeric ppm
+nitrate_sam	1.0	numeric ug/l	numeric ± numeric
+nitrate_sam	1.0000001	numeric ug/l	numeric mg.l-1
+nitrate_sam	0.7030494	numeric ug/l	numeric mg n/l
+nitrate_sam	0.8537725	numeric ug/l	numeric orig
+nitrate_sam	1.0000001	numeric ug/l	numeric micromoleperliter
+nitrate_sam	0.787578	numeric ug/l	numeric micromolar
+nitrate_sam	0.71761304	numeric ug/l	numeric below detection
+nitrate_sam	0.90154254	numeric ug/l	numeric numeric mg/l
+nitrate_sam	0.85332024	numeric ug/l	numeric umol l-1
+nitrate_sam	0.7779742	numeric g/kg	numeric
+nitrate_sam	0.8503147	numeric g/kg	numeric mg/l
+nitrate_sam	0.7779742	numeric g/kg	numeric µmol/kg
+nitrate_sam	0.7779742	numeric g/kg	numeric µmol/l
+nitrate_sam	0.7779742	numeric g/kg	numeric ug-n/l
+nitrate_sam	0.7274495	numeric g/kg	numeric micro molar
+nitrate_sam	0.7779742	numeric g/kg	numeric umol/l
+nitrate_sam	0.8430091	numeric g/kg	numeric mol/l
+nitrate_sam	0.7779742	numeric g/kg	numeric µmol/dm3
+nitrate_sam	0.92275983	numeric g/kg	numeric mg/kg
+nitrate_sam	0.7779742	numeric g/kg	numeric µm
+nitrate_sam	0.8216653	numeric g/kg	numeric ppm
+nitrate_sam	0.7779742	numeric g/kg	numeric ± numeric
+nitrate_sam	0.7779742	numeric g/kg	numeric mg.l-1
+nitrate_sam	0.7047237	numeric g/kg	numeric mg n/l
+nitrate_sam	0.767762	numeric g/kg	numeric orig
+nitrate_sam	0.7779742	numeric g/kg	numeric micromoleperliter
+nitrate_sam	0.7305206	numeric g/kg	numeric micromolar
+nitrate_sam	0.8823095	numeric g/kg	numeric numeric mg/l
+nitrate_sam	0.7779742	numeric g/kg	numeric ug/l
+nitrate_sam	0.81749266	number mol/l	numeric mg/l number mg/l
+nitrate_sam	0.70818704	number mol/l	number
+nitrate_sam	0.8724405	number mol/l	number mg/l
+nitrate_sam	0.70818704	number mol/l	number µmol/kg
+nitrate_sam	0.70818704	number mol/l	number µg/l
+nitrate_sam	0.70818704	number mol/l	number µm
+nitrate_sam	0.7548294	number mol/l	number mg n/l
+nitrate_sam	0.7548294	number mol/l	number mg /l
+nitrate_sam	0.70818704	number mol/l	number ug/l
+nitrate_sam	0.70818704	number mol/l	number ug-n/l
+nitrate_sam	0.70818704	number mol/l	number µmol/l
+nitrate_sam	0.7302518	number mol/l	number ppm as n
+nitrate_sam	0.77770704	0,94 mg/l	numeric mg/l number mg/l
+nitrate_sam	0.7194869	0,94 mg/l	number mg/l
+nitrate_sam	1.0000001	0,94 mg/l	8.4-4.6 mg/l
+nitrate_sam	1.0000001	0,94 mg/l	mg/l
+nitrate_sam	1.0000001	0,94 mg/l	2,01 mg/l
+nitrate_sam	0.7186455	number mg n /l	number
+nitrate_sam	0.8062022	number mg n /l	number m
+nitrate_sam	0.7084309	number mg n /l	number mg/l
+nitrate_sam	0.7186455	number mg n /l	number µmol/kg
+nitrate_sam	0.7186455	number mg n /l	number µg/l
+nitrate_sam	0.7186455	number mg n /l	number µm
+nitrate_sam	0.93839294	number mg n /l	number mg n/l
+nitrate_sam	0.75378865	number mg n /l	numeric mg n/l
+nitrate_sam	0.93839294	number mg n /l	number mg /l
+nitrate_sam	0.7186455	number mg n /l	number ug/l
+nitrate_sam	0.7497436	number mg n /l	numeric micromoles per l
+nitrate_sam	0.7186455	number mg n /l	number ug-n/l
+nitrate_sam	0.70802593	number mg n /l	number um
+nitrate_sam	0.7186455	number mg n /l	number µmol/l
+nitrate_sam	0.79143065	number mg n /l	number mm
+nitrate_sam	0.9054463	number mg n /l	number ppm as n
+nitrate_sam	0.89378196	number mg n /l	number h
+nitrate_sam	0.71207833	number mg n /l	number mol/l
+nitrate_sam	1.0000001	numeric microm	numeric
+nitrate_sam	0.71995	numeric microm	numeric mg/l
+nitrate_sam	1.0000001	numeric microm	numeric µmol/kg
+nitrate_sam	1.0000001	numeric microm	numeric µmol/l
+nitrate_sam	1.0000001	numeric microm	numeric ug-n/l
+nitrate_sam	0.73744714	numeric microm	numeric micro molar
+nitrate_sam	0.7559202	numeric microm	numeric um
+nitrate_sam	1.0000001	numeric microm	numeric umol/l
+nitrate_sam	0.772317	numeric microm	numeric mol/l
+nitrate_sam	1.0000001	numeric microm	numeric µmol/dm3
+nitrate_sam	0.7415868	numeric microm	numeric mg/kg
+nitrate_sam	1.0000001	numeric microm	numeric µm
+nitrate_sam	0.76618814	numeric microm	numeric ppm
+nitrate_sam	1.0	numeric microm	numeric ± numeric
+nitrate_sam	1.0000001	numeric microm	numeric mg.l-1
+nitrate_sam	0.7030494	numeric microm	numeric mg n/l
+nitrate_sam	0.8537725	numeric microm	numeric orig
+nitrate_sam	1.0000001	numeric microm	numeric micromoleperliter
+nitrate_sam	0.787578	numeric microm	numeric micromolar
+nitrate_sam	0.71761304	numeric microm	numeric below detection
+nitrate_sam	0.90154254	numeric microm	numeric numeric mg/l
+nitrate_sam	0.85332024	numeric microm	numeric umol l-1
+nitrate_sam	1.0000001	numeric microm	numeric ug/l
+nitrate_sam	0.7779742	numeric microm	numeric g/kg
+nitrate_sam	0.72665656	2,829	3,936
+nitrate_sam	0.7247269	2,829	1,056
+nitrate_sam	0.72516614	2,829	2,731
+nitrate_sam	0.7021234	3,715	1,845
+nitrate_sam	0.7453549	3,715	3,419
+nitrate_sam	0.73896736	number micromole per liter	number
+nitrate_sam	0.89967346	number micromole per liter	numeric micromoles per liter
+nitrate_sam	0.80519885	number micromole per liter	number m
+nitrate_sam	0.78714013	number micromole per liter	number mg/l
+nitrate_sam	0.73896736	number micromole per liter	number µmol/kg
+nitrate_sam	0.73896736	number micromole per liter	number µg/l
+nitrate_sam	0.73896736	number micromole per liter	number µm
+nitrate_sam	0.8155343	number micromole per liter	number mg n/l
+nitrate_sam	0.8155343	number micromole per liter	number mg /l
+nitrate_sam	0.73896736	number micromole per liter	number ug/l
+nitrate_sam	0.7949402	number micromole per liter	numeric micromoles per l
+nitrate_sam	0.73896736	number micromole per liter	number ug-n/l
+nitrate_sam	0.89967346	number micromole per liter	numeric micromole per liter
+nitrate_sam	0.73896736	number micromole per liter	number µmol/l
+nitrate_sam	0.7303854	number micromole per liter	number mm
+nitrate_sam	0.7665442	number micromole per liter	below the deteciton limit number microm
+nitrate_sam	0.82915527	number micromole per liter	number ppm as n
+nitrate_sam	0.7299206	number micromole per liter	number h
+nitrate_sam	0.76976186	number micromole per liter	number mg n /l
+nitrate_sam	0.9493907	not provided	missing not provided
+nitrate_sam	0.7623006	not provided	number
+nitrate_sam	0.8662483	not provided	not applicable
+nitrate_sam	0.9140239	not provided	not collected
+nitrate_sam	0.7623006	not provided	number µmol/kg
+nitrate_sam	0.7623006	not provided	number µg/l
+nitrate_sam	0.7623006	not provided	number µm
+nitrate_sam	0.7623006	not provided	number ug/l
+nitrate_sam	0.7623006	not provided	number ug-n/l
+nitrate_sam	0.7623006	not provided	number µmol/l
+nitrate_sam	0.8179865	not provided	below the deteciton limit number microm
+nitrate_sam	0.9400863	not provided	not collecte
+nitrate_sam	0.7861889	not provided	under detection limit
+nitrate_sam	0.8646552	not provided	missing not collected
+nitrate_sam	0.76296335	not provided	control
+nitrate_sam	0.7433584	below detectable level	number mg/l
+nitrate_sam	0.8712223	below detectable level	below detection limit
+nitrate_sam	0.8166817	below detectable level	number mg/l pore waters
+nitrate_sam	0.83116025	below detectable level	below the deteciton limit number microm
+nitrate_sam	0.72773725	below detectable level	under detection limit
+nitrate_sam	0.7506136	below detectable level	number ppm as n
+nitrate_sam	0.7501899	below detectable level	numeric below detection
+nitrate_sam	0.7436604	1,731	1,369
+nitrate_sam	0.7135247	1,731	1,845
+nitrate_sam	0.75418395	1,731	1,796
+nitrate_sam	0.71806	1,731	1,056
+nitrate_sam	0.7626792	1,731	3,419
+nitrate_sam	0.7741783	1,731	3,715
+nitrate_sam	0.7236893	2,165	1,369
+nitrate_sam	0.73406446	2,165	1,845
+nitrate_sam	0.77517354	2,165	3,936
+nitrate_sam	0.8042927	2,165	1,796
+nitrate_sam	0.874394	2,165	1,056
+nitrate_sam	0.70574474	2,165	3,419
+nitrate_sam	0.7410869	2,165	2,731
+nitrate_sam	0.72124326	2,165	2,829
+nitrate_sam	0.71115345	2,165	3,715
+nitrate_sam	0.7536797	2,165	1,731
+nitrate_sam	0.81276673	1,447	1,369
+nitrate_sam	0.70208	1,447	1,845
+nitrate_sam	0.7347486	1,447	2,411
+nitrate_sam	0.80058676	1,447	1,796
+nitrate_sam	0.8806156	1,447	1,056
+nitrate_sam	0.7925957	1,447	3,419
+nitrate_sam	0.8105811	1,447	2,731
+nitrate_sam	0.70761234	1,447	2,829
+nitrate_sam	0.7493125	1,447	3,715
+nitrate_sam	0.8166813	1,447	1,731
+nitrate_sam	0.82261866	1,447	2,165
+nitrate_sam	0.77702284	2,189	2,411
+nitrate_sam	0.7358879	2,189	1,796
+nitrate_sam	0.71004725	2,189	1,056
+nitrate_sam	0.7141671	2,189	3,419
+nitrate_sam	0.7153642	2,189	2,731
+nitrate_sam	0.7068132	2,189	2,829
+nitrate_sam	0.7365197	2,189	1,731
+nitrate_sam	0.7384262	2,189	2,165
+nitrate_sam	0.79606444	2,189	1,447
+nitrate_sam	0.7748446	2,485	2,165
+nitrate_sam	0.8345101	numeric mg l	numeric mg l-1
+nitrate_sam	0.7024196	numeric mg l	numeric micro molar
+nitrate_sam	0.7666439	numeric mg l	numeric micromoles per liter
+nitrate_sam	0.7612588	numeric mg l	numeric mm
+nitrate_sam	0.72157043	numeric mg l	number mg n/l
+nitrate_sam	0.734945	numeric mg l	numeric ppm
+nitrate_sam	0.93950766	numeric mg l	numeric mg n/l
+nitrate_sam	0.72157043	numeric mg l	number mg /l
+nitrate_sam	0.8844524	numeric mg l	numeric micromoles per l
+nitrate_sam	0.7666439	numeric mg l	numeric micromole per liter
+nitrate_sam	0.80484	numeric mg l	number mg n /l
+nitrate_sam	0.8259817	not detected	missing not provided
+nitrate_sam	0.77819777	not detected	not applicable
+nitrate_sam	0.8215797	not detected	not collected
+nitrate_sam	0.7090961	not detected	no nitrate
+nitrate_sam	0.739266	not detected	below detection limit
+nitrate_sam	0.73345315	not detected	below the deteciton limit number microm
+nitrate_sam	0.85695827	not detected	not collecte
+nitrate_sam	0.78921574	not detected	under detection limit
+nitrate_sam	0.80886	not detected	missing not collected
+nitrate_sam	0.7112797	not detected	control
+nitrate_sam	0.8162213	not detected	not provided
+nitrate_sam	0.7307319	4,726	3,936
+nitrate_sam	0.77842325	4,726	3,739
+nitrate_sam	0.7451875	4,726	2,411
+nitrate_sam	0.7308998	4,726	7,085
+nitrate_sam	0.7979002	4,726	3,419
+nitrate_sam	0.77110195	4,726	2,731
+nitrate_sam	0.75204456	4,726	2,829
+nitrate_sam	0.71079665	4,726	3,715
+nitrate_sam	0.75582296	4,726	1,447
+nitrate_sam	0.7586618	4,726	2,189
+nitrate_sam	0.77210337	float m	number m
+nitrate_sam	0.7101609	float m	float
+nitrate_sam	0.71649814	4,135	3,715
+nitrate_sam	0.7680637	4,135	2,165
+nitrate_sam	0.7466935	4,135	1,447
+nitrate_sam	0.7217976	4,135	4,726

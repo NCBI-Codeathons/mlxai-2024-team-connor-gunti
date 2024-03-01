@@ -1,0 +1,254 @@
+attr	score	s1	s2
+experimental_factor__strain_exp	0.76228	w	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.7965741	vgn x dgrp number	number
+experimental_factor__strain_exp	0.779011	vgn x dgrp number	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	1.0	lohmann brown-classic	lohmann lsl-classic
+experimental_factor__strain_exp	1.0000001	c57bl6 x balb/c	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.76228005	c57bl6 x balb/c	w
+experimental_factor__strain_exp	0.7790111	c57bl6 x balb/c	vgn x dgrp number
+experimental_factor__strain_exp	0.84398496	w12 clone d2	w12 clone h
+experimental_factor__strain_exp	0.82944226	lmg number	atcc number
+experimental_factor__strain_exp	0.7556363	lmg number	number
+experimental_factor__strain_exp	0.79307187	lmg number	vgn x dgrp number
+experimental_factor__strain_exp	0.7228386	em2+end2+r2 embryo endosperm root of ki11	germ free c56bl/6
+experimental_factor__strain_exp	0.8708698	em2+end2+r2 embryo endosperm root of ki11	em3+end3+r3 embryo endosperm root of male b73x female ki11
+experimental_factor__strain_exp	0.9075715	lens culinaris subsp orientalis	lens culinaris subsp culinaris
+experimental_factor__strain_exp	0.9999998	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1∆nls1/2-flag	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1∆nls1/2-flag-6his
+experimental_factor__strain_exp	0.72667927	yorkshire terrier	west highland white terrier
+experimental_factor__strain_exp	0.75387144	specific pathogen free c56bl/6	germ free c56bl/6
+experimental_factor__strain_exp	0.7354652	adaptor number	number
+experimental_factor__strain_exp	0.73398745	adaptor number	vgn x dgrp number
+experimental_factor__strain_exp	0.7069678	adaptor number	lmg number
+experimental_factor__strain_exp	1.0000001	by derivative mjy1171	by derivative mjy1173
+experimental_factor__strain_exp	0.71800184	by gpa1-by ste20	number
+experimental_factor__strain_exp	0.7768062	by gpa1-by ste20	by derivative mjy1173
+experimental_factor__strain_exp	0.7768062	by gpa1-by ste20	by derivative mjy1171
+experimental_factor__strain_exp	1.0000001	dgrp number	number
+experimental_factor__strain_exp	0.7965741	dgrp number	vgn x dgrp number
+experimental_factor__strain_exp	0.7556363	dgrp number	lmg number
+experimental_factor__strain_exp	0.7354652	dgrp number	adaptor number
+experimental_factor__strain_exp	0.71800184	dgrp number	by gpa1-by ste20
+experimental_factor__strain_exp	0.94626975	w12 clone f	w12 clone h
+experimental_factor__strain_exp	0.7994047	w12 clone f	w12 clone d2
+experimental_factor__strain_exp	1.0	accession dv92	accession g3116
+experimental_factor__strain_exp	0.7195661	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers	by derivative mjy1173
+experimental_factor__strain_exp	0.71253633	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers	germ free c56bl/6
+experimental_factor__strain_exp	0.80687714	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers	specific pathogen free c56bl/6
+experimental_factor__strain_exp	0.7584525	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers	parental a
+experimental_factor__strain_exp	0.7195661	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers	by derivative mjy1171
+experimental_factor__strain_exp	0.77533764	not available	number
+experimental_factor__strain_exp	0.71472347	not available	by derivative mjy1173
+experimental_factor__strain_exp	0.77233326	not available	specific pathogen free c56bl/6
+experimental_factor__strain_exp	0.7210066	not available	parental a
+experimental_factor__strain_exp	0.71472347	not available	by derivative mjy1171
+experimental_factor__strain_exp	0.7177664	not available	by gpa1-by ste20
+experimental_factor__strain_exp	0.77533764	not available	dgrp number
+experimental_factor__strain_exp	0.8064093	not available	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.8771686	line number	number
+experimental_factor__strain_exp	0.71190405	line number	vgn x dgrp number
+experimental_factor__strain_exp	0.7710718	line number	by gpa1-by ste20
+experimental_factor__strain_exp	0.8771686	line number	dgrp number
+experimental_factor__strain_exp	0.73364633	line number	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.8117801	line number	not available
+experimental_factor__strain_exp	0.79543483	bn-lx/cub x shr/olaipcv f1	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.79543483	bn-lx/cub x shr/olaipcv f1	c57bl6 x balb/c
+experimental_factor__strain_exp	0.7063954	wild type genotype	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.751556	f	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.7695996	f	w
+experimental_factor__strain_exp	0.75155604	f	c57bl6 x balb/c
+experimental_factor__strain_exp	0.7165271	c57bl6/j or cast/eij	number
+experimental_factor__strain_exp	0.7083486	c57bl6/j or cast/eij	by derivative mjy1173
+experimental_factor__strain_exp	0.7098794	c57bl6/j or cast/eij	specific pathogen free c56bl/6
+experimental_factor__strain_exp	0.7716625	c57bl6/j or cast/eij	parental a
+experimental_factor__strain_exp	0.7083486	c57bl6/j or cast/eij	by derivative mjy1171
+experimental_factor__strain_exp	0.7165271	c57bl6/j or cast/eij	dgrp number
+experimental_factor__strain_exp	0.77403265	c57bl6/j or cast/eij	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.8560978	c57bl6/j or cast/eij	not available
+experimental_factor__strain_exp	0.7769582	c57bl6/j or cast/eij	line number
+experimental_factor__strain_exp	0.7228386	emd1+end1+r1 embryo endosperm root of b73	germ free c56bl/6
+experimental_factor__strain_exp	0.8708698	emd1+end1+r1 embryo endosperm root of b73	em3+end3+r3 embryo endosperm root of male b73x female ki11
+experimental_factor__strain_exp	1.0	emd1+end1+r1 embryo endosperm root of b73	em2+end2+r2 embryo endosperm root of ki11
+experimental_factor__strain_exp	0.76782084	hybrid s288c yjm789	hybrid s288c sk1
+experimental_factor__strain_exp	0.76782084	medaka-zebrafish hybrid	hybrid s288c sk1
+experimental_factor__strain_exp	1.0000001	medaka-zebrafish hybrid	hybrid s288c yjm789
+experimental_factor__strain_exp	0.7868378	r number	number
+experimental_factor__strain_exp	0.7047039	r number	vgn x dgrp number
+experimental_factor__strain_exp	0.7868378	r number	dgrp number
+experimental_factor__strain_exp	0.7458831	r number	line number
+experimental_factor__strain_exp	0.75691175	roar number	number
+experimental_factor__strain_exp	0.75691175	roar number	dgrp number
+experimental_factor__strain_exp	0.77243793	roar number	line number
+experimental_factor__strain_exp	0.89219034	nkx2.2tm null suss neurog3tm1 egfp khk/mmcd	ghrltm1 cre-egfp suss nkx2-2tm5 null suss b6.cg-gt rosa 26sortm14 cag-tdtomato hze/j
+experimental_factor__strain_exp	0.8377961	wild type	wild
+experimental_factor__strain_exp	0.7234483	wild type	specific pathogen free c56bl/6
+experimental_factor__strain_exp	0.75409085	wild type	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.9043806	wild type	wild type genotype
+experimental_factor__strain_exp	0.76994914	wild type	c57bl6/j or cast/eij
+experimental_factor__strain_exp	0.741407	ccap 1125/4	icab
+experimental_factor__strain_exp	0.72830725	sf-r second generation	number
+experimental_factor__strain_exp	0.70091033	sf-r second generation	by gpa1-by ste20
+experimental_factor__strain_exp	0.72830725	sf-r second generation	dgrp number
+experimental_factor__strain_exp	0.7201213	sf-r second generation	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.8038852	sf-r second generation	line number
+experimental_factor__strain_exp	1.0	rm gpa1-by ste20	rm gpa1-rm ste20
+experimental_factor__strain_exp	0.72140396	french strain	kenyan strain
+experimental_factor__strain_exp	0.71207774	french strain	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.8702544	w12 clone g2	w12 clone h
+experimental_factor__strain_exp	0.91601795	w12 clone g2	w12 clone d2
+experimental_factor__strain_exp	0.8018695	w12 clone g2	w12 clone f
+experimental_factor__strain_exp	0.7876467	p53 wt	p53 r175h
+experimental_factor__strain_exp	0.9999998	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1wt-flag-6his	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1∆nls1/2-flag-6his
+experimental_factor__strain_exp	0.9999998	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1wt-flag-6his	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1∆nls1/2-flag
+experimental_factor__strain_exp	0.8769039	end1+end2+end3+end4 endosperm of all number individuals	number
+experimental_factor__strain_exp	0.7862994	end1+end2+end3+end4 endosperm of all number individuals	em3+end3+r3 embryo endosperm root of male b73x female ki11
+experimental_factor__strain_exp	0.7228844	end1+end2+end3+end4 endosperm of all number individuals	specific pathogen free c56bl/6
+experimental_factor__strain_exp	0.71063757	end1+end2+end3+end4 endosperm of all number individuals	by gpa1-by ste20
+experimental_factor__strain_exp	0.8769039	end1+end2+end3+end4 endosperm of all number individuals	dgrp number
+experimental_factor__strain_exp	0.76288176	end1+end2+end3+end4 endosperm of all number individuals	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.82156587	end1+end2+end3+end4 endosperm of all number individuals	not available
+experimental_factor__strain_exp	0.81079626	end1+end2+end3+end4 endosperm of all number individuals	line number
+experimental_factor__strain_exp	0.8351834	end1+end2+end3+end4 endosperm of all number individuals	c57bl6/j or cast/eij
+experimental_factor__strain_exp	0.7014655	end1+end2+end3+end4 endosperm of all number individuals	r number
+experimental_factor__strain_exp	0.7005844	end1+end2+end3+end4 endosperm of all number individuals	sf-r second generation
+experimental_factor__strain_exp	0.741407	ccap 1055/1	icab
+experimental_factor__strain_exp	1.0	ccap 1055/1	ccap 1125/4
+experimental_factor__strain_exp	0.82662535	m6	m5
+experimental_factor__strain_exp	0.8422454	w12 clone a5	w12 clone h
+experimental_factor__strain_exp	0.8727403	w12 clone a5	w12 clone d2
+experimental_factor__strain_exp	0.80081695	w12 clone a5	w12 clone f
+experimental_factor__strain_exp	0.8754044	w12 clone a5	w12 clone g2
+experimental_factor__strain_exp	0.7121025	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	by derivative mjy1173
+experimental_factor__strain_exp	0.7305098	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	germ free c56bl/6
+experimental_factor__strain_exp	0.70975935	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	em3+end3+r3 embryo endosperm root of male b73x female ki11
+experimental_factor__strain_exp	0.82665706	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	specific pathogen free c56bl/6
+experimental_factor__strain_exp	0.7821029	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	parental a
+experimental_factor__strain_exp	0.7121025	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	by derivative mjy1171
+experimental_factor__strain_exp	0.99092513	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.80062556	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	not available
+experimental_factor__strain_exp	0.73034763	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	line number
+experimental_factor__strain_exp	0.7220273	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	wild type genotype
+experimental_factor__strain_exp	0.7769223	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	c57bl6/j or cast/eij
+experimental_factor__strain_exp	0.7674554	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	wild type
+experimental_factor__strain_exp	0.7270584	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	sf-r second generation
+experimental_factor__strain_exp	0.72396594	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	french strain
+experimental_factor__strain_exp	0.7755623	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers	end1+end2+end3+end4 endosperm of all number individuals
+experimental_factor__strain_exp	1.0	lens culinaris subsp odemensis	lens culinaris subsp culinaris
+experimental_factor__strain_exp	0.9075715	lens culinaris subsp odemensis	lens culinaris subsp orientalis
+experimental_factor__strain_exp	0.75387144	specific pathogen free c57bl/6	germ free c56bl/6
+experimental_factor__strain_exp	1.0000001	specific pathogen free c57bl/6	specific pathogen free c56bl/6
+experimental_factor__strain_exp	0.80687714	specific pathogen free c57bl/6	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.77233326	specific pathogen free c57bl/6	not available
+experimental_factor__strain_exp	0.7098794	specific pathogen free c57bl/6	c57bl6/j or cast/eij
+experimental_factor__strain_exp	0.7234483	specific pathogen free c57bl/6	wild type
+experimental_factor__strain_exp	0.7228844	specific pathogen free c57bl/6	end1+end2+end3+end4 endosperm of all number individuals
+experimental_factor__strain_exp	0.82665706	specific pathogen free c57bl/6	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers
+experimental_factor__strain_exp	0.7587913	lens nigricans	lens culinaris subsp culinaris
+experimental_factor__strain_exp	0.7208389	lens nigricans	lens ervoides
+experimental_factor__strain_exp	0.7587913	lens nigricans	lens culinaris subsp odemensis
+experimental_factor__strain_exp	0.73583734	mak 98a	mak 65b
+experimental_factor__strain_exp	0.72397506	s288c plus yjm789	number
+experimental_factor__strain_exp	0.72397506	s288c plus yjm789	dgrp number
+experimental_factor__strain_exp	0.719008	s288c plus yjm789	r number
+experimental_factor__strain_exp	0.7095867	g2	w12 clone g2
+experimental_factor__strain_exp	0.9999998	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1wt-flag	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1∆nls1/2-flag-6his
+experimental_factor__strain_exp	0.9999998	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1wt-flag	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1∆nls1/2-flag
+experimental_factor__strain_exp	0.9999998	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ xrn1wt-flag	by4741 mata his3∆1 leu2∆0 met15∆0 ura3∆ caura3∆ :xrn1wt-flag-6his
+experimental_factor__strain_exp	0.8094012	lister number	number
+experimental_factor__strain_exp	0.8094012	lister number	dgrp number
+experimental_factor__strain_exp	0.7521523	lister number	line number
+experimental_factor__strain_exp	0.7114349	lister number	r number
+experimental_factor__strain_exp	0.7264127	lister number	end1+end2+end3+end4 endosperm of all number individuals
+experimental_factor__strain_exp	0.9999999	germ free c57bl/6	germ free c56bl/6
+experimental_factor__strain_exp	0.7228386	germ free c57bl/6	em2+end2+r2 embryo endosperm root of ki11
+experimental_factor__strain_exp	0.75387144	germ free c57bl/6	specific pathogen free c56bl/6
+experimental_factor__strain_exp	0.71253633	germ free c57bl/6	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.7228386	germ free c57bl/6	emd1+end1+r1 embryo endosperm root of b73
+experimental_factor__strain_exp	0.7305098	germ free c57bl/6	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers
+experimental_factor__strain_exp	0.75387144	germ free c57bl/6	specific pathogen free c57bl/6
+experimental_factor__strain_exp	0.9999999	em4+end4+r4 embryo endosperm root of male ki11x female b73	em3+end3+r3 embryo endosperm root of male b73x female ki11
+experimental_factor__strain_exp	0.8708698	em4+end4+r4 embryo endosperm root of male ki11x female b73	em2+end2+r2 embryo endosperm root of ki11
+experimental_factor__strain_exp	0.8708698	em4+end4+r4 embryo endosperm root of male ki11x female b73	emd1+end1+r1 embryo endosperm root of b73
+experimental_factor__strain_exp	0.7862994	em4+end4+r4 embryo endosperm root of male ki11x female b73	end1+end2+end3+end4 endosperm of all number individuals
+experimental_factor__strain_exp	0.70975935	em4+end4+r4 embryo endosperm root of male ki11x female b73	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers
+experimental_factor__strain_exp	0.7962611	wild-type 2202u2	gp1971 genotype trpc2 δcspb :cat δcspd :apha3
+experimental_factor__strain_exp	0.9999998	parent h99	parent
+experimental_factor__strain_exp	0.78522897	c57 x cast f1	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.7852291	c57 x cast f1	c57bl6 x balb/c
+experimental_factor__strain_exp	0.9120765	c57 x cast f1	bn-lx/cub x shr/olaipcv f1
+experimental_factor__strain_exp	0.7063114	c57 x cast f1	sf-r second generation
+experimental_factor__strain_exp	0.732901	not applicable	specific pathogen free c56bl/6
+experimental_factor__strain_exp	0.8654585	not applicable	not available
+experimental_factor__strain_exp	0.7656115	not applicable	c57bl6/j or cast/eij
+experimental_factor__strain_exp	0.7559433	not applicable	end1+end2+end3+end4 endosperm of all number individuals
+experimental_factor__strain_exp	0.732901	not applicable	specific pathogen free c57bl/6
+experimental_factor__strain_exp	0.7421941	d2	w12 clone d2
+experimental_factor__strain_exp	0.78522897	cast x c57 f1	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.7852291	cast x c57 f1	c57bl6 x balb/c
+experimental_factor__strain_exp	0.9120765	cast x c57 f1	bn-lx/cub x shr/olaipcv f1
+experimental_factor__strain_exp	0.7063114	cast x c57 f1	sf-r second generation
+experimental_factor__strain_exp	1.0	cast x c57 f1	c57 x cast f1
+experimental_factor__strain_exp	0.8635251	j1	j2
+experimental_factor__strain_exp	0.7132665	a5	m5
+experimental_factor__strain_exp	0.7515197	a5	w12 clone a5
+experimental_factor__strain_exp	0.798118	h	w
+experimental_factor__strain_exp	0.797009	h	f
+experimental_factor__strain_exp	0.70578974	segchr1x1 derived from f137 parent	number
+experimental_factor__strain_exp	0.795877	segchr1x1 derived from f137 parent	by derivative mjy1173
+experimental_factor__strain_exp	0.7161129	segchr1x1 derived from f137 parent	em3+end3+r3 embryo endosperm root of male b73x female ki11
+experimental_factor__strain_exp	0.73360926	segchr1x1 derived from f137 parent	parental a
+experimental_factor__strain_exp	0.795877	segchr1x1 derived from f137 parent	by derivative mjy1171
+experimental_factor__strain_exp	0.7487132	segchr1x1 derived from f137 parent	by gpa1-by ste20
+experimental_factor__strain_exp	0.70578974	segchr1x1 derived from f137 parent	dgrp number
+experimental_factor__strain_exp	0.82885593	segchr1x1 derived from f137 parent	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.7959684	segchr1x1 derived from f137 parent	not available
+experimental_factor__strain_exp	0.77936465	segchr1x1 derived from f137 parent	line number
+experimental_factor__strain_exp	0.82820374	segchr1x1 derived from f137 parent	c57bl6/j or cast/eij
+experimental_factor__strain_exp	0.721829	segchr1x1 derived from f137 parent	sf-r second generation
+experimental_factor__strain_exp	0.8205924	segchr1x1 derived from f137 parent	end1+end2+end3+end4 endosperm of all number individuals
+experimental_factor__strain_exp	0.8319359	segchr1x1 derived from f137 parent	adaptive laboratory evolution ale strain glua t7 based on parental strain glua after seven transfers
+experimental_factor__strain_exp	0.7161129	segchr1x1 derived from f137 parent	em4+end4+r4 embryo endosperm root of male ki11x female b73
+experimental_factor__strain_exp	0.74872684	segchr1x1 derived from f137 parent	parent
+experimental_factor__strain_exp	0.74872684	segchr1x1 derived from f137 parent	parent h99
+experimental_factor__strain_exp	0.84656435	ghrltm1 cre-egfp suss b6.cg-gt rosa 26sortm14 cag-tdtomato hze/j	ghrltm1 cre-egfp suss nkx2-2tm5 null suss b6.cg-gt rosa 26sortm14 cag-tdtomato hze/j
+experimental_factor__strain_exp	1.0	nitrofen	nitrofen afsc-evs
+experimental_factor__strain_exp	0.7825975	t12	t34
+experimental_factor__strain_exp	0.7120111	t45	t40
+experimental_factor__strain_exp	0.76196545	cast x c57 f1 and c57	number
+experimental_factor__strain_exp	0.74325144	cast x c57 f1 and c57	129s2/svpas x 129s8 x c57bl/6j
+experimental_factor__strain_exp	0.70053613	cast x c57 f1 and c57	vgn x dgrp number
+experimental_factor__strain_exp	0.7432515	cast x c57 f1 and c57	c57bl6 x balb/c
+experimental_factor__strain_exp	0.76196545	cast x c57 f1 and c57	dgrp number
+experimental_factor__strain_exp	0.70085466	cast x c57 f1 and c57	adaptive laboratory evolution ale strain glua t5 based on parental strain glua after five transfers
+experimental_factor__strain_exp	0.7476943	cast x c57 f1 and c57	not available
+experimental_factor__strain_exp	0.78869385	cast x c57 f1 and c57	line number
+experimental_factor__strain_exp	0.81424177	cast x c57 f1 and c57	bn-lx/cub x shr/olaipcv f1
+experimental_factor__strain_exp	0.7512889	cast x c57 f1 and c57	r number
+experimental_factor__strain_exp	0.8015406	cast x c57 f1 and c57	sf-r second generation
+experimental_factor__strain_exp	0.71062976	cast x c57 f1 and c57	end1+end2+end3+end4 endosperm of all number individuals
+experimental_factor__strain_exp	0.7066579	cast x c57 f1 and c57	lister number
+experimental_factor__strain_exp	0.9529721	cast x c57 f1 and c57	c57 x cast f1
+experimental_factor__strain_exp	0.9529721	cast x c57 f1 and c57	cast x c57 f1
+experimental_factor__strain_exp	0.78970397	t36	t34
+experimental_factor__strain_exp	0.84311295	t36	t12
+experimental_factor__strain_exp	0.71800184	by gpa1-rm ste20	number
+experimental_factor__strain_exp	0.7768062	by gpa1-rm ste20	by derivative mjy1173
+experimental_factor__strain_exp	0.7768062	by gpa1-rm ste20	by derivative mjy1171
+experimental_factor__strain_exp	0.9999998	by gpa1-rm ste20	by gpa1-by ste20
+experimental_factor__strain_exp	0.71800184	by gpa1-rm ste20	dgrp number
+experimental_factor__strain_exp	0.7177664	by gpa1-rm ste20	not available
+experimental_factor__strain_exp	0.7710718	by gpa1-rm ste20	line number
+experimental_factor__strain_exp	0.70091033	by gpa1-rm ste20	sf-r second generation
+experimental_factor__strain_exp	0.71063757	by gpa1-rm ste20	end1+end2+end3+end4 endosperm of all number individuals
+experimental_factor__strain_exp	0.7487132	by gpa1-rm ste20	segchr1x1 derived from f137 parent
+experimental_factor__strain_exp	0.7576293	t11	t34
+experimental_factor__strain_exp	0.8734526	t11	t12
+experimental_factor__strain_exp	0.84571654	t11	t36
+experimental_factor__strain_exp	0.77240694	oregon r	r number
+experimental_factor__strain_exp	0.7118893	dinoflagellate heterocapsa sp ccap 1125/4	ccap 1125/4
+experimental_factor__strain_exp	0.7118893	dinoflagellate heterocapsa sp ccap 1125/4	ccap 1055/1
+experimental_factor__strain_exp	0.94013655	deletion mutant csee	deletion mutant sige
+experimental_factor__strain_exp	0.80329555	t37	t12
+experimental_factor__strain_exp	0.9327094	t37	t36
+experimental_factor__strain_exp	0.8181281	t37	t11
+experimental_factor__strain_exp	0.72695696	c10	c20
+experimental_factor__strain_exp	0.74271184	t24	t30

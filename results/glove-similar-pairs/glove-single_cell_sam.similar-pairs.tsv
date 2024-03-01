@@ -1,0 +1,12 @@
+attr	score	s1	s2
+single_cell_sam	0.92369604	primary sample cell number	cell line cell number
+single_cell_sam	0.76475143	number	cell line cell number
+single_cell_sam	0.8363994	number	primary sample cell number
+single_cell_sam	0.81897193	not applicable	no
+single_cell_sam	0.9401196	primary sample control cell number	cell line cell number
+single_cell_sam	0.9804116	primary sample control cell number	primary sample cell number
+single_cell_sam	0.8269489	primary sample control cell number	number
+single_cell_sam	0.70057845	primary sample control cell number	not applicable
+single_cell_sam	0.76177037	true	no
+single_cell_sam	0.79373837	yes	no
+single_cell_sam	0.72329736	yes	true
