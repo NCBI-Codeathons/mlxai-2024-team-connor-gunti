@@ -1,8 +1,13 @@
 # Team Project Name
 
 List of participants and affiliations:
-- Participant, Affiliation (Team Leader)
-- Participant, Affiliation
+- Jonathan Gunti (Lead)
+- Ryan Conner (Lead)
+- Andrey Kochergin (Tech Lead) 
+- Corinne Matti (Writer)
+- Priyanka Ghosh
+- Moyo Williams
+- Vadim Zalunin
 
 ## Project Summary
 The NCBI Sequence Read Archive (SRA) contains valuable research data, but its metadata is often unstandardized, leading to misspellings and variations in how data is described. This project aims to use machine learning and AI to standardize these metadata fields.
@@ -20,8 +25,6 @@ Open Questions:
 Our goal is to explore whether using a machine learning model trained on biomedical research data can help standardize the unstandardized fields in SRA metadata. We also want to determine the level of overlap in vocabulary between these models. To achieve this, we will preprocess the data, potentially using tokenization, and analyze the vocabulary overlap
 
 ![Development Workflow](SRABIOWORKFLOW.jpg)
-
-SRA Metadata dataset -> Data Preprocessing -> Analyze Vocabulary Overlap per Model -> Analyze Results 
 
 ## Future Work
 
