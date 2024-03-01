@@ -19,6 +19,8 @@ Open Questions:
 ## Desired Outcomes and Approach
 Our goal is to explore whether using a machine learning model trained on biomedical research data can help standardize the unstandardized fields in SRA metadata. We also want to determine the level of overlap in vocabulary between these models. To achieve this, we will preprocess the data, potentially using tokenization, and analyze the vocabulary overlap
 
+[!Development Workflow](SRABIOWORKFLOW.jpg)
+
 SRA Metadata dataset -> Data Preprocessing -> Analyze Vocabulary Overlap per Model -> Analyze Results 
 
 ## Future Work
